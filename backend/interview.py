@@ -1,6 +1,9 @@
 import json 
+from pathlib import Path
 
-def load_questions(filename):
-    with open(filename, "r") as file:
-        data = json.load(file)
-        return data
+
+def load_questions(role):
+    file_path = Path("questions") / f"{role}.json"
+
+    with open(file_path, "r") as name:
+        return json.load(name)

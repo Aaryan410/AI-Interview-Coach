@@ -1,0 +1,316 @@
+1. Programming Fundamentals
+
+Easy
+What is the difference between a compiler and an interpreter?
+What is a variable?
+What is a constant?
+What is a function?
+What are parameters and arguments?
+Explain local and global variables.
+What is recursion?
+What is an array?
+What is a loop?
+What is a conditional statement?
+
+Medium
+Explain pass-by-value vs pass-by-reference.
+What is dynamic memory allocation?
+Explain the stack and heap.
+What are pointers?
+What are references?
+What is a memory leak?
+Explain exception handling.
+What is const correctness?
+What is undefined behavior?
+Explain function overloading.
+
+Hard
+Explain RAII.
+What are move semantics?
+Explain the Rule of Three.
+Explain the Rule of Five.
+What happens when a C++ program starts?
+Explain copy elision.
+What are lvalues and rvalues?
+What is perfect forwarding?
+Explain placement new.
+What are allocators in C++?
+
+
+
+2. Database Management Systems (DBMS)
+
+Easy
+What is a database?
+What is SQL?
+What is a table?
+What is a primary key?
+What is a foreign key?
+Explain normalization.
+What is a JOIN?
+Difference between DELETE and TRUNCATE.
+What is an index?
+What is a view?
+
+Medium
+Explain ACID properties.
+What is a transaction?
+Explain stored procedures.
+What are triggers?
+Candidate Key vs Super Key.
+Clustered vs Non-Clustered Index.
+Explain denormalization.
+What are composite keys?
+Explain different types of joins.
+What are constraints?
+
+Hard
+Explain database replication.
+What is sharding?
+Explain the CAP theorem.
+What are deadlocks?
+Explain query optimization.
+Optimistic vs Pessimistic locking.
+Explain MVCC.
+Database partitioning.
+How would you optimize a slow SQL query?
+Explain indexing strategies.
+
+
+
+3. Operating Systems (OS)
+
+Easy
+What is an operating system?
+What is a process?
+What is a thread?
+Difference between process and thread.
+What is multitasking?
+Explain virtual memory.
+What is RAM?
+What is paging?
+Explain scheduling.
+What is context switching?
+
+Medium
+Explain semaphores.
+What is a mutex?
+Explain deadlock.
+What is a race condition?
+Producer-Consumer problem.
+What is IPC?
+Explain starvation.
+Paging vs Segmentation.
+Memory fragmentation.
+CPU Scheduling Algorithms.
+
+Hard
+Explain Banker's Algorithm.
+What is thrashing?
+Explain Copy-on-Write.
+Kernel Mode vs User Mode.
+Demand Paging.
+Zombie Process.
+Orphan Process.
+NUMA Architecture.
+Kernel Scheduling.
+How does context switching work internally?
+
+
+
+4. Computer Networks (CN)
+Easy
+What is an IP Address?
+What is DNS?
+Difference between TCP and UDP.
+What is HTTP?
+What is HTTPS?
+What is a router?
+What is a switch?
+What is a MAC address?
+Explain packets.
+What is bandwidth?
+
+Medium
+Explain the OSI Model.
+Explain the TCP/IP Model.
+What is the TCP Three-Way Handshake?
+What is NAT?
+Cookies vs Sessions.
+Explain REST APIs.
+What is a firewall?
+What is TLS?
+What is latency?
+What is load balancing?
+
+Hard
+Explain CDN.
+Reverse Proxy vs Forward Proxy.
+HTTP/2 vs HTTP/3.
+Congestion Control.
+Flow Control.
+Explain WebSockets.
+Explain gRPC.
+What is Anycast Routing?
+Explain DNS Load Balancing.
+How does HTTPS establish a secure connection?
+
+
+
+5. Software Engineering
+
+Easy
+What is SDLC?
+Explain Agile methodology.
+What is Scrum?
+Waterfall vs Agile.
+Why is documentation important?
+What is code reusability?
+Explain modular programming.
+What is code review?
+Why should code be readable?
+What is technical debt?
+
+Medium
+Explain SOLID principles.
+What is DRY?
+What is KISS?
+What is YAGNI?
+Explain coupling and cohesion.
+What are design patterns?
+Explain MVC architecture.
+What is dependency injection?
+What is continuous integration?
+What is continuous deployment?
+
+Hard
+Monolith vs Microservices.
+Explain Event-Driven Architecture.
+Explain Domain-Driven Design.
+What is eventual consistency?
+Explain CQRS.
+What is service discovery?
+Explain distributed systems.
+How would you design maintainable software?
+Explain clean architecture.
+How do you manage technical debt in a large project?
+
+
+
+6. Git & Version Control
+
+Easy
+What is Git?
+Git vs GitHub.
+What is a repository?
+What is a commit?
+Explain clone.
+Explain push.
+Explain pull.
+What is git status?
+What is git add?
+Explain git log.
+
+Medium
+What is branching?
+Explain merge.
+What is a merge conflict?
+What is a Pull Request?
+Explain rebase.
+Explain stash.
+What are tags?
+Explain cherry-pick.
+Difference between fetch and pull.
+Explain detached HEAD.
+
+Hard
+Interactive Rebase.
+Git Bisect.
+Squashing commits.
+Git Hooks.
+Reverting vs Resetting.
+Explain reflog.
+How does Git store history?
+Explain Git Internals.
+How would you recover lost commits?
+Explain sparse checkout.
+
+
+
+7. Testing
+
+Easy
+What is testing?
+What is unit testing?
+What is integration testing?
+What is regression testing?
+Why is testing important?
+What is a test case?
+What is an assertion?
+What are edge cases?
+What is smoke testing?
+What is sanity testing?
+
+Medium
+Explain mocking.
+What is code coverage?
+Explain end-to-end testing.
+Difference between unit and integration testing.
+Explain test-driven development (TDD).
+What is behavior-driven development (BDD)?
+What are test doubles?
+Explain CI testing.
+What is a flaky test?
+How do you test APIs?
+
+Hard
+Performance testing.
+Load testing.
+Stress testing.
+Security testing.
+Mutation testing.
+Chaos engineering.
+Explain contract testing.
+Testing distributed systems.
+Testing asynchronous code.
+Designing a testing strategy for a large application.
+
+
+
+8. Web Development & APIs
+
+Easy
+What is HTML?
+What is CSS?
+What is JavaScript?
+What is JSON?
+What is an API?
+Explain REST.
+What is a URL?
+What are HTTP methods?
+Explain GET vs POST.
+What are HTTP status codes?
+
+Medium
+What is CORS?
+Explain JWT.
+What is authentication?
+What is authorization?
+Cookies vs Sessions.
+Explain CRUD APIs.
+What is RESTful API design?
+What is API versioning?
+Explain pagination in APIs.
+What is idempotency?
+
+Hard
+OAuth 2.0.
+GraphQL vs REST.
+API Gateway.
+WebSockets.
+Server-Sent Events (SSE).
+Rate Limiting.
+Explain caching strategies.
+Designing scalable APIs.
+Explain HATEOAS.
+API security best practices.
