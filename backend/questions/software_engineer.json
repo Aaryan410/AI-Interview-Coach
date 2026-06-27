@@ -614,6 +614,921 @@
                 "id": "SE-OS-005",
                 "difficulty": "easy",
                 "question": "What is multitasking?"
+            },
+            {
+                    "id": "SE-OS-006",
+                    "difficulty": "easy",
+                    "question": "Explain virtual memory."   
+            },
+            {
+                "id": "SE-OS-007",
+                "difficulty": "easy",
+                "question": "What is RAM?"
+            },
+            {
+                "id": "SE-OS-008",
+                "difficulty": "easy",
+                "question": "What is paging?"
+            },
+            {
+                "id": "SE-OS-009",
+                "difficulty": "easy",
+                "question": "Explain scheduling."
+            },
+            {
+                "id": "SE-OS-010",
+                "difficulty": "easy",
+                "question": "What is context switching?"
+            },
+
+
+            {
+                "id": "SE-OS-011",
+                "difficulty": "medium",
+                "question": "Explain semaphores."
+            },
+            {
+                "id": "SE-OS-012",
+                "difficulty": "medium",
+                "question": "What is a mutex?"
+            },
+            {
+                "id": "SE-OS-013",
+                "difficulty": "medium",
+                "question": "Explain deadlock."
+            },
+            {
+                "id": "SE-OS-014",
+                "difficulty": "medium",
+                "question": "What is a race condition?"
+            },
+            {
+                "id": "SE-OS-015",
+                "difficulty": "medium",
+                "question": "Producer-Consumer problem."
+            },
+            {
+                "id": "SE-OS-016",
+                "difficulty": "medium",
+                "question": "What is IPC?"
+            },
+            {
+                "id": "SE-OS-017",
+                "difficulty": "medium",
+                "question": "Explain starvation."
+            },
+            {
+                "id": "SE-OS-018",
+                "difficulty": "medium",
+                "question": "Paging vs Segmentation."
+            },
+            {
+                "id": "SE-OS-019",
+                "difficulty": "medium",
+                "question": "Memory fragmentation."
+            },
+            {
+                "id": "SE-OS-020",
+                "difficulty": "medium",
+                "question": "CPU Scheduling Algorithms."
+            },
+            {
+                "id": "SE-OS-021",
+                "difficulty": "hard",
+                "question": "Explain Banker's Algorithm."
+            },
+            {
+                "id": "SE-OS-022",
+                "difficulty": "hard",
+                "question": "What is thrashing?"
+            },
+            {
+                "id": "SE-OS-023",
+                "difficulty": "hard",
+                "question": "Explain Copy-on-Write."
+            },
+            {
+                "id": "SE-OS-024",
+                "difficulty": "hard",
+                "question": "Kernel Mode vs User Mode."
+            },
+            {
+                "id": "SE-OS-025",
+                "difficulty": "hard",
+                "question": "Demand Paging."
+            },
+            {
+                "id": "SE-OS-026",
+                "difficulty": "hard",
+                "question": "Zombie Process."
+            },
+            {
+                "id": "SE-OS-027",
+                "difficulty": "hard",
+                "question": "Orphan Process."
+            },
+            {
+                "id": "SE-OS-028",
+                "difficulty": "hard",
+                "question": "NUMA Architecture."
+            },
+            {
+                "id": "SE-OS-029",
+                "difficulty": "hard",
+                "question": "Kernel Scheduling."
+            },
+            {
+                "id": "SE-OS-030",
+                "difficulty": "hard",
+                "question": "How does context switching work internally?"
+            }
+        ],
+
+        "Computer Networks (CN)":[
+            {
+                "id": "SE-CN-001",
+                "difficulty": "hard",
+                "question": "What is an IP Address?"
+            },
+            {
+                "id": "SE-CN-002",
+                "difficulty": "easy",
+                "question": "What is DNS?"
+            },
+            {
+                "id": "SE-CN-003",
+                "difficulty": "easy",
+                "question": "Difference between TCP and UDP."
+            },
+            {
+                "id": "SE-CN-004",
+                "difficulty": "easy",
+                "question": "What is HTTP?"
+            },
+            {
+                "id": "SE-CN-005",
+                "difficulty": "easy",
+                "question": "What is HTTPS?"
+            },
+            {
+                "id": "SE-CN-006",
+                "difficulty": "easy",
+                "question": "What is a router?"
+            },
+            {
+                "id": "SE-CN-007",
+                "difficulty": "easy",
+                "question": "What is a switch?"
+            },
+            {
+                "id": "SE-CN-008",
+                "difficulty": "easy",
+                "question": "What is a MAC address?"
+            },
+            {
+                "id": "SE-CN-009",
+                "difficulty": "easy",
+                "question": "Explain packets."
+            },
+            {
+                "id": "SE-CN-010",
+                "difficulty": "easy",
+                "question": "What is bandwidth?"
+            },
+            
+            
+            {
+                "id": "SE-CN-011",
+                "difficulty": "medium",
+                "question": "Explain the OSI Model."
+            },
+            {
+                "id": "SE-CN-012",
+                "difficulty": "medium",
+                "question": "Explain the TCP/IP Model."
+            },
+            {
+                "id": "SE-CN-013",
+                "difficulty": "medium",
+                "question": "What is the TCP Three-Way Handshake?"
+            },
+            {
+                "id": "SE-CN-014",
+                "difficulty": "medium",
+                "question": "What is NAT?"
+            },
+            {
+                "id": "SE-CN-015",
+                "difficulty": "medium",
+                "question": "Cookies vs Sessions."
+            },
+            {
+                "id": "SE-CN-016",
+                "difficulty": "medium",
+                "question": "Explain REST APIs."
+            },
+            {
+                "id": "SE-CN-017",
+                "difficulty": "medium",
+                "question": "What is a firewall?"
+            },
+            {
+                "id": "SE-CN-018",
+                "difficulty": "medium",
+                "question": "What is TLS?"
+            },
+            {
+                "id": "SE-CN-019",
+                "difficulty": "medium",
+                "question": "What is latency?"
+            },
+            {
+                "id": "SE-CN-020",
+                "difficulty": "medium",
+                "question": "What is load balancing?"
+            },
+
+
+            {
+                "id": "SE-CN-021",
+                "difficulty": "hard",
+                "question": "Explain CDN."
+            },
+            {
+                "id": "SE-CN-022",
+                "difficulty": "hard",
+                "question": "Reverse Proxy vs Forward Proxy."
+            },
+            {
+                "id": "SE-CN-023",
+                "difficulty": "hard",
+                "question": "HTTP/2 vs HTTP/3."
+            },
+            {
+                "id": "SE-CN-024",
+                "difficulty": "hard",
+                "question": "Congestion Control."
+            },
+            {
+                "id": "SE-CN-025",
+                "difficulty": "hard",
+                "question": "Flow Control."
+            },
+            {
+                "id": "SE-CN-026",
+                "difficulty": "hard",
+                "question": "Explain WebSockets."
+            },
+            {
+                "id": "SE-CN-027",
+                "difficulty": "hard",
+                "question": "Explain gRPC."
+            },
+            {
+                "id": "SE-CN-028",
+                "difficulty": "hard",
+                "question": "What is Anycast Routing?"
+            },
+            {
+                "id": "SE-CN-029",
+                "difficulty": "hard",
+                "question": "Explain DNS Load Balancing."
+            },
+            {
+                "id": "SE-CN-030",
+                "difficulty": "hard",
+                "question": "How does HTTPS establish a secure connection?"
+            }
+        ],
+
+
+        "Software Engineering": [
+            {
+                "id": "SE-SE-001",
+                "diffculty": "easy",
+                "question": "What is SDLC?"
+            },
+            {
+                "id": "SE-SE-002",
+                "diffculty": "easy",
+                "question": "Explain Agile methodology."
+            },
+            {
+                "id": "SE-SE-003",
+                "diffculty": "easy",
+                "question": "What is Scrum?"
+            },
+            {
+                "id": "SE-SE-004",
+                "diffculty": "easy",
+                "question": "Waterfall vs Agile."
+            },
+            {
+                "id": "SE-SE-005",
+                "diffculty": "easy",
+                "question": "Why is documentation important?"
+            },
+            {
+                "id": "SE-SE-006",
+                "diffculty": "easy",
+                "question": "What is code reusability?"
+            },
+            {
+                "id": "SE-SE-007",
+                "diffculty": "easy",
+                "question": "Explain modular programming."
+            },
+            {
+                "id": "SE-SE-008",
+                "diffculty": "easy",
+                "question": "What is code review?"
+            },
+            {
+                "id": "SE-SE-009",
+                "diffculty":"easy",
+                "question": "Why should code be readable?"
+            },
+            {
+                "id": "SE-SE-010",
+                "diffculty": "easy",
+                "question": "What is technical debt?"
+            },
+
+
+            {
+                "id": "SE-SE-011",
+                "diffculty": "medium",
+                "question": "Explain SOLID principles."
+            },
+            {
+                "id": "SE-SE-012",
+                "diffculty": "medium",
+                "question": "What is DRY?"
+            },
+            {
+                "id": "SE-SE-013",
+                "diffculty": "medium",
+                "question": "What is KISS?"
+            },
+            {
+                 "id": "SE-SE-014",
+                 "diffculty": "medium",
+                 "question": "What is YAGNI?"
+            },
+            {
+                "id": "SE-SE-015",
+                "diffculty": "medium",
+                "question": "Explain coupling and cohesion."
+            },
+            {
+                "id": "SE-SE-016",
+                "diffculty": "medium",
+                "question": "What are design patterns?"
+            },
+            {
+                "id": "SE-SE-017",
+                "diffculty": "medium",
+                "question": "Explain MVC architecture."
+            },
+            {
+                "id": "SE-SE-018",
+                "diffculty": "medium",
+                "question": "What is dependency injection?"
+            },
+            {
+                "id": "SE-SE-019",
+                "diffculty": "medium",
+                "question": "What is continuous integration?"
+            },
+            {
+                "id": "SE-SE-020",
+                "diffculty": "medium",
+                "question": "What is continuous deployment?"
+            },
+
+
+            {
+                "id": "SE-SE-021",
+                "diffculty": "hard",
+                "question": "Monolith vs Microservices."
+            },
+            {
+                "id": "SE-SE-022",
+                "diffculty": "hard",
+                "question": "Explain Event-Driven Architecture."
+            },
+            {
+                "id": "SE-SE-023",
+                "diffculty": "hard",
+                "question": "Explain Domain-Driven Design."
+            },
+            {
+                "id": "SE-SE-024",
+                "diffculty": "hard",
+                "question": "What is eventual consistency?"
+            },
+            {
+                "id": "SE-SE-025",
+                "diffculty": "hard",
+                "question": "Explain CQRS."
+            },
+            {
+                "id": "SE-SE-026",
+                "diffculty": "hard",
+                "question": "What is service discovery?"
+            },
+            {
+                "id": "SE-SE-027",
+                "diffculty": "hard",
+                "question": "Explain distributed systems."
+            },
+            {
+                "id": "SE-SE-028",
+                "diffculty": "hard",
+                "question": "How would you design maintainable software?"
+            },
+            {
+                "id": "SE-SE-029",
+                "diffculty": "hard",
+                "question": "Explain clean architecture."
+            },
+            {
+                "id": "SE-SE-030",
+                "diffculty": "hard",
+                "question": "How do you manage technical debt in a large project?"
+            }
+        ],
+
+        "Git and Git Version Control": [
+            {
+                "id": "SE-GGVC-001",
+                "difficulty": "easy",
+                "question": "What is Git?"
+            },
+            {
+                "id": "SE-GGVC-002",
+                "difficulty": "easy",
+                "question": "Git vs GitHub."
+            },
+            {
+                "id": "SE-GGVC-003",
+                "difficulty": "easy",
+                "question": "What is a repository?"
+            },
+            {
+                "id": "SE-GGVC-004",
+                "difficulty": "easy",
+                "question": "What is a commit?"
+            },
+            {
+                "id": "SE-GGVC-005",
+                "difficulty": "easy",
+                "question": "Explain clone."
+            },
+            {
+                "id": "SE-GGVC-006",
+                "difficulty": "easy",
+                "question": "Explain push."
+            },
+            {
+                "id": "SE-GGVC-007",
+                "difficulty": "easy",
+                "question": "Explain pull."
+            },
+            {
+                "id": "SE-GGVC-008",
+                "difficulty": "easy",
+                "question": "What is git status?"
+            },
+            {
+                "id": "SE-GGVC-009",
+                "difficulty": "easy",
+                "question": "What is git add?"
+            },
+            {
+                "id": "SE-GGVC-010",
+                "difficulty": "easy",
+                "question": "Explain git log."
+            },
+
+
+            {
+                "id": "SE-GGVC-011",
+                "difficulty": "medium",
+                "question": "What is branching?"
+            },
+            {
+                "id": "SE-GGVC-012",
+                "difficulty": "medium",
+                "question": "Explain merge."
+            },
+            {
+                "id": "SE-GGVC-013",
+                "difficulty": "medium",
+                "question": "What is a merge conflict?"
+            },
+            {
+                "id": "SE-GGVC-014",
+                "difficulty": "medium",
+                "question": "What is a Pull Request?"
+            },
+            {
+                "id": "SE-GGVC-015",
+                "difficulty": "medium",
+                "question": "Explain rebase."
+            },
+            {
+                "id": "SE-GGVC-016",
+                "difficulty": "medium",
+                "question": "Explain stash."
+            },
+            {
+                "id": "SE-GGVC-017",
+                "difficulty": "medium",
+                "question": "What are tags?"
+            },
+            {
+                "id": "SE-GGVC-018",
+                "difficulty": "medium",
+                "question": "Explain cherry-pick."
+            },
+            {
+                "id": "SE-GGVC-019",
+                "difficulty": "medium",
+                "question": "Difference between fetch and pull."
+            },
+            {
+                "id": "SE-GGVC-020",
+                "difficulty": "medium",
+                "question": "Explain detached HEAD."
+            },
+
+
+            {
+                "id": "SE-GGVC-021",
+                "difficulty": "hard",
+                "question": "Interactive Rebase"
+            },
+            {
+                "id": "SE-GGVC-022",
+                "difficulty": "hard",
+                "question": "Git Bisect."
+            },
+            {
+                "id": "SE-GGVC-023",
+                "difficulty": "hard",
+                "question": "Squashing commits."
+            },
+            {
+                "id": "SE-GGVC-024",
+                "difficulty": "hard",
+                "question": "Git Hooks."
+            },
+            {
+                "id": "SE-GGVC-025",
+                "difficulty": "hard",
+                "question": "Reverting vs Resetting."
+            },
+            {
+                "id": "SE-GGVC-026",
+                "difficulty": "hard",
+                "question": "Explain reflog."
+            },
+            {
+                "id": "SE-GGVC-027",
+                "difficulty": "hard",
+                "question": "How does Git store history?"
+            },
+            {
+                "id": "SE-GGVC-028",
+                "difficulty": "hard",
+                "question": "Explain Git Internals."
+            },
+            {
+                "id": "SE-GGVC-029",
+                "difficulty": "hard",
+                "question": "How would you recover lost commits?"
+            },
+            {
+                "id": "SE-GGVC-030",
+                "difficulty": "hard",
+                "question": "Explain sparse checkout."
+            }
+        ],
+
+
+        "Testing": [
+            {
+                "id": "SE-TE-001",
+                "difficulty": "easy",
+                "question": "What is testing?"
+            },
+            {
+                "id": "SE-TE-002",
+                "difficulty": "easy",
+                "question": "What is unit testing?"
+            },
+            {
+                "id": "SE-TE-003",
+                "difficulty": "easy",
+                "question": "What is integration testing?"
+            },
+            {
+                "id": "SE-TE-004",
+                "difficulty": "easy",
+                "question": "What is regression testing?"
+            },
+            {
+                "id": "SE-TE-005",
+                "difficulty": "easy",
+                "question": "Why is testing important?"
+            },
+            {
+                "id": "SE-TE-006",
+                "difficulty": "easy",
+                "question": "What is a test case?"
+            },
+            {
+                "id": "SE-TE-007",
+                "difficulty": "easy",
+                "question": "What is an assertion?"
+            },
+            {
+                "id": "SE-TE-008",
+                "difficulty": "easy",
+                "question": "What are edge cases?"
+            },
+            {
+                "id": "SE-TE-009",
+                "difficulty": "easy",
+                "question": "What is smoke testing?"
+            },
+            {
+                "id": "SE-TE-010",
+                "difficulty": "medium",
+                "question": "What is sanity testing?"
+            },
+
+
+            {
+                "id": "SE-TE-011",
+                "difficulty": "medium",
+                "question": "Explain mocking."
+            },
+            {
+                "id": "SE-TE-012",
+                "difficulty": "medium",
+                "question": "What is code coverage?"
+            },
+            {
+                "id": "SE-TE-013",
+                "difficulty": "medium",
+                "question": "Explain end-to-end testing."
+            },
+            {
+                "id": "SE-TE-014",
+                "difficulty": "medium",
+                "question": "Difference between unit and integration testing." 
+            },
+            {
+                "id": "SE-TE-015",
+                "difficulty": "medium",
+                "question": "Explain test-driven development (TDD)."
+            },
+            {
+                "id": "SE-TE-016",
+                "difficulty": "medium",
+                "question": "What is behavior-driven development (BDD)?"
+            },
+            {
+                "id": "SE-TE-017",
+                "difficulty": "medium",
+                "question": "What are test doubles?"
+            },
+            {
+                "id": "SE-TE-018",
+                "difficulty": "medium",
+                "question": "Explain CI testing."
+            },
+            {
+                "id": "SE-TE-019",
+                "difficulty": "medium",
+                "question": "What is a flaky test?"
+            },
+            {
+                "id": "SE-TE-020",
+                "difficulty": "medium",
+                "question": "How do you test APIs?"
+            },
+
+
+            {
+                "id": "SE-TE-021",
+                "difficulty": "hard",
+                "question": "Performance testing."
+            },
+            {
+                "id": "SE-TE-022",
+                "difficulty": "hard",
+                "question": "Load testing."
+            },
+            {
+                "id": "SE-TE-023",
+                "difficulty": "hard",
+                "question": "Stress testing."
+            },
+            {
+                "id": "SE-TE-024",
+                "difficulty": "hard",
+                "question": "Security testing."
+            },
+            {
+                "id": "SE-TE-025",
+                "difficulty": "hard",
+                "question": "Mutation testing."
+            },
+            {
+                "id": "SE-TE-026",
+                "difficulty": "hard",
+                "question": "Chaos engineering."
+            },
+            {
+                "id": "SE-TE-027",
+                "difficulty": "hard",
+                "question": "Explain contract testing."
+            },
+            {
+                "id": "SE-TE-028",
+                "difficulty": "hard",
+                "question": "Testing distributed systems."
+            },
+            {
+                "id": "SE-TE-029",
+                "difficulty": "hard",
+                "question": "Testing asynchronous code."
+            },
+            {
+                "id": "SE-TE-030",
+                "difficulty": "hard",
+                "question": "Designing a testing strategy for a large application."
+            }
+        ],
+
+
+        "Web Development & APIs": [
+            {
+                "id": "SE-WBA-001",
+                "difficulty": "easy",
+                "question": "What is HTML?"
+            },
+            {
+                "id": "SE-WBA-002",
+                "difficulty": "easy",
+                "question": "What is CSS?"
+            },
+            {
+                "id": "SE-WBA-003",
+                "difficulty": "easy",
+                "question": "What is JavaScript?"
+            },
+            {
+                "id": "SE-WBA-004",
+                "difficulty": "easy",
+                "question": "What is JSON?"
+            },
+            {
+                "id": "SE-WBA-005",
+                "difficulty": "easy",
+                "question": "What is an API?"
+            },
+            {
+                "id": "SE-WBA-006",
+                "difficulty": "easy",
+                "question": "Explain REST."
+            },
+            {
+                "id": "SE-WBA-007",
+                "difficulty": "easy",
+                "question": "What is a URL?"
+            },
+            {
+                "id": "SE-WBA-008",
+                "difficulty": "easy",
+                "question": "What are HTTP methods?"
+            },
+            {
+                "id": "SE-WBA-009",
+                "difficulty": "easy",
+                "question": "Explain GET vs POST."
+            },
+            {
+                "id": "SE-WBA-010",
+                "difficulty": "easy",
+                "question": "What are HTTP status codes?"
+            },
+
+
+            {
+                "id": "SE-WBA-011",
+                "difficulty": "medium",
+                "question": "What is CORS?"
+            },
+            {
+                "id": "SE-WBA-012",
+                "difficulty": "medium",
+                "question": "Explain JWT."
+            },
+            {
+                "id": "SE-WBA-013",
+                "difficulty": "medium",
+                "question": "What is authentication?"
+            },
+            {
+                "id": "SE-WBA-014",
+                "difficulty": "medium",
+                "question": "What is authorization?"
+            },
+            {
+                "id": "SE-WBA-015",
+                "difficulty": "medium",
+                "question": "Cookies vs Sessions."
+            },
+            {
+                "id": "SE-WBA-016",
+                "difficulty": "medium",
+                "question": "Explain CRUD APIs."
+            },
+            {
+                "id": "SE-WBA-017",
+                "difficulty": "medium",
+                "question": "What is RESTful API design?"
+            },
+            {
+                "id": "SE-WBA-018",
+                "difficulty": "medium",
+                "question": "What is API versioning?"
+            },
+            {
+                "id": "SE-WBA-019",
+                "difficulty": "medium",
+                "question": "Explain pagination in APIs."
+            },
+            {
+                "id": "SE-WBA-020",
+                "difficulty": "medium",
+                "question": "What is idempotency?"
+            },
+
+
+            {
+                "id": "SE-WBA-021",
+                "difficulty": "hard",
+                "question": "OAuth 2.0."
+            },
+            {
+                "id": "SE-WBA-022",
+                "difficulty": "hard",
+                "question": "GraphQL vs REST."
+            },
+            {
+                "id": "SE-WBA-023",
+                "difficulty": "hard",
+                "question": "API Gateway."
+            },
+            {
+                "id": "SE-WBA-024",
+                "difficulty": "hard",
+                "question": "WebSockets."
+            },
+            {
+                "id": "SE-WBA-025",
+                "difficulty": "hard",
+                "question": "Server-Sent Events (SSE)."
+            },
+            {
+                "id": "SE-WBA-026",
+                "difficulty": "hard",
+                "question": "Rate Limiting."
+            },
+            {
+                "id": "SE-WBA-027",
+                "difficulty": "hard",
+                "question": "Explain caching strategies."
+            },
+            {
+                "id": "SE-WBA-028",
+                "difficulty": "hard",
+                "question": "Designing scalable APIs."
+            },
+            {
+                "id": "SE-WBA-029",
+                "difficulty": "hard",
+                "question": "Explain HATEOAS."
+            },
+            {
+                "id": "SE-WBA-030",
+                "difficulty": "hard",
+                "question": "API security best practices."
             }
         ]
     }
