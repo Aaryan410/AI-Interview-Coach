@@ -1,11 +1,6 @@
 import interview
 import pyfiglet
-
-roles = {
-    "1": "software_engineer",
-    "2": "data_scientist",
-    "3": "devops_engineer"
-}
+import random
 
 # Printing UI
 text = pyfiglet.figlet_format("AI Interview Coach", font = "standard", width = 200)
@@ -14,22 +9,30 @@ print('=========================================================================
 print(text.rstrip())
 print('==========================================================================================')
 
-print()
-print()
-
-print("Roles:")
-print("1. Software Engineer")
-print("2. Data Scientist")
-print("3. DevOps Engineer")
-
-print()
-
-role = input("> ")
-role = roles[role]
+# Asking for roles
+role = input('>')
 
 # Accessing the Data
 questions = interview.load_questions(role)
 
+# Questions
+selected_category = random.choice(list(questions.keys()))
+
+# Category
+selected_question = random.choice(questions[selected_category])
+
+
 # Printing questions
 print()
-print(questions["Software Engineer"]["programming fundamentals"][0]["question"])
+print(f"Category: {selected_category.title()}")
+print()
+print(f"Difficulty: {selected_question["difficulty"].title()}")
+print()
+print(f"Question ID: {selected_question["id"]}")
+print()
+print('---------------------------------------')
+print()
+
+answer = input("Answer: ")
+
+
