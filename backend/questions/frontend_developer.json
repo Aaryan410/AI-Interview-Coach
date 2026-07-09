@@ -1,0 +1,1052 @@
+{
+    "html": [
+        {
+            "id": "FD-HTML-001",
+            "difficulty": "easy",
+            "question": "What is HTML, and what is its purpose?"
+        },
+        {
+            "id": "FD-HTML-002",
+            "difficulty": "easy",
+            "question": "What is the difference between a <div> and a <span>?"
+        },
+        {
+            "id": "FD-HTML-003",
+            "difficulty": "easy",
+            "question": "What are semantic HTML elements, and why are they important?"
+        },
+        {
+            "id": "FD-HTML-004",
+            "difficulty": "easy",
+            "question": "What is the purpose of the alt attribute in an image?"
+        },
+        {
+            "id": "FD-HTML-005",
+            "difficulty": "easy",
+            "question": "Explain the difference between <section> and <article>."
+        },
+        {
+            "id": "FD-HTML-006",
+            "difficulty": "easy",
+            "question": "What is the difference between block-level and inline elements?"
+        },
+        {
+            "id": "FD-HTML-007",
+            "difficulty": "easy",
+            "question": "What is the purpose of the <head> tag?"
+        },
+        {
+            "id": "FD-HTML-008",
+            "difficulty": "easy",
+            "question": "What are forms in HTML?"
+        },
+        {
+            "id": "FD-HTML-009",
+            "difficulty": "easy",
+            "question": "Explain the difference between GET and POST forms."
+        },
+        {
+            "id": "FD-HTML-010",
+            "difficulty": "easy",
+            "question": "What is the purpose of labels in forms?"
+        },
+
+        {
+            "id": "FD-HTML-011",
+            "difficulty": "medium",
+            "question": "Why should developers use semantic HTML?"
+        },
+        {
+            "id": "FD-HTML-012",
+            "difficulty": "medium",
+            "question": "Explain the DOM."
+        },
+        {
+            "id": "FD-HTML-013",
+            "difficulty": "medium",
+            "question": "How does HTML interact with CSS and JavaScript?"
+        },
+        {
+            "id": "FD-HTML-014",
+            "difficulty": "medium",
+            "question": "What is lazy loading for images?"
+        },
+        {
+            "id": "FD-HTML-015",
+            "difficulty": "medium",
+            "question": "How do browsers render HTML?"
+        },
+        {
+            "id": "FD-HTML-016",
+            "difficulty": "medium",
+            "question": "What are meta tags?"
+        },
+        {
+            "id": "FD-HTML-017",
+            "difficulty": "medium",
+            "question": "Explain accessibility in HTML."
+        },
+        {
+            "id": "FD-HTML-018",
+            "difficulty": "medium",
+            "question": "What is the purpose of ARIA attributes?"
+        },
+        {
+            "id": "FD-HTML-019",
+            "difficulty": "medium",
+            "question": "How would you structure a large webpage?"
+        },
+        {
+            "id": "FD-HTML-020",
+            "difficulty": "medium",
+            "question": "Explain HTML validation."
+        },
+
+        {
+            "id": "FD-HTML-021",
+            "difficulty": "hard",
+            "question": "How would you optimize a large HTML document?"
+        },
+        {
+            "id": "FD-HTML-022",
+            "difficulty": "hard",
+            "question": "Explain browser parsing."
+        },
+        {
+            "id": "FD-HTML-023",
+            "difficulty": "hard",
+            "question": "What are Shadow DOM and Web Components?"
+        },
+        {
+            "id": "FD-HTML-024",
+            "difficulty": "hard",
+            "question": "Design an accessible webpage."
+        },
+        {
+            "id": "FD-HTML-025",
+            "difficulty": "hard",
+            "question": "Explain hydration in modern web applications."
+        }
+    ],
+
+
+    "css": [
+        {
+            "id": "FD-CSS-001",
+            "difficulty": "easy",
+            "question": "What is CSS?"
+        },
+        {
+            "id": "FD-CSS-002",
+            "difficulty": "easy",
+            "question": "Explain the CSS Box Model."
+        },
+        {
+            "id": "FD-CSS-003",
+            "difficulty": "easy",
+            "question": "What is the difference between margin and padding?"
+        },
+        {
+            "id": "FD-CSS-004",
+            "difficulty": "easy",
+            "question": "What are Flexbox and Grid?"
+        },
+        {
+            "id": "FD-CSS-005",
+            "difficulty": "easy",
+            "question": "What is responsive design?"
+        },
+        {
+            "id": "FD-CSS-006",
+            "difficulty": "easy",
+            "question": "What are media queries?"
+        },
+        {
+            "id": "FD-CSS-007",
+            "difficulty": "easy",
+            "question": "Explain CSS selectors."
+        },
+        {
+            "id": "FD-CSS-008",
+            "difficulty": "easy",
+            "question": "What is specificity in CSS?"
+        },
+        {
+            "id": "FD-CSS-009",
+            "difficulty": "easy",
+            "question": "What is the difference between relative and absolute positioning?"
+        },
+        {
+            "id": "FD-CSS-010",
+            "difficulty": "easy",
+            "question": "What is the difference between display: none and visibility: hidden?"
+        },
+
+        {
+            "id": "FD-CSS-011",
+            "difficulty": "medium",
+            "question": "Explain Flexbox alignment."
+        },
+        {
+            "id": "FD-CSS-012",
+            "difficulty": "medium",
+            "question": "Explain CSS Grid layout."
+        },
+        {
+            "id": "FD-CSS-013",
+            "difficulty": "medium",
+            "question": "What are CSS variables?"
+        },
+        {
+            "id": "FD-CSS-014",
+            "difficulty": "medium",
+            "question": "How would you create a responsive navbar?"
+        },
+        {
+            "id": "FD-CSS-015",
+            "difficulty": "medium",
+            "question": "Explain pseudo-classes."
+        },
+        {
+            "id": "FD-CSS-016",
+            "difficulty": "medium",
+            "question": "Explain pseudo-elements."
+        },
+        {
+            "id": "FD-CSS-017",
+            "difficulty": "medium",
+            "question": "What is z-index?"
+        },
+        {
+            "id": "FD-CSS-018",
+            "difficulty": "medium",
+            "question": "Explain transitions."
+        },
+        {
+            "id": "FD-CSS-019",
+            "difficulty": "medium",
+            "question": "Explain animations."
+        },
+        {
+            "id": "FD-CSS-020",
+            "difficulty": "medium",
+            "question": "What are CSS preprocessors?"
+        },
+
+        {
+            "id": "FD-CSS-021",
+            "difficulty": "hard",
+            "question": "How would you build a responsive dashboard?"
+        },
+        {
+            "id": "FD-CSS-022",
+            "difficulty": "hard",
+            "question": "Explain browser repaint and reflow."
+        },
+        {
+            "id": "FD-CSS-023",
+            "difficulty": "hard",
+            "question": "How would you optimize CSS performance?"
+        },
+        {
+            "id": "FD-CSS-024",
+            "difficulty": "hard",
+            "question": "What causes layout shifts?"
+        },
+        {
+            "id": "FD-CSS-025",
+            "difficulty": "hard",
+            "question": "Explain CSS architecture methodologies."
+        }
+    ],
+
+    "javascript": [
+        {
+            "id": "FD-JS-001",
+            "difficulty": "easy",
+            "question": "What is JavaScript?"
+        },
+        {
+            "id": "FD-JS-002",
+            "difficulty": "easy",
+            "question": "What is the difference between let, const, and var?"
+        },
+        {
+            "id": "FD-JS-003",
+            "difficulty": "easy",
+            "question": "Explain functions in JavaScript."
+        },
+        {
+            "id": "FD-JS-004",
+            "difficulty": "easy",
+            "question": "What are arrays?"
+        },
+        {
+            "id": "FD-JS-005",
+            "difficulty": "easy",
+            "question": "What are objects?"
+        },
+        {
+            "id": "FD-JS-006",
+            "difficulty": "easy",
+            "question": "Explain loops."
+        },
+        {
+            "id": "FD-JS-007",
+            "difficulty": "easy",
+            "question": "What are template literals?"
+        },
+        {
+            "id": "FD-JS-008",
+            "difficulty": "easy",
+            "question": "Explain arrow functions."
+        },
+        {
+            "id": "FD-JS-009",
+            "difficulty": "easy",
+            "question": "What are callbacks?"
+        },
+        {
+            "id": "FD-JS-010",
+            "difficulty": "easy",
+            "question": "What is the difference between == and ===?"
+        },
+
+        {
+            "id": "FD-JS-011",
+            "difficulty": "medium",
+            "question": "Explain promises."
+        },
+        {
+            "id": "FD-JS-012",
+            "difficulty": "medium",
+            "question": "What is async/await?"
+        },
+        {
+            "id": "FD-JS-013",
+            "difficulty": "medium",
+            "question": "Explain closures."
+        },
+        {
+            "id": "FD-JS-014",
+            "difficulty": "medium",
+            "question": "What is event bubbling?"
+        },
+        {
+            "id": "FD-JS-015",
+            "difficulty": "medium",
+            "question": "Explain event delegation."
+        },
+        {
+            "id": "FD-JS-016",
+            "difficulty": "medium",
+            "question": "What is hoisting?"
+        },
+        {
+            "id": "FD-JS-017",
+            "difficulty": "medium",
+            "question": "Explain scope."
+        },
+        {
+            "id": "FD-JS-018",
+            "difficulty": "medium",
+            "question": "What are modules?"
+        },
+        {
+            "id": "FD-JS-019",
+            "difficulty": "medium",
+            "question": "Explain destructuring."
+        },
+        {
+            "id": "FD-JS-020",
+            "difficulty": "medium",
+            "question": "What are higher-order functions?"
+        },
+
+        {
+            "id": "FD-JS-021",
+            "difficulty": "hard",
+            "question": "Explain the JavaScript event loop."
+        },
+        {
+            "id": "FD-JS-022",
+            "difficulty": "hard",
+            "question": "What are microtasks and macrotasks?"
+        },
+        {
+            "id": "FD-JS-023",
+            "difficulty": "hard",
+            "question": "Explain prototype inheritance."
+        },
+        {
+            "id": "FD-JS-024",
+            "difficulty": "hard",
+            "question": "What is currying?"
+        },
+        {
+            "id": "FD-JS-025",
+            "difficulty": "hard",
+            "question": "Explain memoization."
+        }
+    ],
+
+    "react": [
+        {
+            "id": "FD-RT-001",
+            "difficulty": "easy",
+            "question": "What is React?"
+        },
+        {
+            "id": "FD-RT-002",
+            "difficulty": "easy",
+            "question": "What are components?"
+        },
+        {
+            "id": "FD-RT-003",
+            "difficulty": "easy",
+            "question": "What is JSX?"
+        },
+        {
+            "id": "FD-RT-004",
+            "difficulty": "easy",
+            "question": "What are props?"
+        },
+        {
+            "id": "FD-RT-005",
+            "difficulty": "easy",
+            "question": "What is state?"
+        },
+        {
+            "id": "FD-RT-006",
+            "difficulty": "easy",
+            "question": "Explain functional components."
+        },
+        {
+            "id": "FD-RT-007",
+            "difficulty": "easy",
+            "question": "What are event handlers?"
+        },
+        {
+            "id": "FD-RT-008",
+            "difficulty": "easy",
+            "question": "Explain conditional rendering."
+        },
+        {
+            "id": "FD-RT-009",
+            "difficulty": "easy",
+            "question": "What are lists and keys?"
+        },
+        {
+            "id": "FD-RT-010",
+            "difficulty": "easy",
+            "question": "What is React Developer Tools?"
+        },
+
+
+        {
+            "id": "FD-RT-011",
+            "difficulty": "medium",
+            "question": "Explain the React lifecycle."
+        },
+        {
+            "id": "FD-RT-012",
+            "difficulty": "medium",
+            "question": "What are hooks?"
+        },
+        {
+            "id": "FD-RT-013",
+            "difficulty": "medium",
+            "question": "Explain useState."
+        },
+        {
+            "id": "FD-RT-014",
+            "difficulty": "medium",
+            "question": "Explain useEffect."
+        },
+        {
+            "id": "FD-RT-015",
+            "difficulty": "medium",
+            "question": "What is lifting state up?"
+        },
+        {
+            "id": "FD-RT-016",
+            "difficulty": "medium",
+            "question": "Explain Context API."
+        },
+        {
+            "id": "FD-RT-017",
+            "difficulty": "medium",
+            "question": "What is prop drilling?"
+        },
+        {
+            "id": "FD-RT-018",
+            "difficulty": "medium",
+            "question": "What are controlled components?"
+        },
+        {
+            "id": "FD-RT-019",
+            "difficulty": "medium",
+            "question": "Explain routing in React."
+        },
+        {
+            "id": "FD-RT-020",
+            "difficulty": "medium",
+            "question": "What is component composition?"
+        },
+
+
+        {
+            "id": "FD-RT-021",
+            "difficulty": "hard",
+            "question": "Explain React reconciliation."
+        },
+        {
+            "id": "FD-RT-022",
+            "difficulty": "hard",
+            "question": "What is the Virtual DOM?"
+        },
+        {
+            "id": "FD-RT-023",
+            "difficulty": "hard",
+            "question": "Explain React Fiber."
+        },
+        {
+            "id": "FD-RT-024",
+            "difficulty": "hard",
+            "question": "How would you optimize React performance?"
+        },
+        {
+            "id": "FD-RT-025",
+            "difficulty": "hard",
+            "question": "Explain Server Components."
+        }
+    ],
+
+    "browser apis": [
+        {
+            "id": "FD-BA-001",
+            "difficulty": "easy",
+            "question": "What is the DOM?"
+        },
+        {
+            "id": "FD-BA-002",
+            "difficulty": "easy",
+            "question": "What is Local Storage?"
+        },
+        {
+            "id": "FD-BA-003",
+            "difficulty": "easy",
+            "question": "What is Session Storage?"
+        },
+        {
+            "id": "FD-BA-004",
+            "difficulty": "easy",
+            "question": "What are Cookies?"
+        },
+        {
+            "id": "FD-BA-005",
+            "difficulty": "easy",
+            "question": "Explain Fetch API."
+        },
+        {
+            "id": "FD-BA-006",
+            "difficulty": "easy",
+            "question": "What is Geolocation API?"
+        },
+        {
+            "id": "FD-BA-007",
+            "difficulty": "easy",
+            "question": "What is Clipboard API?"
+        },
+        {
+            "id": "FD-BA-008",
+            "difficulty": "easy",
+            "question": "Explain History API."
+        },
+        {
+            "id": "FD-BA-009",
+            "difficulty": "easy",
+            "question": "What is Web Storage?"
+        },
+        {
+            "id": "FD-BA-010",
+            "difficulty": "easy",
+            "question": "What is the Window object?"
+        },
+
+        
+        {
+            "id": "FD-BA-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between Local Storage and Session Storage."
+        },
+        {
+            "id": "FD-BA-012",
+            "difficulty": "medium",
+            "question": "How would you fetch data from an API?"
+        },
+        {
+            "id": "FD-BA-013",
+            "difficulty": "medium",
+            "question": "Explain CORS."
+        },
+        {
+            "id": "FD-BA-014",
+            "difficulty": "medium",
+            "question": "What is WebSocket?"
+        },
+        {
+            "id": "FD-BA-015",
+            "difficulty": "medium",
+            "question": "Explain Service Workers."
+        },
+        {
+            "id": "FD-BA-016",
+            "difficulty": "medium",
+            "question": "What is IndexedDB?"
+        },
+        {
+            "id": "FD-BA-017",
+            "difficulty": "medium",
+            "question": "Explain Browser Events."
+        },
+        {
+            "id": "FD-BA-018",
+            "difficulty": "medium",
+            "question": "What is the Intersection Observer API?"
+        },
+        {
+            "id": "FD-BA-019",
+            "difficulty": "medium",
+            "question": "Explain Drag and Drop API."
+        },
+        {
+            "id": "FD-BA-020",
+            "difficulty": "medium",
+            "question": "What are Web Workers?"
+        },
+
+
+        {
+            "id": "FD-BA-021",
+            "difficulty": "hard",
+            "question": "Explain Progressive Web Apps."
+        },
+        {
+            "id": "FD-BA-022",
+            "difficulty": "hard",
+            "question": "How would you implement offline support?"
+        },
+        {
+            "id": "FD-BA-023",
+            "difficulty": "hard",
+            "question": "Explain browser caching."
+        },
+        {
+            "id": "FD-BA-024",
+            "difficulty": "hard",
+            "question": "How would you optimize browser performance?"
+        },
+        {
+            "id": "FD-BA-025",
+            "difficulty": "hard",
+            "question": "Explain rendering pipelines."
+        }
+    ],
+
+    "responsive design": [
+        {
+            "id": "FD-RD-001",
+            "difficulty": "easy",
+            "question": "What is responsive web design?"
+        },
+        {
+            "id": "FD-RD-002",
+            "difficulty": "easy",
+            "question": "Why are media queries important?"
+        },
+        {
+            "id": "FD-RD-003",
+            "difficulty": "easy",
+            "question": "What are breakpoints?"
+        },
+        {
+            "id": "FD-RD-004",
+            "difficulty": "easy",
+            "question": "Explain viewport."
+        },
+        {
+            "id": "FD-RD-005",
+            "difficulty": "easy",
+            "question": "What is mobile-first design?"
+        },
+        {
+            "id": "FD-RD-006",
+            "difficulty": "easy",
+            "question": "Why should websites be responsive?"
+        },
+        {
+            "id": "FD-RD-007",
+            "difficulty": "easy",
+            "question": "What are relative units?"
+        },
+        {
+            "id": "FD-RD-008",
+            "difficulty": "easy",
+            "question": "Explain percentages versus pixels."
+        },
+        {
+            "id": "FD-RD-009",
+            "difficulty": "easy",
+            "question": "What is viewport width (vw)?"
+        },
+        {
+            "id": "FD-RD-010",
+            "difficulty": "easy",
+            "question": "Explain viewport height (vh)."        
+        },
+
+
+        {
+            "id": "FD-RD-011",
+            "difficulty": "medium",
+            "question": "How would you design a responsive dashboard?"
+        },
+        {
+            "id": "FD-RD-012",
+            "difficulty": "medium",
+            "question": "Explain CSS Grid for responsive layouts."
+        },
+        {
+            "id": "FD-RD-013",
+            "difficulty": "medium",
+            "question": "Explain Flexbox for responsive layouts."
+        },
+        {
+            "id": "FD-RD-014",
+            "difficulty": "medium",
+            "question": "How would you optimize a website for mobile devices?"
+        },
+        {
+            "id": "FD-RD-015",
+            "difficulty": "medium",
+            "question": "Explain adaptive design."
+        },
+        {
+            "id": "FD-RD-016",
+            "difficulty": "medium",
+            "question": "What are responsive images?"
+        },
+        {
+            "id": "FD-RD-017",
+            "difficulty": "medium",
+            "question": "Explain fluid typography."
+        },
+        {
+            "id": "FD-RD-018",
+            "difficulty": "medium",
+            "question": "How would you test responsiveness?"
+        },
+        {
+            "id": "FD-RD-019",
+            "difficulty": "medium",
+            "question": "Explain CSS clamp()."
+        },
+        {
+            "id": "FD-RD-020",
+            "difficulty": "medium",
+            "question": "How would you design for tablets?"
+        },
+
+
+        {
+            "id": "FD-BA-021",
+            "difficulty": "hard",
+            "question": "Design a responsive SaaS dashboard."
+        },
+        {
+            "id": "FD-RD-022",
+            "difficulty": "hard",
+            "question": "How would you optimize responsiveness for large monitors?"
+        },
+        {
+            "id": "FD-RD-023",
+            "difficulty": "hard",
+            "question": "Explain accessibility in responsive design."
+        },
+        {
+            "id": "FD-RD-024",
+            "difficulty": "hard",
+            "question": "How would you optimize performance on mobile devices?"
+        },
+        {
+            "id": "FD-RD-025",
+            "difficulty": "hard",
+            "question": "Explain responsive design best practices."
+        }
+    ],
+
+    "frontend performance": [
+        {
+            "id": "FD-FP-001",
+            "difficulty": "easy",
+            "question": "Why is frontend performance important?"
+        },
+        {
+            "id": "FD-FP-002",
+            "difficulty": "easy",
+            "question": "What affects page loading speed?"
+        },
+        {
+            "id": "FD-FP-003",
+            "difficulty": "easy",
+            "question": "What is image optimization?"
+        },
+        {
+            "id": "FD-FP-004",
+            "difficulty": "easy",
+            "question": "What is lazy loading?"
+        },
+        {
+            "id": "FD-FP-005",
+            "difficulty": "easy",
+            "question": "What is minification?"
+        },
+        {
+            "id": "FD-FP-006",
+            "difficulty": "easy",
+            "question": "Explain compression."
+        },
+        {
+            "id": "FD-FP-007",
+            "difficulty": "easy",
+            "question": "What is caching?"
+        },
+        {
+            "id": "FD-FP-008",
+            "difficulty": "easy",
+            "question": "Why should JavaScript bundles be small?"
+        },
+        {
+            "id": "FD-FP-009",
+            "difficulty": "easy",
+            "question": "Explain browser caching."
+        },
+        {
+            "id": "FD-FP-010",
+            "difficulty": "easy",
+            "question": "What is Lighthouse?"
+        },
+
+
+        {
+            "id": "FD-FP-011",
+            "difficulty": "medium",
+            "question": "How would you improve Core Web Vitals?"
+        },
+        {
+            "id": "FD-FP-012",
+            "difficulty": "medium",
+            "question": "Explain code splitting."
+        },
+        {
+            "id": "FD-FP-013",
+            "difficulty": "medium",
+            "question": "What is tree shaking?"
+        },
+        {
+            "id": "FD-FP-014",
+            "difficulty": "medium",
+            "question": "Explain bundle optimization."
+        },
+        {
+            "id": "FD-FP-015",
+            "difficulty": "medium",
+            "question": "How would you optimize React rendering?"
+        },
+        {
+            "id": "FD-FP-016",
+            "difficulty": "medium",
+            "question": "Explain preloading and prefetching."
+        },
+        {
+            "id": "FD-FP-017",
+            "difficulty": "medium",
+            "question": "What is CDN?"
+        },
+        {
+            "id": "FD-FP-018",
+            "difficulty": "medium",
+            "question": "Explain render blocking resources."
+        },
+        {
+            "id": "FD-FP-019",
+            "difficulty": "medium",
+            "question": "What is hydration?"
+        },
+        {
+            "id": "FD-FP-020",
+            "difficulty": "medium",
+            "question": "Explain font optimization."
+        },
+
+
+        {
+            "id": "FD-FP-021",
+            "difficulty": "hard",
+            "question": "How would you optimize a large React application?"
+        },
+        {
+            "id": "FD-FP-022",
+            "difficulty": "hard",
+            "question": "Explain SSR versus CSR."
+        },
+        {
+            "id": "FD-FP-023",
+            "difficulty": "hard",
+            "question": "Explain static site generation."
+        },
+        {
+            "id": "FD-FP-024",
+            "difficulty": "hard",
+            "question": "Design a frontend capable of serving millions of users."
+        },
+        {
+            "id": "FD-FP-025",
+            "difficulty": "hard",
+            "question": "Explain performance monitoring."
+        }
+    ],
+
+    "accessibility": [
+        {
+            "id": "FD-AY-001",
+            "difficulty": "easy",
+            "question": "What is web accessibility?"
+        },
+        {
+            "id": "FD-AY-002",
+            "difficulty": "easy",
+            "question": "Why is accessibility important?"
+        },
+        {
+            "id": "FD-AY-003",
+            "difficulty": "easy",
+            "question": "What are semantic HTML elements?"
+        },
+        {
+            "id": "FD-AY-004",
+            "difficulty": "easy",
+            "question": "Explain keyboard navigation."
+        },
+        {
+            "id": "FD-AY-005",
+            "difficulty": "easy",
+            "question": "What are screen readers?"
+        },
+        {
+            "id": "FD-AY-006",
+            "difficulty": "easy",
+            "question": "What is alt text?"
+        },
+        {
+            "id": "FD-AY-007",
+            "difficulty": "easy",
+            "question": "Explain focus states."
+        },
+        {
+            "id": "FD-AY-008",
+            "difficulty": "easy",
+            "question": "What are labels?"
+        },
+        {
+            "id": "FD-AY-009",
+            "difficulty": "easy",
+            "question": "What is color contrast?"
+        },
+        {
+            "id": "FD-AY-010",
+            "difficulty": "easy",
+            "question": "Explain accessible forms."
+        },
+
+
+        {
+            "id": "FD-AY-011",
+            "difficulty": "medium",
+            "question": "How would you improve accessibility on an existing website?"
+        },
+        {
+            "id": "FD-AY-012",
+            "difficulty": "medium",
+            "question": "Explain ARIA roles."
+        },
+        {
+            "id": "FD-AY-013",
+            "difficulty": "medium",
+            "question": "What are WCAG guidelines?"
+        },
+        {
+            "id": "FD-AY-014",
+            "difficulty": "medium",
+            "question": "Explain tab order."
+        },
+        {
+            "id": "FD-AY-015",
+            "difficulty": "medium",
+            "question": "What are skip navigation links?"
+        },
+        {
+            "id": "FD-AY-016",
+            "difficulty": "medium",
+            "question": "How would you test accessibility?"
+        },
+        {
+            "id": "FD-AY-017",
+            "difficulty": "medium",
+            "question": "Explain focus management."
+        },
+        {
+            "id": "FD-AY-018",
+            "difficulty": "medium",
+            "question": "What is accessible modal design?"
+        },
+        {
+            "id": "FD-AY-019",
+            "difficulty": "medium",
+            "question": "Explain accessible tables."
+        },
+        {
+            "id": "FD-AY-020",
+            "difficulty": "medium",
+            "question": "How would you build accessible navigation?"
+        },
+
+
+        {
+            "id": "FD-AY-021",
+            "difficulty": "hard",
+            "question": "Design a fully accessible web application."
+        },
+        {
+            "id": "FD-AY-022",
+            "difficulty": "hard",
+            "question": "Explain accessibility audits."
+        },
+        {
+            "id": "FD-AY-023",
+            "difficulty": "hard",
+            "question": "How would you ensure accessibility in React?"
+        },
+        {
+            "id": "FD-AY-024",
+            "difficulty": "hard",
+            "question": "Explain common accessibility mistakes."
+        },
+        {
+            "id": "FD-AY-025",
+            "difficulty": "hard",
+            "question": "How would you balance accessibility and design?"
+        }
+    ]
+}

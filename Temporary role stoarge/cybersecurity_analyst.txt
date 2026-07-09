@@ -1,0 +1,239 @@
+Cybersecurity Analyst
+
+1. Networking
+
+Easy
+
+What is an IP address?
+What is the difference between IPv4 and IPv6?
+What is a subnet mask?
+What is the purpose of a router?
+What is a switch?
+Explain the OSI model.
+What is the TCP/IP model?
+What is the difference between TCP and UDP?
+What is a DNS server?
+What is DHCP?
+
+
+Medium
+
+Explain the TCP three-way handshake.
+What happens when you visit a website?
+What is NAT?
+Explain port forwarding.
+What is a firewall?
+Explain VPNs.
+What is ARP?
+What is ICMP?
+Explain packet sniffing.
+What is network segmentation?
+
+
+Hard
+
+How would you secure a corporate network?
+Explain zero-trust networking.
+How would you investigate unusual network traffic?
+Design a secure enterprise network.
+Explain network monitoring strategies.
+
+
+
+2. Cryptography
+
+Easy
+
+What is encryption?
+What is hashing?
+What is the difference between hashing and encryption?
+What is a digital signature?
+What is a certificate?
+What is SSL/TLS?
+What is HTTPS?
+What is symmetric encryption?
+What is asymmetric encryption?
+Why are strong passwords important?
+
+
+Medium
+
+Explain RSA encryption.
+Explain AES.
+What is key exchange?
+Explain public and private keys.
+What are certificate authorities?
+Explain HMAC.
+What is salting?
+Explain password hashing algorithms.
+What is forward secrecy?
+How does HTTPS establish a secure connection?
+
+
+Hard
+
+Design a secure communication system.
+Explain PKI.
+How would you manage encryption keys?
+Explain digital certificates in large organizations.
+How would you secure sensitive customer data?
+
+
+
+3. Web Security
+
+Easy
+
+What is SQL Injection?
+What is Cross-Site Scripting (XSS)?
+What is Cross-Site Request Forgery (CSRF)?
+Why is input validation important?
+What is output encoding?
+What is authentication?
+What is authorization?
+Why should HTTPS always be used?
+What are cookies?
+What are sessions?
+
+
+Medium
+
+How would you prevent SQL Injection?
+How would you secure user authentication?
+Explain Content Security Policy (CSP).
+What are secure cookies?
+Explain SameSite cookies.
+What is clickjacking?
+How would you prevent XSS?
+Explain session hijacking.
+What is brute-force protection?
+How would you secure REST APIs?
+
+
+Hard
+
+Design a secure login system.
+Explain common OWASP Top 10 vulnerabilities.
+How would you secure a banking website?
+Design secure session management.
+Explain secure API authentication.
+
+
+
+4. Incident Response
+
+Easy
+
+What is incident response?
+What should you do after detecting a cyberattack?
+What is malware?
+What is ransomware?
+What is phishing?
+What is a security incident?
+What is a vulnerability?
+What is a threat?
+What is a security policy?
+Why is logging important?
+
+
+Medium
+
+Explain the incident response lifecycle.
+How would you investigate a compromised system?
+What evidence should be collected?
+Explain forensic imaging.
+How would you isolate infected systems?
+Explain malware analysis.
+What are indicators of compromise (IOCs)?
+Explain SIEM.
+What is log analysis?
+Explain threat hunting.
+
+
+Hard
+
+Describe how you would respond to a ransomware attack.
+How would you coordinate incident response across multiple teams?
+Design an incident response plan.
+Explain digital forensics in enterprise environments.
+How would you investigate insider threats?
+
+
+
+5. Penetration Testing
+
+Easy
+
+What is penetration testing?
+What is vulnerability scanning?
+What is ethical hacking?
+What is reconnaissance?
+What is enumeration?
+What is exploitation?
+What is post-exploitation?
+What is privilege escalation?
+What is social engineering?
+What is footprinting?
+
+
+Medium
+
+Explain the penetration testing lifecycle.
+How would you identify vulnerabilities?
+What is privilege escalation?
+Explain password attacks.
+What is lateral movement?
+Explain network scanning.
+What is banner grabbing?
+Explain wireless security testing.
+What is web application testing?
+Explain reporting after a penetration test.
+
+
+Hard
+
+Design a penetration testing strategy for a large company.
+Explain red team versus blue team.
+What is purple teaming?
+How would you prioritize discovered vulnerabilities?
+Explain attack simulation methodologies.
+
+
+
+6. Identity & Access Management (IAM)
+
+Easy
+
+What is Identity and Access Management (IAM)?
+What is Multi-Factor Authentication (MFA)?
+What is the Principle of Least Privilege?
+What is Role-Based Access Control (RBAC)?
+What is Single Sign-On (SSO)?
+What is an identity provider?
+What is account provisioning?
+Why are strong authentication methods important?
+What is password rotation?
+What is access auditing?
+
+
+Medium
+
+How would you implement RBAC in a large organization?
+Explain federation.
+What is OAuth 2.0?
+Explain OpenID Connect.
+How would you manage privileged accounts?
+Explain identity lifecycle management.
+How would you detect compromised accounts?
+What are service accounts?
+Explain adaptive authentication.
+How would you secure administrator accounts?
+
+
+Hard
+
+Design an IAM solution for a multinational company.
+Explain Zero Trust identity.
+How would you secure cloud identities?
+Explain identity governance.
+Design enterprise authentication architecture.

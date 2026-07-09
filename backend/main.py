@@ -10,7 +10,10 @@ print(text.rstrip())
 print('==========================================================================================')
 
 # Asking for roles
-role = input('>')
+user_role = input("Role: ")
+
+# Role
+role = user_role.replace(" ", "_").lower()
 
 # Accessing the Data
 questions = interview.load_questions(role)
