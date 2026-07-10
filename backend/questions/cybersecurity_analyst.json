@@ -1,0 +1,674 @@
+{
+    "networking": [
+        {
+            "id": "CSA-NG-001",
+            "difficulty": "easy",
+            "question": "What is an IP address?"
+        },
+        {
+            "id": "CSA-NG-002",
+            "difficulty": "easy",
+            "question": "What is the difference between IPv4 and IPv6?"
+        },
+        {
+            "id": "CSA-NG-003",
+            "difficulty": "easy",
+            "question": "What is a subnet mask?"
+        },
+        {
+            "id": "CSA-NG-004",
+            "difficulty": "easy",
+            "question": "What is the purpose of a router?"
+        },
+        {
+            "id": "CSA-NG-005",
+            "difficulty": "easy",
+            "question": "What is a switch?"
+        },
+        {
+            "id": "CSA-NG-006",
+            "difficulty": "easy",
+            "question": "Explain the OSI model."
+        },
+        {
+            "id": "CSA-NG-007",
+            "difficulty": "easy",
+            "question": "What is the TCP/IP model?"
+        },
+        {
+            "id": "CSA-NG-008",
+            "difficulty": "easy",
+            "question": "What is the difference between TCP and UDP?"
+        },
+        {
+            "id": "CSA-NG-009",
+            "difficulty": "easy",
+            "question": "What is a DNS server?"
+        },
+        {
+            "id": "CSA-NG-010",
+            "difficulty": "easy",
+            "question": "What is DHCP?"
+        },
+
+
+        {
+            "id": "CSA-NG-011",
+            "difficulty": "medium",
+            "question": "Explain the TCP three-way handshake."
+        },
+        {
+            "id": "CSA-NG-012",
+            "difficulty": "medium",
+            "question": "What happens when you visit a website?"
+        },
+        {
+            "id": "CSA-NG-013",
+            "difficulty": "medium",
+            "question": "What is NAT?"
+        },
+        {
+            "id": "CSA-NG-014",
+            "difficulty": "medium",
+            "question": "Explain port forwarding."
+        },
+        {
+            "id": "CSA-NG-015",
+            "difficulty": "medium",
+            "question": "What is a firewall?"
+        },
+        {
+            "id": "CSA-NG-016",
+            "difficulty": "medium",
+            "question": "Explain VPNs."
+        },
+        {
+            "id": "CSA-NG-017",
+            "difficulty": "medium",
+            "question": "What is ARP?"
+        },
+        {
+            "id": "CSA-NG-018",
+            "difficulty": "medium",
+            "question": "What is ICMP?"
+        },
+        {
+            "id": "CSA-NG-019",
+            "difficulty": "medium",
+            "question": "Explain packet sniffing."
+        },
+        {
+            "id": "CSA-NG-020",
+            "difficulty": "medium",
+            "question": "What is network segmentation?"
+        },
+
+
+        {
+            "id": "CSA-NG-021",
+            "difficulty": "hard",
+            "question": "How would you secure a corporate network?"
+        },
+        {
+            "id": "CSA-NG-022",
+            "difficulty": "hard",
+            "question": "Explain zero-trust networking."
+        },
+        {
+            "id": "CSA-NG-023",
+            "difficulty": "hard",
+            "question": "How would you investigate unusual network traffic?"
+        },
+        {
+            "id": "CSA-NG-024",
+            "difficulty": "hard",
+            "question": "Design a secure enterprise network."
+        },
+        {
+            "id": "CSA-NG-025",
+            "difficulty": "hard",
+            "question": "Explain network monitoring strategies."
+        }
+    ],
+
+    "cryptography": [
+        {
+           "id": "CSA-CY-001",
+           "difficulty": "easy",
+           "question": "What is encryption?"
+        },
+        {
+            "id": "CSA-CY-002",
+            "difficulty": "easy",
+            "question": "What is hashing?"
+        },
+        {
+            "id": "CSA-CY-003",
+            "difficulty": "easy",
+            "question": "What is the difference between hashing and encryption?"
+        },
+        {
+            "id": "CSA-CY-004",
+            "difficulty": "easy",
+            "question": "What is a digital signature?"
+        },
+        {
+            "id": "CSA-CY-005",
+            "difficulty": "easy",
+            "question": "What is a certificate?"
+        },
+        {
+            "id": "CSA-CY-006",
+            "difficulty": "easy",
+            "question": "What is SSL/TLS?"
+        },
+        {
+            "id": "CSA-CY-007",
+            "difficulty": "easy",
+            "question": "What is HTTPS?"
+        },
+        {
+            "id": "CSA-CY-008",
+            "difficulty": "easy",
+            "question": "What is symmetric encryption?"
+        },
+        {
+            "id": "CSA-CY-009",
+            "difficulty": "easy",
+            "question": "What is asymmetric encryption?"
+        },
+        {
+            "id": "CSA-CY-010",
+            "difficulty": "easy",
+            "question": "Why are strong passwords important?"
+        },
+
+
+        {
+            "id": "CSA-CY-011",
+            "difficulty": "medium",
+            "question": "Explain RSA encryption."
+        },
+        {
+            "id": "CSA-CY-012",
+            "difficulty": "medium",
+            "question": "Explain AES."
+        },
+        {
+            "id": "CSA-CY-013",
+            "difficulty": "medium",
+            "question": "What is key exchange?"
+        },
+        {
+            "id": "CSA-CY-014",
+            "difficulty": "medium",
+            "question": "Explain public and private keys."
+        },
+        {
+            "id": "CSA-CY-015",
+            "difficulty": "medium",
+            "question": "What are certificate authorities?"
+        },
+        {
+            "id": "CSA-CY-016",
+            "difficulty": "medium",
+            "question": "Explain HMAC."
+        },
+        {
+            "id": "CSA-CY-017",
+            "difficulty": "medium",
+            "question": "What is salting?"
+        },
+        {
+            "id": "CSA-CY-018",
+            "difficulty": "medium",
+            "question": "Explain password hashing algorithms."
+        },
+        {
+            "id": "CSA-CY-019",
+            "difficulty": "medium",
+            "question": "What is forward secrecy?"
+        },
+        {
+            "id": "CSA-CY-020",
+            "difficulty": "medium",
+            "question": "How does HTTPS establish a secure connection?"
+        },
+
+
+        {
+            "id": "CSA-CY-021",
+            "difficulty": "hard",
+            "question": "Design a secure communication system."
+        },
+        {
+            "id": "CSA-CY-022",
+            "difficulty": "hard",
+            "question": "Explain PKI."
+        },
+        {
+            "id": "CSA-CY-023",
+            "difficulty": "hard",
+            "question": "How would you manage encryption keys?"
+        },
+        {
+            "id": "CSA-CY-024",
+            "difficulty": "hard",
+            "question": "Explain digital certificates in large organizations."
+        },
+        {
+            "id": "CSA-CY-025",
+            "difficulty": "hard",
+            "question": "How would you secure sensitive customer data?"
+        }
+    ],
+
+    "web security": [
+        {
+            "id": "CSA-WS-001",
+            "difficulty": "easy",
+            "question": "What is SQL Injection?"
+        },
+        {
+            "id": "CSA-WS-002",
+            "difficulty": "easy",
+            "question": "What is Cross-Site Scripting (XSS)?"
+        },
+        {
+            "id": "CSA-WS-003",
+            "difficulty": "easy",
+            "question": "What is Cross-Site Request Forgery (CSRF)?"
+        },
+        {
+            "id": "CSA-WS-004",
+            "difficulty": "easy",
+            "question": "Why is input validation important?"
+        },
+        {
+            "id": "CSA-WS-005",
+            "difficulty": "easy",
+            "question": "What is output encoding?"
+        },
+        {
+            "id": "CSA-WS-006",
+            "difficulty": "easy",
+            "question": "What is authentication?"
+        },
+        {
+            "id": "CSA-WS-007",
+            "difficulty": "easy",
+            "question": "What is authorization?"
+        },
+        {
+            "id": "CSA-WS-008",
+            "difficulty": "easy",
+            "question": "Why should HTTPS always be used?"
+        },
+        {
+            "id": "CSA-WS-009",
+            "difficulty": "easy",
+            "question": "What are cookies?"
+        },
+        {
+            "id": "CSA-WS-010",
+            "difficulty": "easy",
+            "question": "What are sessions?"
+        },
+
+
+        {
+            "id": "CSA-WS-011",
+            "difficulty": "medium",
+            "question": "How would you prevent SQL Injection?"
+        },
+        {
+            "id": "CSA-WS-012",
+            "difficulty": "medium",
+            "question": "How would you secure user authentication?"
+        },
+        {
+            "id": "CSA-WS-013",
+            "difficulty": "medium",
+            "question": "Explain Content Security Policy (CSP)."
+        },
+        {
+            "id": "CSA-WS-014",
+            "difficulty": "medium",
+            "question": "What are secure cookies?"
+        },
+        {
+            "id": "CSA-WS-015",
+            "difficulty": "medium",
+            "question": "Explain SameSite cookies."
+        },
+        {
+            "id": "CSA-WS-016",
+            "difficulty": "medium",
+            "question": "What is clickjacking?"
+        },
+        {
+            "id": "CSA-WS-017",
+            "difficulty": "medium",
+            "question": "How would you prevent XSS?"
+        },
+        {
+            "id": "CSA-WS-018",
+            "difficulty": "medium",
+            "question": "Explain session hijacking."
+        },
+        {
+            "id": "CSA-WS-019",
+            "difficulty": "medium",
+            "question": "What is brute-force protection?"
+        },
+        {
+            "id": "CSA-WS-020",
+            "difficulty": "medium",
+            "question": "How would you secure REST APIs?"
+        },
+
+
+        {
+            "id": "CSA-WS-021",
+            "difficulty": "hard",
+            "question": "Design a secure login system."
+        },
+        {
+            "id": "CSA-WS-022",
+            "difficulty": "hard",
+            "question": "Explain common OWASP Top 10 vulnerabilities."
+        },
+        {
+            "id": "CSA-WS-023",
+            "difficulty": "hard",
+            "question": "How would you secure a banking website?"
+        },
+        {
+            "id": "CSA-WS-024",
+            "difficulty": "hard",
+            "question": "Design secure session management."
+        },
+        {
+            "id": "CSA-WS-025",
+            "difficulty": "hard",
+            "question": "Explain secure API authentication."
+        }
+    ],
+
+    "incident response": [
+        {
+            "id": "CSA-IR-001",
+            "difficulty": "easy",
+            "question": "What is incident response?"
+        },
+        {
+            "id": "CSA-IR-002",
+            "difficulty": "easy",
+            "question": "What should you do after detecting a cyberattack?"
+        },
+        {
+            "id": "CSA-IR-003",
+            "difficulty": "easy",
+            "question": "What is malware?"
+        },
+        {
+            "id": "CSA-IR-004",
+            "difficulty": "easy",
+            "question": "What is ransomware?"
+        },
+        {
+            "id": "CSA-IR-005",
+            "difficulty": "easy",
+            "question": "What is phishing?"
+        },
+        {
+            "id": "CSA-IR-006",
+            "difficulty": "easy",
+            "question": "What is a security incident?"
+        },
+        {
+            "id": "CSA-IR-007",
+            "difficulty": "easy",
+            "question": "What is a vulnerability?"
+        },
+        {
+            "id": "CSA-IR-008",
+            "difficulty": "easy",
+            "question": "What is a threat?"
+        },
+        {
+            "id": "CSA-IR-009",
+            "difficulty": "easy",
+            "question": "What is a security policy?"
+        },
+        {
+            "id": "CSA-IR-010",
+            "difficulty": "easy",
+            "question": "Why is logging important?"
+        },
+
+
+        {
+            "id": "CSA-IR-011",
+            "difficulty": "medium",
+            "question": "Explain the incident response lifecycle."
+        },
+        {
+            "id": "CSA-IR-012",
+            "difficulty": "medium",
+            "question": "How would you investigate a compromised system?"
+        },
+        {
+            "id": "CSA-IR-013",
+            "difficulty": "medium",
+            "question": "What evidence should be collected?"
+        },
+        {
+            "id": "CSA-IR-014",
+            "difficulty": "medium",
+            "question": "Explain forensic imaging."
+        },
+        {
+            "id": "CSA-IR-015",
+            "difficulty": "medium",
+            "question": "How would you isolate infected systems?"
+        },
+        {
+            "id": "CSA-IR-016",
+            "difficulty": "medium",
+            "question": "Explain malware analysis."
+        },
+        {
+            "id": "CSA-IR-017",
+            "difficulty": "medium",
+            "question": "What are indicators of compromise (IOCs)?"
+        },
+        {
+            "id": "CSA-IR-018",
+            "difficulty": "medium",
+            "question": "Explain SIEM."
+        },
+        {
+            "id": "CSA-IR-019",
+            "difficulty": "medium",
+            "question": "What is log analysis?"
+        },
+        {
+            "id": "CSA-IR-020",
+            "difficulty": "medium",
+            "question": "Explain threat hunting."
+        },
+
+
+        {
+            "id": "CSA-IR-021",
+            "difficulty": "hard",
+            "question": "Describe how you would respond to a ransomware attack."
+        },
+        {
+            "id": "CSA-IR-022",
+            "difficulty": "hard",
+            "question": "How would you coordinate incident response across multiple teams?"
+        },
+        {
+            "id": "CSA-IR-023",
+            "difficulty": "hard",
+            "question": "Design an incident response plan."
+        },
+        {
+            "id": "CSA-IR-024",
+            "difficulty": "hard",
+            "question": "Explain digital forensics in enterprise environments."
+        },
+        {
+            "id": "CSA-IR-025",
+            "difficulty": "hard",
+            "question": "How would you investigate insider threats?"
+        }
+    ],
+
+    "penetration testing": [
+        {
+            "id": "CSA-PT-001",
+            "difficulty": "easy",
+            "question": "What is penetration testing?"
+        },
+        {
+            "id": "CSA-PT-002",
+            "difficulty": "easy",
+            "question": "What is vulnerability scanning?"
+        },
+        {
+            "id": "CSA-PT-003",
+            "difficulty": "easy",
+            "question": "What is ethical hacking?"
+        },
+        {
+            "id": "CSA-IR-004",
+            "difficulty": "easy",
+            "question": "What is reconnaissance?"
+        },
+        {
+            "id": "CSA-IR-005",
+            "difficulty": "easy",
+            "question": "What is enumeration?"
+        },
+        {
+            "id": "CSA-IR-006",
+            "difficulty": "easy",
+            "question": "What is exploitation?"
+        },
+        {
+            "id": "CSA-IR-007",
+            "difficulty": "easy",
+            "question": "What is post-exploitation?"
+        },
+        {
+            "id": "CSA-IR-008",
+            "difficulty": "easy",
+            "question": "What is privilege escalation?"
+        },
+        {
+            "id": "CSA-IR-009",
+            "difficulty": "easy",
+            "question": "What is social engineering?"
+        },
+        {
+            "id": "CSA-IR-010",
+            "difficulty": "easy",
+            "question": "What is footprinting?"
+        },
+
+
+        {
+            "id": "CSA-IR-011",
+            "difficulty": "medium",
+            "question": "Explain the penetration testing lifecycle."
+        },
+        {
+            "id": "CSA-IR-012",
+            "difficulty": "medium",
+            "question": "How would you identify vulnerabilities?"
+        },
+        {
+            "id": "CSA-IR-013",
+            "difficulty": "medium",
+            "question": "What is privilege escalation?"
+        },
+        {
+            "id": "CSA-IR-014",
+            "difficulty": "medium",
+            "question": "Explain password attacks."
+        },
+        {
+            "id": "CSA-IR-015",
+            "difficulty": "medium",
+            "question": "What is lateral movement?"
+        },
+        {
+            "id": "CSA-IR-016",
+            "difficulty": "medium",
+            "question": "Explain network scanning."
+        },
+        {
+            "id": "CSA-IR-017",
+            "difficulty": "medium",
+            "question": "What is banner grabbing?"
+        },
+        {
+            "id": "CSA-IR-018",
+            "difficulty": "medium",
+            "question": "Explain wireless security testing."
+        },
+        {
+            "id": "CSA-IR-019",
+            "difficulty": "medium",
+            "question": "What is web application testing?"
+        },
+        {
+            "id": "CSA-IR-020",
+            "difficulty": "medium",
+            "question": "Explain reporting after a penetration test."
+        },
+
+
+        {
+            "id": "CSA-IR-021",
+            "difficulty": "hard",
+            "question": "Design a penetration testing strategy for a large company."
+        },
+        {
+            "id": "CSA-IR-022",
+            "difficulty": "hard",
+            "question": "Explain red team versus blue team."
+        },
+        {
+            "id": "CSA-IR-023",
+            "difficulty": "hard",
+            "question": "What is purple teaming?"
+        },
+        {
+            "id": "CSA-IR-024",
+            "difficulty": "hard",
+            "question": "How would you prioritize discovered vulnerabilities?"
+        },
+        {
+            "id": "CSA-IR-025",
+            "difficulty": "hard",
+            "question": "Explain attack simulation methodologies."
+        }
+    ],
+
+    "identity & access management (iam)": [
+        {
+            "id": "CSA-IAM-001",
+            "difficulty": "easy",
+            "question": "What is Identity and Access Management (IAM)?"
+        },
+        {
+            "id": "CSA-IAM-002",
+            "difficulty": "easy",
+            "question": "What is Multi-Factor Authentication (MFA)?"
+        }
+    ]
+}

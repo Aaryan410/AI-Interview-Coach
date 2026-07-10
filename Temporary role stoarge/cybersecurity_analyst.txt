@@ -1,211 +1,9 @@
 Cybersecurity Analyst
 
-1. Networking
-
-Easy
-
-What is an IP address?
-What is the difference between IPv4 and IPv6?
-What is a subnet mask?
-What is the purpose of a router?
-What is a switch?
-Explain the OSI model.
-What is the TCP/IP model?
-What is the difference between TCP and UDP?
-What is a DNS server?
-What is DHCP?
-
-
-Medium
-
-Explain the TCP three-way handshake.
-What happens when you visit a website?
-What is NAT?
-Explain port forwarding.
-What is a firewall?
-Explain VPNs.
-What is ARP?
-What is ICMP?
-Explain packet sniffing.
-What is network segmentation?
-
-
-Hard
-
-How would you secure a corporate network?
-Explain zero-trust networking.
-How would you investigate unusual network traffic?
-Design a secure enterprise network.
-Explain network monitoring strategies.
-
-
-
-2. Cryptography
-
-Easy
-
-What is encryption?
-What is hashing?
-What is the difference between hashing and encryption?
-What is a digital signature?
-What is a certificate?
-What is SSL/TLS?
-What is HTTPS?
-What is symmetric encryption?
-What is asymmetric encryption?
-Why are strong passwords important?
-
-
-Medium
-
-Explain RSA encryption.
-Explain AES.
-What is key exchange?
-Explain public and private keys.
-What are certificate authorities?
-Explain HMAC.
-What is salting?
-Explain password hashing algorithms.
-What is forward secrecy?
-How does HTTPS establish a secure connection?
-
-
-Hard
-
-Design a secure communication system.
-Explain PKI.
-How would you manage encryption keys?
-Explain digital certificates in large organizations.
-How would you secure sensitive customer data?
-
-
-
-3. Web Security
-
-Easy
-
-What is SQL Injection?
-What is Cross-Site Scripting (XSS)?
-What is Cross-Site Request Forgery (CSRF)?
-Why is input validation important?
-What is output encoding?
-What is authentication?
-What is authorization?
-Why should HTTPS always be used?
-What are cookies?
-What are sessions?
-
-
-Medium
-
-How would you prevent SQL Injection?
-How would you secure user authentication?
-Explain Content Security Policy (CSP).
-What are secure cookies?
-Explain SameSite cookies.
-What is clickjacking?
-How would you prevent XSS?
-Explain session hijacking.
-What is brute-force protection?
-How would you secure REST APIs?
-
-
-Hard
-
-Design a secure login system.
-Explain common OWASP Top 10 vulnerabilities.
-How would you secure a banking website?
-Design secure session management.
-Explain secure API authentication.
-
-
-
-4. Incident Response
-
-Easy
-
-What is incident response?
-What should you do after detecting a cyberattack?
-What is malware?
-What is ransomware?
-What is phishing?
-What is a security incident?
-What is a vulnerability?
-What is a threat?
-What is a security policy?
-Why is logging important?
-
-
-Medium
-
-Explain the incident response lifecycle.
-How would you investigate a compromised system?
-What evidence should be collected?
-Explain forensic imaging.
-How would you isolate infected systems?
-Explain malware analysis.
-What are indicators of compromise (IOCs)?
-Explain SIEM.
-What is log analysis?
-Explain threat hunting.
-
-
-Hard
-
-Describe how you would respond to a ransomware attack.
-How would you coordinate incident response across multiple teams?
-Design an incident response plan.
-Explain digital forensics in enterprise environments.
-How would you investigate insider threats?
-
-
-
-5. Penetration Testing
-
-Easy
-
-What is penetration testing?
-What is vulnerability scanning?
-What is ethical hacking?
-What is reconnaissance?
-What is enumeration?
-What is exploitation?
-What is post-exploitation?
-What is privilege escalation?
-What is social engineering?
-What is footprinting?
-
-
-Medium
-
-Explain the penetration testing lifecycle.
-How would you identify vulnerabilities?
-What is privilege escalation?
-Explain password attacks.
-What is lateral movement?
-Explain network scanning.
-What is banner grabbing?
-Explain wireless security testing.
-What is web application testing?
-Explain reporting after a penetration test.
-
-
-Hard
-
-Design a penetration testing strategy for a large company.
-Explain red team versus blue team.
-What is purple teaming?
-How would you prioritize discovered vulnerabilities?
-Explain attack simulation methodologies.
-
-
-
 6. Identity & Access Management (IAM)
 
 Easy
 
-What is Identity and Access Management (IAM)?
-What is Multi-Factor Authentication (MFA)?
 What is the Principle of Least Privilege?
 What is Role-Based Access Control (RBAC)?
 What is Single Sign-On (SSO)?
@@ -237,3 +35,147 @@ Explain Zero Trust identity.
 How would you secure cloud identities?
 Explain identity governance.
 Design enterprise authentication architecture.
+
+
+-- Scenario Based Questions --
+Networking
+
+Scenario 1
+
+A company's internal website suddenly becomes inaccessible for employees in one office, while employees in other offices can still access it. Walk me through how you would troubleshoot the problem.
+
+Scenario 2
+
+You notice a sudden spike in outbound network traffic from a server at 3 AM. What steps would you take before deciding whether it is a security incident?
+
+Scenario 3
+
+A firewall rule was changed yesterday, and today several services have stopped working. How would you determine whether the firewall is responsible?
+
+Scenario 4
+
+Your IDS reports repeated port scans from an external IP address. What would you investigate, and what actions would you take?
+
+Scenario 5
+
+Several employees report intermittent VPN connectivity issues after a recent network update. How would you approach troubleshooting the problem?
+
+
+
+Cryptography
+
+Scenario 1
+
+Your company wants to encrypt sensitive customer data stored in its database. How would you decide what should be encrypted, how keys should be managed, and what risks need to be considered?
+
+Scenario 2
+
+A developer suggests storing user passwords using Base64 encoding because it is "not human readable." How would you respond?
+
+Scenario 3
+
+Your SSL certificate expires tomorrow, but the replacement certificate has not yet been installed. What risks does this create, and how would you handle the situation?
+
+Scenario 4
+
+A company plans to rotate encryption keys across hundreds of servers. What challenges might arise during the process?
+
+Scenario 5
+
+After deploying HTTPS, users still receive browser security warnings. How would you investigate the cause?
+
+
+
+Web Security
+
+Scenario 1
+
+A penetration test reveals an SQL Injection vulnerability in your login page. Describe your immediate response and your long-term solution.
+
+Scenario 2
+
+Users report that malicious JavaScript executes after viewing certain comments on your website. How would you investigate and mitigate the issue?
+
+Scenario 3
+
+Your application allows file uploads. What security risks would you consider before deploying this feature?
+
+Scenario 4
+
+A developer accidentally commits an API key to a public GitHub repository. What actions should be taken immediately?
+
+Scenario 5
+
+You discover that sensitive customer information appears in server logs. What would you do next?
+
+
+
+Incident Response
+
+Scenario 1
+
+An employee clicks a phishing email and enters their company credentials. Walk me through your incident response process.
+
+Scenario 2
+
+Several workstations suddenly display ransomware messages. What are your first five actions?
+
+Scenario 3
+
+Your SIEM detects multiple failed login attempts followed by a successful login from an unusual location. How would you investigate?
+
+Scenario 4
+
+A critical production server appears to have been compromised. How would you preserve evidence while minimizing business disruption?
+
+Scenario 5
+
+You suspect an insider has copied confidential company documents. What evidence would you collect before drawing conclusions?
+
+
+
+Penetration Testing
+
+Scenario 1
+
+During an internal penetration test, you discover a critical vulnerability. How would you document and communicate the finding to the client?
+
+Scenario 2
+
+A vulnerability scanner reports hundreds of issues. How would you prioritize which ones should be fixed first?
+
+Scenario 3
+
+A client asks you to perform a penetration test but provides almost no documentation about their environment. How would you begin?
+
+Scenario 4
+
+While performing a penetration test, you accidentally impact a production service. How should you respond?
+
+Scenario 5
+
+A client disputes one of your reported vulnerabilities, claiming it cannot be exploited. How would you validate your findings?
+
+
+
+Identity & Access Management
+
+Scenario 1
+
+A former employee's account is still active two weeks after leaving the company. What risks does this create, and what process would you recommend?
+
+Scenario 2
+
+An administrator account appears to have logged in from two countries within one hour. How would you investigate?
+
+Scenario 3
+
+Your organization plans to roll out Multi-Factor Authentication to all employees. What challenges might users face, and how would you address them?
+
+Scenario 4
+
+A department requests permanent administrator privileges for all team members to simplify their workflow. How would you respond?
+
+Scenario 5
+
+You discover several unused privileged accounts that haven't been accessed in months. What actions would you take?
