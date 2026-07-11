@@ -1,133 +1,185 @@
 {
     "networking": [
         {
-            "id": "CSA-NG-001",
+            "id": "CSA-NET-001",
             "difficulty": "easy",
             "question": "What is an IP address?"
         },
         {
-            "id": "CSA-NG-002",
+            "id": "CSA-NET-002",
             "difficulty": "easy",
             "question": "What is the difference between IPv4 and IPv6?"
         },
         {
-            "id": "CSA-NG-003",
+            "id": "CSA-NET-003",
             "difficulty": "easy",
             "question": "What is a subnet mask?"
         },
         {
-            "id": "CSA-NG-004",
+            "id": "CSA-NET-004",
             "difficulty": "easy",
             "question": "What is the purpose of a router?"
         },
         {
-            "id": "CSA-NG-005",
+            "id": "CSA-NET-005",
             "difficulty": "easy",
             "question": "What is a switch?"
         },
         {
-            "id": "CSA-NG-006",
+            "id": "CSA-NET-006",
             "difficulty": "easy",
             "question": "Explain the OSI model."
         },
         {
-            "id": "CSA-NG-007",
+            "id": "CSA-NET-007",
             "difficulty": "easy",
             "question": "What is the TCP/IP model?"
         },
         {
-            "id": "CSA-NG-008",
+            "id": "CSA-NET-008",
             "difficulty": "easy",
             "question": "What is the difference between TCP and UDP?"
         },
         {
-            "id": "CSA-NG-009",
+            "id": "CSA-NET-009",
             "difficulty": "easy",
             "question": "What is a DNS server?"
         },
         {
-            "id": "CSA-NG-010",
+            "id": "CSA-NET-010",
             "difficulty": "easy",
             "question": "What is DHCP?"
         },
 
 
         {
-            "id": "CSA-NG-011",
+            "id": "CSA-NET-011",
             "difficulty": "medium",
             "question": "Explain the TCP three-way handshake."
         },
         {
-            "id": "CSA-NG-012",
+            "id": "CSA-NET-012",
             "difficulty": "medium",
             "question": "What happens when you visit a website?"
         },
         {
-            "id": "CSA-NG-013",
+            "id": "CSA-NET-013",
             "difficulty": "medium",
             "question": "What is NAT?"
         },
         {
-            "id": "CSA-NG-014",
+            "id": "CSA-NET-014",
             "difficulty": "medium",
             "question": "Explain port forwarding."
         },
         {
-            "id": "CSA-NG-015",
+            "id": "CSA-NET-015",
             "difficulty": "medium",
             "question": "What is a firewall?"
         },
         {
-            "id": "CSA-NG-016",
+            "id": "CSA-NET-016",
             "difficulty": "medium",
             "question": "Explain VPNs."
         },
         {
-            "id": "CSA-NG-017",
+            "id": "CSA-NET-017",
             "difficulty": "medium",
             "question": "What is ARP?"
         },
         {
-            "id": "CSA-NG-018",
+            "id": "CSA-NET-018",
             "difficulty": "medium",
             "question": "What is ICMP?"
         },
         {
-            "id": "CSA-NG-019",
+            "id": "CSA-NET-019",
             "difficulty": "medium",
             "question": "Explain packet sniffing."
         },
         {
-            "id": "CSA-NG-020",
+            "id": "CSA-NET-020",
             "difficulty": "medium",
             "question": "What is network segmentation?"
         },
 
 
         {
-            "id": "CSA-NG-021",
+            "id": "CSA-NET-021",
             "difficulty": "hard",
             "question": "How would you secure a corporate network?"
         },
         {
-            "id": "CSA-NG-022",
+            "id": "CSA-NET-022",
             "difficulty": "hard",
             "question": "Explain zero-trust networking."
         },
         {
-            "id": "CSA-NG-023",
+            "id": "CSA-NET-023",
             "difficulty": "hard",
             "question": "How would you investigate unusual network traffic?"
         },
         {
-            "id": "CSA-NG-024",
+            "id": "CSA-NET-024",
             "difficulty": "hard",
             "question": "Design a secure enterprise network."
         },
         {
-            "id": "CSA-NG-025",
+            "id": "CSA-NET-025",
             "difficulty": "hard",
             "question": "Explain network monitoring strategies."
+        },
+
+
+        {
+            "id": "CSA-NET-S001",
+            "difficulty": "scenario",
+            "question": "Employees at one office suddenly cannot access the company's internal website, while employees at other offices can. Walk me through how you would troubleshoot the issue."
+        },
+        {
+            "id": "CSA-NET-S002",
+            "difficulty": "scenario",
+            "question": "A monitoring tool reports an unusually high amount of outbound traffic from a database server during the middle of the night. How would you investigate this activity?"
+        },
+        {
+            "id": "CSA-NET-S003",
+            "difficulty": "scenario",
+            "question": "A firewall configuration was updated yesterday, and today multiple internal services cannot communicate with each other. Describe your troubleshooting process."
+        },
+        {
+            "id": "CSA-NET-S004",
+            "difficulty": "scenario",
+            "question": "Your Intrusion Detection System detects repeated port scans coming from an external IP address. What actions would you take before deciding whether this is a serious threat?"
+        },
+        {
+            "id": "CSA-NET-S005",
+            "difficulty": "scenario",
+            "question": "Several employees report that their VPN connections frequently disconnect after a recent infrastructure update. How would you identify the root cause?"
+        },
+        {
+            "id": "CSA-NET-S006",
+            "difficulty": "scenario",
+            "question": "A critical web server suddenly becomes unreachable from the internet but remains accessible from inside the company network. What would you investigate first?"
+        },
+        {
+            "id": "CSA-NET-S007",
+            "difficulty": "scenario",
+            "question": "Users complain that accessing a company website has become significantly slower over the past few hours. Explain how you would determine whether the issue is network-related."
+        },
+        {
+            "id": "CSA-NET-S008",
+            "difficulty": "scenario",
+            "question": "Your network monitoring dashboard shows an unexpected increase in DNS requests originating from a single workstation. How would you investigate this behavior?"
+        },
+        {
+            "id": "CSA-NET-S009",
+            "difficulty": "scenario",
+            "question": "After replacing a network switch, several departments lose connectivity while others continue working normally. Describe your troubleshooting approach."
+        },
+        {
+            "id": "CSA-NET-S010",
+            "difficulty": "scenario",
+            "question": "You discover that unauthorized devices are appearing on the corporate network. What steps would you take to identify the devices and secure the network?"
         }
     ],
 
@@ -260,6 +312,58 @@
             "id": "CSA-CY-025",
             "difficulty": "hard",
             "question": "How would you secure sensitive customer data?"
+        },
+
+
+        {
+            "id": "CSA-CY-S001",
+            "difficulty": "scenario",
+            "question": "Your company wants to encrypt sensitive customer information stored in its database. How would you decide what data should be encrypted, how encryption keys should be managed, and what security risks you would consider?"
+        },
+        {
+            "id": "CSA-CY-S002",
+            "difficulty": "scenario",
+            "question": "A developer proposes storing user passwords using Base64 encoding because it is not human-readable. How would you respond, and what would you recommend instead?"
+        },
+        {
+            "id": "CSA-CY-S003",
+            "difficulty": "scenario",
+            "question": "Your organization's SSL/TLS certificate expires tomorrow, but the replacement certificate has not yet been installed. What immediate risks does this create, and how would you handle the situation?"
+        },
+        {
+            "id": "CSA-CY-S004",
+            "difficulty": "scenario",
+            "question": "Your company plans to rotate encryption keys across hundreds of production servers. What challenges could arise during the process, and how would you minimize disruption?"
+        },
+        {
+            "id": "CSA-CY-S005",
+            "difficulty": "scenario",
+            "question": "Users continue to receive browser security warnings even after HTTPS has been enabled on the company's website. Describe how you would investigate the problem."
+        },
+        {
+            "id": "CSA-CY-S006",
+            "difficulty": "scenario",
+            "question": "A backup containing sensitive customer data has been stolen. The backup was encrypted. What factors would determine whether customer information is still at risk?"
+        },
+        {
+            "id": "CSA-CY-S007",
+            "difficulty": "scenario",
+            "question": "An employee accidentally shares a private encryption key through email. What actions should be taken immediately, and what long-term measures would you recommend?"
+        },
+        {
+            "id": "CSA-CY-S008",
+            "difficulty": "scenario",
+            "question": "Your organization is developing a messaging application that requires end-to-end encryption. Explain the key security considerations you would discuss with the development team."
+        },
+        {
+            "id": "CSA-Cy-S009",
+            "difficulty": "scenario",
+            "question": "A third-party vendor requests access to encrypted customer data for analytics purposes. How would you evaluate the request while protecting customer privacy and security?"
+        },
+        {
+            "id": "CSA-CY-S010",
+            "difficulty": "scenario",
+            "question": "Your security audit reveals that an application is still using an outdated cryptographic algorithm that is considered insecure. How would you plan and execute a secure migration to a stronger algorithm?"
         }
     ],
 
@@ -392,6 +496,58 @@
             "id": "CSA-WS-025",
             "difficulty": "hard",
             "question": "Explain secure API authentication."
+        },
+
+
+        {
+            "id": "CSA-WS-S001",
+            "difficulty": "scenario",
+            "question": "A penetration test reveals an SQL Injection vulnerability in your application's login page. Describe the immediate actions you would take and how you would prevent similar vulnerabilities in the future."
+        },
+        {
+            "id": "CSA-WS-S002",
+            "difficulty": "scenario",
+            "question": "Users report that malicious JavaScript appears to execute after viewing certain comments on your website. How would you investigate and resolve the issue?"
+        },
+        {
+            "id": "CSA-WS-S003",
+            "difficulty": "scenario",
+            "question": "Your application allows users to upload files. Before deploying this feature, what security risks would you evaluate, and how would you reduce them?"
+        },
+        {
+            "id": "CSA-WS-S004",
+            "difficulty": "scenario",
+            "question": "A developer accidentally commits a production API key to a public GitHub repository. What actions would you take immediately, and what long-term improvements would you recommend?"
+        },
+        {
+            "id": "CSA-WS-S005",
+            "difficulty": "scenario",
+            "question": "During a security audit, you discover that sensitive customer information is being written to server logs. How would you handle this situation?"
+        },
+        {
+            "id": "CSA-WS-S006",
+            "difficulty": "scenario",
+            "question": "Several users report that they are being logged out immediately after signing in. Describe how you would investigate whether the issue is related to authentication, sessions, or browser configuration."
+        },
+        {
+            "id": "CSA-WS-S007",
+            "difficulty": "scenario",
+            "question": "Your web application suddenly starts receiving thousands of login attempts from different IP addresses. How would you investigate the activity and protect the application?"
+        },
+        {
+            "id": "CSA-WS-S008",
+            "difficulty": "scenario",
+            "question": "A security scanner reports that your application is vulnerable to Cross-Site Scripting (XSS). Explain how you would confirm the finding, assess the risk, and implement a fix."
+        },
+        {
+            "id": "CSA-WS-S009",
+            "difficulty": "scenario",
+            "question": "A third-party JavaScript library used by your website is discovered to contain a serious security vulnerability. How would you assess the impact and respond?"
+        },
+        {
+            "id": "CSA-WS-S010",
+            "difficulty": "scenario",
+            "question": "After deploying a new version of your web application, customers report that payment requests occasionally fail. Describe how you would determine whether the issue is caused by the application, the API integration, or a security-related problem."
         }
     ],
 
@@ -524,6 +680,58 @@
             "id": "CSA-IR-025",
             "difficulty": "hard",
             "question": "How would you investigate insider threats?"
+        },
+
+
+        {
+            "id": "CSA-IR-S001",
+            "difficulty": "scenario",
+            "question": "You are the on-call security analyst when multiple employees report seeing ransomware messages on their computers. What are your first five actions, and why?"
+        },
+        {
+            "id": "CSA-IR-S002",
+            "difficulty": "scenario",
+            "question": "During your morning review, the SIEM reports hundreds of failed login attempts followed by a successful login from an unfamiliar country. Describe how you would investigate the incident."
+        },
+        {
+            "id": "CSA-IR-S003",
+            "difficulty": "scenario",
+            "question": "A manager informs you that an employee clicked on a phishing email and entered their company credentials. Walk me through your incident response process."
+        },
+        {
+            "id": "CSA-IR-S004",
+            "difficulty": "scenario",
+            "question": "While reviewing system logs, you notice that a privileged account was used outside normal working hours. How would you determine whether this activity is legitimate or malicious?"
+        },
+        {
+            "id": "CSA-IR-S005",
+            "difficulty": "scenario",
+            "question": "A production server is suspected to have been compromised. Explain how you would preserve evidence while minimizing disruption to business operations."
+        },
+        {
+            "id": "CSA-IR-S006",
+            "difficulty": "scenario",
+            "question": "A teammate discovers malware on a workstation that belongs to the finance department. Describe the steps you would take from detection through recovery."
+        },
+        {
+            "id": "CSA-IR-S007",
+            "difficulty": "scenario",
+            "question": "During an investigation, you suspect that a former employee's account is still being used to access company resources. How would you verify your suspicion and respond?"
+        },
+        {
+            "id": "CSA-IR-S008",
+            "difficulty": "scenario",
+            "question": "A cloud storage bucket containing confidential documents has accidentally been made publicly accessible. Explain your immediate response and the follow-up actions you would take."
+        },
+        {
+            "id": "CSA-IR-S009",
+            "difficulty": "scenario",
+            "question": "An executive reports receiving a suspicious email requesting an urgent wire transfer. How would you investigate whether this is a Business Email Compromise (BEC) attempt?"
+        },
+        {
+            "id": "CSA-IR-S010",
+            "difficulty": "scenario",
+            "question": "After successfully containing a security incident, what activities would you perform to ensure the organization learns from the event and reduces the likelihood of it happening again?"
         }
     ],
 
@@ -544,118 +752,170 @@
             "question": "What is ethical hacking?"
         },
         {
-            "id": "CSA-IR-004",
+            "id": "CSA-PT-004",
             "difficulty": "easy",
             "question": "What is reconnaissance?"
         },
         {
-            "id": "CSA-IR-005",
+            "id": "CSA-PT-005",
             "difficulty": "easy",
             "question": "What is enumeration?"
         },
         {
-            "id": "CSA-IR-006",
+            "id": "CSA-PT-006",
             "difficulty": "easy",
             "question": "What is exploitation?"
         },
         {
-            "id": "CSA-IR-007",
+            "id": "CSA-PT-007",
             "difficulty": "easy",
             "question": "What is post-exploitation?"
         },
         {
-            "id": "CSA-IR-008",
+            "id": "CSA-PT-008",
             "difficulty": "easy",
             "question": "What is privilege escalation?"
         },
         {
-            "id": "CSA-IR-009",
+            "id": "CSA-PT-009",
             "difficulty": "easy",
             "question": "What is social engineering?"
         },
         {
-            "id": "CSA-IR-010",
+            "id": "CSA-PT-010",
             "difficulty": "easy",
             "question": "What is footprinting?"
         },
 
 
         {
-            "id": "CSA-IR-011",
+            "id": "CSA-PT-011",
             "difficulty": "medium",
             "question": "Explain the penetration testing lifecycle."
         },
         {
-            "id": "CSA-IR-012",
+            "id": "CSA-PT-012",
             "difficulty": "medium",
             "question": "How would you identify vulnerabilities?"
         },
         {
-            "id": "CSA-IR-013",
+            "id": "CSA-PT-013",
             "difficulty": "medium",
             "question": "What is privilege escalation?"
         },
         {
-            "id": "CSA-IR-014",
+            "id": "CSA-PT-014",
             "difficulty": "medium",
             "question": "Explain password attacks."
         },
         {
-            "id": "CSA-IR-015",
+            "id": "CSA-PT-015",
             "difficulty": "medium",
             "question": "What is lateral movement?"
         },
         {
-            "id": "CSA-IR-016",
+            "id": "CSA-PT-016",
             "difficulty": "medium",
             "question": "Explain network scanning."
         },
         {
-            "id": "CSA-IR-017",
+            "id": "CSA-PT-017",
             "difficulty": "medium",
             "question": "What is banner grabbing?"
         },
         {
-            "id": "CSA-IR-018",
+            "id": "CSA-PT-018",
             "difficulty": "medium",
             "question": "Explain wireless security testing."
         },
         {
-            "id": "CSA-IR-019",
+            "id": "CSA-PT-019",
             "difficulty": "medium",
             "question": "What is web application testing?"
         },
         {
-            "id": "CSA-IR-020",
+            "id": "CSA-PT-020",
             "difficulty": "medium",
             "question": "Explain reporting after a penetration test."
         },
 
 
         {
-            "id": "CSA-IR-021",
+            "id": "CSA-PT-021",
             "difficulty": "hard",
             "question": "Design a penetration testing strategy for a large company."
         },
         {
-            "id": "CSA-IR-022",
+            "id": "CSA-PT-022",
             "difficulty": "hard",
             "question": "Explain red team versus blue team."
         },
         {
-            "id": "CSA-IR-023",
+            "id": "CSA-PT-023",
             "difficulty": "hard",
             "question": "What is purple teaming?"
         },
         {
-            "id": "CSA-IR-024",
+            "id": "CSA-PT-024",
             "difficulty": "hard",
             "question": "How would you prioritize discovered vulnerabilities?"
         },
         {
-            "id": "CSA-IR-025",
+            "id": "CSA-PT-025",
             "difficulty": "hard",
             "question": "Explain attack simulation methodologies."
+        },
+
+
+        {
+            "id": "CSA-PT-S001",
+            "difficulty": "scenario",
+            "question": "You have been assigned to perform a penetration test on a client's web application. Before beginning the assessment, what information would you gather and what boundaries would you establish?"
+        },
+        {
+            "id": "CSA-PT-S002",
+            "difficulty": "scenario",
+            "question": "While conducting a penetration test, you discover a critical vulnerability that could expose sensitive customer data. How would you document, communicate, and prioritize the finding?"
+        },
+        {
+            "id": "CSA-PT-S003",
+            "difficulty": "scenario",
+            "question": "A vulnerability scanner reports hundreds of potential security issues across a client's infrastructure. Explain how you would determine which vulnerabilities should be addressed first."
+        },
+        {
+            "id": "CSA-PT-S004",
+            "difficulty": "scenario",
+            "question": "During an internal penetration test, you successfully gain access to a low-privileged user account. Describe the next steps you would take while remaining within the agreed scope of the engagement."
+        },
+        {
+            "id": "CSA-PT-S005",
+            "difficulty": "scenario",
+            "question": "A client provides almost no documentation about their environment before a penetration test. How would you begin planning and executing the assessment?"
+        },
+        {
+            "id": "CSA-PT-S006",
+            "difficulty": "scenario",
+            "question": "While testing a production environment, one of your actions unexpectedly causes a service outage. How would you respond both technically and professionally?"
+        },
+        {
+            "id": "CSA-PT-S007",
+            "difficulty": "scenario",
+            "question": "A client disputes one of your reported vulnerabilities, claiming it cannot be exploited in practice. How would you validate your findings and communicate your conclusion?"
+        },
+        {
+            "id": "CSA-PT-S008",
+            "difficulty": "scenario",
+            "question": "During a penetration test, you discover credentials belonging to a privileged administrator account. What actions should you take, and what ethical considerations apply?"
+        },
+        {
+            "id": "CSA-PT-S009",
+            "difficulty": "scenario",
+            "question": "You identify multiple systems running outdated software with publicly known vulnerabilities. How would you assess the organization's overall risk and present your recommendations?"
+        },
+        {
+            "id": "CSA-PT-S010",
+            "difficulty": "scenario",
+            "question": "After completing a penetration test, management asks for a summary of the results. How would you present the findings to both technical engineers and non-technical executives?"
         }
     ],
 
@@ -669,6 +929,177 @@
             "id": "CSA-IAM-002",
             "difficulty": "easy",
             "question": "What is Multi-Factor Authentication (MFA)?"
+        },
+        {
+            "id": "CSA-IAM-003",
+            "difficulty": "easy",
+            "question": "What is the Principle of Least Privilege?"
+        },
+        {
+            "id": "CSA-IAM-004",
+            "difficulty": "easy",
+            "question": "What is Role-Based Access Control (RBAC)?"
+        },
+        {
+            "id": "CSA-IAM-005",
+            "difficulty": "easy",
+            "question": "What is Single Sign-On (SSO)?"
+        },
+        {
+            "id": "CSA-IAM-006",
+            "difficulty": "easy",
+            "question": "What is an identity provider?"
+        },
+        {
+            "id": "CSA-IAM-007",
+            "difficulty": "easy",
+            "question": "What is account provisioning?"
+        },
+        {
+            "id": "CSA-IAM-008",
+            "difficulty": "easy",
+            "question": "Why are strong authentication methods important?"
+        },
+        {
+            "id": "CSA-IAM-009",
+            "difficulty": "easy",
+            "question": "What is password rotation?"
+        },
+        {
+            "id": "CSA-IAM-010",
+            "difficulty": "easy",
+            "question": "What is access auditing?"
+        },
+
+
+        {
+            "id": "CSA-IAM-011",
+            "difficulty": "medium",
+            "question": "How would you implement RBAC in a large organization?"
+        },
+        {
+            "id": "CSA-IAM-012",
+            "difficulty": "medium",
+            "question": "Explain federation."
+        },
+        {
+            "id": "CSA-IAM-013",
+            "difficulty": "medium",
+            "question": "What is OAuth 2.0?"
+        },
+        {
+            "id": "CSA-IAM-014",
+            "difficulty": "medium",
+            "question": "Explain OpenID Connect."
+        },
+        {
+            "id": "CSA-IAM-015",
+            "difficulty": "medium",
+            "question": "How would you manage privileged accounts?"
+        },
+        {
+            "id": "CSA-IAM-016",
+            "difficulty": "medium",
+            "question": "Explain identity lifecycle management."
+        },
+        {
+            "id": "CSA-IAM-017",
+            "difficulty": "medium",
+            "question": "How would you detect compromised accounts?"
+        },
+        {
+            "id": "CSA-IAM-018",
+            "difficulty": "medium",
+            "question": "What are service accounts?"
+        },
+        {
+            "id": "CSA-IAM-019",
+            "difficulty": "medium",
+            "question": "Explain adaptive authentication."
+        },
+        {
+            "id": "CSA-IAM-020",
+            "difficulty": "medium",
+            "question": "How would you secure administrator accounts?"
+        },
+
+
+        {
+            "id": "CSA-IAM-021",
+            "difficulty": "hard",
+            "question": "Design an IAM solution for a multinational company."
+        },
+        {
+            "id": "CSA-IAM-022",
+            "difficulty": "hard",
+            "question": "Explain Zero Trust identity."
+        },
+        {
+            "id": "CSA-IAM-023",
+            "difficulty": "hard",
+            "question": "How would you secure cloud identities?"
+        },
+        {
+            "id": "CSA-IAM-024",
+            "difficulty": "hard",
+            "question": "Explain identity governance."
+        },
+        {
+            "id": "CSA-IAM-025",
+            "difficulty": "hard",
+            "question": "Design enterprise authentication architecture."
+        },
+
+
+        {
+            "id": "CSA-IAM-S026",
+            "difficulty": "scenario",
+            "question": "A former employee's account is still active two weeks after leaving the company. What risks does this create, and what actions would you take immediately?"
+        },
+        {
+            "id": "CSA-IAM-S027",
+            "difficulty": "scenario",
+            "question": "An administrator account appears to have logged in from two different countries within one hour. Describe how you would investigate whether the account has been compromised."
+        },
+        {
+            "id": "CSA-IAM-S028",
+            "difficulty": "scenario",
+            "question": "Your organization plans to enforce Multi-Factor Authentication for every employee. What challenges do you expect during deployment, and how would you address them?"
+        },
+        {
+            "id": "CSA-IAM-S029",
+            "difficulty": "scenario",
+            "question": "A department requests permanent administrator privileges for all employees because it makes their work easier. How would you evaluate the request and explain your decision?"
+        },
+        {
+            "id": "CSA-IAM-S030",
+            "difficulty": "scenario",
+            "question": "During a routine audit, you discover several privileged accounts that have not been used for months. Explain the steps you would take before disabling or removing them."
+        },
+        {
+            "id": "CSA-IAM-S031",
+            "difficulty": "scenario",
+            "question": "A developer accidentally shares credentials for a production account in a team chat. What immediate actions should be taken, and what preventive measures would you recommend?"
+        },
+        {
+            "id": "CSA-IAM-S032",
+            "difficulty": "scenario",
+            "question": "You notice that several employees are sharing the same administrator account to perform daily tasks. How would you address the security risks and implement a better solution?"
+        },
+        {
+            "id": "CSA-IAM-S033",
+            "difficulty": "scenario",
+            "question": "An employee reports that they suddenly cannot access multiple internal systems after a recent permission update. Describe how you would investigate and resolve the issue."
+        },
+        {
+            "id": "CSA-IAM-S034",
+            "difficulty": "scenario",
+            "question": "Your company acquires another organization with hundreds of employees. How would you approach securely integrating their user identities and access permissions into your existing environment?"
+        },
+        {
+            "id": "CSA-IAM-S035",
+            "difficulty": "scenario",
+            "question": "A security audit reveals that employees have accumulated excessive permissions over several years. How would you reduce these permissions while minimizing disruption to business operations?"
         }
     ]
 }

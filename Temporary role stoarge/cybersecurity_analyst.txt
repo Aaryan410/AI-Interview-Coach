@@ -1,41 +1,5 @@
 Cybersecurity Analyst
 
-6. Identity & Access Management (IAM)
-
-Easy
-
-What is the Principle of Least Privilege?
-What is Role-Based Access Control (RBAC)?
-What is Single Sign-On (SSO)?
-What is an identity provider?
-What is account provisioning?
-Why are strong authentication methods important?
-What is password rotation?
-What is access auditing?
-
-
-Medium
-
-How would you implement RBAC in a large organization?
-Explain federation.
-What is OAuth 2.0?
-Explain OpenID Connect.
-How would you manage privileged accounts?
-Explain identity lifecycle management.
-How would you detect compromised accounts?
-What are service accounts?
-Explain adaptive authentication.
-How would you secure administrator accounts?
-
-
-Hard
-
-Design an IAM solution for a multinational company.
-Explain Zero Trust identity.
-How would you secure cloud identities?
-Explain identity governance.
-Design enterprise authentication architecture.
-
 
 -- Scenario Based Questions --
 Networking
