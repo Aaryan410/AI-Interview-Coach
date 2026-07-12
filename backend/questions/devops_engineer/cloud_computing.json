@@ -1,0 +1,210 @@
+{
+    "cloud computing": [
+        {
+            "id": "DEV-CLD-001",
+            "difficulty": "easy",
+            "question": "What is cloud computing, and why do organizations use it?"
+        },
+        {
+            "id": "DEV-CLD-002",
+            "difficulty": "easy",
+            "question": "What is the difference between IaaS, PaaS, and SaaS?"
+        },
+        {
+            "id": "DEV-CLD-003",
+            "difficulty": "easy",
+            "question": "Name three major cloud providers."
+        },
+        {
+            "id": "DEV-CLD-004",
+            "difficulty": "easy",
+            "question": "What is virtualization?"
+        },
+        {
+            "id": "DEV-CLD-005",
+            "difficulty": "easy",
+            "question": "What is auto scaling in cloud computing?"
+        },
+        {
+            "id": "DEV-CLD-006",
+            "difficulty": "easy",
+            "question": "What is load balancing?"
+        },
+        {
+            "id": "DEV-CLD-007",
+            "difficulty": "easy",
+            "question": "What is object storage?"
+        },
+        {
+            "id": "DEV-CLD-008",
+            "difficulty": "easy",
+            "question": "What is a Virtual Machine?"
+        },
+        {
+            "id": "DEV-CLD-009",
+            "difficulty": "easy",
+            "question": "What are cloud availability zones?"
+        },
+        {
+            "id": "DEV-CLD-010",
+            "difficulty": "easy",
+            "question": "What are the advantages of cloud computing over traditional on-premises infrastructure?"
+        },
+
+
+        {
+            "id": "DEV-CLD-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between horizontal scaling and vertical scaling."
+        },
+        {
+            "id": "DEV-CLD-012",
+            "difficulty": "medium",
+            "question": "How does a load balancer distribute traffic?"
+        },
+        {
+            "id": "DEV-CLD-013",
+            "difficulty": "medium",
+            "question": "Explain the shared responsibility model in cloud computing."
+        },
+        {
+            "id": "DEV-CLD-014",
+            "difficulty": "medium",
+            "question": "How would you secure cloud storage containing sensitive customer data?"
+        },
+        {
+            "id": "DEV-CLD-015",
+            "difficulty": "medium",
+            "question": "What are cloud regions, and how do they differ from availability zones?"
+        },
+        {
+            "id": "DEV-CLD-016",
+            "difficulty": "medium",
+            "question": "How would you monitor resource utilization in a cloud environment?"
+        },
+        {
+            "id": "DEV-CLD-017",
+            "difficulty": "medium",
+            "question": "How would you optimize cloud infrastructure to reduce operational costs?"
+        },
+        {
+            "id": "DEV-CLD-018",
+            "difficulty": "medium",
+            "question": "Explain the benefits of Infrastructure as Code when managing cloud resources."
+        },
+        {
+            "id": "DEV-CLD-019",
+            "difficulty": "medium",
+            "question": "How would you back up critical cloud-hosted applications?"
+        },
+        {
+            "id": "DEV-CLD-020",
+            "difficulty": "medium",
+            "question": "How would you design a cloud architecture capable of handling sudden traffic spikes?"
+        },
+
+
+        {
+            "id": "DEV-CLD-021",
+            "difficulty": "hard",
+            "question": "Design a highly available cloud architecture for a global web application."
+        },
+        {
+            "id": "DEV-CLD-022",
+            "difficulty": "hard",
+            "question": "How would you build a disaster recovery strategy for a cloud-native application?"
+        },
+        {
+            "id": "DEV-CLD-023",
+            "difficulty": "hard",
+            "question": "Explain how distributed cloud storage maintains durability and availability."
+        },
+        {
+            "id": "DEV-CLD-024",
+            "difficulty": "hard",
+            "question": "How would you design a secure multi-region cloud deployment?"
+        },
+        {
+            "id": "DEV-CLD-025",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between multi-cloud and single-cloud strategies."
+        },
+        {
+            "id": "DEV-CLD-026",
+            "difficulty": "hard",
+            "question": "How would you optimize a cloud infrastructure serving millions of users while minimizing costs?"
+        },
+        {
+            "id": "DEV-CLD-027",
+            "difficulty": "hard",
+            "question": "Explain the networking considerations involved in designing a cloud-native application."
+        },
+        {
+            "id": "DEV-CLD-028",
+            "difficulty": "hard",
+            "question": "How would you secure communication between cloud services running across multiple regions?"
+        },
+        {
+            "id": "DEV-CLD-029",
+            "difficulty": "hard",
+            "question": "Describe how identity and access management should be implemented across a large cloud infrastructure."
+        },
+        {
+            "id": "DEV-CLD-030",
+            "difficulty": "hard",
+            "question": "How would you migrate a large enterprise application from on-premises infrastructure to the cloud?"
+        },
+        
+
+        {
+            "id": "DEV-CLD-S031",
+            "difficulty": "scenario",
+            "question": "Traffic to your application suddenly increases by ten times after a successful product launch. Explain how you would ensure the cloud infrastructure remains available."
+        },
+        {
+            "id": "DEV-CLD-S032",
+            "difficulty": "scenario",
+            "question": "A cloud region becomes unavailable, causing users to lose access to your application. Walk me through how you would respond."
+        },
+        {
+            "id": "DEV-CLD-S033",
+            "difficulty": "scenario",
+            "question": "Your monthly cloud bill unexpectedly doubles. Describe how you would investigate the cause and reduce costs."
+        },
+        {
+            "id": "DEV-CLD-S034",
+            "difficulty": "scenario",
+            "question": "A storage bucket containing confidential customer files is accidentally made publicly accessible. What actions would you take immediately?"
+        },
+        {
+            "id": "DEV-CLD-S035",
+            "difficulty": "scenario",
+            "question": "A deployment succeeds, but users in one geographic region report significantly slower response times than others. How would you investigate?"
+        },
+        {
+            "id": "DEV-CLD-S036",
+            "difficulty": "scenario",
+            "question": "Your cloud provider announces scheduled maintenance for one of your critical regions. How would you prepare your application to minimize customer impact?"
+        },
+        {
+            "id": "DEV-CLD-S037",
+            "difficulty": "scenario",
+            "question": "During a security audit, you discover that several cloud resources have overly permissive access policies. Explain how you would address the issue."
+        },
+        {
+            "id": "DEV-CLD-S038",
+            "difficulty": "scenario",
+            "question": "An application running in the cloud repeatedly crashes under heavy load despite auto scaling being enabled. Walk me through your investigation."
+        },
+        {
+            "id": "DEV-CLD-S039",
+            "difficulty": "scenario",
+            "question": "Your organization plans to migrate hundreds of virtual machines to the cloud over a weekend. How would you reduce migration risks and ensure business continuity?"
+        },
+        {
+            "id": "DEV-CLD-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for designing cloud infrastructure for a new product expected to serve millions of users worldwide. Explain the architecture and decisions you would make."
+        }
+    ]
+}

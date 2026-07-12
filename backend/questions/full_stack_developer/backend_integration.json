@@ -1,0 +1,133 @@
+{
+    "backend integration": [
+        {
+            "id": "FSD-BI-001",
+            "difficulty": "easy",
+            "question": "How does a backend process incoming requests?"
+        },
+        {
+            "id": "FSD-BI-002",
+            "difficulty": "easy",
+            "question": "What is request validation?"
+        },
+        {
+            "id": "FSD-BI-003",
+            "difficulty": "easy",
+            "question": "Why should backend validation always exist even if frontend validation is implemented?"
+        },
+        {
+            "id": "FSD-BI-004",
+            "difficulty": "easy",
+            "question": "What is middleware?"
+        },
+        {
+            "id": "FSD-BI-005",
+            "difficulty": "easy",
+            "question": "How do backend APIs return responses?"
+        },
+        {
+            "id": "FSD-BI-006",
+            "difficulty": "easy",
+            "question": "What is serialization?"
+        },
+        {
+            "id": "FSD-BI-007",
+            "difficulty": "easy",
+            "question": "What is deserialization?"
+        },
+        {
+            "id": "FSD-BI-008",
+            "difficulty": "easy",
+            "question": "What is request parsing?"
+        },
+        {
+            "id": "FSD-BI-009",
+            "difficulty": "easy",
+            "question": "Explain routing in backend frameworks."
+        },
+        {
+            "id": "FSD-BI-010",
+            "difficulty": "easy",
+            "question": "What happens after a successful database query?"
+        },
+
+
+        {
+            "id": "FSD-BI-011",
+            "difficulty": "medium",
+            "question": "How would you structure backend services?"
+        },
+        {
+            "id": "FSD-BI-012",
+            "difficulty": "medium",
+            "question": "Explain service layers."
+        },
+        {
+            "id": "FSD-BI-013",
+            "difficulty": "medium",
+            "question": "How would you separate business logic from controllers?"
+        },
+        {
+            "id": "FSD-BI-014",
+            "difficulty": "medium",
+            "question": "How would you implement centralized error handling?"
+        },
+        {
+            "id": "FSD-BI-015",
+            "difficulty": "medium",
+            "question": "Explain dependency injection."
+        },
+        {
+            "id": "FSD-BI-016",
+            "difficulty": "medium",
+            "question": "How would you handle API versioning?"
+        },
+        {
+            "id": "FSD-BI-017",
+            "difficulty": "medium",
+            "question": "Explain backend logging."
+        },
+        {
+            "id": "FSD-BI-018",
+            "difficulty": "medium",
+            "question": "What is connection pooling?"
+        },
+        {
+            "id": "FSD-BI-019",
+            "difficulty": "medium",
+            "question": "How would you implement pagination?"
+        },
+        {
+            "id": "FSD-BI-020",
+            "difficulty": "medium",
+            "question": "Explain asynchronous request handling."
+        },
+
+
+        {
+            "id": "FSD-BI-021",
+            "difficulty": "hard",
+            "question": "Design a scalable backend for a social networking application."
+        },
+        {
+            "id": "FSD-BI-022",
+            "difficulty": "hard",
+            "question": "How would you design APIs consumed by multiple frontend clients?"
+        },
+        {
+            "id": "FSD-BI-023",
+            "difficulty": "hard",
+            "question": "Explain backend architecture for microservices."
+        },
+        {
+            "id": "FSD-BI-024",
+            "difficulty": "hard",
+            "question": "How would you optimize backend response times?"
+        },
+        {
+            "id": "FSD-BI-025",
+            "difficulty": "hard",
+            "question": "Explain backend scalability strategies."
+        }
+    ]
+}

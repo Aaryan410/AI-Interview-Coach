@@ -1,0 +1,158 @@
+{
+    "database management systems (DBMS)": [
+        {
+            "id": "BD-DBMS-001",
+            "difficulty": "easy",
+            "question": "What is the difference between SQL and NoSQL databases?"
+        },
+        {
+            "id": "BD-DBMS-002",
+            "difficulty": "easy",
+            "question": "Can you explain what a primary key is and why it is important?"
+        },
+        {
+            "id": "BD-DBMS-003",
+            "difficulty": "easy",
+            "question": "What is a foreign key, and how does it help maintain data integrity?"
+        },
+        {
+            "id": "BD-DBMS-004",
+            "difficulty": "easy",
+            "question": "What are database indexes, and why are they used?"
+        },
+        {
+            "id": "BD-DBMS-005",
+            "difficulty": "easy",
+            "question": "Can you explain what normalization is?"
+        },
+        {
+            "id": "BD-DBMS-006",
+            "difficulty": "easy",
+            "question": "What are the different types of SQL JOINs?"
+        },
+        {
+            "id": "BD-DBMS-007",
+            "difficulty": "easy",
+            "question": "What is the difference between DELETE, TRUNCATE, and DROP?"
+        },
+        {
+            "id": "BD-DBMS-008",
+            "difficulty": "easy",
+            "question": "What is a transaction in a database?"
+        },
+        {
+            "id": "BD-DBMS-009",
+            "difficulty": "easy",
+            "question": "What are ACID properties?"
+        },
+        {
+            "id": "BD-DBMS-010",
+            "difficulty": "easy",
+            "question": "What is the purpose of a database view?"
+        },
+
+
+        {
+            "id": "BD-DBMS-011",
+            "difficulty": "medium",
+            "question": "How would you optimize a slow SQL query?"
+        },
+        {
+            "id": "BD-DBMS-012",
+            "difficulty": "medium",
+            "question": "When would you choose a NoSQL database over a relational database?"
+        },
+        {
+            "id": "BD-DBMS-013",
+            "difficulty": "medium",
+            "question": "What causes database deadlocks, and how can they be prevented?"
+        },
+        {
+            "id" :"BD-DBMS-014",
+            "difficulty": "medium",
+            "question": "Explain the difference between clustered and non-clustered indexes."
+        },
+        {
+            "id": "BD-DBMS-015",
+            "difficulty": "medium",
+            "question": "What is denormalization, and when should it be used?"
+        },
+        {
+            "id": "BD-DBMS-016",
+            "difficulty": "medium",
+            "question": "How would you design a database for an e-commerce application?"
+        },
+        {
+            "id": "BD-DBMS-017",
+            "difficulty": "medium",
+            "question": "Explain optimistic locking and pessimistic locking."
+        },
+        {
+            "id": "BD-DBMS-018",
+            "difficulty": "medium",
+            "question": "What are stored procedures, and when would you use them?"
+        },
+        {
+            "id": "BD-DBMS-019",
+            "difficulty": "medium",
+            "question" :"What is database replication, and why is it important?"
+        },
+        {
+            "id": "BD-DBMS-020",
+            "difficulty": "medium",
+            "question": "How would you identify and remove duplicate records from a database?"
+        },
+
+
+        {
+            "id": "BD-DBMS-021",
+            "difficulty": "hard",
+            "question": "How would you design a database that can efficiently support millions of users?"
+        },
+        {
+            "id": "BD-DBMS-022",
+            "difficulty": "hard",
+            "question": "Explain how database sharding works and its advantages."
+        },
+        {
+            "id": "BD-DBMS-023",
+            "difficulty": "hard",
+            "question": "How would you migrate a production database with zero downtime?"
+        },
+        {
+            "id": "BD-DBMS-024",
+            "difficulty": "hard",
+            "question": "Explain the CAP Theorem and how it influences distributed database design."
+        },
+        {
+            "id": "BD-DBMS-025",
+            "difficulty": "hard",
+            "question": "How would you troubleshoot high database latency in a production environment?"
+        },
+        {
+            "id": "BD-DBMS-026",
+            "difficulty": "hard",
+            "question": "What is MVCC (Multi-Version Concurrency Control), and why is it useful?"
+        },
+        {
+            "id": "BD-DBMS-027",
+            "difficulty": "hard",
+            "question": "How would you partition a very large database table?"
+        },
+        {
+            "id": "BD-DBMS-028",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between consistency and availability in distributed databases."
+        },
+        {
+            "id": "BD-DBMS-029",
+            "difficulty": "hard",
+            "question": "Describe a time when improper indexing could hurt performance."
+        },
+        {
+            "id": "BD-DBMS-030",
+            "difficulty": "hard",
+            "question": "Design the database schema for a URL shortening service."
+        }
+    ]
+}

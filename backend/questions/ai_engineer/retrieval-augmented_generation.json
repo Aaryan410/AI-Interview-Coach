@@ -1,0 +1,210 @@
+{
+    "retrieval-augmented generation": [
+        {
+            "id": "AI-RAG-001",
+            "difficulty": "easy",
+            "question": "What is Retrieval-Augmented Generation (RAG), and what problem does it solve?"
+        },
+        {
+            "id": "AI-RAG-002",
+            "difficulty": "easy",
+            "question": "What is document retrieval in a RAG system?"
+        },
+        {
+            "id": "AI-RAG-003",
+            "difficulty": "easy",
+            "question": "Why is RAG often preferred over fine-tuning for applications that require frequently updated information?"
+        },
+        {
+            "id": "AI-RAG-004",
+            "difficulty": "easy",
+            "question": "What is document chunking?"
+        },
+        {
+            "id": "AI-RAG-005",
+            "difficulty": "easy",
+            "question": "Why are embeddings used in RAG systems?"
+        },
+        {
+            "id": "AI-RAG-006",
+            "difficulty": "easy",
+            "question": "What is a knowledge base in a RAG application?"
+        },
+        {
+            "id": "AI-RAG-007",
+            "difficulty": "easy",
+            "question": "What happens after relevant documents are retrieved in a RAG pipeline?"
+        },
+        {
+            "id": "AI-RAG-008",
+            "difficulty": "easy",
+            "question": "Why can a RAG system still produce hallucinations?"
+        },
+        {
+            "id": "AI-RAG-009",
+            "difficulty": "easy",
+            "question": "What is semantic search?"
+        },
+        {
+            "id": "AI-RAG-010",
+            "difficulty": "easy",
+            "question": "What are the main components of a RAG pipeline?"
+        },
+
+
+        {
+            "id": "AI-RAG-011",
+            "difficulty": "medium",
+            "question": "How does chunk size affect retrieval quality in a RAG system?"
+        },
+        {
+            "id": "AI-RAG-012",
+            "difficulty": "medium",
+            "question": "Compare semantic search, keyword search, and hybrid search."
+        },
+        {
+            "id": "AI-RAG-013",
+            "difficulty": "medium",
+            "question": "How would you evaluate whether a RAG system retrieves relevant documents?"
+        },
+        {
+            "id": "AI-RAG-014",
+            "difficulty": "medium",
+            "question": "How would you reduce hallucinations in a RAG application?"
+        },
+        {
+            "id": "AI-RAG-015",
+            "difficulty": "medium",
+            "question": "Explain the role of reranking in Retrieval-Augmented Generation."
+        },
+        {
+            "id": "AI-RAG-016",
+            "difficulty": "medium",
+            "question": "How would you handle frequently changing documents in a production RAG system?"
+        },
+        {
+            "id": "AI-RAG-017",
+            "difficulty": "medium",
+            "question": "Explain the trade-offs between larger chunks and smaller chunks."
+        },
+        {
+            "id": "AI-RAG-018",
+            "difficulty": "medium",
+            "question": "How would you determine whether a problem should be solved with RAG instead of fine-tuning?"
+        },
+        {
+            "id": "AI-RAG-019",
+            "difficulty": "medium",
+            "question": "How would you evaluate the overall quality of a production RAG system?"
+        },
+        {
+            "id": "AI-RAG-020",
+            "difficulty": "medium",
+            "question": "How would you improve retrieval speed while maintaining answer quality?"
+        },
+
+
+        {
+            "id": "AI-RAG-021",
+            "difficulty": "hard",
+            "question": "Design a Retrieval-Augmented Generation system for an enterprise knowledge base used by thousands of employees."
+        },
+        {
+            "id": "AI-RAG-022",
+            "difficulty": "hard",
+            "question": "How would you diagnose a RAG system that consistently retrieves relevant documents but still generates incorrect answers?"
+        },
+        {
+            "id": "AI-RAG-023",
+            "difficulty": "hard",
+            "question": "How would you design a chunking strategy for legal, medical, and software documentation, and why would your approach differ?"
+        },
+        {
+            "id": "AI-RAG-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between retrieval accuracy, latency, and operational cost in a large-scale RAG system."
+        },
+        {
+            "id": "AI-RAG-025",
+            "difficulty": "hard",
+            "question": "How would you evaluate multiple embedding models for use in a Retrieval-Augmented Generation pipeline?"
+        },
+        {
+            "id": "AI-RAG-026",
+            "difficulty": "hard",
+            "question": "Describe strategies for building a multilingual Retrieval-Augmented Generation system."
+        },
+        {
+            "id": "AI-RAG-027",
+            "difficulty": "hard",
+            "question": "How would you monitor and detect retrieval quality degradation after updating the knowledge base?"
+        },
+        {
+            "id": "AI-RAG-028",
+            "difficulty": "hard",
+            "question": "Explain how you would design a RAG system capable of serving millions of user requests every day."
+        },
+        {
+            "id": "AI-RAG-029",
+            "difficulty": "hard",
+            "question": "How would you defend a RAG application against prompt injection and malicious documents?"
+        },
+        {
+            "id": "AI-RAG-030",
+            "difficulty": "hard",
+            "question": "Describe the complete architecture of a production-grade Retrieval-Augmented Generation system from document ingestion to answer generation."
+        },
+
+
+        {
+            "id": "AI-RAG-S031",
+            "difficulty": "scenario",
+            "question": "Your RAG application retrieves the correct documents, but users still receive inaccurate answers. Walk me through your debugging process."
+        },
+        {
+            "id": "AI-RAG-S032",
+            "difficulty": "scenario",
+            "question": "After adding thousands of new documents, retrieval quality suddenly decreases. Explain how you would investigate the issue."
+        },
+        {
+            "id": "AI-RAG-S033",
+            "difficulty": "scenario",
+            "question": "A customer uploads a malicious document designed to manipulate your AI assistant's responses. Describe how you would protect the system."
+        },
+        {
+            "id": "AI-RAG-S034",
+            "difficulty": "scenario",
+            "question": "A product manager requests real-time access to constantly changing company documents. Explain how you would design the document ingestion and indexing pipeline."
+        },
+        {
+            "id": "AI-RAG-S035",
+            "difficulty": "scenario",
+            "question": "Users report that answers become significantly worse when asking broad, multi-part questions. Walk me through how you would investigate retrieval, chunking, and prompt construction."
+        },
+        {
+            "id": "AI-RAG-S036",
+            "difficulty": "scenario",
+            "question": "Your company wants to reduce infrastructure costs while maintaining retrieval quality. Describe the trade-offs you would evaluate."
+        },
+        {
+            "id": "AI-RAG-S037",
+            "difficulty": "scenario",
+            "question": "A legal department requires every AI-generated answer to reference the exact supporting documents. Explain how you would redesign the RAG pipeline."
+        },
+        {
+            "id": "AI-RAG-S038",
+            "difficulty": "scenario",
+            "question": "A multilingual RAG system performs well in English but poorly in several other languages. Describe your investigation."
+        },
+        {
+            "id": "AI-RAG-S039",
+            "difficulty": "scenario",
+            "question": "A stakeholder asks whether fine-tuning the model would completely eliminate the need for Retrieval-Augmented Generation. How would you respond?"
+        },
+        {
+            "id": "AI-RAG-S040",
+            "difficulty": "scenario",
+            "question": "You're designing an enterprise AI assistant that answers questions from millions of documents across multiple departments. Explain how you would design the ingestion pipeline, retrieval strategy, ranking, prompting, monitoring, and scaling architecture."
+        }
+    ]
+}

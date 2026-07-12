@@ -1,0 +1,185 @@
+{
+    "networking": [
+        {
+            "id": "CSA-NET-001",
+            "difficulty": "easy",
+            "question": "What is an IP address?"
+        },
+        {
+            "id": "CSA-NET-002",
+            "difficulty": "easy",
+            "question": "What is the difference between IPv4 and IPv6?"
+        },
+        {
+            "id": "CSA-NET-003",
+            "difficulty": "easy",
+            "question": "What is a subnet mask?"
+        },
+        {
+            "id": "CSA-NET-004",
+            "difficulty": "easy",
+            "question": "What is the purpose of a router?"
+        },
+        {
+            "id": "CSA-NET-005",
+            "difficulty": "easy",
+            "question": "What is a switch?"
+        },
+        {
+            "id": "CSA-NET-006",
+            "difficulty": "easy",
+            "question": "Explain the OSI model."
+        },
+        {
+            "id": "CSA-NET-007",
+            "difficulty": "easy",
+            "question": "What is the TCP/IP model?"
+        },
+        {
+            "id": "CSA-NET-008",
+            "difficulty": "easy",
+            "question": "What is the difference between TCP and UDP?"
+        },
+        {
+            "id": "CSA-NET-009",
+            "difficulty": "easy",
+            "question": "What is a DNS server?"
+        },
+        {
+            "id": "CSA-NET-010",
+            "difficulty": "easy",
+            "question": "What is DHCP?"
+        },
+
+
+        {
+            "id": "CSA-NET-011",
+            "difficulty": "medium",
+            "question": "Explain the TCP three-way handshake."
+        },
+        {
+            "id": "CSA-NET-012",
+            "difficulty": "medium",
+            "question": "What happens when you visit a website?"
+        },
+        {
+            "id": "CSA-NET-013",
+            "difficulty": "medium",
+            "question": "What is NAT?"
+        },
+        {
+            "id": "CSA-NET-014",
+            "difficulty": "medium",
+            "question": "Explain port forwarding."
+        },
+        {
+            "id": "CSA-NET-015",
+            "difficulty": "medium",
+            "question": "What is a firewall?"
+        },
+        {
+            "id": "CSA-NET-016",
+            "difficulty": "medium",
+            "question": "Explain VPNs."
+        },
+        {
+            "id": "CSA-NET-017",
+            "difficulty": "medium",
+            "question": "What is ARP?"
+        },
+        {
+            "id": "CSA-NET-018",
+            "difficulty": "medium",
+            "question": "What is ICMP?"
+        },
+        {
+            "id": "CSA-NET-019",
+            "difficulty": "medium",
+            "question": "Explain packet sniffing."
+        },
+        {
+            "id": "CSA-NET-020",
+            "difficulty": "medium",
+            "question": "What is network segmentation?"
+        },
+
+
+        {
+            "id": "CSA-NET-021",
+            "difficulty": "hard",
+            "question": "How would you secure a corporate network?"
+        },
+        {
+            "id": "CSA-NET-022",
+            "difficulty": "hard",
+            "question": "Explain zero-trust networking."
+        },
+        {
+            "id": "CSA-NET-023",
+            "difficulty": "hard",
+            "question": "How would you investigate unusual network traffic?"
+        },
+        {
+            "id": "CSA-NET-024",
+            "difficulty": "hard",
+            "question": "Design a secure enterprise network."
+        },
+        {
+            "id": "CSA-NET-025",
+            "difficulty": "hard",
+            "question": "Explain network monitoring strategies."
+        },
+
+
+        {
+            "id": "CSA-NET-S001",
+            "difficulty": "scenario",
+            "question": "Employees at one office suddenly cannot access the company's internal website, while employees at other offices can. Walk me through how you would troubleshoot the issue."
+        },
+        {
+            "id": "CSA-NET-S002",
+            "difficulty": "scenario",
+            "question": "A monitoring tool reports an unusually high amount of outbound traffic from a database server during the middle of the night. How would you investigate this activity?"
+        },
+        {
+            "id": "CSA-NET-S003",
+            "difficulty": "scenario",
+            "question": "A firewall configuration was updated yesterday, and today multiple internal services cannot communicate with each other. Describe your troubleshooting process."
+        },
+        {
+            "id": "CSA-NET-S004",
+            "difficulty": "scenario",
+            "question": "Your Intrusion Detection System detects repeated port scans coming from an external IP address. What actions would you take before deciding whether this is a serious threat?"
+        },
+        {
+            "id": "CSA-NET-S005",
+            "difficulty": "scenario",
+            "question": "Several employees report that their VPN connections frequently disconnect after a recent infrastructure update. How would you identify the root cause?"
+        },
+        {
+            "id": "CSA-NET-S006",
+            "difficulty": "scenario",
+            "question": "A critical web server suddenly becomes unreachable from the internet but remains accessible from inside the company network. What would you investigate first?"
+        },
+        {
+            "id": "CSA-NET-S007",
+            "difficulty": "scenario",
+            "question": "Users complain that accessing a company website has become significantly slower over the past few hours. Explain how you would determine whether the issue is network-related."
+        },
+        {
+            "id": "CSA-NET-S008",
+            "difficulty": "scenario",
+            "question": "Your network monitoring dashboard shows an unexpected increase in DNS requests originating from a single workstation. How would you investigate this behavior?"
+        },
+        {
+            "id": "CSA-NET-S009",
+            "difficulty": "scenario",
+            "question": "After replacing a network switch, several departments lose connectivity while others continue working normally. Describe your troubleshooting approach."
+        },
+        {
+            "id": "CSA-NET-S010",
+            "difficulty": "scenario",
+            "question": "You discover that unauthorized devices are appearing on the corporate network. What steps would you take to identify the devices and secure the network?"
+        }
+    ]
+}

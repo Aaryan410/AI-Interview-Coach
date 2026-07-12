@@ -1,0 +1,54 @@
+{
+    "projects": [
+        {
+            "id": "DEV-PROJ-001",
+            "difficulty": "easy",
+            "question": "Tell me about one DevOps project you've worked on."
+        },
+        {
+            "id": "DEV-PROJ-002",
+            "difficulty": "easy",
+            "question": "What problem was your project trying to solve?"
+        },
+        {
+            "id": "DEV-PROJ-003",
+            "difficulty": "easy",
+            "question": "Which technologies and tools did you use in your project?"
+        },
+        {
+            "id": "DEV-PROJ-004",
+            "difficulty": "easy",
+            "question": "What was your specific role and contribution in the project?"
+        },
+        {
+            "id": "DEV-PROJ-005",
+            "difficulty": "easy",
+            "question": "What was the biggest challenge you faced while working on the project?"
+        },
+        {
+            "id": "DEV-PROJ-006",
+            "difficulty": "medium",
+            "question": "Describe how you automated part of your project's deployment or infrastructure."
+        },
+        {
+            "id": "DEV-PROJ-007",
+            "difficulty": "medium",
+            "question": "How did you ensure reliability, scalability, or availability in your project?"
+        },
+        {
+            "id": "DEV-PROJ-008",
+            "difficulty": "hard",
+            "question": "If you had to redesign your project from scratch today, what architectural or DevOps improvements would you make, and why?"
+        },
+        {
+            "id": "DEV-PROJ-S009",
+            "difficulty": "scenario",
+            "question": "Imagine your project's production environment goes down immediately after deployment. Walk me through how you would investigate the issue, communicate with stakeholders, and restore service."
+        },
+        {
+            "id": "DEV-PROJ-S010",
+            "difficulty": "scenario",
+            "question": "Suppose your project suddenly needs to support ten times more users than originally expected. Explain the infrastructure, deployment, monitoring, and scaling changes you would make."
+        }
+    ]
+}

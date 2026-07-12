@@ -1,0 +1,59 @@
+{ 
+    "behavioral": [
+        {
+            "id": "SE-BH-001",
+            "difficulty": "easy",
+            "question": "Tell me about yourself."
+        },
+        {
+            "id": "SE-BH-002",
+            "difficulty": "medium",
+            "question": "Describe a challenging project you worked on."
+        },
+        {
+            "id": "SE-BH-003",
+            "difficulty": "easy",
+            "question": "Why do you want to become a software engineer?"
+        },
+        {
+            "id": "SE-BH-004",
+            "difficulty": "easy",
+            "question": "Why are you interested in our company?"
+        },
+        {
+            "id": "SE-BH-005",
+            "difficulty": "easy",
+            "question": "What are your strengths?"
+        },
+        {
+            "id": "SE-BH-006",
+            "difficulty": "easy",
+            "question": "What is one weakness you're working on?"
+        },
+        {
+            "id": "SE-BH-007",
+            "difficulty": "easy",
+            "question": "Where do you see yourself in five years?"
+        },
+        {
+            "id": "SE-BH-008",
+            "difficulty": "easy",
+            "question": "What motivates you to learn programming?"
+        },
+        {
+            "id": "SE-BH-009",
+            "difficulty": "easy",
+            "question": "Tell me about a time you learned a new skill quickly."
+        },
+        {
+            "id": "SE-BH-010",
+            "difficulty": "easy",
+            "question": "Why should we hire you?"
+        },
+        {
+            "id": "SE-BH-011",
+            "difficulty": "easy",
+            "question": "What do you enjoy most about software development?"
+        }
+    ]
+}

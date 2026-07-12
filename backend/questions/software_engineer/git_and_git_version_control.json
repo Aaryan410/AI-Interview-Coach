@@ -1,0 +1,158 @@
+{
+    "git and git version control": [
+        {
+            "id": "SE-GGVC-001",
+            "difficulty": "easy",
+            "question": "What is Git?"
+        },
+        {
+            "id": "SE-GGVC-002",
+            "difficulty": "easy",
+            "question": "Git vs GitHub."
+        },
+        {
+            "id": "SE-GGVC-003",
+            "difficulty": "easy",
+            "question": "What is a repository?"
+        },
+        {
+            "id": "SE-GGVC-004",
+            "difficulty": "easy",
+            "question": "What is a commit?"
+        },
+        {
+            "id": "SE-GGVC-005",
+            "difficulty": "easy",
+            "question": "Explain clone."
+        },
+        {
+            "id": "SE-GGVC-006",
+            "difficulty": "easy",
+            "question": "Explain push."
+        },
+        {
+            "id": "SE-GGVC-007",
+            "difficulty": "easy",
+            "question": "Explain pull."
+        },
+        {
+            "id": "SE-GGVC-008",
+            "difficulty": "easy",
+            "question": "What is git status?"
+        },
+        {
+            "id": "SE-GGVC-009",
+            "difficulty": "easy",
+            "question": "What is git add?"
+        },
+        {
+            "id": "SE-GGVC-010",
+            "difficulty": "easy",
+            "question": "Explain git log."
+        },
+
+
+        {
+            "id": "SE-GGVC-011",
+            "difficulty": "medium",
+            "question": "What is branching?"
+        },
+        {
+            "id": "SE-GGVC-012",
+            "difficulty": "medium",
+            "question": "Explain merge."
+        },
+        {
+            "id": "SE-GGVC-013",
+            "difficulty": "medium",
+            "question": "What is a merge conflict?"
+        },
+        {
+            "id": "SE-GGVC-014",
+            "difficulty": "medium",
+            "question": "What is a Pull Request?"
+        },
+        {
+            "id": "SE-GGVC-015",
+            "difficulty": "medium",
+            "question": "Explain rebase."
+        },
+        {
+            "id": "SE-GGVC-016",
+            "difficulty": "medium",
+            "question": "Explain stash."
+        },
+        {
+            "id": "SE-GGVC-017",
+            "difficulty": "medium",
+            "question": "What are tags?"
+        },
+        {
+            "id": "SE-GGVC-018",
+            "difficulty": "medium",
+            "question": "Explain cherry-pick."
+        },
+        {
+            "id": "SE-GGVC-019",
+            "difficulty": "medium",
+            "question": "Difference between fetch and pull."
+        },
+        {
+            "id": "SE-GGVC-020",
+            "difficulty": "medium",
+            "question": "Explain detached HEAD."
+        },
+
+
+        {
+            "id": "SE-GGVC-021",
+            "difficulty": "hard",
+            "question": "Interactive Rebase"
+        },
+        {
+            "id": "SE-GGVC-022",
+            "difficulty": "hard",
+            "question": "Git Bisect."
+        },
+        {
+            "id": "SE-GGVC-023",
+            "difficulty": "hard",
+            "question": "Squashing commits."
+        },
+        {
+            "id": "SE-GGVC-024",
+            "difficulty": "hard",
+            "question": "Git Hooks."
+        },
+        {
+            "id": "SE-GGVC-025",
+            "difficulty": "hard",
+            "question": "Reverting vs Resetting."
+        },
+        {
+            "id": "SE-GGVC-026",
+            "difficulty": "hard",
+            "question": "Explain reflog."
+        },
+        {
+            "id": "SE-GGVC-027",
+            "difficulty": "hard",
+            "question": "How does Git store history?"
+        },
+        {
+            "id": "SE-GGVC-028",
+            "difficulty": "hard",
+            "question": "Explain Git Internals."
+        },
+        {
+            "id": "SE-GGVC-029",
+            "difficulty": "hard",
+            "question": "How would you recover lost commits?"
+        },
+        {
+            "id": "SE-GGVC-030",
+            "difficulty": "hard",
+            "question": "Explain sparse checkout."
+        }
+    ]
+}

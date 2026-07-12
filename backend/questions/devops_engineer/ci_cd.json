@@ -1,0 +1,210 @@
+{
+    "ci/cd": [
+        {
+            "id": "DEV-CICD-001",
+            "difficulty": "easy",
+            "question": "What is CI/CD, and why is it important in modern software development?"
+        },
+        {
+            "id": "DEV-CICD-002",
+            "difficulty": "easy",
+            "question": "What is the difference between Continuous Integration and Continuous Deployment?"
+        },
+        {
+            "id": "DEV-CICD-003",
+            "difficulty": "easy",
+            "question": "What is a CI/CD pipeline?"
+        },
+        {
+            "id": "DEV-CICD-004",
+            "difficulty": "easy",
+            "question": "Why are automated builds important in CI/CD?"
+        },
+        {
+            "id": "DEV-CICD-005",
+            "difficulty": "easy",
+            "question": "Name some popular CI/CD tools and briefly describe their purpose."
+        },
+        {
+            "id": "DEV-CICD-006",
+            "difficulty": "easy",
+            "question": "What is build automation?"
+        },
+        {
+            "id": "DEV-CICD-007",
+            "difficulty": "easy",
+            "question": "Why are automated tests important in a CI/CD pipeline?"
+        },
+        {
+            "id": "DEV-CICD-008",
+            "difficulty": "easy",
+            "question": "What is deployment automation?"
+        },
+        {
+            "id": "DEV-CICD-009",
+            "difficulty": "easy",
+            "question": "What is a rollback in software deployment?"
+        },
+        {
+            "id": "DEV-CICD-010",
+            "difficulty": "easy",
+            "question": "Why is version control closely integrated with CI/CD?"
+        },
+
+
+        {
+            "id": "DEV-CICD-011",
+            "difficulty": "medium",
+            "question": "Describe the stages of a typical CI/CD pipeline."
+        },
+        {
+            "id": "DEV-CICD-012",
+            "difficulty": "medium",
+            "question": "How would you integrate automated testing into a CI/CD pipeline?"
+        },
+        {
+            "id": "DEV-CICD-013",
+            "difficulty": "medium",
+            "question": "Explain the difference between Continuous Delivery and Continuous Deployment."
+        },
+        {
+            "id": "DEV-CICD-014",
+            "difficulty": "medium",
+            "question": "How would you secure secrets such as API keys in a CI/CD pipeline?"
+        },
+        {
+            "id": "DEV-CICD-015",
+            "difficulty": "medium",
+            "question": "How do pipeline artifacts differ from source code?"
+        },
+        {
+            "id": "DEV-CICD-016",
+            "difficulty": "medium",
+            "question": "How would you reduce the execution time of a slow CI/CD pipeline?"
+        },
+        {
+            "id": "DEV-CICD-017",
+            "difficulty": "medium",
+            "question": "What are pipeline triggers, and when would you use them?"
+        },
+        {
+            "id": "DEV-CICD-018",
+            "difficulty": "medium",
+            "question": "Explain the role of code quality checks in CI/CD."
+        },
+        {
+            "id": "DEV-CICD-019",
+            "difficulty": "medium",
+            "question": "How would you deploy different configurations for development, staging, and production environments?"
+        },
+        {
+            "id": "DEV-CICD-020",
+            "difficulty": "medium",
+            "question": "How would you monitor the health of a CI/CD pipeline?"
+        },
+
+
+        {
+            "id": "DEV-CICD-021",
+            "difficulty": "hard",
+            "question": "Design a scalable CI/CD pipeline for a microservices-based application."
+        },
+        {
+            "id": "DEV-CICD-022",
+            "difficulty": "hard",
+            "question": "How would you implement blue-green deployments in a CI/CD pipeline?"
+        },
+        {
+            "id": "DEV-CICD-023",
+            "difficulty": "hard",
+            "question": "Explain how canary deployments reduce deployment risk."
+        },
+        {
+            "id": "DEV-CICD-024",
+            "difficulty": "hard",
+            "question": "How would you ensure high availability during production deployments?"
+        },
+        {
+            "id": "DEV-CICD-025",
+            "difficulty": "hard",
+            "question": "How would you design a secure CI/CD pipeline for a financial application?"
+        },
+        {
+            "id": "DEV-CICD-026",
+            "difficulty": "hard",
+            "question": "Describe strategies for minimizing deployment downtime."
+        },
+        {
+            "id": "DEV-CICD-027",
+            "difficulty": "hard",
+            "question": "How would you manage infrastructure changes alongside application deployments?"
+        },
+        {
+            "id": "DEV-CICD-028",
+            "difficulty": "hard",
+            "question": "Explain how feature flags can improve deployment strategies."
+        },
+        {
+            "id": "DEV-CICD-029",
+            "difficulty": "hard",
+            "question": "How would you design a rollback strategy for production deployments?"
+        },
+        {
+            "id": "DEV-CICD-030",
+            "difficulty": "hard",
+            "question": "What metrics would you use to evaluate the effectiveness of a CI/CD pipeline?"
+        },
+
+
+        {
+            "id": "DEV-CICD-S031",
+            "difficulty": "scenario",
+            "question": "A production deployment fails halfway through, leaving the application partially updated. Walk me through how you would respond."
+        },
+        {
+            "id": "DEV-CICD-S032",
+            "difficulty": "scenario",
+            "question": "A pipeline that has worked for months suddenly starts failing after a dependency update. How would you investigate the issue?"
+        },
+        {
+            "id": "DEV-CICD-S033",
+            "difficulty": "scenario",
+            "question": "A critical security vulnerability is discovered in a production application. Describe how you would use the CI/CD pipeline to safely deploy the fix."
+        },
+        {
+            "id": "DEV-CICD-S034",
+            "difficulty": "scenario",
+            "question": "Your automated tests pass, but users report that the latest deployment introduced major bugs. How would you investigate what went wrong?"
+        },
+        {
+            "id": "DEV-CICD-S035",
+            "difficulty": "scenario",
+            "question": "A teammate accidentally commits secrets into the CI/CD configuration files. What actions would you take immediately?"
+        },
+        {
+            "id": "DEV-CICD-S036",
+            "difficulty": "scenario",
+            "question": "A deployment pipeline takes over an hour to complete, delaying every release. Explain how you would optimize it."
+        },
+        {
+            "id": "DEV-CICD-S037",
+            "difficulty": "scenario",
+            "question": "A release succeeds in staging but repeatedly fails in production. Walk me through your troubleshooting process."
+        },
+        {
+            "id": "DEV-CICD-S038",
+            "difficulty": "scenario",
+            "question": "A deployment must be rolled back immediately after customers report critical issues. How would you ensure the rollback is completed safely?"
+        },
+        {
+            "id": "DEV-CICD-S039",
+            "difficulty": "scenario",
+            "question": "A team wants to deploy directly to production without automated testing because of tight deadlines. How would you respond?"
+        },
+        {
+            "id": "DEV-CICD-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for deploying a major feature used by millions of users. Explain how you would design the deployment strategy to minimize risk and ensure rapid recovery if problems occur."
+        }
+    ]
+}

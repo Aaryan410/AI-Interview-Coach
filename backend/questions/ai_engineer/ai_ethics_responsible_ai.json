@@ -1,0 +1,210 @@
+{
+    "ai ethics & responsible ai": [
+        {
+            "id": "AI-ETH-001",
+            "difficulty": "easy",
+            "question": "What is Responsible AI, and why is it important?"
+        },
+        {
+            "id": "AI-ETH-002",
+            "difficulty": "easy",
+            "question": "What is bias in an AI model?"
+        },
+        {
+            "id": "AI-ETH-003",
+            "difficulty": "easy",
+            "question": "Why is fairness important in Artificial Intelligence?"
+        },
+        {
+            "id": "AI-ETH-004",
+            "difficulty": "easy",
+            "question": "What is Explainable AI (XAI)?"
+        },
+        {
+            "id": "AI-ETH-005",
+            "difficulty": "easy",
+            "question": "Why is protecting user privacy important when developing AI systems?"
+        },
+        {
+            "id": "AI-ETH-006",
+            "difficulty": "easy",
+            "question": "What is personally identifiable information (PII)?"
+        },
+        {
+            "id": "AI-ETH-007",
+            "difficulty": "easy",
+            "question": "Why should AI systems be monitored after deployment?"
+        },
+        {
+            "id": "AI-ETH-008",
+            "difficulty": "easy",
+            "question": "What is transparency in Artificial Intelligence?"
+        },
+        {
+            "id": "AI-ETH-009",
+            "difficulty": "easy",
+            "question": "Why should AI-generated content sometimes be reviewed by humans?"
+        },
+        {
+            "id": "AI-ETH-010",
+            "difficulty": "easy",
+            "question": "What are some potential risks of deploying AI systems without adequate testing?"
+        },
+
+
+        {
+            "id": "AI-ETH-011",
+            "difficulty": "medium",
+            "question": "How would you identify bias in a machine learning model?"
+        },
+        {
+            "id": "AI-ETH-012",
+            "difficulty": "medium",
+            "question": "How would you reduce bias while maintaining acceptable model performance?"
+        },
+        {
+            "id": "AI-ETH-013",
+            "difficulty": "medium",
+            "question": "Explain the trade-offs between model accuracy and interpretability."
+        },
+        {
+            "id": "AI-ETH-014",
+            "difficulty": "medium",
+            "question": "How would you evaluate whether an AI system is fair across different user groups?"
+        },
+        {
+            "id": "AI-ETH-015",
+            "difficulty": "medium",
+            "question": "How would you protect sensitive customer information used during AI model training?"
+        },
+        {
+            "id": "AI-ETH-016",
+            "difficulty": "medium",
+            "question": "Explain the importance of human oversight in high-risk AI applications."
+        },
+        {
+            "id": "AI-ETH-017",
+            "difficulty": "medium",
+            "question": "How would you explain a complex AI model to non-technical stakeholders?"
+        },
+        {
+            "id": "AI-ETH-018",
+            "difficulty": "medium",
+            "question": "How would you evaluate the ethical risks before deploying a new AI application?"
+        },
+        {
+            "id": "AI-ETH-019",
+            "difficulty": "medium",
+            "question": "How would you respond if users consistently misunderstood the limitations of your AI system?"
+        },
+        {
+            "id": "AI-ETH-020",
+            "difficulty": "medium",
+            "question": "How would you balance innovation with responsible AI practices during product development?"
+        },
+
+
+        {
+            "id": "AI-ETH-021",
+            "difficulty": "hard",
+            "question": "Design a Responsible AI framework for an enterprise developing multiple AI-powered products."
+        },
+        {
+            "id": "AI-ETH-022",
+            "difficulty": "hard",
+            "question": "How would you build an AI governance process covering development, deployment, monitoring, and retirement of AI systems?"
+        },
+        {
+            "id": "AI-ETH-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between personalization, privacy, and regulatory compliance in AI applications."
+        },
+        {
+            "id": "AI-ETH-024",
+            "difficulty": "hard",
+            "question": "How would you design an evaluation framework for detecting unfair outcomes in a production AI system?"
+        },
+        {
+            "id": "AI-ETH-025",
+            "difficulty": "hard",
+            "question": "How would you determine whether an AI system should make decisions autonomously or require human approval?"
+        },
+        {
+            "id": "AI-ETH-026",
+            "difficulty": "hard",
+            "question": "How would you secure a Large Language Model against misuse while preserving its usefulness?"
+        },
+        {
+            "id": "AI-ETH-027",
+            "difficulty": "hard",
+            "question": "Describe how transparency, explainability, accountability, and auditability work together in Responsible AI."
+        },
+        {
+            "id": "AI-ETH-028",
+            "difficulty": "hard",
+            "question": "How would you identify and mitigate ethical risks when deploying an AI system across multiple countries with different legal requirements?"
+        },
+        {
+            "id": "AI-ETH-029",
+            "difficulty": "hard",
+            "question": "Explain the challenges involved in evaluating fairness for Large Language Models."
+        },
+        {
+            "id": "AI-ETH-030",
+            "difficulty": "hard",
+            "question": "How would you design an AI development process that balances rapid innovation, user safety, and regulatory compliance?"
+        },
+
+
+        {
+            "id": "AI-ETH-S031",
+            "difficulty": "scenario",
+            "question": "Your hiring recommendation model is found to consistently favor one group of applicants over another. Walk me through how you would investigate and address the issue."
+        },
+        {
+            "id": "AI-ETH-S032",
+            "difficulty": "scenario",
+            "question": "A customer reports that your AI assistant generated harmful advice. Explain how you would investigate the incident and reduce the likelihood of similar failures."
+        },
+        {
+            "id": "AI-ETH-S033",
+            "difficulty": "scenario",
+            "question": "Your company plans to deploy an AI application that processes sensitive healthcare records. Describe the privacy and ethical safeguards you would implement."
+        },
+        {
+            "id": "AI-ETH-S034",
+            "difficulty": "scenario",
+            "question": "A stakeholder requests the removal of human review to reduce operational costs. How would you evaluate whether that decision is appropriate?"
+        },
+        {
+            "id": "AI-ETH-S035",
+            "difficulty": "scenario",
+            "question": "Users begin relying on your AI system for legal advice beyond its intended purpose. Explain how you would reduce misuse while maintaining a good user experience."
+        },
+        {
+            "id": "AI-ETH-S036",
+            "difficulty": "scenario",
+            "question": "An independent audit discovers that your AI model performs significantly worse for certain demographic groups. Describe your investigation and remediation process."
+        },
+        {
+            "id": "AI-ETH-S037",
+            "difficulty": "scenario",
+            "question": "A government introduces new regulations affecting one of your deployed AI systems. Walk me through how you would evaluate compliance and update the application."
+        },
+        {
+            "id": "AI-ETH-S038",
+            "difficulty": "scenario",
+            "question": "A user requests that all personal information used to train your AI application be permanently removed. Explain the technical and operational considerations involved."
+        },
+        {
+            "id": "AI-ETH-S039",
+            "difficulty": "scenario",
+            "question": "Your AI application becomes extremely popular, but social media users begin sharing examples of incorrect and misleading outputs. Describe how you would respond from both an engineering and product perspective."
+        },
+        {
+            "id": "AI-ETH-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for launching an enterprise AI platform that will be used across finance, healthcare, and education. Explain how you would design governance, safety reviews, monitoring, incident response, and continuous improvement processes."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "security": [
+        {
+            "id": "FSD-SY-001",
+            "difficulty": "easy",
+            "question": "What are common security risks in web applications?"
+        },
+        {
+            "id": "FSD-SY-002",
+            "difficulty": "easy",
+            "question": "What is SQL Injection?"
+        },
+        {
+            "id": "FSD-SY-003",
+            "difficulty": "easy",
+            "question": "What is Cross-Site Scripting (XSS)?"
+        },
+        {
+            "id": "FSD-SY-004",
+            "difficulty": "easy",
+            "question": "What is Cross-Site Request Forgery (CSRF)?"
+        },
+        {
+            "id": "FSD-SY-005",
+            "difficulty": "easy",
+            "question": "Why is HTTPS important?"
+        },
+        {
+            "id": "FSD-SY-006",
+            "difficulty": "easy",
+            "question": "What is input validation?"
+        },
+        {
+            "id": "FSD-SY-007",
+            "difficulty": "easy",
+            "question": "Why should sensitive information never be stored in frontend code?"
+        },
+        {
+            "id": "FSD-SY-008",
+            "difficulty": "easy",
+            "question": "What are secure cookies?"
+        },
+        {
+            "id": "FSD-SY-009",
+            "difficulty": "easy",
+            "question": "What is authentication?"
+        },
+        {
+            "id": "FSD-SY-010",
+            "difficulty": "easy",
+            "question": "What is authorization?"
+        },
+
+
+        {
+            "id": "FSD-SY-011",
+            "difficulty": "medium",
+            "question": "How would you protect APIs from unauthorized access?"
+        },
+        {
+            "id": "FSD-SY-012",
+            "difficulty": "medium",
+            "question": "Explain Content Security Policy (CSP)."
+        },
+        {
+            "id": "FSD-SY-013",
+            "difficulty": "medium",
+            "question": "How would you secure file uploads?"
+        },
+        {
+            "id": "FSD-SY-014",
+            "difficulty": "medium",
+            "question": "Explain API rate limiting."
+        },
+        {
+            "id": "FSD-SY-015",
+            "difficulty": "medium",
+            "question": "What is brute-force protection?"
+        },
+        {
+            "id": "FSD-SY-016",
+            "difficulty": "medium",
+            "question": "How would you prevent session hijacking?"
+        },
+        {
+            "id": "FSD-SY-017",
+            "difficulty": "medium",
+            "question": "Explain password hashing algorithms."
+        },
+        {
+            "id": "FSD-SY-018",
+            "difficulty": "medium",
+            "question": "How would you secure user-generated content?"
+        },
+        {
+            "id": "FSD-SY-019",
+            "difficulty": "medium",
+            "question": "Explain API key management."
+        },
+        {
+            "id": "FSD-SY-020",
+            "difficulty": "medium",
+            "question": "What security checks would you perform before deployment?"
+        },
+
+
+        {
+            "id": "FSD-SY-021",
+            "difficulty": "hard",
+            "question": "Design a secure architecture for a SaaS platform."
+        },
+        {
+            "id": "FSD-SY-022",
+            "difficulty": "hard",
+            "question": "How would you secure communication between microservices?"
+        },
+        {
+            "id": "FSD-SY-023",
+            "difficulty": "hard",
+            "question": "Explain Zero Trust Architecture."
+        },
+        {
+            "id": "FSD-SY-024",
+            "difficulty": "hard",
+            "question": "Design a secure payment workflow."
+        },
+        {
+            "id": "FSD-SY-025",
+            "difficulty": "hard",
+            "question": "How would you protect against distributed denial-of-service (DDoS) attacks?"
+        }
+    ]
+}

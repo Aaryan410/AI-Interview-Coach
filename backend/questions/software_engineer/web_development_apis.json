@@ -1,0 +1,158 @@
+{
+    "web development & APIs": [
+        {
+            "id": "SE-WBA-001",
+            "difficulty": "easy",
+            "question": "What is HTML?"
+        },
+        {
+            "id": "SE-WBA-002",
+            "difficulty": "easy",
+            "question": "What is CSS?"
+        },
+        {
+            "id": "SE-WBA-003",
+            "difficulty": "easy",
+            "question": "What is JavaScript?"
+        },
+        {
+            "id": "SE-WBA-004",
+            "difficulty": "easy",
+            "question": "What is JSON?"
+        },
+        {
+            "id": "SE-WBA-005",
+            "difficulty": "easy",
+            "question": "What is an API?"
+        },
+        {
+            "id": "SE-WBA-006",
+            "difficulty": "easy",
+            "question": "Explain REST."
+        },
+        {
+            "id": "SE-WBA-007",
+            "difficulty": "easy",
+            "question": "What is a URL?"
+        },
+        {
+            "id": "SE-WBA-008",
+            "difficulty": "easy",
+            "question": "What are HTTP methods?"
+        },
+        {
+            "id": "SE-WBA-009",
+            "difficulty": "easy",
+            "question": "Explain GET vs POST."
+        },
+        {
+            "id": "SE-WBA-010",
+            "difficulty": "easy",
+            "question": "What are HTTP status codes?"
+        },
+
+
+        {
+            "id": "SE-WBA-011",
+            "difficulty": "medium",
+            "question": "What is CORS?"
+        },
+        {
+            "id": "SE-WBA-012",
+            "difficulty": "medium",
+            "question": "Explain JWT."
+        },
+        {
+            "id": "SE-WBA-013",
+            "difficulty": "medium",
+            "question": "What is authentication?"
+        },
+        {
+            "id": "SE-WBA-014",
+            "difficulty": "medium",
+            "question": "What is authorization?"
+        },
+        {
+            "id": "SE-WBA-015",
+            "difficulty": "medium",
+            "question": "Cookies vs Sessions."
+        },
+        {
+            "id": "SE-WBA-016",
+            "difficulty": "medium",
+            "question": "Explain CRUD APIs."
+        },
+        {
+            "id": "SE-WBA-017",
+            "difficulty": "medium",
+            "question": "What is RESTful API design?"
+        },
+        {
+            "id": "SE-WBA-018",
+            "difficulty": "medium",
+            "question": "What is API versioning?"
+        },
+        {
+            "id": "SE-WBA-019",
+            "difficulty": "medium",
+            "question": "Explain pagination in APIs."
+        },
+        {
+            "id": "SE-WBA-020",
+            "difficulty": "medium",
+            "question": "What is idempotency?"
+        },
+
+
+        {
+            "id": "SE-WBA-021",
+            "difficulty": "hard",
+            "question": "OAuth 2.0."
+        },
+        {
+            "id": "SE-WBA-022",
+            "difficulty": "hard",
+            "question": "GraphQL vs REST."
+        },
+        {
+            "id": "SE-WBA-023",
+            "difficulty": "hard",
+            "question": "API Gateway."
+        },
+        {
+            "id": "SE-WBA-024",
+            "difficulty": "hard",
+            "question": "WebSockets."
+        },
+        {
+            "id": "SE-WBA-025",
+            "difficulty": "hard",
+            "question": "Server-Sent Events (SSE)."
+        },
+        {
+            "id": "SE-WBA-026",
+            "difficulty": "hard",
+            "question": "Rate Limiting."
+        },
+        {
+            "id": "SE-WBA-027",
+            "difficulty": "hard",
+            "question": "Explain caching strategies."
+        },
+        {
+            "id": "SE-WBA-028",
+            "difficulty": "hard",
+            "question": "Designing scalable APIs."
+        },
+        {
+            "id": "SE-WBA-029",
+            "difficulty": "hard",
+            "question": "Explain HATEOAS."
+        },
+        {
+            "id": "SE-WBA-030",
+            "difficulty": "hard",
+            "question": "API security best practices."
+        }
+    ]
+}

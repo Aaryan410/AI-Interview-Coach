@@ -1,0 +1,185 @@
+{
+    "penetration testing": [
+        {
+            "id": "CSA-PT-001",
+            "difficulty": "easy",
+            "question": "What is penetration testing?"
+        },
+        {
+            "id": "CSA-PT-002",
+            "difficulty": "easy",
+            "question": "What is vulnerability scanning?"
+        },
+        {
+            "id": "CSA-PT-003",
+            "difficulty": "easy",
+            "question": "What is ethical hacking?"
+        },
+        {
+            "id": "CSA-PT-004",
+            "difficulty": "easy",
+            "question": "What is reconnaissance?"
+        },
+        {
+            "id": "CSA-PT-005",
+            "difficulty": "easy",
+            "question": "What is enumeration?"
+        },
+        {
+            "id": "CSA-PT-006",
+            "difficulty": "easy",
+            "question": "What is exploitation?"
+        },
+        {
+            "id": "CSA-PT-007",
+            "difficulty": "easy",
+            "question": "What is post-exploitation?"
+        },
+        {
+            "id": "CSA-PT-008",
+            "difficulty": "easy",
+            "question": "What is privilege escalation?"
+        },
+        {
+            "id": "CSA-PT-009",
+            "difficulty": "easy",
+            "question": "What is social engineering?"
+        },
+        {
+            "id": "CSA-PT-010",
+            "difficulty": "easy",
+            "question": "What is footprinting?"
+        },
+
+
+        {
+            "id": "CSA-PT-011",
+            "difficulty": "medium",
+            "question": "Explain the penetration testing lifecycle."
+        },
+        {
+            "id": "CSA-PT-012",
+            "difficulty": "medium",
+            "question": "How would you identify vulnerabilities?"
+        },
+        {
+            "id": "CSA-PT-013",
+            "difficulty": "medium",
+            "question": "What is privilege escalation?"
+        },
+        {
+            "id": "CSA-PT-014",
+            "difficulty": "medium",
+            "question": "Explain password attacks."
+        },
+        {
+            "id": "CSA-PT-015",
+            "difficulty": "medium",
+            "question": "What is lateral movement?"
+        },
+        {
+            "id": "CSA-PT-016",
+            "difficulty": "medium",
+            "question": "Explain network scanning."
+        },
+        {
+            "id": "CSA-PT-017",
+            "difficulty": "medium",
+            "question": "What is banner grabbing?"
+        },
+        {
+            "id": "CSA-PT-018",
+            "difficulty": "medium",
+            "question": "Explain wireless security testing."
+        },
+        {
+            "id": "CSA-PT-019",
+            "difficulty": "medium",
+            "question": "What is web application testing?"
+        },
+        {
+            "id": "CSA-PT-020",
+            "difficulty": "medium",
+            "question": "Explain reporting after a penetration test."
+        },
+
+
+        {
+            "id": "CSA-PT-021",
+            "difficulty": "hard",
+            "question": "Design a penetration testing strategy for a large company."
+        },
+        {
+            "id": "CSA-PT-022",
+            "difficulty": "hard",
+            "question": "Explain red team versus blue team."
+        },
+        {
+            "id": "CSA-PT-023",
+            "difficulty": "hard",
+            "question": "What is purple teaming?"
+        },
+        {
+            "id": "CSA-PT-024",
+            "difficulty": "hard",
+            "question": "How would you prioritize discovered vulnerabilities?"
+        },
+        {
+            "id": "CSA-PT-025",
+            "difficulty": "hard",
+            "question": "Explain attack simulation methodologies."
+        },
+
+
+        {
+            "id": "CSA-PT-S001",
+            "difficulty": "scenario",
+            "question": "You have been assigned to perform a penetration test on a client's web application. Before beginning the assessment, what information would you gather and what boundaries would you establish?"
+        },
+        {
+            "id": "CSA-PT-S002",
+            "difficulty": "scenario",
+            "question": "While conducting a penetration test, you discover a critical vulnerability that could expose sensitive customer data. How would you document, communicate, and prioritize the finding?"
+        },
+        {
+            "id": "CSA-PT-S003",
+            "difficulty": "scenario",
+            "question": "A vulnerability scanner reports hundreds of potential security issues across a client's infrastructure. Explain how you would determine which vulnerabilities should be addressed first."
+        },
+        {
+            "id": "CSA-PT-S004",
+            "difficulty": "scenario",
+            "question": "During an internal penetration test, you successfully gain access to a low-privileged user account. Describe the next steps you would take while remaining within the agreed scope of the engagement."
+        },
+        {
+            "id": "CSA-PT-S005",
+            "difficulty": "scenario",
+            "question": "A client provides almost no documentation about their environment before a penetration test. How would you begin planning and executing the assessment?"
+        },
+        {
+            "id": "CSA-PT-S006",
+            "difficulty": "scenario",
+            "question": "While testing a production environment, one of your actions unexpectedly causes a service outage. How would you respond both technically and professionally?"
+        },
+        {
+            "id": "CSA-PT-S007",
+            "difficulty": "scenario",
+            "question": "A client disputes one of your reported vulnerabilities, claiming it cannot be exploited in practice. How would you validate your findings and communicate your conclusion?"
+        },
+        {
+            "id": "CSA-PT-S008",
+            "difficulty": "scenario",
+            "question": "During a penetration test, you discover credentials belonging to a privileged administrator account. What actions should you take, and what ethical considerations apply?"
+        },
+        {
+            "id": "CSA-PT-S009",
+            "difficulty": "scenario",
+            "question": "You identify multiple systems running outdated software with publicly known vulnerabilities. How would you assess the organization's overall risk and present your recommendations?"
+        },
+        {
+            "id": "CSA-PT-S010",
+            "difficulty": "scenario",
+            "question": "After completing a penetration test, management asks for a summary of the results. How would you present the findings to both technical engineers and non-technical executives?"
+        }
+    ]
+}

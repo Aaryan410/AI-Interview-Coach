@@ -1,0 +1,54 @@
+{
+    "behavioral": [
+        {
+            "id": "DEV-BEH-001",
+            "difficulty": "easy",
+            "question": "Tell me about yourself."
+        },
+        {
+            "id": "DEV-BEH-002",
+            "difficulty": "easy",
+            "question": "Why do you want to become a DevOps Engineer?"
+        },
+        {
+            "id": "DEV-BEH-003",
+            "difficulty": "easy",
+            "question": "Describe a time when you had to learn a new technology quickly."
+        },
+        {
+            "id": "DEV-BEH-004",
+            "difficulty": "medium",
+            "question": "Tell me about a time you worked with developers or other team members to solve a difficult technical problem."
+        },
+        {
+            "id": "DEV-BEH-005",
+            "difficulty": "medium",
+            "question": "Describe a situation where you made a mistake. What happened, and what did you learn from it?"
+        },
+        {
+            "id": "DEV-BEH-006",
+            "difficulty": "medium",
+            "question": "Tell me about a time when you had to prioritize multiple urgent tasks."
+        },
+        {
+            "id": "DEV-BEH-007",
+            "difficulty": "hard",
+            "question": "Describe a technical decision you disagreed with. How did you handle the disagreement, and what was the outcome?"
+        },
+        {
+            "id": "DEV-BEH-008",
+            "difficulty": "hard",
+            "question": "Tell me about a time when you improved an existing process instead of simply following it."
+        },
+        {
+            "id": "DEV-BEH-S009",
+            "difficulty": "scenario",
+            "question": "It's 2:00 AM, a production outage has occurred, and multiple teams are waiting for updates. Explain how you would manage the technical response while communicating with stakeholders."
+        },
+        {
+            "id": "DEV-BEH-S010",
+            "difficulty": "scenario",
+            "question": "Imagine you discover that a deployment failure was caused by your own mistake. How would you handle the situation with your team and management?"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "python": [
+        {
+            "id": "AI-PY-001",
+            "difficulty": "easy",
+            "question": "Why is Python the most widely used programming language for Artificial Intelligence and Machine Learning?"
+        },
+        {
+            "id": "AI-PY-002",
+            "difficulty": "easy",
+            "question": "What are Python lists, tuples, dictionaries, and sets? Explain when you would use each."
+        },
+        {
+            "id": "AI-PY-003",
+            "difficulty": "easy",
+            "question": "What is the difference between mutable and immutable objects in Python?"
+        },
+        {
+            "id": "AI-PY-004",
+            "difficulty": "easy",
+            "question": "What is the purpose of functions in Python?"
+        },
+        {
+            "id": "AI-PY-005",
+            "difficulty": "easy",
+            "question": "Explain the purpose of virtual environments in Python."
+        },
+        {
+            "id": "AI-PY-006",
+            "difficulty": "easy",
+            "question": "What are Python modules and packages?"
+        },
+        {
+            "id": "AI-PY-007",
+            "difficulty": "easy",
+            "question": "What is Object-Oriented Programming, and how is it implemented in Python?"
+        },
+        {
+            "id": "AI-PY-008",
+            "difficulty": "easy",
+            "question": "Why are libraries such as NumPy and Pandas commonly used in AI development?"
+        },
+        {
+            "id": "AI-PY-009",
+            "difficulty": "easy",
+            "question": "How does Python handle exceptions, and why is exception handling important?"
+        },
+        {
+            "id": "AI-PY-010",
+            "difficulty": "easy",
+            "question": "What is the difference between a Python script and a Jupyter Notebook?"
+        },
+
+
+        {
+            "id": "AI-PY-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between shallow copying and deep copying in Python."
+        },
+        {
+            "id": "AI-PY-012",
+            "difficulty": "medium",
+            "question": "How do generators differ from lists, and when would you use them in AI applications?"
+        },
+        {
+            "id": "AI-PY-013",
+            "difficulty": "medium",
+            "question": "What are decorators, and how can they be useful in Python applications?"
+        },
+        {
+            "id": "AI-PY-014",
+            "difficulty": "medium",
+            "question": "Explain how context managers work in Python and why the with statement is useful."
+        },
+        {
+            "id": "AI-PY-015",
+            "difficulty": "medium",
+            "question": "How would you optimize Python code that processes millions of records?"
+        },
+        {
+            "id": "AI-PY-016",
+            "difficulty": "medium",
+            "question": "Explain how NumPy arrays differ from Python lists and why NumPy is significantly faster."
+        },
+        {
+            "id": "AI-PY-017",
+            "difficulty": "medium",
+            "question": "How would you organize a large Python project intended for production?"
+        },
+        {
+            "id": "AI-PY-018",
+            "difficulty": "medium",
+            "question": "What is the Global Interpreter Lock (GIL), and how does it affect Python applications?"
+        },
+        {
+            "id": "AI-PY-019",
+            "difficulty": "medium",
+            "question": "How would you profile and identify performance bottlenecks in a Python application?"
+        },
+        {
+            "id": "AI-PY-020",
+            "difficulty": "medium",
+            "question": "Explain the importance of type hints and static analysis in modern Python development."
+        },
+
+
+        {
+            "id": "AI-PY-021",
+            "difficulty": "hard",
+            "question": "How does Python's memory management and garbage collection work internally?"
+        },
+        {
+            "id": "AI-PY-022",
+            "difficulty": "hard",
+            "question": "How would you design a scalable Python application for serving AI models in production?"
+        },
+        {
+            "id": "AI-PY-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between multiprocessing, multithreading, and asynchronous programming in Python."
+        },
+        {
+            "id": "AI-PY-024",
+            "difficulty": "hard",
+            "question": "How would you optimize Python code that has become a bottleneck during machine learning model inference?"
+        },
+        {
+            "id": "AI-PY-025",
+            "difficulty": "hard",
+            "question": "Describe the Python import system and explain how modules are loaded."
+        },
+        {
+            "id": "AI-PY-026",
+            "difficulty": "hard",
+            "question": "How would you build a reusable Python package intended for internal AI teams?"
+        },
+        {
+            "id": "AI-PY-027",
+            "difficulty": "hard",
+            "question": "Explain common causes of memory leaks in long-running Python applications and how you would investigate them."
+        },
+        {
+            "id": "AI-PY-028",
+            "difficulty": "hard",
+            "question": "How would you design Python code that remains maintainable as an AI project grows to hundreds of thousands of lines?"
+        },
+        {
+            "id": "AI-PY-029",
+            "difficulty": "hard",
+            "question": "How would you balance readability, performance, and scalability when writing production Python code?"
+        },
+        {
+            "id": "AI-PY-030",
+            "difficulty": "hard",
+            "question": "Explain the advantages and limitations of Python for large-scale Artificial Intelligence systems."
+        },
+
+
+        {
+            "id": "AI-PY-S031",
+            "difficulty": "scenario",
+            "question": "Your AI application suddenly becomes ten times slower after deploying a new version. Walk me through how you would investigate and optimize the Python code."
+        },
+        {
+            "id": "AI-PY-S032",
+            "difficulty": "scenario",
+            "question": "A production AI service gradually consumes more memory until it crashes every few hours. Explain how you would diagnose the issue."
+        },
+        {
+            "id": "AI-PY-S033",
+            "difficulty": "scenario",
+            "question": "A teammate writes Python code that works correctly but takes several hours to process a dataset. How would you review and optimize the implementation?"
+        },
+        {
+            "id": "AI-PY-S034",
+            "difficulty": "scenario",
+            "question": "Your machine learning model performs well locally but runs much slower after deployment. Describe your debugging process."
+        },
+        {
+            "id": "AI-PY-S035",
+            "difficulty": "scenario",
+            "question": "A critical AI service crashes because of an unexpected exception that was never handled. How would you improve the application's reliability?"
+        },
+        {
+            "id": "AI-PY-S036",
+            "difficulty": "scenario",
+            "question": "A teammate accidentally introduces a change that breaks multiple Python modules used by different AI services. Explain how you would investigate and recover."
+        },
+        {
+            "id": "AI-PY-S037",
+            "difficulty": "scenario",
+            "question": "Your team needs to process billions of records every day using Python. Explain the architectural decisions you would make to ensure good performance."
+        },
+        {
+            "id": "AI-PY-S038",
+            "difficulty": "scenario",
+            "question": "An AI application starts returning inconsistent results after several package updates. Walk me through how you would identify the root cause."
+        },
+        {
+            "id": "AI-PY-S039",
+            "difficulty": "scenario",
+            "question": "You're asked to convert a research prototype written in Python into a production-ready application. Describe the improvements you would make before deployment."
+        },
+        {
+            "id": "AI-PY-S040",
+            "difficulty": "scenario",
+            "question": "You're leading the backend development of an AI platform expected to serve millions of requests every day. Explain how you would structure the Python application for scalability, maintainability, and reliability."
+        }
+    ]
+}

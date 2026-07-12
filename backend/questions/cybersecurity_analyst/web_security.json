@@ -1,0 +1,185 @@
+{
+    "web security": [
+        {
+            "id": "CSA-WS-001",
+            "difficulty": "easy",
+            "question": "What is SQL Injection?"
+        },
+        {
+            "id": "CSA-WS-002",
+            "difficulty": "easy",
+            "question": "What is Cross-Site Scripting (XSS)?"
+        },
+        {
+            "id": "CSA-WS-003",
+            "difficulty": "easy",
+            "question": "What is Cross-Site Request Forgery (CSRF)?"
+        },
+        {
+            "id": "CSA-WS-004",
+            "difficulty": "easy",
+            "question": "Why is input validation important?"
+        },
+        {
+            "id": "CSA-WS-005",
+            "difficulty": "easy",
+            "question": "What is output encoding?"
+        },
+        {
+            "id": "CSA-WS-006",
+            "difficulty": "easy",
+            "question": "What is authentication?"
+        },
+        {
+            "id": "CSA-WS-007",
+            "difficulty": "easy",
+            "question": "What is authorization?"
+        },
+        {
+            "id": "CSA-WS-008",
+            "difficulty": "easy",
+            "question": "Why should HTTPS always be used?"
+        },
+        {
+            "id": "CSA-WS-009",
+            "difficulty": "easy",
+            "question": "What are cookies?"
+        },
+        {
+            "id": "CSA-WS-010",
+            "difficulty": "easy",
+            "question": "What are sessions?"
+        },
+
+
+        {
+            "id": "CSA-WS-011",
+            "difficulty": "medium",
+            "question": "How would you prevent SQL Injection?"
+        },
+        {
+            "id": "CSA-WS-012",
+            "difficulty": "medium",
+            "question": "How would you secure user authentication?"
+        },
+        {
+            "id": "CSA-WS-013",
+            "difficulty": "medium",
+            "question": "Explain Content Security Policy (CSP)."
+        },
+        {
+            "id": "CSA-WS-014",
+            "difficulty": "medium",
+            "question": "What are secure cookies?"
+        },
+        {
+            "id": "CSA-WS-015",
+            "difficulty": "medium",
+            "question": "Explain SameSite cookies."
+        },
+        {
+            "id": "CSA-WS-016",
+            "difficulty": "medium",
+            "question": "What is clickjacking?"
+        },
+        {
+            "id": "CSA-WS-017",
+            "difficulty": "medium",
+            "question": "How would you prevent XSS?"
+        },
+        {
+            "id": "CSA-WS-018",
+            "difficulty": "medium",
+            "question": "Explain session hijacking."
+        },
+        {
+            "id": "CSA-WS-019",
+            "difficulty": "medium",
+            "question": "What is brute-force protection?"
+        },
+        {
+            "id": "CSA-WS-020",
+            "difficulty": "medium",
+            "question": "How would you secure REST APIs?"
+        },
+
+
+        {
+            "id": "CSA-WS-021",
+            "difficulty": "hard",
+            "question": "Design a secure login system."
+        },
+        {
+            "id": "CSA-WS-022",
+            "difficulty": "hard",
+            "question": "Explain common OWASP Top 10 vulnerabilities."
+        },
+        {
+            "id": "CSA-WS-023",
+            "difficulty": "hard",
+            "question": "How would you secure a banking website?"
+        },
+        {
+            "id": "CSA-WS-024",
+            "difficulty": "hard",
+            "question": "Design secure session management."
+        },
+        {
+            "id": "CSA-WS-025",
+            "difficulty": "hard",
+            "question": "Explain secure API authentication."
+        },
+
+
+        {
+            "id": "CSA-WS-S001",
+            "difficulty": "scenario",
+            "question": "A penetration test reveals an SQL Injection vulnerability in your application's login page. Describe the immediate actions you would take and how you would prevent similar vulnerabilities in the future."
+        },
+        {
+            "id": "CSA-WS-S002",
+            "difficulty": "scenario",
+            "question": "Users report that malicious JavaScript appears to execute after viewing certain comments on your website. How would you investigate and resolve the issue?"
+        },
+        {
+            "id": "CSA-WS-S003",
+            "difficulty": "scenario",
+            "question": "Your application allows users to upload files. Before deploying this feature, what security risks would you evaluate, and how would you reduce them?"
+        },
+        {
+            "id": "CSA-WS-S004",
+            "difficulty": "scenario",
+            "question": "A developer accidentally commits a production API key to a public GitHub repository. What actions would you take immediately, and what long-term improvements would you recommend?"
+        },
+        {
+            "id": "CSA-WS-S005",
+            "difficulty": "scenario",
+            "question": "During a security audit, you discover that sensitive customer information is being written to server logs. How would you handle this situation?"
+        },
+        {
+            "id": "CSA-WS-S006",
+            "difficulty": "scenario",
+            "question": "Several users report that they are being logged out immediately after signing in. Describe how you would investigate whether the issue is related to authentication, sessions, or browser configuration."
+        },
+        {
+            "id": "CSA-WS-S007",
+            "difficulty": "scenario",
+            "question": "Your web application suddenly starts receiving thousands of login attempts from different IP addresses. How would you investigate the activity and protect the application?"
+        },
+        {
+            "id": "CSA-WS-S008",
+            "difficulty": "scenario",
+            "question": "A security scanner reports that your application is vulnerable to Cross-Site Scripting (XSS). Explain how you would confirm the finding, assess the risk, and implement a fix."
+        },
+        {
+            "id": "CSA-WS-S009",
+            "difficulty": "scenario",
+            "question": "A third-party JavaScript library used by your website is discovered to contain a serious security vulnerability. How would you assess the impact and respond?"
+        },
+        {
+            "id": "CSA-WS-S010",
+            "difficulty": "scenario",
+            "question": "After deploying a new version of your web application, customers report that payment requests occasionally fail. Describe how you would determine whether the issue is caused by the application, the API integration, or a security-related problem."
+        }
+    ]
+}

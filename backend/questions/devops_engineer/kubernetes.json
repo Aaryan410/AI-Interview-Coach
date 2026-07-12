@@ -1,0 +1,210 @@
+{
+    "kubernetes": [
+        {
+            "id": "DEV-K8S-001",
+            "difficulty": "easy",
+            "question": "What is Kubernetes, and what problems does it solve?"
+        },
+        {
+            "id": "DEV-K8S-002",
+            "difficulty": "easy",
+            "question": "What is a Kubernetes cluster?"
+        },
+        {
+            "id": "DEV-K8S-003",
+            "difficulty": "easy",
+            "question": "What is a Pod in Kubernetes?"
+        },
+        {
+            "id": "DEV-K8S-004",
+            "difficulty": "easy",
+            "question": "Explain the purpose of a Node in Kubernetes."
+        },
+        {
+            "id": "DEV-K8S-005",
+            "difficulty": "easy",
+            "question": "What is a Deployment in Kubernetes?"
+        },
+        {
+            "id": "DEV-K8S-006",
+            "difficulty": "easy",
+            "question": "What is the purpose of a Service in Kubernetes?"
+        },
+        {
+            "id": "DEV-K8S-007",
+            "difficulty": "easy",
+            "question": "What is the difference between Kubernetes and Docker?"
+        },
+        {
+            "id": "DEV-K8S-008",
+            "difficulty": "easy",
+            "question": "What is kubectl, and why is it used?"
+        },
+        {
+            "id": "DEV-K8S-009",
+            "difficulty": "easy",
+            "question": "What is a Namespace in Kubernetes?"
+        },
+        {
+            "id": "DEV-K8S-010",
+            "difficulty": "easy",
+            "question": "Why is container orchestration important?"
+        },
+
+
+        {
+            "id": "DEV-K8S-011",
+            "difficulty": "medium",
+            "question": "Explain how Kubernetes schedules Pods onto Nodes."
+        },
+        {
+            "id": "DEV-K8S-012",
+            "difficulty": "medium",
+            "question": "What is the difference between a Deployment and a StatefulSet?"
+        },
+        {
+            "id": "DEV-K8S-013",
+            "difficulty": "medium",
+            "question": "Explain how ReplicaSets help maintain application availability."
+        },
+        {
+            "id": "DEV-K8S-014",
+            "difficulty": "medium",
+            "question": "What are ConfigMaps and Secrets, and when should each be used?"
+        },
+        {
+            "id": "DEV-K8S-015",
+            "difficulty": "medium",
+            "question": "Explain the purpose of Ingress in Kubernetes."
+        },
+        {
+            "id": "DEV-K8S-016",
+            "difficulty": "medium",
+            "question": "How do readiness probes and liveness probes differ?"
+        },
+        {
+            "id": "DEV-K8S-017",
+            "difficulty": "medium",
+            "question": "How would you perform a rolling update in Kubernetes?"
+        },
+        {
+            "id": "DEV-K8S-018",
+            "difficulty": "medium",
+            "question": "How does Kubernetes perform service discovery?"
+        },
+        {
+            "id": "DEV-K8S-019",
+            "difficulty": "medium",
+            "question": "Explain the role of the Kubernetes control plane."
+        },
+        {
+            "id": "DEV-K8S-020",
+            "difficulty": "medium",
+            "question": "How would you scale an application running in Kubernetes?"
+        },
+
+
+        {
+            "id": "DEV-K8S-021",
+            "difficulty": "hard",
+            "question": "Explain the complete lifecycle of a Pod from creation until termination."
+        },
+        {
+            "id": "DEV-K8S-022",
+            "difficulty": "hard",
+            "question": "How does the Kubernetes scheduler decide where to place Pods?"
+        },
+        {
+            "id": "DEV-K8S-023",
+            "difficulty": "hard",
+            "question": "Describe how Kubernetes networking works between Pods across different Nodes."
+        },
+        {
+            "id": "DEV-K8S-024",
+            "difficulty": "hard",
+            "question": "Explain how etcd contributes to Kubernetes cluster management."
+        },
+        {
+            "id": "DEV-K8S-025",
+            "difficulty": "hard",
+            "question": "How would you secure a production Kubernetes cluster?"
+        },
+        {
+            "id": "DEV-K8S-026",
+            "difficulty": "hard",
+            "question": "Explain how Kubernetes handles self-healing when a Pod unexpectedly fails."
+        },
+        {
+            "id": "DEV-K8S-027",
+            "difficulty": "hard",
+            "question": "Describe different deployment strategies available in Kubernetes and when you would use each."
+        },
+        {
+            "id": "DEV-K8S-028",
+            "difficulty": "hard",
+            "question": "How would you troubleshoot performance issues in a Kubernetes cluster?"
+        },
+        {
+            "id": "DEV-K8S-029",
+            "difficulty": "hard",
+            "question": "Explain how persistent storage is managed in Kubernetes."
+        },
+        {
+            "id": "DEV-K8S-030",
+            "difficulty": "hard",
+            "question": "How would you design a highly available Kubernetes cluster for a production environment?"
+        },
+
+
+        {
+            "id": "DEV-K8S-S031",
+            "difficulty": "scenario",
+            "question": "Users report that your application is unavailable, and you discover that several Pods are repeatedly crashing. Walk me through how you would investigate and resolve the issue."
+        },
+        {
+            "id": "DEV-K8S-S032",
+            "difficulty": "scenario",
+            "question": "After deploying a new application version, customers begin reporting failures. Explain how you would determine whether the deployment is responsible and safely recover the service."
+        },
+        {
+            "id": "DEV-K8S-S033",
+            "difficulty": "scenario",
+            "question": "Your monitoring system alerts you that one Node in the cluster has gone offline. How would Kubernetes respond, and what steps would you take?"
+        },
+        {
+            "id": "DEV-K8S-S034",
+            "difficulty": "scenario",
+            "question": "A Deployment successfully creates Pods, but users still cannot access the application. Describe your troubleshooting process."
+        },
+        {
+            "id": "DEV-K8S-S035",
+            "difficulty": "scenario",
+            "question": "A teammate accidentally deletes a Deployment running a critical production service. What actions would you take to restore the application?"
+        },
+        {
+            "id": "DEV-K8S-S036",
+            "difficulty": "scenario",
+            "question": "Your application suddenly experiences a massive increase in traffic. Explain how you would ensure the Kubernetes cluster continues serving users without downtime."
+        },
+        {
+            "id": "DEV-K8S-S037",
+            "difficulty": "scenario",
+            "question": "While reviewing cluster logs, you notice that one Pod has significantly higher memory usage than the others. How would you investigate whether this is expected behavior or a problem?"
+        },
+        {
+            "id": "DEV-K8S-S038",
+            "difficulty": "scenario",
+            "question": "A developer reports that changes made to a ConfigMap are not reflected in the running application. How would you troubleshoot the issue?"
+        },
+        {
+            "id": "DEV-K8S-S039",
+            "difficulty": "scenario",
+            "question": "A production Deployment has become unstable after several manual configuration changes by different team members. Describe how you would identify the cause and restore a reliable state."
+        },
+        {
+            "id": "DEV-K8S-S040",
+            "difficulty": "scenario",
+            "question": "It's 3:00 AM, and you're alerted that several critical microservices are unavailable because multiple Pods cannot be scheduled. Walk me through how you would investigate and restore the cluster."
+        }
+    ]
+}

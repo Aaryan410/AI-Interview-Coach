@@ -1,0 +1,185 @@
+{
+    "cryptography": [
+        {
+           "id": "CSA-CY-001",
+           "difficulty": "easy",
+           "question": "What is encryption?"
+        },
+        {
+            "id": "CSA-CY-002",
+            "difficulty": "easy",
+            "question": "What is hashing?"
+        },
+        {
+            "id": "CSA-CY-003",
+            "difficulty": "easy",
+            "question": "What is the difference between hashing and encryption?"
+        },
+        {
+            "id": "CSA-CY-004",
+            "difficulty": "easy",
+            "question": "What is a digital signature?"
+        },
+        {
+            "id": "CSA-CY-005",
+            "difficulty": "easy",
+            "question": "What is a certificate?"
+        },
+        {
+            "id": "CSA-CY-006",
+            "difficulty": "easy",
+            "question": "What is SSL/TLS?"
+        },
+        {
+            "id": "CSA-CY-007",
+            "difficulty": "easy",
+            "question": "What is HTTPS?"
+        },
+        {
+            "id": "CSA-CY-008",
+            "difficulty": "easy",
+            "question": "What is symmetric encryption?"
+        },
+        {
+            "id": "CSA-CY-009",
+            "difficulty": "easy",
+            "question": "What is asymmetric encryption?"
+        },
+        {
+            "id": "CSA-CY-010",
+            "difficulty": "easy",
+            "question": "Why are strong passwords important?"
+        },
+
+
+        {
+            "id": "CSA-CY-011",
+            "difficulty": "medium",
+            "question": "Explain RSA encryption."
+        },
+        {
+            "id": "CSA-CY-012",
+            "difficulty": "medium",
+            "question": "Explain AES."
+        },
+        {
+            "id": "CSA-CY-013",
+            "difficulty": "medium",
+            "question": "What is key exchange?"
+        },
+        {
+            "id": "CSA-CY-014",
+            "difficulty": "medium",
+            "question": "Explain public and private keys."
+        },
+        {
+            "id": "CSA-CY-015",
+            "difficulty": "medium",
+            "question": "What are certificate authorities?"
+        },
+        {
+            "id": "CSA-CY-016",
+            "difficulty": "medium",
+            "question": "Explain HMAC."
+        },
+        {
+            "id": "CSA-CY-017",
+            "difficulty": "medium",
+            "question": "What is salting?"
+        },
+        {
+            "id": "CSA-CY-018",
+            "difficulty": "medium",
+            "question": "Explain password hashing algorithms."
+        },
+        {
+            "id": "CSA-CY-019",
+            "difficulty": "medium",
+            "question": "What is forward secrecy?"
+        },
+        {
+            "id": "CSA-CY-020",
+            "difficulty": "medium",
+            "question": "How does HTTPS establish a secure connection?"
+        },
+
+
+        {
+            "id": "CSA-CY-021",
+            "difficulty": "hard",
+            "question": "Design a secure communication system."
+        },
+        {
+            "id": "CSA-CY-022",
+            "difficulty": "hard",
+            "question": "Explain PKI."
+        },
+        {
+            "id": "CSA-CY-023",
+            "difficulty": "hard",
+            "question": "How would you manage encryption keys?"
+        },
+        {
+            "id": "CSA-CY-024",
+            "difficulty": "hard",
+            "question": "Explain digital certificates in large organizations."
+        },
+        {
+            "id": "CSA-CY-025",
+            "difficulty": "hard",
+            "question": "How would you secure sensitive customer data?"
+        },
+
+
+        {
+            "id": "CSA-CY-S001",
+            "difficulty": "scenario",
+            "question": "Your company wants to encrypt sensitive customer information stored in its database. How would you decide what data should be encrypted, how encryption keys should be managed, and what security risks you would consider?"
+        },
+        {
+            "id": "CSA-CY-S002",
+            "difficulty": "scenario",
+            "question": "A developer proposes storing user passwords using Base64 encoding because it is not human-readable. How would you respond, and what would you recommend instead?"
+        },
+        {
+            "id": "CSA-CY-S003",
+            "difficulty": "scenario",
+            "question": "Your organization's SSL/TLS certificate expires tomorrow, but the replacement certificate has not yet been installed. What immediate risks does this create, and how would you handle the situation?"
+        },
+        {
+            "id": "CSA-CY-S004",
+            "difficulty": "scenario",
+            "question": "Your company plans to rotate encryption keys across hundreds of production servers. What challenges could arise during the process, and how would you minimize disruption?"
+        },
+        {
+            "id": "CSA-CY-S005",
+            "difficulty": "scenario",
+            "question": "Users continue to receive browser security warnings even after HTTPS has been enabled on the company's website. Describe how you would investigate the problem."
+        },
+        {
+            "id": "CSA-CY-S006",
+            "difficulty": "scenario",
+            "question": "A backup containing sensitive customer data has been stolen. The backup was encrypted. What factors would determine whether customer information is still at risk?"
+        },
+        {
+            "id": "CSA-CY-S007",
+            "difficulty": "scenario",
+            "question": "An employee accidentally shares a private encryption key through email. What actions should be taken immediately, and what long-term measures would you recommend?"
+        },
+        {
+            "id": "CSA-CY-S008",
+            "difficulty": "scenario",
+            "question": "Your organization is developing a messaging application that requires end-to-end encryption. Explain the key security considerations you would discuss with the development team."
+        },
+        {
+            "id": "CSA-Cy-S009",
+            "difficulty": "scenario",
+            "question": "A third-party vendor requests access to encrypted customer data for analytics purposes. How would you evaluate the request while protecting customer privacy and security?"
+        },
+        {
+            "id": "CSA-CY-S010",
+            "difficulty": "scenario",
+            "question": "Your security audit reveals that an application is still using an outdated cryptographic algorithm that is considered insecure. How would you plan and execute a secure migration to a stronger algorithm?"
+        }
+    ]
+}

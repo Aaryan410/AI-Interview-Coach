@@ -1,0 +1,131 @@
+{
+    "css": [
+        {
+            "id": "FD-CSS-001",
+            "difficulty": "easy",
+            "question": "What is CSS?"
+        },
+        {
+            "id": "FD-CSS-002",
+            "difficulty": "easy",
+            "question": "Explain the CSS Box Model."
+        },
+        {
+            "id": "FD-CSS-003",
+            "difficulty": "easy",
+            "question": "What is the difference between margin and padding?"
+        },
+        {
+            "id": "FD-CSS-004",
+            "difficulty": "easy",
+            "question": "What are Flexbox and Grid?"
+        },
+        {
+            "id": "FD-CSS-005",
+            "difficulty": "easy",
+            "question": "What is responsive design?"
+        },
+        {
+            "id": "FD-CSS-006",
+            "difficulty": "easy",
+            "question": "What are media queries?"
+        },
+        {
+            "id": "FD-CSS-007",
+            "difficulty": "easy",
+            "question": "Explain CSS selectors."
+        },
+        {
+            "id": "FD-CSS-008",
+            "difficulty": "easy",
+            "question": "What is specificity in CSS?"
+        },
+        {
+            "id": "FD-CSS-009",
+            "difficulty": "easy",
+            "question": "What is the difference between relative and absolute positioning?"
+        },
+        {
+            "id": "FD-CSS-010",
+            "difficulty": "easy",
+            "question": "What is the difference between display: none and visibility: hidden?"
+        },
+
+        {
+            "id": "FD-CSS-011",
+            "difficulty": "medium",
+            "question": "Explain Flexbox alignment."
+        },
+        {
+            "id": "FD-CSS-012",
+            "difficulty": "medium",
+            "question": "Explain CSS Grid layout."
+        },
+        {
+            "id": "FD-CSS-013",
+            "difficulty": "medium",
+            "question": "What are CSS variables?"
+        },
+        {
+            "id": "FD-CSS-014",
+            "difficulty": "medium",
+            "question": "How would you create a responsive navbar?"
+        },
+        {
+            "id": "FD-CSS-015",
+            "difficulty": "medium",
+            "question": "Explain pseudo-classes."
+        },
+        {
+            "id": "FD-CSS-016",
+            "difficulty": "medium",
+            "question": "Explain pseudo-elements."
+        },
+        {
+            "id": "FD-CSS-017",
+            "difficulty": "medium",
+            "question": "What is z-index?"
+        },
+        {
+            "id": "FD-CSS-018",
+            "difficulty": "medium",
+            "question": "Explain transitions."
+        },
+        {
+            "id": "FD-CSS-019",
+            "difficulty": "medium",
+            "question": "Explain animations."
+        },
+        {
+            "id": "FD-CSS-020",
+            "difficulty": "medium",
+            "question": "What are CSS preprocessors?"
+        },
+
+        {
+            "id": "FD-CSS-021",
+            "difficulty": "hard",
+            "question": "How would you build a responsive dashboard?"
+        },
+        {
+            "id": "FD-CSS-022",
+            "difficulty": "hard",
+            "question": "Explain browser repaint and reflow."
+        },
+        {
+            "id": "FD-CSS-023",
+            "difficulty": "hard",
+            "question": "How would you optimize CSS performance?"
+        },
+        {
+            "id": "FD-CSS-024",
+            "difficulty": "hard",
+            "question": "What causes layout shifts?"
+        },
+        {
+            "id": "FD-CSS-025",
+            "difficulty": "hard",
+            "question": "Explain CSS architecture methodologies."
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "computer networks (CN)":[
+        {
+            "id": "SE-CN-001",
+            "difficulty": "hard",
+            "question": "What is an IP Address?"
+        },
+        {
+            "id": "SE-CN-002",
+            "difficulty": "easy",
+            "question": "What is DNS?"
+        },
+        {
+            "id": "SE-CN-003",
+            "difficulty": "easy",
+            "question": "Difference between TCP and UDP."
+        },
+        {
+            "id": "SE-CN-004",
+            "difficulty": "easy",
+            "question": "What is HTTP?"
+        },
+        {
+            "id": "SE-CN-005",
+            "difficulty": "easy",
+            "question": "What is HTTPS?"
+        },
+        {
+            "id": "SE-CN-006",
+            "difficulty": "easy",
+            "question": "What is a router?"
+        },
+        {
+            "id": "SE-CN-007",
+            "difficulty": "easy",
+            "question": "What is a switch?"
+        },
+        {
+            "id": "SE-CN-008",
+            "difficulty": "easy",
+            "question": "What is a MAC address?"
+        },
+        {
+            "id": "SE-CN-009",
+            "difficulty": "easy",
+            "question": "Explain packets."
+        },
+        {
+            "id": "SE-CN-010",
+            "difficulty": "easy",
+            "question": "What is bandwidth?"
+        },
+        
+        
+        {
+            "id": "SE-CN-011",
+            "difficulty": "medium",
+            "question": "Explain the OSI Model."
+        },
+        {
+            "id": "SE-CN-012",
+            "difficulty": "medium",
+            "question": "Explain the TCP/IP Model."
+        },
+        {
+            "id": "SE-CN-013",
+            "difficulty": "medium",
+            "question": "What is the TCP Three-Way Handshake?"
+        },
+        {
+            "id": "SE-CN-014",
+            "difficulty": "medium",
+            "question": "What is NAT?"
+        },
+        {
+            "id": "SE-CN-015",
+            "difficulty": "medium",
+            "question": "Cookies vs Sessions."
+        },
+        {
+            "id": "SE-CN-016",
+            "difficulty": "medium",
+            "question": "Explain REST APIs."
+        },
+        {
+            "id": "SE-CN-017",
+            "difficulty": "medium",
+            "question": "What is a firewall?"
+        },
+        {
+            "id": "SE-CN-018",
+            "difficulty": "medium",
+            "question": "What is TLS?"
+        },
+        {
+            "id": "SE-CN-019",
+            "difficulty": "medium",
+            "question": "What is latency?"
+        },
+        {
+            "id": "SE-CN-020",
+            "difficulty": "medium",
+            "question": "What is load balancing?"
+        },
+
+
+        {
+            "id": "SE-CN-021",
+            "difficulty": "hard",
+            "question": "Explain CDN."
+        },
+        {
+            "id": "SE-CN-022",
+            "difficulty": "hard",
+            "question": "Reverse Proxy vs Forward Proxy."
+        },
+        {
+            "id": "SE-CN-023",
+            "difficulty": "hard",
+            "question": "HTTP/2 vs HTTP/3."
+        },
+        {
+            "id": "SE-CN-024",
+            "difficulty": "hard",
+            "question": "Congestion Control."
+        },
+        {
+            "id": "SE-CN-025",
+            "difficulty": "hard",
+            "question": "Flow Control."
+        },
+        {
+            "id": "SE-CN-026",
+            "difficulty": "hard",
+            "question": "Explain WebSockets."
+        },
+        {
+            "id": "SE-CN-027",
+            "difficulty": "hard",
+            "question": "Explain gRPC."
+        },
+        {
+            "id": "SE-CN-028",
+            "difficulty": "hard",
+            "question": "What is Anycast Routing?"
+        },
+        {
+            "id": "SE-CN-029",
+            "difficulty": "hard",
+            "question": "Explain DNS Load Balancing."
+        },
+        {
+            "id": "SE-CN-030",
+            "difficulty": "hard",
+            "question": "How does HTTPS establish a secure connection?"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "behavioral": [
+        {
+            "id": "AI-BEH-001",
+            "difficulty": "easy",
+            "question": "Tell me about yourself."
+        },
+        {
+            "id": "AI-BEH-002",
+            "difficulty": "easy",
+            "question": "Why do you want to become an AI Engineer?"
+        },
+        {
+            "id": "AI-BEH-003",
+            "difficulty": "easy",
+            "question": "Describe a time when you had to learn a new AI concept or technology quickly."
+        },
+        {
+            "id": "AI-BEH-004",
+            "difficulty": "medium",
+            "question": "Tell me about a time when you worked with people from different technical backgrounds to complete an AI project."
+        },
+        {
+            "id": "AI-BEH-005",
+            "difficulty": "medium",
+            "question": "Describe a situation where an AI experiment or model did not perform as expected. What did you learn?"
+        },
+        {
+            "id": "AI-BEH-006",
+            "difficulty": "medium",
+            "question": "Tell me about a time when you had to balance research, engineering, and delivery deadlines."
+        },
+        {
+            "id": "AI-BEH-007",
+            "difficulty": "hard",
+            "question": "Describe a technical decision involving an AI system that you disagreed with. How did you communicate your perspective, and what was the outcome?"
+        },
+        {
+            "id": "AI-BEH-008",
+            "difficulty": "hard",
+            "question": "Tell me about a time when you significantly improved an AI system, workflow, or engineering process."
+        },
+        {
+            "id": "AI-BEH-S009",
+            "difficulty": "scenario",
+            "question": "A production AI system begins making incorrect decisions that could affect thousands of users. Explain how you would coordinate the technical response, communicate with stakeholders, and restore confidence in the system."
+        },
+        {
+            "id": "AI-BEH-S010",
+            "difficulty": "scenario",
+            "question": "Imagine you discover that an AI model you deployed contains an issue that should have been caught before release. How would you handle the situation with your team, management, and users?"
+        }
+    ]
+}

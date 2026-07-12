@@ -1,0 +1,158 @@
+{
+    "backend frameworks": [
+        {
+            "id": "BD-BF-001",
+            "difficulty": "easy",
+            "question": "Which backend framework are you most comfortable with, and why?"
+        },
+        {
+            "id": "BD-BF-002",
+            "difficulty": "easy",
+            "question": "What is the purpose of a backend framework?"
+        },
+        {
+            "id": "BD-BF-003",
+            "difficulty": "easy",
+            "question": "What is routing in a backend framework?"
+        },
+        {
+            "id": "BD-BF-004",
+            "difficulty": "easy",
+            "question": "What are middleware, and why are they useful?"
+        },
+        {
+            "id": "BD-BF-005",
+            "difficulty": "easy",
+            "question": "What is an ORM?"
+        },
+        {
+            "id": "BD-BF-006",
+            "difficulty": "easy",
+            "question": "Why are environment variables important?"
+        },
+        {
+            "id": "BD-BF-007",
+            "difficulty": "easy",
+            "question": "What is dependency management?"
+        },
+        {
+            "id": "BD-BF-008",
+            "difficulty": "easy",
+            "question": "How do backend frameworks simplify development?"
+        },
+        {
+            "id": "BD-BF-009",
+            "difficulty": "easy",
+            "question": "What is request validation?"
+        },
+        {
+            "id": "BD-BF-010",
+            "difficulty": "easy",
+            "question": "How do you organize routes in a backend application?"
+        },
+
+
+        {
+            "id": "BD-BF-011",
+            "difficulty": "medium",
+            "question": "Explain the lifecycle of an HTTP request in your preferred backend framework."
+        },
+        {
+            "id": "BD-BF-012",
+            "difficulty": "medium",
+            "question": "What is dependency injection, and why is it useful?"
+        },
+        {
+            "id": "BD-BF-013",
+            "difficulty": "medium",
+            "question": "How would you structure a large backend project?"
+        },
+        {
+            "id": "BD-BF-014",
+            "difficulty": "medium",
+            "question": "How do middleware improve application security?"
+        },
+        {
+            "id": "BD-BF-015",
+            "difficulty": "medium",
+            "question": "What is database migration?"
+        },
+        {
+            "id": "BD-BF-016",
+            "difficulty": "medium",
+            "question": "Explain validation versus sanitization."
+        },
+        {
+            "id": "BD-BF-017",
+            "difficulty": "medium",
+            "question": "How would you implement centralized error handling?"
+        },
+        {
+            "id": "BD-BF-018",
+            "difficulty": "medium",
+            "question": "What are service layers, and why are they useful?"
+        },
+        {
+            "id": "BD-BF-019",
+            "difficulty": "medium",
+            "question": "Explain the MVC architecture."
+        },
+        {
+            "id": "BD-BF-020",
+            "difficulty": "medium",
+            "question": "How would you organize reusable business logic?"
+        },
+
+
+        {
+            "id": "BD-BF-021",
+            "difficulty": "hard",
+            "question": "How would you optimize the performance of a backend framework?"
+        },
+        {
+            "id": "BD-BF-022",
+            "difficulty": "hard",
+            "question": "Explain asynchronous request handling."
+        },
+        {
+            "id": "BD-BF-023",
+            "difficulty": "hard",
+            "question": "How would you implement custom middleware?"
+        },
+        {
+            "id": "BD-BF-024",
+            "difficulty": "hard",
+            "question": "How would you build a plugin system?"
+        },
+        {
+            "id": "BD-BF-025",
+            "difficulty": "hard",
+            "question": "How would you scale a backend framework for high traffic?"
+        },
+        {
+            "id": "BD-BF-026",
+            "difficulty": "hard",
+            "question": "Explain dependency inversion in backend applications."
+        },
+        {
+            "id": "BD-BF-027",
+            "difficulty": "hard",
+            "question": "What are the advantages and disadvantages of ORMs?"
+        },
+        {
+            "id": "BD-BF-028",
+            "difficulty": "hard",
+            "question": "How would you profile a slow backend application?"
+        },
+        {
+            "id": "BD-BF-029",
+            "difficulty": "hard",
+            "question": "Explain request lifecycle optimization."
+        },
+        {
+            "id": "BD-BF-030",
+            "difficulty": "hard",
+            "question": "How would you design a framework-independent backend architecture?"
+        }
+    ]
+}

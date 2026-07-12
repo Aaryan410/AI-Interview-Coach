@@ -1,0 +1,158 @@
+{
+    "testing": [
+        {
+            "id": "SE-TE-001",
+            "difficulty": "easy",
+            "question": "What is testing?"
+        },
+        {
+            "id": "SE-TE-002",
+            "difficulty": "easy",
+            "question": "What is unit testing?"
+        },
+        {
+            "id": "SE-TE-003",
+            "difficulty": "easy",
+            "question": "What is integration testing?"
+        },
+        {
+            "id": "SE-TE-004",
+            "difficulty": "easy",
+            "question": "What is regression testing?"
+        },
+        {
+            "id": "SE-TE-005",
+            "difficulty": "easy",
+            "question": "Why is testing important?"
+        },
+        {
+            "id": "SE-TE-006",
+            "difficulty": "easy",
+            "question": "What is a test case?"
+        },
+        {
+            "id": "SE-TE-007",
+            "difficulty": "easy",
+            "question": "What is an assertion?"
+        },
+        {
+            "id": "SE-TE-008",
+            "difficulty": "easy",
+            "question": "What are edge cases?"
+        },
+        {
+            "id": "SE-TE-009",
+            "difficulty": "easy",
+            "question": "What is smoke testing?"
+        },
+        {
+            "id": "SE-TE-010",
+            "difficulty": "medium",
+            "question": "What is sanity testing?"
+        },
+
+
+        {
+            "id": "SE-TE-011",
+            "difficulty": "medium",
+            "question": "Explain mocking."
+        },
+        {
+            "id": "SE-TE-012",
+            "difficulty": "medium",
+            "question": "What is code coverage?"
+        },
+        {
+            "id": "SE-TE-013",
+            "difficulty": "medium",
+            "question": "Explain end-to-end testing."
+        },
+        {
+            "id": "SE-TE-014",
+            "difficulty": "medium",
+            "question": "Difference between unit and integration testing." 
+        },
+        {
+            "id": "SE-TE-015",
+            "difficulty": "medium",
+            "question": "Explain test-driven development (TDD)."
+        },
+        {
+            "id": "SE-TE-016",
+            "difficulty": "medium",
+            "question": "What is behavior-driven development (BDD)?"
+        },
+        {
+            "id": "SE-TE-017",
+            "difficulty": "medium",
+            "question": "What are test doubles?"
+        },
+        {
+            "id": "SE-TE-018",
+            "difficulty": "medium",
+            "question": "Explain CI testing."
+        },
+        {
+            "id": "SE-TE-019",
+            "difficulty": "medium",
+            "question": "What is a flaky test?"
+        },
+        {
+            "id": "SE-TE-020",
+            "difficulty": "medium",
+            "question": "How do you test APIs?"
+        },
+
+
+        {
+            "id": "SE-TE-021",
+            "difficulty": "hard",
+            "question": "Performance testing."
+        },
+        {
+            "id": "SE-TE-022",
+            "difficulty": "hard",
+            "question": "Load testing."
+        },
+        {
+            "id": "SE-TE-023",
+            "difficulty": "hard",
+            "question": "Stress testing."
+        },
+        {
+            "id": "SE-TE-024",
+            "difficulty": "hard",
+            "question": "Security testing."
+        },
+        {
+            "id": "SE-TE-025",
+            "difficulty": "hard",
+            "question": "Mutation testing."
+        },
+        {
+            "id": "SE-TE-026",
+            "difficulty": "hard",
+            "question": "Chaos engineering."
+        },
+        {
+            "id": "SE-TE-027",
+            "difficulty": "hard",
+            "question": "Explain contract testing."
+        },
+        {
+            "id": "SE-TE-028",
+            "difficulty": "hard",
+            "question": "Testing distributed systems."
+        },
+        {
+            "id": "SE-TE-029",
+            "difficulty": "hard",
+            "question": "Testing asynchronous code."
+        },
+        {
+            "id": "SE-TE-030",
+            "difficulty": "hard",
+            "question": "Designing a testing strategy for a large application."
+        }
+    ]
+}

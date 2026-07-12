@@ -1,0 +1,131 @@
+{
+    "javascript": [
+        {
+            "id": "FD-JS-001",
+            "difficulty": "easy",
+            "question": "What is JavaScript?"
+        },
+        {
+            "id": "FD-JS-002",
+            "difficulty": "easy",
+            "question": "What is the difference between let, const, and var?"
+        },
+        {
+            "id": "FD-JS-003",
+            "difficulty": "easy",
+            "question": "Explain functions in JavaScript."
+        },
+        {
+            "id": "FD-JS-004",
+            "difficulty": "easy",
+            "question": "What are arrays?"
+        },
+        {
+            "id": "FD-JS-005",
+            "difficulty": "easy",
+            "question": "What are objects?"
+        },
+        {
+            "id": "FD-JS-006",
+            "difficulty": "easy",
+            "question": "Explain loops."
+        },
+        {
+            "id": "FD-JS-007",
+            "difficulty": "easy",
+            "question": "What are template literals?"
+        },
+        {
+            "id": "FD-JS-008",
+            "difficulty": "easy",
+            "question": "Explain arrow functions."
+        },
+        {
+            "id": "FD-JS-009",
+            "difficulty": "easy",
+            "question": "What are callbacks?"
+        },
+        {
+            "id": "FD-JS-010",
+            "difficulty": "easy",
+            "question": "What is the difference between == and ===?"
+        },
+
+        {
+            "id": "FD-JS-011",
+            "difficulty": "medium",
+            "question": "Explain promises."
+        },
+        {
+            "id": "FD-JS-012",
+            "difficulty": "medium",
+            "question": "What is async/await?"
+        },
+        {
+            "id": "FD-JS-013",
+            "difficulty": "medium",
+            "question": "Explain closures."
+        },
+        {
+            "id": "FD-JS-014",
+            "difficulty": "medium",
+            "question": "What is event bubbling?"
+        },
+        {
+            "id": "FD-JS-015",
+            "difficulty": "medium",
+            "question": "Explain event delegation."
+        },
+        {
+            "id": "FD-JS-016",
+            "difficulty": "medium",
+            "question": "What is hoisting?"
+        },
+        {
+            "id": "FD-JS-017",
+            "difficulty": "medium",
+            "question": "Explain scope."
+        },
+        {
+            "id": "FD-JS-018",
+            "difficulty": "medium",
+            "question": "What are modules?"
+        },
+        {
+            "id": "FD-JS-019",
+            "difficulty": "medium",
+            "question": "Explain destructuring."
+        },
+        {
+            "id": "FD-JS-020",
+            "difficulty": "medium",
+            "question": "What are higher-order functions?"
+        },
+
+        {
+            "id": "FD-JS-021",
+            "difficulty": "hard",
+            "question": "Explain the JavaScript event loop."
+        },
+        {
+            "id": "FD-JS-022",
+            "difficulty": "hard",
+            "question": "What are microtasks and macrotasks?"
+        },
+        {
+            "id": "FD-JS-023",
+            "difficulty": "hard",
+            "question": "Explain prototype inheritance."
+        },
+        {
+            "id": "FD-JS-024",
+            "difficulty": "hard",
+            "question": "What is currying?"
+        },
+        {
+            "id": "FD-JS-025",
+            "difficulty": "hard",
+            "question": "Explain memoization."
+        }
+    ]
+}

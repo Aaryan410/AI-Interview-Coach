@@ -1,0 +1,158 @@
+{
+    "system design": [
+        {
+            "id": "BD-SD-001",
+            "difficulty": "easy",
+            "question": "How would you design a simple URL shortener?"
+        },
+        {
+            "id": "BD-SD-002",
+            "difficulty": "easy",
+            "question": "How would you design a basic To-Do application backend?"
+        },
+        {
+            "id": "BD-SD-003",
+            "difficulty": "easy",
+            "question": "Design the backend for a note-taking application."
+        },
+        {
+            "id": "BD-SD-004",
+            "difficulty": "easy",
+            "question": "How would you store user profiles in a backend system?"
+        },
+        {
+            "id": "BD-SD-005",
+            "difficulty": "easy",
+            "question": "Design an API for a library management system."
+        },
+        {
+            "id": "BD-SD-006",
+            "difficulty": "easy",
+            "question": "How would you design a simple authentication service?"
+        },
+        {
+            "id": "BD-SD-007",
+            "difficulty": "easy",
+            "question": "Design an API for uploading images."
+        },
+        {
+            "id": "BD-SD-008",
+            "difficulty": "easy",
+            "question": "How would you build a weather API?"
+        },
+        {
+            "id": "BD-SD-009",
+            "difficulty": "easy",
+            "question": "Design a simple blog backend."
+        },
+        {
+            "id": "BD-SD-010",
+            "difficulty": "easy",
+            "question": "How would you structure an online quiz backend?"
+        },
+
+
+        {
+            "id": "BD-SD-011",
+            "difficulty": "medium",
+            "question": "Design the backend for a chat application."
+        },
+        {
+            "id": "BD-SD-012",
+            "difficulty": "medium",
+            "question": "Design an online food ordering backend."
+        },
+        {
+            "id": "BD-SD-013",
+            "difficulty": "medium",
+            "question": "Design a notification service."
+        },
+        {
+            "id": "BD-SD-014",
+            "difficulty": "medium",
+            "question": "How would you build a URL shortening service?"
+        },
+        {
+            "id": "BD-SD-015",
+            "difficulty": "medium",
+            "question": "Design an online ticket booking system."
+        },
+        {
+            "id": "BD-SD-016",
+            "difficulty": "medium",
+            "question": "Design an e-commerce backend."
+        },
+        {
+            "id": "BD-SD-017",
+            "difficulty": "medium",
+            "question": "Design a hotel booking backend."
+        },
+        {
+            "id": "BD-SD-018",
+            "difficulty": "medium",
+            "question": "Design a ride-sharing backend."
+        },
+        {
+            "id": "BD-SD-019",
+            "difficulty": "medium",
+            "question": "How would you design a file storage service?"
+        },
+        {
+            "id": "BD-SD-020",
+            "difficulty": "medium",
+            "question": "Design a backend for a video streaming platform."
+        },
+
+
+        {
+            "id": "BD-SD-021",
+            "difficulty": "hard",
+            "question": "Design the backend architecture for YouTube."
+        },
+        {
+            "id": "BD-SD-022",
+            "difficulty": "hard",
+            "question": "Design WhatsApp's messaging backend."
+        },
+        {
+            "id": "BD-SD-023",
+            "difficulty": "hard",
+            "question": "Design Instagram's feed generation system."
+        },
+        {
+            "id": "BD-SD-024",
+            "difficulty": "hard",
+            "question": "Design Uber's backend architecture."
+        },
+        {
+            "id": "BD-SD-025",
+            "difficulty": "hard",
+            "question": "Design Netflix's recommendation backend."
+        },
+        {
+            "id": "BD-SD-026",
+            "difficulty": "hard",
+            "question": "Design a scalable notification system."
+        },
+        {
+            "id": "BD-SD-027",
+            "difficulty": "hard",
+            "question": "Design a distributed task queue."
+        },
+        {
+            "id": "BD-SD-028",
+            "difficulty": "hard",
+            "question": "Design a distributed logging service."
+        },
+        {
+            "id": "BD-SD-029",
+            "difficulty": "hard",
+            "question": "Design a backend capable of serving 100 million users."
+        },
+        {
+            "id": "BD-SD-030",
+            "difficulty": "hard",
+            "question": "Design a globally distributed backend system."
+        }
+    ]
+}

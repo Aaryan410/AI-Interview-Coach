@@ -1,0 +1,158 @@
+{
+    "cloud & deployment": [
+        {
+            "id": "BD-CD-001",
+            "difficulty": "easy",
+            "question": "What is cloud computing?"
+        },
+        {
+            "id": "BD-CD-002",
+            "difficulty": "easy",
+            "question": "What is the difference between a virtual machine and a container?"
+        },
+        {
+            "id": "BD-CD-003",
+            "difficulty": "easy",
+            "question": "What is Docker?"
+        },
+        {
+            "id": "BD-CD-004",
+            "difficulty": "easy",
+            "question": "Why are containers useful?"
+        },
+        {
+            "id": "BD-CD-005",
+            "difficulty": "easy",
+            "question": "What is continuous integration (CI)?"
+        },
+        {
+            "id": "BD-CD-006",
+            "difficulty": "easy",
+            "question": "What is continuous deployment (CD)?"
+        },
+        {
+            "id": "BD-CD-007",
+            "difficulty": "easy",
+            "question": "What is a load balancer?"
+        },
+        {
+            "id": "BD-CD-008",
+            "difficulty": "easy",
+            "question": "What is an environment variable in deployment?"
+        },
+        {
+            "id": "BD-CD-009",
+            "difficulty": "easy",
+            "question": "What is Nginx?"
+        },
+        {
+            "id": "BD-CD-010",
+            "difficulty": "easy",
+            "question": "Why should applications be containerized?"
+        },
+
+
+        {
+            "id": "BD-CD-011",
+            "difficulty": "medium",
+            "question": "How would you deploy a backend application using Docker?"
+        },
+        {
+            "id": "BD-CD-012",
+            "difficulty": "medium",
+            "question": "What is Kubernetes, and why is it used?"
+        },
+        {
+            "id": "BD-CD-013",
+            "difficulty": "medium",
+            "question": "Explain blue-green deployment."
+        },
+        {
+            "id": "BD-CD-014",
+            "difficulty": "medium",
+            "question": "What is horizontal scaling?"
+        },
+        {
+            "id": "BD-CD-015",
+            "difficulty": "medium",
+            "question": "What is vertical scaling?"
+        },
+        {
+            "id": "BD-CD-016",
+            "difficulty": "medium",
+            "question": "How would you configure a reverse proxy?"
+        },
+        {
+            "id": "BD-CD-017",
+            "difficulty": "medium",
+            "question": "Explain auto-scaling."
+        },
+        {
+            "id": "BD-CD-018",
+            "difficulty": "medium",
+            "question": "What monitoring tools have you used?"
+        },
+        {
+            "id": "BD-CD-019",
+            "difficulty": "medium",
+            "question": "How would you deploy a backend without downtime?"
+        },
+        {
+            "id": "BD-CD-020",
+            "difficulty": "medium",
+            "question": "Explain Infrastructure as Code."
+        },
+
+
+        {
+            "id": "BD-CD-021",
+            "difficulty": "hard",
+            "question": "Design a highly available deployment architecture."
+        },
+        {
+            "id": "BD-CD-022",
+            "difficulty": "hard",
+            "question": "How would you deploy a backend serving millions of users?"
+        },
+        {
+            "id": "BD-CD-023",
+            "difficulty": "hard",
+            "question": "Explain disaster recovery planning."
+        },
+        {
+            "id": "BD-CD-024",
+            "difficulty": "hard",
+            "question": "How would you monitor a distributed backend system?"
+        },
+        {
+            "id": "BD-CD-025",
+            "difficulty": "hard",
+            "question": "Explain rolling deployments."
+        },
+        {
+            "id": "BD-CD-026",
+            "difficulty": "hard",
+            "question": "How would you design a CI/CD pipeline for a large engineering team?"
+        },
+        {
+            "id": "BD-CD-027",
+            "difficulty": "hard",
+            "question": "Describe how you would deploy microservices in Kubernetes."
+        },
+        {
+            "id": "BD-CD-028",
+            "difficulty": "hard",
+            "question": "How would you secure cloud infrastructure?"
+        },
+        {
+            "id": "BD-CD-029",
+            "difficulty": "hard",
+            "question": "Explain high availability and fault tolerance."
+        },
+        {
+            "id": "BD-CD-030",
+            "difficulty": "hard",
+            "question": "How would you optimize cloud costs without sacrificing performance?"
+        }
+    ]
+}

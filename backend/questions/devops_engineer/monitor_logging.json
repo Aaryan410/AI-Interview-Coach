@@ -1,0 +1,210 @@
+{
+    "monitoring logging": [
+        {
+            "id": "DEV-MON-001",
+            "difficulty": "easy",
+            "question": "What is monitoring, and why is it important in DevOps?"
+        },
+        {
+            "id": "DEV-MON-002",
+            "difficulty": "easy",
+            "question": "What is logging, and how does it differ from monitoring?"
+        },
+        {
+            "id": "DEV-MON-003",
+            "difficulty": "easy",
+            "question": "Name some commonly used monitoring tools."
+        },
+        {
+            "id": "DEV-MON-004",
+            "difficulty": "easy",
+            "question": "What is a metric in system monitoring?"
+        },
+        {
+            "id": "DEV-MON-005",
+            "difficulty": "easy",
+            "question": "What is an alert, and when should it be triggered?"
+        },
+        {
+            "id": "DEV-MON-006",
+            "difficulty": "easy",
+            "question": "Why are logs important when troubleshooting production issues?"
+        },
+        {
+            "id": "DEV-MON-007",
+            "difficulty": "easy",
+            "question": "What are dashboards used for in monitoring systems?"
+        },
+        {
+            "id": "DEV-MON-008",
+            "difficulty": "easy",
+            "question": "What is uptime monitoring?"
+        },
+        {
+            "id": "DEV-MON-009",
+            "difficulty": "easy",
+            "question": "What is latency?"
+        },
+        {
+            "id": "DEV-MON-010",
+            "difficulty": "easy",
+            "question": "Why should applications generate structured logs?"
+        },
+
+
+        {
+            "id": "DEV-MON-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between metrics, logs, and traces."
+        },
+        {
+            "id": "DEV-MON-012",
+            "difficulty": "medium",
+            "question": "How would you design an effective monitoring dashboard for a production application?"
+        },
+        {
+            "id": "DEV-MON-013",
+            "difficulty": "medium",
+            "question": "How would you reduce alert fatigue while ensuring important incidents are detected?"
+        },
+        {
+            "id": "DEV-MON-014",
+            "difficulty": "medium",
+            "question": "Explain the purpose of centralized logging."
+        },
+        {
+            "id": "DEV-MON-015",
+            "difficulty": "medium",
+            "question": "What metrics would you monitor for a web application running in production?"
+        },
+        {
+            "id": "DEV-MON-016",
+            "difficulty": "medium",
+            "question": "How would you investigate an application's performance using logs?"
+        },
+        {
+            "id": "DEV-MON-017",
+            "difficulty": "medium",
+            "question": "How would you determine whether high CPU usage is affecting application performance?"
+        },
+        {
+            "id": "DEV-MON-018",
+            "difficulty": "medium",
+            "question": "Explain the purpose of log retention policies."
+        },
+        {
+            "id": "DEV-MON-019",
+            "difficulty": "medium",
+            "question": "How would you monitor containerized applications running in Kubernetes?"
+        },
+        {
+            "id": "DEV-MON-020",
+            "difficulty": "medium",
+            "question": "How would you monitor the health of a CI/CD pipeline?"
+        },
+
+
+        {
+            "id": "DEV-MON-021",
+            "difficulty": "hard",
+            "question": "Design a monitoring strategy for a globally distributed microservices application."
+        },
+        {
+            "id": "DEV-MON-022",
+            "difficulty": "hard",
+            "question": "How would you implement observability for a large cloud-native application?"
+        },
+        {
+            "id": "DEV-MON-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between collecting detailed logs and minimizing storage costs."
+        },
+        {
+            "id": "DEV-MON-024",
+            "difficulty": "hard",
+            "question": "How would you design a highly available centralized logging system?"
+        },
+        {
+            "id": "DEV-MON-025",
+            "difficulty": "hard",
+            "question": "Explain how distributed tracing helps diagnose performance issues in microservices."
+        },
+        {
+            "id": "DEV-MON-026",
+            "difficulty": "hard",
+            "question": "How would you monitor an application serving millions of requests per minute?"
+        },
+        {
+            "id": "DEV-MON-027",
+            "difficulty": "hard",
+            "question": "Describe the key Service Level Indicators (SLIs) and Service Level Objectives (SLOs) you would define for a production API."
+        },
+        {
+            "id": "DEV-MON-028",
+            "difficulty": "hard",
+            "question": "How would you detect memory leaks using monitoring tools?"
+        },
+        {
+            "id": "DEV-MON-029",
+            "difficulty": "hard",
+            "question": "Explain how you would correlate metrics, logs, and traces during a production incident."
+        },
+        {
+            "id": "DEV-MON-030",
+            "difficulty": "hard",
+            "question": "How would you build a monitoring system that minimizes false-positive alerts while ensuring rapid incident detection?"
+        },
+
+
+        {
+            "id": "DEV-MON-S031",
+            "difficulty": "scenario",
+            "question": "At 2:15 AM, your monitoring dashboard reports a sudden spike in response time for a critical API. Walk me through how you would investigate the issue."
+        },
+        {
+            "id": "DEV-MON-S032",
+            "difficulty": "scenario",
+            "question": "Users report intermittent failures, but all infrastructure metrics appear normal. How would you identify the root cause?"
+        },
+        {
+            "id": "DEV-MON-S033",
+            "difficulty": "scenario",
+            "question": "Your monitoring system sends hundreds of alerts every hour, causing engineers to ignore notifications. How would you improve the monitoring strategy?"
+        },
+        {
+            "id": "DEV-MON-S034",
+            "difficulty": "scenario",
+            "question": "A production service crashes unexpectedly, but the application logs contain very little useful information. How would you approach the investigation?"
+        },
+        {
+            "id": "DEV-MON-S035",
+            "difficulty": "scenario",
+            "question": "A recently deployed application experiences gradually increasing memory usage over several days. Explain how you would determine whether a memory leak exists."
+        },
+        {
+            "id": "DEV-MON-S036",
+            "difficulty": "scenario",
+            "question": "A customer reports slow response times only in one geographic region. Describe how monitoring data would help isolate the issue."
+        },
+        {
+            "id": "DEV-MON-S037",
+            "difficulty": "scenario",
+            "question": "A Kubernetes cluster reports that one service has become unhealthy, but all Pods are still running. Walk me through your troubleshooting process."
+        },
+        {
+            "id": "DEV-MON-S038",
+            "difficulty": "scenario",
+            "question": "Disk usage on a logging server reaches 100%, preventing new logs from being stored. How would you restore logging while minimizing the loss of diagnostic information?"
+        },
+        {
+            "id": "DEV-MON-S039",
+            "difficulty": "scenario",
+            "question": "An executive asks why the engineering team should invest in observability instead of relying only on server monitoring. How would you explain the benefits?"
+        },
+        {
+            "id": "DEV-MON-S040",
+            "difficulty": "scenario",
+            "question": "You're designing monitoring for a new cloud-native application expected to serve millions of users. Explain which metrics, logs, traces, and alerts you would implement before launch."
+        }
+    ]
+}

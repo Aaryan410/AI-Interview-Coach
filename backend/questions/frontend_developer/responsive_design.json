@@ -1,0 +1,133 @@
+{
+    "responsive design": [
+        {
+            "id": "FD-RD-001",
+            "difficulty": "easy",
+            "question": "What is responsive web design?"
+        },
+        {
+            "id": "FD-RD-002",
+            "difficulty": "easy",
+            "question": "Why are media queries important?"
+        },
+        {
+            "id": "FD-RD-003",
+            "difficulty": "easy",
+            "question": "What are breakpoints?"
+        },
+        {
+            "id": "FD-RD-004",
+            "difficulty": "easy",
+            "question": "Explain viewport."
+        },
+        {
+            "id": "FD-RD-005",
+            "difficulty": "easy",
+            "question": "What is mobile-first design?"
+        },
+        {
+            "id": "FD-RD-006",
+            "difficulty": "easy",
+            "question": "Why should websites be responsive?"
+        },
+        {
+            "id": "FD-RD-007",
+            "difficulty": "easy",
+            "question": "What are relative units?"
+        },
+        {
+            "id": "FD-RD-008",
+            "difficulty": "easy",
+            "question": "Explain percentages versus pixels."
+        },
+        {
+            "id": "FD-RD-009",
+            "difficulty": "easy",
+            "question": "What is viewport width (vw)?"
+        },
+        {
+            "id": "FD-RD-010",
+            "difficulty": "easy",
+            "question": "Explain viewport height (vh)."        
+        },
+
+
+        {
+            "id": "FD-RD-011",
+            "difficulty": "medium",
+            "question": "How would you design a responsive dashboard?"
+        },
+        {
+            "id": "FD-RD-012",
+            "difficulty": "medium",
+            "question": "Explain CSS Grid for responsive layouts."
+        },
+        {
+            "id": "FD-RD-013",
+            "difficulty": "medium",
+            "question": "Explain Flexbox for responsive layouts."
+        },
+        {
+            "id": "FD-RD-014",
+            "difficulty": "medium",
+            "question": "How would you optimize a website for mobile devices?"
+        },
+        {
+            "id": "FD-RD-015",
+            "difficulty": "medium",
+            "question": "Explain adaptive design."
+        },
+        {
+            "id": "FD-RD-016",
+            "difficulty": "medium",
+            "question": "What are responsive images?"
+        },
+        {
+            "id": "FD-RD-017",
+            "difficulty": "medium",
+            "question": "Explain fluid typography."
+        },
+        {
+            "id": "FD-RD-018",
+            "difficulty": "medium",
+            "question": "How would you test responsiveness?"
+        },
+        {
+            "id": "FD-RD-019",
+            "difficulty": "medium",
+            "question": "Explain CSS clamp()."
+        },
+        {
+            "id": "FD-RD-020",
+            "difficulty": "medium",
+            "question": "How would you design for tablets?"
+        },
+
+
+        {
+            "id": "FD-BA-021",
+            "difficulty": "hard",
+            "question": "Design a responsive SaaS dashboard."
+        },
+        {
+            "id": "FD-RD-022",
+            "difficulty": "hard",
+            "question": "How would you optimize responsiveness for large monitors?"
+        },
+        {
+            "id": "FD-RD-023",
+            "difficulty": "hard",
+            "question": "Explain accessibility in responsive design."
+        },
+        {
+            "id": "FD-RD-024",
+            "difficulty": "hard",
+            "question": "How would you optimize performance on mobile devices?"
+        },
+        {
+            "id": "FD-RD-025",
+            "difficulty": "hard",
+            "question": "Explain responsive design best practices."
+        }
+    ]
+}

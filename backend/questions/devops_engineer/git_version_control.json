@@ -1,0 +1,210 @@
+{
+    "git version control": [
+        {
+            "id": "DEV-GIT-001",
+            "difficulty": "easy",
+            "question": "What is Git, and why is it widely used in software development?"
+        },
+        {
+            "id": "DEV-GIT-002",
+            "difficulty": "easy",
+            "question": "What is the difference between Git and GitHub?"
+        },
+        {
+            "id": "DEV-GIT-003",
+            "difficulty": "easy",
+            "question": "What is a repository in Git?"
+        },
+        {
+            "id": "DEV-GIT-004",
+            "difficulty": "easy",
+            "question": "Explain the purpose of the git clone command."
+        },
+        {
+            "id": "DEV-GIT-005",
+            "difficulty": "easy",
+            "question": "What is the purpose of git add?"
+        },
+        {
+            "id": "DEV-GIT-006",
+            "difficulty": "easy",
+            "question": "What does git commit do?"
+        },
+        {
+            "id": "DEV-GIT-007",
+            "difficulty": "easy",
+            "question": "What is a branch in Git?"
+        },
+        {
+            "id": "DEV-GIT-008",
+            "difficulty": "easy",
+            "question": "What is the purpose of git push?"
+        },
+        {
+            "id": "DEV-GIT-009",
+            "difficulty": "easy",
+            "question": "What is the purpose of git pull?"
+        },
+        {
+            "id": "DEV-GIT-010",
+            "difficulty": "easy",
+            "question": "Why is version control important in software development?"
+        },
+
+
+        {
+            "id": "DEV-GIT-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between git fetch and git pull."
+        },
+        {
+            "id": "DEV-GIT-012",
+            "difficulty": "medium",
+            "question": "How does Git merge branches together?"
+        },
+        {
+            "id": "DEV-GIT-013",
+            "difficulty": "medium",
+            "question": "What is a merge conflict, and how would you resolve one?"
+        },
+        {
+            "id": "DEV-GIT-014",
+            "difficulty": "medium",
+            "question": "Explain the difference between merge and rebase."
+        },
+        {
+            "id": "DEV-GIT-015",
+            "difficulty": "medium",
+            "question": "What is the purpose of a .gitignore file?"
+        },
+        {
+            "id": "DEV-GIT-016",
+            "difficulty": "medium",
+            "question": "How would you undo your most recent commit without losing your work?"
+        },
+        {
+            "id": "DEV-GIT-017",
+            "difficulty": "medium",
+            "question": "Explain the purpose of pull requests in collaborative development."
+        },
+        {
+            "id": "DEV-GIT-018",
+            "difficulty": "medium",
+            "question": "How would you review another developer's code before merging it?"
+        },
+        {
+            "id": "DEV-GIT-019",
+            "difficulty": "medium",
+            "question": "What are Git tags, and when would you use them?"
+        },
+        {
+            "id": "DEV-GIT-020",
+            "difficulty": "medium",
+            "question": "How would you identify which commit introduced a bug into your project?"
+        },
+
+
+        {
+            "id": "DEV-GIT-021",
+            "difficulty": "hard",
+            "question": "Explain Git's internal object model and how commits, trees, and blobs are related."
+        },
+        {
+            "id": "DEV-GIT-022",
+            "difficulty": "hard",
+            "question": "How does Git store project history efficiently?"
+        },
+        {
+            "id": "DEV-GIT-023",
+            "difficulty": "hard",
+            "question": "Describe a branching strategy suitable for a large DevOps team working on multiple releases."
+        },
+        {
+            "id": "DEV-GIT-024",
+            "difficulty": "hard",
+            "question": "How would you recover work after accidentally deleting a branch?"
+        },
+        {
+            "id": "DEV-GIT-025",
+            "difficulty": "hard",
+            "question": "Explain how Git reflog can help recover lost commits."
+        },
+        {
+            "id": "DEV-GIT-026",
+            "difficulty": "hard",
+            "question": "What are the advantages and disadvantages of squash merging compared to regular merging?"
+        },
+        {
+            "id": "DEV-GIT-027",
+            "difficulty": "hard",
+            "question": "How would you manage version control for hundreds of developers working on the same repository?"
+        },
+        {
+            "id": "DEV-GIT-028",
+            "difficulty": "hard",
+            "question": "How would you secure a Git repository containing production infrastructure code?"
+        },
+        {
+            "id": "DEV-GIT-029",
+            "difficulty": "hard",
+            "question": "Describe Git hooks and explain practical situations where they are useful."
+        },
+        {
+            "id": "DEV-GIT-030",
+            "difficulty": "hard",
+            "question": "How would you migrate a large project's Git history to a new repository while preserving commit history?"
+        },
+
+
+        {
+            "id": "DEV-GIT-S031",
+            "difficulty": "scenario",
+            "question": "A teammate accidentally force-pushes to the main branch, and several commits appear to be missing. Walk me through how you would recover the repository."
+        },
+        {
+            "id": "DEV-GIT-S032",
+            "difficulty": "scenario",
+            "question": "A developer accidentally commits API keys to the repository and pushes them to GitHub. What immediate actions would you take?"
+        },
+        {
+            "id": "DEV-GIT-S033",
+            "difficulty": "scenario",
+            "question": "During a release, a merge conflict occurs in critical production code. Describe how you would safely resolve the conflict."
+        },
+        {
+            "id": "DEV-GIT-S034",
+            "difficulty": "scenario",
+            "question": "A bug is discovered in production, but no one knows which commit introduced it. Explain how you would identify the responsible change."
+        },
+        {
+            "id": "DEV-GIT-S035",
+            "difficulty": "scenario",
+            "question": "A junior developer accidentally deletes an important branch from the remote repository. How would you recover it?"
+        },
+        {
+            "id": "DEV-GIT-S036",
+            "difficulty": "scenario",
+            "question": "Your team is preparing a major release while new features continue to be developed. How would you organize branching and merging to reduce risk?"
+        },
+        {
+            "id": "DEV-GIT-S037",
+            "difficulty": "scenario",
+            "question": "During a code review, you notice a change that technically works but introduces long-term maintenance problems. How would you handle the review?"
+        },
+        {
+            "id": "DEV-GIT-S038",
+            "difficulty": "scenario",
+            "question": "A teammate reports that their local repository behaves differently from everyone else's after several rebases. How would you investigate the issue?"
+        },
+        {
+            "id": "DEV-GIT-S039",
+            "difficulty": "scenario",
+            "question": "A deployment fails because an incorrect version of the code was tagged for release. Explain how you would identify the problem and correct it."
+        },
+        {
+            "id": "DEV-GIT-S040",
+            "difficulty": "scenario",
+            "question": "You're leading a team of developers working on a high-priority feature with a strict deadline. What Git workflow would you establish to minimize integration problems while maintaining code quality?"
+        }
+    ]
+}

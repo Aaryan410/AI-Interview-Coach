@@ -1,0 +1,133 @@
+{
+    "browser apis": [
+        {
+            "id": "FD-BA-001",
+            "difficulty": "easy",
+            "question": "What is the DOM?"
+        },
+        {
+            "id": "FD-BA-002",
+            "difficulty": "easy",
+            "question": "What is Local Storage?"
+        },
+        {
+            "id": "FD-BA-003",
+            "difficulty": "easy",
+            "question": "What is Session Storage?"
+        },
+        {
+            "id": "FD-BA-004",
+            "difficulty": "easy",
+            "question": "What are Cookies?"
+        },
+        {
+            "id": "FD-BA-005",
+            "difficulty": "easy",
+            "question": "Explain Fetch API."
+        },
+        {
+            "id": "FD-BA-006",
+            "difficulty": "easy",
+            "question": "What is Geolocation API?"
+        },
+        {
+            "id": "FD-BA-007",
+            "difficulty": "easy",
+            "question": "What is Clipboard API?"
+        },
+        {
+            "id": "FD-BA-008",
+            "difficulty": "easy",
+            "question": "Explain History API."
+        },
+        {
+            "id": "FD-BA-009",
+            "difficulty": "easy",
+            "question": "What is Web Storage?"
+        },
+        {
+            "id": "FD-BA-010",
+            "difficulty": "easy",
+            "question": "What is the Window object?"
+        },
+
+        
+        {
+            "id": "FD-BA-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between Local Storage and Session Storage."
+        },
+        {
+            "id": "FD-BA-012",
+            "difficulty": "medium",
+            "question": "How would you fetch data from an API?"
+        },
+        {
+            "id": "FD-BA-013",
+            "difficulty": "medium",
+            "question": "Explain CORS."
+        },
+        {
+            "id": "FD-BA-014",
+            "difficulty": "medium",
+            "question": "What is WebSocket?"
+        },
+        {
+            "id": "FD-BA-015",
+            "difficulty": "medium",
+            "question": "Explain Service Workers."
+        },
+        {
+            "id": "FD-BA-016",
+            "difficulty": "medium",
+            "question": "What is IndexedDB?"
+        },
+        {
+            "id": "FD-BA-017",
+            "difficulty": "medium",
+            "question": "Explain Browser Events."
+        },
+        {
+            "id": "FD-BA-018",
+            "difficulty": "medium",
+            "question": "What is the Intersection Observer API?"
+        },
+        {
+            "id": "FD-BA-019",
+            "difficulty": "medium",
+            "question": "Explain Drag and Drop API."
+        },
+        {
+            "id": "FD-BA-020",
+            "difficulty": "medium",
+            "question": "What are Web Workers?"
+        },
+
+
+        {
+            "id": "FD-BA-021",
+            "difficulty": "hard",
+            "question": "Explain Progressive Web Apps."
+        },
+        {
+            "id": "FD-BA-022",
+            "difficulty": "hard",
+            "question": "How would you implement offline support?"
+        },
+        {
+            "id": "FD-BA-023",
+            "difficulty": "hard",
+            "question": "Explain browser caching."
+        },
+        {
+            "id": "FD-BA-024",
+            "difficulty": "hard",
+            "question": "How would you optimize browser performance?"
+        },
+        {
+            "id": "FD-BA-025",
+            "difficulty": "hard",
+            "question": "Explain rendering pipelines."
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "operating system (OS)": [
+        {
+            "id": "SE-OS-001",
+            "difficulty": "easy",
+            "question": "What is an operating system?"
+        },
+        {
+            "id": "SE-OS-002",
+            "difficulty": "easy",
+            "question": "What is a process?"
+        },
+        {
+            "id": "SE-OS-003",
+            "difficulty": "easy",
+            "question": "What is a thread?"
+        },
+        {
+            "id": "SE-OS-004",
+            "difficulty": "easy",
+            "question": "Difference between process and thread."
+        },
+        {
+            "id": "SE-OS-005",
+            "difficulty": "easy",
+            "question": "What is multitasking?"
+        },
+        {
+                "id": "SE-OS-006",
+                "difficulty": "easy",
+                "question": "Explain virtual memory."   
+        },
+        {
+            "id": "SE-OS-007",
+            "difficulty": "easy",
+            "question": "What is RAM?"
+        },
+        {
+            "id": "SE-OS-008",
+            "difficulty": "easy",
+            "question": "What is paging?"
+        },
+        {
+            "id": "SE-OS-009",
+            "difficulty": "easy",
+            "question": "Explain scheduling."
+        },
+        {
+            "id": "SE-OS-010",
+            "difficulty": "easy",
+            "question": "What is context switching?"
+        },
+
+
+        {
+            "id": "SE-OS-011",
+            "difficulty": "medium",
+            "question": "Explain semaphores."
+        },
+        {
+            "id": "SE-OS-012",
+            "difficulty": "medium",
+            "question": "What is a mutex?"
+        },
+        {
+            "id": "SE-OS-013",
+            "difficulty": "medium",
+            "question": "Explain deadlock."
+        },
+        {
+            "id": "SE-OS-014",
+            "difficulty": "medium",
+            "question": "What is a race condition?"
+        },
+        {
+            "id": "SE-OS-015",
+            "difficulty": "medium",
+            "question": "Producer-Consumer problem."
+        },
+        {
+            "id": "SE-OS-016",
+            "difficulty": "medium",
+            "question": "What is IPC?"
+        },
+        {
+            "id": "SE-OS-017",
+            "difficulty": "medium",
+            "question": "Explain starvation."
+        },
+        {
+            "id": "SE-OS-018",
+            "difficulty": "medium",
+            "question": "Paging vs Segmentation."
+        },
+        {
+            "id": "SE-OS-019",
+            "difficulty": "medium",
+            "question": "Memory fragmentation."
+        },
+        {
+            "id": "SE-OS-020",
+            "difficulty": "medium",
+            "question": "CPU Scheduling Algorithms."
+        },
+        {
+            "id": "SE-OS-021",
+            "difficulty": "hard",
+            "question": "Explain Banker's Algorithm."
+        },
+        {
+            "id": "SE-OS-022",
+            "difficulty": "hard",
+            "question": "What is thrashing?"
+        },
+        {
+            "id": "SE-OS-023",
+            "difficulty": "hard",
+            "question": "Explain Copy-on-Write."
+        },
+        {
+            "id": "SE-OS-024",
+            "difficulty": "hard",
+            "question": "Kernel Mode vs User Mode."
+        },
+        {
+            "id": "SE-OS-025",
+            "difficulty": "hard",
+            "question": "Demand Paging."
+        },
+        {
+            "id": "SE-OS-026",
+            "difficulty": "hard",
+            "question": "Zombie Process."
+        },
+        {
+            "id": "SE-OS-027",
+            "difficulty": "hard",
+            "question": "Orphan Process."
+        },
+        {
+            "id": "SE-OS-028",
+            "difficulty": "hard",
+            "question": "NUMA Architecture."
+        },
+        {
+            "id": "SE-OS-029",
+            "difficulty": "hard",
+            "question": "Kernel Scheduling."
+        },
+        {
+            "id": "SE-OS-030",
+            "difficulty": "hard",
+            "question": "How does context switching work internally?"
+        }
+    ]
+}

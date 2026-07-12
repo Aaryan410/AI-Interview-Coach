@@ -1,0 +1,159 @@
+{
+    
+    "database management systems (DBMS)": [
+        {
+            "id": "SE-DBMS-001",
+            "difficulty": "easy",
+            "question": "What is a database?"
+        },
+        {
+            "id": "SE-DBMS-002",
+            "difficulty": "easy",
+            "question": "What is SQL?"
+        },
+        {
+            "id": "SE-DBMS-003",
+            "difficulty": "easy",
+            "question": "What is a table?"
+        },
+        {
+            "id": "SE-DBMS-004",
+            "difficulty": "easy",
+            "question": "What is a primary key?"
+        },
+        {
+            "id": "SE-DBMS-005",
+            "difficulty": "easy",
+            "question": "What is a foreign key?"
+        },
+        {
+            "id": "SE-DBMS-006",
+            "difficulty": "easy",
+            "question": "Explain normalization."
+        },
+        {
+            "id": "SE-DBMS-007",
+            "difficulty": "easy",
+            "question": "What is a JOIN?"
+        },
+        {
+            "id": "SE-DBMS-008",
+            "difficulty": "easy",
+            "question": "Difference between DELETE and TRUNCATE."
+        },
+        {
+            "id": "SE-DBMS-009",
+            "difficulty": "easy",
+            "question": "What is an index?"
+        },
+        {
+            "id": "SE-DBMS-010",
+            "difficulty": "easy",
+            "question": "What is a view?"
+        },
+
+
+        {
+            "id": "SE-DBMS-011",
+            "difficulty": "medium",
+            "question": "Explain ACID properties."
+        },
+        {
+            "id": "SE-DBMS-012",
+            "difficulty": "medium",
+            "question": "What is a transaction?"
+        },
+        {
+            "id": "SE-DBMS-013",
+            "difficulty": "medium",
+            "question": "Explain stored procedures."
+        },
+        {
+            "id": "SE-DBMS-014",
+            "difficulty": "medium",
+            "question": "What are triggers?"
+        },
+        {
+            "id": "SE-DBMS-015",
+            "difficulty": "medium",
+            "question": "Candidate Key vs Super Key."
+        },
+        {
+            "id": "SE-DBMS-016",
+            "difficulty": "medium",
+            "question": "Clustered vs Non-Clustered Index."
+        },
+        {
+            "id": "SE-DBMS-017",
+            "difficulty": "medium",
+            "question": "Explain denormalization."
+        },
+        {
+            "id": "SE-DBMS-018",
+            "difficulty": "medium",
+            "question": "What are composite keys?"
+        },
+        {
+            "id": "SE-DBMS-019",
+            "difficulty": "medium",
+            "question": "Explain different types of joins."
+        },
+        {
+            "id": "SE-DBMS-020",
+            "difficulty": "medium",
+            "question": "What are constraints?"
+        },
+
+
+        {
+            "id": "SE-DBMS-021",
+            "difficulty": "hard",
+            "question": "Explain database replication."
+        },
+        {
+            "id": "SE-DBMS-022",
+            "difficulty": "hard",
+            "question": "What is sharding?"
+        },
+        {
+            "id": "SE-DBMS-023",
+            "difficulty": "hard",
+            "question": "Explain the CAP theorem."
+        },
+        {
+            "id": "SE-DBMS-024",
+            "difficulty": "hard",
+            "question": "What are deadlocks?"
+        },
+        {
+            "id": "SE-DBMS-025",
+            "difficulty": "hard",
+            "question": "Explain query optimization."
+        },
+        {
+            "id": "SE-DBMS-026",
+            "difficulty": "hard",
+            "question": "Optimistic vs Pessimistic locking."
+        },
+        {
+            "id": "SE-DBMS-027",
+            "difficulty": "hard",
+            "question": "Explain MVCC."
+        },
+        {
+            "id": "SE-DBMS-028",
+            "difficulty": "hard",
+            "question": "Database partitioning."
+        },
+        {
+            "id": "SE-DBMS-029",
+            "difficulty": "hard",
+            "question": "How would you optimize a slow SQL query?"
+        },
+        {
+            "id": "SE-DBMS-030",
+            "difficulty": "hard",
+            "question": "Explain indexing strategies."
+        }
+    ]
+}

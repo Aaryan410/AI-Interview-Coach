@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "id": "AI-PROJ-001",
+            "difficulty": "easy",
+            "question": "Tell me about an AI project you've worked on."
+        },
+        {
+            "id": "AI-PROJ-002",
+            "difficulty": "easy",
+            "question": "What problem was your AI project designed to solve?"
+        },
+        {
+            "id": "AI-PROJ-003",
+            "difficulty": "easy",
+            "question": "Which models, frameworks, and tools did you use, and why did you choose them?"
+        },
+        {
+            "id": "AI-PROJ-004",
+            "difficulty": "easy",
+            "question": "What was your specific contribution to the project?"
+        },
+        {
+            "id": "AI-PROJ-005",
+            "difficulty": "easy",
+            "question": "What was the biggest technical challenge you faced while building the project?"
+        },
+
+
+        {
+            "id": "AI-PROJ-006",
+            "difficulty": "medium",
+            "question": "How did you evaluate whether your AI model or system was performing well?"
+        },
+        {
+            "id": "AI-PROJ-007",
+            "difficulty": "medium",
+            "question": "Why did you choose your final model or architecture instead of other possible approaches?"
+        },
+        {
+            "id": "AI-PROJ-008",
+            "difficulty": "medium",
+            "question": "If your project used a Large Language Model, explain why you chose prompt engineering, Retrieval-Augmented Generation (RAG), or fine-tuning."
+        },
+
+
+        {
+            "id": "AI-PROJ-009",
+            "difficulty": "hard",
+            "question": "If you had to rebuild your AI project today, what architectural, machine learning, or deployment decisions would you change, and why?"
+        },
+        {
+            "id": "AI-PROJ-010",
+            "difficulty": "hard",
+            "question": "Describe how you balanced accuracy, latency, scalability, operational cost, and maintainability while designing your AI system."
+        },
+
+
+        {
+            "id": "AI-PROJ-S011",
+            "difficulty": "scenario",
+            "question": "Imagine your AI project suddenly becomes ten times more popular than expected. Explain how you would redesign the architecture, deployment, monitoring, and infrastructure to support the increased demand."
+        },
+        {
+            "id": "AI-PROJ-S012",
+            "difficulty": "scenario",
+            "question": "A customer reports that your AI system produces incorrect or unsafe responses in production. Walk me through how you would investigate the issue, identify the root cause, communicate with stakeholders, and safely deploy a solution."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{    
+    "dsa": [
+        {
+            "id": "SE-DSA-001",
+            "difficulty": "medium",
+            "question": "What is the difference between a stack and a queue?"
+        },
+        {
+            "id": "SE-DSA-002",
+            "difficulty": "medium",
+            "question": "Explain merge sort."
+        },
+        {
+            "id": "SE-DSA-003",
+            "difficulty": "medium",
+            "question": "Explain quicksort."
+        },
+        {
+            "id": "SE-DSA-004",
+            "difficulty": "medium",
+            "question": "DFS vs BFS"
+        },
+        {
+            "id": "SE-DSA-005",
+            "difficulty": "medium",
+            "question": "What is dynamic programming?"
+        },
+        {
+            "id": "SE-DSA-006",
+            "difficulty": "medium",
+            "question": "Explain recursion vs iteration."
+        },
+        {
+            "id": "SE-DSA-007",
+            "difficulty": "medium",
+            "question": "How would you detect a cycle in a linked list?"
+        },
+        {
+            "id": "SE-DSA-008",
+            "difficulty": "medium",
+            "question": "Which data structure would you use to implement an LRU cache and why?"
+        },
+        {
+            "id": "SE-DSA-009",
+            "difficulty": "medium",
+            "question": "Explain hash collisions."
+        },
+        {
+            "id": "SE-DSA-010",
+            "difficulty": "medium",
+            "question": "What is memoization?"
+        },
+        {
+            "id": "SE-DSA-011",
+            "difficulty": "medium",
+            "question": "Design a stack that supports retrieving the minimum element in O(1)."
+        }
+    ]
+}

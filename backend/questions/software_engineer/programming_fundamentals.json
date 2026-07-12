@@ -1,0 +1,156 @@
+{
+    "programming fundamentals": [
+        {
+            "id": "SE-PF-001",
+            "difficulty": "easy",
+            "question": "What is the difference between a compiler and an interpreter?"
+        },
+        {
+            "id": "SE-PF-002",
+            "difficulty": "easy",
+            "question": "What is a variable?"
+        },
+        {
+            "id": "SE-PF-003",
+            "difficulty": "easy",
+            "question": "What is a constant?"
+        },
+        {
+            "id": "SE-PF-004",
+            "difficulty": "easy",
+            "question": "What is a function?"
+        },
+        {
+            "id": "SE-PF-005",
+            "difficulty": "easy",
+            "question": "What are parameters and arguments?"
+        },
+        {
+            "id": "SE-PF-006",
+            "difficulty": "easy",
+            "question": "Explain local and global variables."
+        },
+        {
+            "id": "SE-PF-007",
+            "difficulty": "easy",
+            "question": "What is recursion?"
+        },
+        {
+            "id": "SE-PF-008",
+            "difficulty": "easy",
+            "question": "What is an array?"
+        },
+        {
+            "id": "SE-PF-009",
+            "difficulty": "easy",
+            "question": "What is a loop?"
+        },
+        {
+            "id": "SE-PF-010",
+            "difficulty": "easy",
+            "question": "What is a conditional statement?"
+        },
+
+
+        {
+            "id": "SE-PF-011",
+            "difficulty": "medium",
+            "question": "Explain pass-by-value vs pass-by-reference."
+        },
+        {
+            "id": "SE-PF-012",
+            "difficulty": "medium",
+            "question": "What is dynamic memory allocation?"
+        },
+        {
+            "id": "SE-PF-013",
+            "difficulty": "medium",
+            "question": "Explain the stack and heap."
+        },
+        {
+            "id": "SE-PF-014",
+            "difficulty": "medium",
+            "question": "What are pointers?"
+        },
+        {
+            "id": "SE-PF-015",
+            "difficulty": "medium",
+            "question": "What are references?"
+        },
+        {
+            "id": "SE-PF-016",
+            "difficulty": "medium",
+            "question": "What is a memory leak?"
+        },
+        {
+            "id": "SE-PF-017",
+            "difficulty": "medium",
+            "question": "Explain exception handling."
+        },
+        {
+            "id": "SE-PF-018",
+            "difficulty": "medium",
+            "question": "What is const correctness?"
+        },
+        {
+            "id": "SE-PF-019",
+            "difficulty": "medium",
+            "question": "What is undefined behavior?"
+        },
+        {
+            "id": "SE-PF-020",
+            "difficulty": "medium",
+            "question": "Explain function overloading."
+        },
+        {
+            "id": "SE-PF-021",
+            "difficulty": "hard",
+            "question": "Explain RAII."
+        },
+        {
+            "id": "SE-PF-022",
+            "difficulty": "hard",
+            "question": "What are move semantics?"
+        },
+        {
+            "id": "SE-PF-023",
+            "difficulty": "hard",
+            "question": "Explain the Rule of Three."
+        },
+        {
+            "id": "SE-PF-024",
+            "difficulty": "hard",
+            "question": "Explain the Rule of Five."
+        },
+        {
+            "id": "SE-PF-0025",
+            "difficulty": "hard",
+            "question": "What happens when a C++ program starts?"
+        },
+        {
+            "id": "SE-PF-026",
+            "difficulty": "hard",
+            "question": "Explain copy elision."
+        },
+        {
+            "id": "SE-PF-027",
+            "difficulty": "hard",
+            "question": "What are lvalues and rvalues?"
+        },
+        {
+            "id": "SE-PF-028",
+            "difficulty": "hard",
+            "question": "What is perfect forwarding?"
+        },
+        {
+            "id": "SE-PF-029",
+            "difficulty": "hard",
+            "question": "Explain placement new."
+        },
+        {
+            "id": "SE-PF-030",
+            "difficulty": "hard",
+            "question": "What are allocators in C++?"
+        }
+    ]
+}

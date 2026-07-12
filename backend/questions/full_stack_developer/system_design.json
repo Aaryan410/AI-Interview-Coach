@@ -1,0 +1,158 @@
+{
+    "system design": [
+        {
+            "id": "FSD-SD-001",
+            "difficulty": "easy",
+            "question": "Design a blog application."
+        },
+        {
+            "id": "FSD-SD-002",
+            "difficulty": "easy",
+            "question": "Design a note-taking application."
+        },
+        {
+            "id": "FSD-SD-003",
+            "difficulty": "easy",
+            "question": "Design an online quiz application."
+        },
+        {
+            "id": "FSD-SD-004",
+            "difficulty": "easy",
+            "question": "Design a movie review platform."
+        },
+        {
+            "id": "FSD-SD-005",
+            "difficulty": "easy",
+            "question": "Design a weather application."
+        },
+        {
+            "id": "FSD-SD-006",
+            "difficulty": "easy",
+            "question": "Design a student management system."
+        },
+        {
+            "id": "FSD-SD-007",
+            "difficulty": "easy",
+            "question": "Design an expense tracker."
+        },
+        {
+            "id": "FSD-SD-008",
+            "difficulty": "easy",
+            "question": "Design a URL shortener."
+        },
+        {
+            "id": "FSD-SD-009",
+            "difficulty": "easy",
+            "question": "Design a portfolio website with backend support."
+        },
+        {
+            "id": "FSD-SD-010",
+            "difficulty": "easy",
+            "question": "Design a contact management application."
+        },
+
+
+        {
+            "id": "FSD-SD-011",
+            "difficulty": "medium",
+            "question": "Design an e-commerce platform."
+        },
+        {
+            "id": "FSD-SD-012",
+            "difficulty": "medium",
+            "question": "Design a chat application."
+        },
+        {
+            "id": "FSD-SD-013",
+            "difficulty": "medium",
+            "question": "Design a hotel booking application."
+        },
+        {
+            "id": "FSD-SD-014",
+            "difficulty": "medium",
+            "question": "Design a task management platform."
+        },
+        {
+            "id": "FSD-SD-015",
+            "difficulty": "medium",
+            "question": "Design an appointment booking system."
+        },
+        {
+            "id": "FSD-SD-016",
+            "difficulty": "medium",
+            "question": "Design a social networking application."
+        },
+        {
+            "id": "FSD-SD-017",
+            "difficulty": "medium",
+            "question": "Design a video conferencing platform."
+        },
+        {
+            "id": "FSD-SD-018",
+            "difficulty": "medium",
+            "question": "Design an online learning platform."
+        },
+        {
+            "id": "FSD-SD-019",
+            "difficulty": "medium",
+            "question": "Design a collaborative document editor."
+        },
+        {
+            "id": "FSD-SD-020",
+            "difficulty": "medium",
+            "question": "Design a food delivery application."
+        },
+
+
+        {
+            "id": "FSD-SD-021",
+            "difficulty": "hard",
+            "question": "Design Instagram."
+        },
+        {
+            "id": "FSD-SD-022",
+            "difficulty": "hard",
+            "question": "Design YouTube."
+        },
+        {
+            "id": "FSD-SD-023",
+            "difficulty": "hard",
+            "question": "Design Netflix."
+        },
+        {
+            "id": "FSD-SD-024",
+            "difficulty": "hard",
+            "question": "Design Uber."
+        },
+        {
+            "id": "FSD-SD-025",
+            "difficulty": "hard",
+            "question": "Design LinkedIn."
+        },
+        {
+            "id": "FSD-SD-026",
+            "difficulty": "hard",
+            "question": "Design Discord."
+        },
+        {
+            "id": "FSD-SD-027",
+            "difficulty": "hard",
+            "question": "Design GitHub."
+        },
+        {
+            "id": "FSD-SD-028",
+            "difficulty": "hard",
+            "question": "Design WhatsApp."
+        },
+        {
+            "id": "FSD-SD-029",
+            "difficulty": "hard",
+            "question": "Design Spotify."
+        },
+        {
+            "id": "FSD-SD-030",
+            "difficulty": "hard",
+            "question": "Design Amazon."
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "security": [
+        {
+            "id": "DEV-SEC-001",
+            "difficulty": "easy",
+            "question": "Why is security an important responsibility for DevOps engineers?"
+        },
+        {
+            "id": "DEV-SEC-002",
+            "difficulty": "easy",
+            "question": "What is the Principle of Least Privilege?"
+        },
+        {
+            "id": "DEV-SEC-003",
+            "difficulty": "easy",
+            "question": "What is Multi-Factor Authentication (MFA)?"
+        },
+        {
+            "id": "DEV-SEC-004",
+            "difficulty": "easy",
+            "question": "Why should secrets such as API keys and passwords never be hardcoded into source code?"
+        },
+        {
+            "id": "DEV-SEC-005",
+            "difficulty": "easy",
+            "question": "What is encryption?"
+        },
+        {
+            "id": "DEV-SEC-006",
+            "difficulty": "easy",
+            "question": "What is the difference between authentication and authorization?"
+        },
+        {
+            "id": "DEV-SEC-007",
+            "difficulty": "easy",
+            "question": "What is a security vulnerability?"
+        },
+        {
+            "id": "DEV-SEC-008",
+            "difficulty": "easy",
+            "question": "Why should software dependencies be updated regularly?"
+        },
+        {
+            "id": "DEV-SEC-009",
+            "difficulty": "easy",
+            "question": "What is a firewall, and what purpose does it serve?"
+        },
+        {
+            "id": "DEV-SEC-010",
+            "difficulty": "easy",
+            "question": "Why should security be integrated into the DevOps lifecycle?"
+        },
+
+
+        {
+            "id": "DEV-SEC-011",
+            "difficulty": "medium",
+            "question": "How would you securely manage secrets in a CI/CD pipeline?"
+        },
+        {
+            "id": "DEV-SEC-012",
+            "difficulty": "medium",
+            "question": "Explain how role-based access control (RBAC) improves security."
+        },
+        {
+            "id": "DEV-SEC-013",
+            "difficulty": "medium",
+            "question": "How would you secure Docker containers running in production?"
+        },
+        {
+            "id": "DEV-SEC-014",
+            "difficulty": "medium",
+            "question": "How would you secure a Kubernetes cluster?"
+        },
+        {
+            "id": "DEV-SEC-015",
+            "difficulty": "medium",
+            "question": "How would you identify vulnerable dependencies before deploying an application?"
+        },
+        {
+            "id": "DEV-SEC-016",
+            "difficulty": "medium",
+            "question": "Explain the concept of security scanning within a CI/CD pipeline."
+        },
+        {
+            "id": "DEV-SEC-017",
+            "difficulty": "medium",
+            "question": "How would you securely store and rotate credentials used by production services?"
+        },
+        {
+            "id": "DEV-SEC-018",
+            "difficulty": "medium",
+            "question": "What is Infrastructure as Code scanning, and why is it important?"
+        },
+        {
+            "id": "DEV-SEC-019",
+            "difficulty": "medium",
+            "question": "How would you investigate repeated failed authentication attempts on a production server?"
+        },
+        {
+            "id": "DEV-SEC-020",
+            "difficulty": "medium",
+            "question": "How would you implement a DevSecOps approach within a software development team?"
+        },
+
+
+        {
+            "id": "DEV-SEC-021",
+            "difficulty": "hard",
+            "question": "Design a security strategy for a cloud-native application running on Kubernetes."
+        },
+        {
+            "id": "DEV-SEC-022",
+            "difficulty": "hard",
+            "question": "How would you design a secure CI/CD pipeline from source code to production deployment?"
+        },
+        {
+            "id": "DEV-SEC-023",
+            "difficulty": "hard",
+            "question": "Explain the Zero Trust security model and how it applies to DevOps."
+        },
+        {
+            "id": "DEV-SEC-024",
+            "difficulty": "hard",
+            "question": "How would you secure communication between microservices in a distributed system?"
+        },
+        {
+            "id": "DEV-SEC-025",
+            "difficulty": "hard",
+            "question": "Describe how you would implement compliance and auditing for a large cloud infrastructure."
+        },
+        {
+            "id": "DEV-SEC-026",
+            "difficulty": "hard",
+            "question": "How would you design a secrets management architecture for thousands of applications?"
+        },
+        {
+            "id": "DEV-SEC-027",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between security, performance, and developer productivity."
+        },
+        {
+            "id": "DEV-SEC-028",
+            "difficulty": "hard",
+            "question": "How would you secure a multi-cloud production environment?"
+        },
+        {
+            "id": "DEV-SEC-029",
+            "difficulty": "hard",
+            "question": "How would you respond to a critical vulnerability discovered in a production dependency used by hundreds of services?"
+        },
+        {
+            "id": "DEV-SEC-030",
+            "difficulty": "hard",
+            "question": "How would you build a security-first DevOps culture across a large engineering organization?"
+        },
+
+
+        {
+            "id": "DEV-SEC-S031",
+            "difficulty": "scenario",
+            "question": "A developer accidentally commits production API keys to a public GitHub repository. Walk me through the immediate actions you would take."
+        },
+        {
+            "id": "DEV-SEC-S032",
+            "difficulty": "scenario",
+            "question": "A vulnerability scanner reports a critical security issue in a Docker image currently running in production. How would you investigate and respond?"
+        },
+        {
+            "id": "DEV-SEC-S033",
+            "difficulty": "scenario",
+            "question": "Your cloud provider reports suspicious activity involving one of your production accounts. Explain how you would investigate and secure the environment."
+        },
+        {
+            "id": "DEV-SEC-S034",
+            "difficulty": "scenario",
+            "question": "An employee accidentally grants administrator privileges to every user in a Kubernetes cluster. Describe your response."
+        },
+        {
+            "id": "DEV-SEC-S035",
+            "difficulty": "scenario",
+            "question": "A security audit reveals that production secrets are stored in plaintext configuration files. Explain how you would remediate the issue."
+        },
+        {
+            "id": "DEV-SEC-S036",
+            "difficulty": "scenario",
+            "question": "A production server begins communicating with an unknown external IP address. Walk me through your investigation."
+        },
+        {
+            "id": "DEV-SEC-S037",
+            "difficulty": "scenario",
+            "question": "Your CI/CD pipeline suddenly starts deploying unauthorized code. Describe how you would identify the root cause and restore trust in the deployment process."
+        },
+        {
+            "id": "DEV-SEC-S038",
+            "difficulty": "scenario",
+            "question": "A third-party library used by multiple services receives a critical security advisory. Explain how you would prioritize and coordinate the response."
+        },
+        {
+            "id": "DEV-SEC-S039",
+            "difficulty": "scenario",
+            "question": "A ransomware attack affects several production servers. Describe your immediate response, containment strategy, and recovery process."
+        },
+        {
+            "id": "DEV-SEC-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for securing the infrastructure of a rapidly growing SaaS company. Explain the security controls, monitoring, access management, and deployment practices you would establish before launch."
+        }
+    ]
+}

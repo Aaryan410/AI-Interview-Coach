@@ -1,0 +1,131 @@
+{
+    "html": [
+        {
+            "id": "FD-HTML-001",
+            "difficulty": "easy",
+            "question": "What is HTML, and what is its purpose?"
+        },
+        {
+            "id": "FD-HTML-002",
+            "difficulty": "easy",
+            "question": "What is the difference between a <div> and a <span>?"
+        },
+        {
+            "id": "FD-HTML-003",
+            "difficulty": "easy",
+            "question": "What are semantic HTML elements, and why are they important?"
+        },
+        {
+            "id": "FD-HTML-004",
+            "difficulty": "easy",
+            "question": "What is the purpose of the alt attribute in an image?"
+        },
+        {
+            "id": "FD-HTML-005",
+            "difficulty": "easy",
+            "question": "Explain the difference between <section> and <article>."
+        },
+        {
+            "id": "FD-HTML-006",
+            "difficulty": "easy",
+            "question": "What is the difference between block-level and inline elements?"
+        },
+        {
+            "id": "FD-HTML-007",
+            "difficulty": "easy",
+            "question": "What is the purpose of the <head> tag?"
+        },
+        {
+            "id": "FD-HTML-008",
+            "difficulty": "easy",
+            "question": "What are forms in HTML?"
+        },
+        {
+            "id": "FD-HTML-009",
+            "difficulty": "easy",
+            "question": "Explain the difference between GET and POST forms."
+        },
+        {
+            "id": "FD-HTML-010",
+            "difficulty": "easy",
+            "question": "What is the purpose of labels in forms?"
+        },
+
+        {
+            "id": "FD-HTML-011",
+            "difficulty": "medium",
+            "question": "Why should developers use semantic HTML?"
+        },
+        {
+            "id": "FD-HTML-012",
+            "difficulty": "medium",
+            "question": "Explain the DOM."
+        },
+        {
+            "id": "FD-HTML-013",
+            "difficulty": "medium",
+            "question": "How does HTML interact with CSS and JavaScript?"
+        },
+        {
+            "id": "FD-HTML-014",
+            "difficulty": "medium",
+            "question": "What is lazy loading for images?"
+        },
+        {
+            "id": "FD-HTML-015",
+            "difficulty": "medium",
+            "question": "How do browsers render HTML?"
+        },
+        {
+            "id": "FD-HTML-016",
+            "difficulty": "medium",
+            "question": "What are meta tags?"
+        },
+        {
+            "id": "FD-HTML-017",
+            "difficulty": "medium",
+            "question": "Explain accessibility in HTML."
+        },
+        {
+            "id": "FD-HTML-018",
+            "difficulty": "medium",
+            "question": "What is the purpose of ARIA attributes?"
+        },
+        {
+            "id": "FD-HTML-019",
+            "difficulty": "medium",
+            "question": "How would you structure a large webpage?"
+        },
+        {
+            "id": "FD-HTML-020",
+            "difficulty": "medium",
+            "question": "Explain HTML validation."
+        },
+
+        {
+            "id": "FD-HTML-021",
+            "difficulty": "hard",
+            "question": "How would you optimize a large HTML document?"
+        },
+        {
+            "id": "FD-HTML-022",
+            "difficulty": "hard",
+            "question": "Explain browser parsing."
+        },
+        {
+            "id": "FD-HTML-023",
+            "difficulty": "hard",
+            "question": "What are Shadow DOM and Web Components?"
+        },
+        {
+            "id": "FD-HTML-024",
+            "difficulty": "hard",
+            "question": "Design an accessible webpage."
+        },
+        {
+            "id": "FD-HTML-025",
+            "difficulty": "hard",
+            "question": "Explain hydration in modern web applications."
+        }
+    ]
+}

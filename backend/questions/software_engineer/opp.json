@@ -1,0 +1,109 @@
+{    
+    "opp": [
+        {
+            "id": "SE-OPP-001",
+            "difficulty": "easy",
+            "question": "What is encapsulation?"
+        },
+        {
+            "id": "SE-OOP-002",
+            "difficulty": "medium",
+            "question": "Explain polymorphism with an example"
+        },
+        {
+            "id": "SE-OPP-003",
+            "difficulty": "easy",
+            "question": "What is OOP?"
+        },
+        {
+            "id": "SE-OPP-004",
+            "difficulty": "easy",
+            "question": "Explain inheritance."
+        },
+        {
+            "id": "SE-OPP-005",
+            "difficulty": "easy",
+            "question": "What is abstraction?"
+        },
+        {
+            "id": "SE-OPP-006",
+            "difficulty": "easy",
+            "question": "What is polymorphism?"
+        },
+        {
+            "id": "SE-OPP-007",
+            "difficulty": "easy",
+            "question": "What is a class?"
+        },
+        {
+            "id": "SE-OPP-008",
+            "difficulty": "easy",
+            "question": "What is an object?"
+        },
+        {
+            "id": "SE-OPP-009",
+            "difficulty": "easy",
+            "question": "What are constructors?"
+        },
+        {
+            "id": "SE-OPP-010",
+            "difficulty": "easy",
+            "question": "What are destructors?"
+        },
+        {
+            "id": "SE-OPP-011",
+            "difficulty": "easy",
+            "question": "What is method overloading?"
+        },
+        {
+            "id": "SE-OPP-012",
+            "difficulty": "medium",
+            "question": "Difference between overloading and overriding."
+        },
+        {
+            "id": "SE-OPP-013",
+            "difficulty": "medium",
+            "question": "Compile-time vs runtime polymorphism."
+        },
+        {
+            "id": "SE-BH-014",
+            "difficulty": "medium",
+            "question": "Explain virtual functions."
+        },
+        {
+            "id": "SE-OPP-015",
+            "difficulty": "medium",
+            "question": "Explain pure virtual functions."
+        },
+        {
+            "id": "SE-OPP-016",
+            "difficulty": "medium",
+            "question": "What are abstract classes?"
+        },
+        {
+            "id": "SE-OPP-017",
+            "difficulty": "medium",
+            "question": "Explain multiple inheritance."
+        },
+        {
+            "id": "SE-OPP-018",
+            "difficulty": "medium",
+            "question": "Composition vs inheritance."
+        },
+        {
+            "id": "SE-OPP-019",
+            "difficulty": "medium",
+            "question": "Explain access specifiers."
+        },
+        {
+            "id": "SE-OPP-020",
+            "difficulty": "medium",
+            "question": "What are friend functions?"
+        },
+        {
+            "id": "SE-OPP-021",
+            "difficulty": "medium",
+            "question": "Explain static members."
+        }
+    ]
+}

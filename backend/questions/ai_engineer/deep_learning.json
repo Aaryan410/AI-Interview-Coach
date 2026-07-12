@@ -1,0 +1,210 @@
+{
+    "deep learning": [
+        {
+            "id": "AI-DL-001",
+            "difficulty": "easy",
+            "question": "What is Deep Learning, and how does it differ from traditional Machine Learning?"
+        },
+        {
+            "id": "AI-DL-002",
+            "difficulty": "easy",
+            "question": "What is an artificial neural network?"
+        },
+        {
+            "id": "AI-DL-003",
+            "difficulty": "easy",
+            "question": "What are the input, hidden, and output layers in a neural network?"
+        },
+        {
+            "id": "AI-DL-004",
+            "difficulty": "easy",
+            "question": "What is an activation function, and why is it important?"
+        },
+        {
+            "id": "AI-DL-005",
+            "difficulty": "easy",
+            "question": "What is the purpose of a loss function?"
+        },
+        {
+            "id": "AI-DL-006",
+            "difficulty": "easy",
+            "question": "What is gradient descent?"
+        },
+        {
+            "id": "AI-DL-007",
+            "difficulty": "easy",
+            "question": "What is an epoch in deep learning?"
+        },
+        {
+            "id": "AI-DL-008",
+            "difficulty": "easy",
+            "question": "What is a batch, and what is a batch size?"
+        },
+        {
+            "id": "AI-DL-009",
+            "difficulty": "easy",
+            "question": "What is overfitting in deep learning?"
+        },
+        {
+            "id": "AI-DL-010",
+            "difficulty": "easy",
+            "question": "Name some common deep learning frameworks."
+        },
+
+
+        {
+            "id": "AI-DL-011",
+            "difficulty": "medium",
+            "question": "Explain how forward propagation works in a neural network."
+        },
+        {
+            "id": "AI-DL-012",
+            "difficulty": "medium",
+            "question": "Explain how backpropagation updates neural network weights."
+        },
+        {
+            "id": "AI-DL-013",
+            "difficulty": "medium",
+            "question": "Compare ReLU, Sigmoid, and Tanh activation functions."
+        },
+        {
+            "id": "AI-DL-014",
+            "difficulty": "medium",
+            "question": "Explain the purpose of dropout in neural networks."
+        },
+        {
+            "id": "AI-DL-015",
+            "difficulty": "medium",
+            "question": "What is batch normalization, and why is it useful?"
+        },
+        {
+            "id": "AI-DL-016",
+            "difficulty": "medium",
+            "question": "Compare SGD, Adam, and RMSProp optimizers."
+        },
+        {
+            "id": "AI-DL-017",
+            "difficulty": "medium",
+            "question": "What is transfer learning, and when would you use it?"
+        },
+        {
+            "id": "AI-DL-018",
+            "difficulty": "medium",
+            "question": "How would you detect that a neural network is overfitting?"
+        },
+        {
+            "id": "AI-DL-019",
+            "difficulty": "medium",
+            "question": "Why are GPUs commonly used for deep learning?"
+        },
+        {
+            "id": "AI-DL-020",
+            "difficulty": "medium",
+            "question": "Explain the difference between CNNs, RNNs, and Transformers."
+        },
+
+
+        {
+            "id": "AI-DL-021",
+            "difficulty": "hard",
+            "question": "Explain the vanishing and exploding gradient problems and describe techniques used to address them."
+        },
+        {
+            "id": "AI-DL-022",
+            "difficulty": "hard",
+            "question": "How would you diagnose why a neural network is not converging during training?"
+        },
+        {
+            "id": "AI-DL-023",
+            "difficulty": "hard",
+            "question": "How would you optimize the training time of a large deep learning model?"
+        },
+        {
+            "id": "AI-DL-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between model depth, width, and computational cost."
+        },
+        {
+            "id": "AI-DL-025",
+            "difficulty": "hard",
+            "question": "Describe strategies for improving the generalization ability of a deep learning model."
+        },
+        {
+            "id": "AI-DL-026",
+            "difficulty": "hard",
+            "question": "How would you select an appropriate neural network architecture for a new AI problem?"
+        },
+        {
+            "id": "AI-DL-027",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between training a model from scratch and using transfer learning."
+        },
+        {
+            "id": "AI-DL-028",
+            "difficulty": "hard",
+            "question": "How would you reduce GPU memory consumption while training a large neural network?"
+        },
+        {
+            "id": "AI-DL-029",
+            "difficulty": "hard",
+            "question": "Describe the complete lifecycle of developing and deploying a deep learning model."
+        },
+        {
+            "id": "AI-DL-030",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether increasing model size is a better solution than improving the quality of the training data?"
+        },
+
+
+        {
+            "id": "AI-DL-S031",
+            "difficulty": "scenario",
+            "question": "A deep learning model that performed well during development suddenly performs poorly in production. Walk me through your investigation."
+        },
+        {
+            "id": "AI-DL-S032",
+            "difficulty": "scenario",
+            "question": "Training a neural network takes several days and frequently runs out of GPU memory. Explain how you would optimize the training process."
+        },
+        {
+            "id": "AI-DL-S033",
+            "difficulty": "scenario",
+            "question": "A teammate reports that the training loss continues to decrease while the validation loss steadily increases. How would you respond?"
+        },
+        {
+            "id": "AI-DL-S034",
+            "difficulty": "scenario",
+            "question": "You inherit a deep learning model with millions of parameters but almost no documentation. Explain how you would begin understanding and improving it."
+        },
+        {
+            "id": "AI-DL-S035",
+            "difficulty": "scenario",
+            "question": "Your customer requires an AI model to run on a mobile device with limited memory and processing power. Describe the trade-offs and optimizations you would consider."
+        },
+        {
+            "id": "AI-DL-S036",
+            "difficulty": "scenario",
+            "question": "A model's predictions become unstable after introducing new training data. Walk me through your debugging process."
+        },
+        {
+            "id": "AI-DL-S037",
+            "difficulty": "scenario",
+            "question": "A stakeholder requests a model that is both significantly more accurate and twice as fast. How would you evaluate whether both goals are realistic?"
+        },
+        {
+            "id": "AI-DL-S038",
+            "difficulty": "scenario",
+            "question": "You are responsible for training a deep learning model on sensitive healthcare data. Explain how you would protect privacy while maintaining model performance."
+        },
+        {
+            "id": "AI-DL-S039",
+            "difficulty": "scenario",
+            "question": "A production GPU cluster becomes unavailable shortly before an important model release. Describe how you would adapt your training and deployment strategy."
+        },
+        {
+            "id": "AI-DL-S040",
+            "difficulty": "scenario",
+            "question": "Your team must build an AI system capable of processing millions of images every day. Explain how you would design the deep learning pipeline, infrastructure, monitoring, and deployment strategy."
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "rest APIs": [
+        {
+            "id": "BD-RA-001",
+            "difficulty": "easy",
+            "question": "What is a REST API?"
+        },
+        {
+            "id": "BD-RA-002",
+            "difficulty": "easy",
+            "question": "What is the difference between the GET and POST HTTP methods?"
+        },
+        {
+            "id": "BD-RA-003",
+            "difficulty": "easy",
+            "question": "When would you use PUT instead of PATCH?"
+        },
+        {
+            "id": "BD-RA-004",
+            "difficulty": "easy",
+            "question": "What are HTTP status codes, and why are they important?"
+        },
+        {
+            "id": "BD-RA-005",
+            "difficulty": "easy",
+            "question": "What information should a good API response contain?"
+        },
+        {
+            "id": "BD-RA-006",
+            "difficulty": "easy",
+            "question": "What is JSON, and why is it commonly used in APIs?"
+        },
+        {
+            "id": "BD-RA-007",
+            "difficulty": "easy",
+            "question": "What is an endpoint in a REST API?"
+        },
+        {
+            "id": "BD-RA-008",
+            "difficulty": "easy",
+            "question": "What is the purpose of request headers?"
+        },
+        {
+            "id": "BD-RA-009",
+            "difficulty": "easy",
+            "question": "Can you explain what query parameters are?"
+        },
+        {
+            "id": "BD-RA-010",
+            "difficulty": "easy",
+            "question": "How would you test an API that you built?"
+        },
+
+
+        {
+            "id": "BD-RA-011",
+            "difficulty": "medium",
+            "question": "How would you design a RESTful API for a blogging platform?"
+        },
+        {
+            "id": "BD-RA-012",
+            "difficulty": "medium",
+            "question": "What is API versioning, and why is it necessary?"
+        },
+        {
+            "id": "BD-RA-013",
+            "difficulty": "medium",
+            "question": "How would you implement pagination in an API?"
+        },
+        {
+            "id": "BD-RA-014",
+            "difficulty": "medium",
+            "question": "What techniques can be used to secure a REST API?"
+        },
+        {
+            "id": "BD-RA-015",
+            "difficulty": "medium",
+            "question": "What is idempotency, and why is it important for HTTP methods?"
+        },
+        {
+            "id": "BD-RA-016",
+            "difficulty": "medium",
+            "question": "Explain the difference between authentication and authorization."
+        },
+        {
+            "id": "BD-RA-017",
+            "difficulty": "medium",
+            "question": "What is JWT, and how does it work?"
+        },
+        {
+            "id": "BD-RA-018",
+            "difficulty": "medium",
+            "question": "How would you handle file uploads in a REST API?"
+        },
+        {
+            "id": "BD-RA-019",
+            "difficulty": "medium",
+            "question": "What is rate limiting, and why is it useful?"
+        },
+        {
+            "id": "BD-RA-020",
+            "difficulty": "medium",
+            "question": "How would you document an API for other developers?"
+        },
+
+
+        {
+            "id": "BD-RA-021",
+            "difficulty": "hard",
+            "question": "Design a scalable REST API for a social media platform."
+        },
+        {
+            "id": "BD-RA-022",
+            "difficulty": "hard",
+            "question": "How would you secure an API used by millions of users?"
+        },
+        {
+            "id": "BD-RA-023",
+            "difficulty": "hard",
+            "question": "Compare REST APIs with GraphQL. When would you choose each?"
+        },
+        {
+            "id": "BD-RA-024",
+            "difficulty": "hard",
+            "question": "Explain how API gateways work."
+        },
+        {
+            "id": "BD-RA-025",
+            "difficulty": "hard",
+            "question": "How would you prevent abuse of a public API?"
+        },
+        {
+            "id": "BD-RA-026",
+            "difficulty": "hard",
+            "question": "What challenges arise when versioning APIs in production?"
+        },
+        {
+            "id": "BD-RA-027",
+            "difficulty": "hard",
+            "question": "How would you design an API for real-time notifications?"
+        },
+        {
+            "id": "BD-RA-028",
+            "difficulty": "hard",
+            "question": "Explain how WebSockets differ from REST APIs."
+        },
+        {
+            "id": "BD-RA-029",
+            "difficulty": "hard",
+            "question": "How would you monitor API performance in production?"
+        },
+        {
+            "id": "BD-RA-030",
+            "difficulty": "hard",
+            "question": "What metrics would you track for a production API?"
+        }
+    ]
+}

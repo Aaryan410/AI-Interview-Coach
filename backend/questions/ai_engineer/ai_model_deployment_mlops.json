@@ -1,0 +1,207 @@
+{
+    "ai model deployment & mlops": [
+        {
+            "id": "AI-MLOPS-001",
+            "difficulty": "easy",
+            "question": "What is MLOps, and why is it important?"
+        },
+        {
+            "id": "AI-MLOPS-002",
+            "difficulty": "easy",
+            "question": "What is model deployment?"
+        },
+        {
+            "id": "AI-MLOPS-003",
+            "difficulty": "easy",
+            "question": "Why can't trained machine learning models simply be copied into production without additional work?"
+        },
+        {
+            "id": "AI-MLOPS-004",
+            "difficulty": "easy",
+            "question": "What is model serving?"
+        },
+        {
+            "id": "AI-MLOPS-005",
+            "difficulty": "easy",
+            "question": "Why are APIs commonly used to serve AI models?"
+        },
+        {
+            "id": "AI-MLOPS-006",
+            "difficulty": "easy",
+            "question": "What is model versioning?"
+        },
+        {
+            "id": "AI-MLOPS-007",
+            "difficulty": "easy",
+            "question": "Why is Docker commonly used when deploying AI models?"
+        },
+        {
+            "id": "AI-MLOPS-008",
+            "difficulty": "easy",
+            "question": "What is model monitoring?"
+        },
+        {
+            "id": "AI-MLOPS-009",
+            "difficulty": "easy",
+            "question": "What is data drift?"
+        },
+        {
+            "id": "AI-MLOPS-010",
+            "difficulty": "easy",
+            "question": "What is model drift?"
+        },
+
+        {
+            "id": "AI-MLOPS-011",
+            "difficulty": "medium",
+            "question": "Explain the complete lifecycle of deploying a machine learning model into production."
+        },
+        {
+            "id": "AI-MLOPS-012",
+            "difficulty": "medium",
+            "question": "How would you monitor the performance of a deployed AI model?"
+        },
+        {
+            "id": "AI-MLOPS-013",
+            "difficulty": "medium",
+            "question": "How would you determine whether poor production performance is caused by the model, the data, or the deployment infrastructure?"
+        },
+        {
+            "id": "AI-MLOPS-014",
+            "difficulty": "medium",
+            "question": "How would you implement CI/CD for machine learning models?"
+        },
+        {
+            "id": "AI-MLOPS-015",
+            "difficulty": "medium",
+            "question": "Why is model versioning as important as source code versioning?"
+        },
+        {
+            "id": "AI-MLOPS-016",
+            "difficulty": "medium",
+            "question": "How would you safely deploy a new model without affecting all users immediately?"
+        },
+        {
+            "id": "AI-MLOPS-017",
+            "difficulty": "medium",
+            "question": "Explain the difference between batch inference and real-time inference."
+        },
+        {
+            "id": "AI-MLOPS-018",
+            "difficulty": "medium",
+            "question": "How would you optimize inference latency while maintaining prediction quality?"
+        },
+        {
+            "id": "AI-MLOPS-019",
+            "difficulty": "medium",
+            "question": "How would you determine when a deployed model should be retrained?"
+        },
+        {
+            "id": "AI-MLOPS-020",
+            "difficulty": "medium",
+            "question": "How would you evaluate the success of a newly deployed machine learning model?"
+        },
+
+        {
+            "id": "AI-MLOPS-021",
+            "difficulty": "hard",
+            "question": "Design an MLOps pipeline for training, validating, deploying, monitoring, and continuously improving machine learning models."
+        },
+        {
+            "id": "AI-MLOPS-022",
+            "difficulty": "hard",
+            "question": "How would you deploy a Large Language Model that serves millions of users while balancing latency, throughput, and operational cost?"
+        },
+        {
+            "id": "AI-MLOPS-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between deploying AI models on cloud servers, edge devices, and on-premises infrastructure."
+        },
+        {
+            "id": "AI-MLOPS-024",
+            "difficulty": "hard",
+            "question": "How would you design an automated retraining pipeline that minimizes the risk of deploying worse-performing models?"
+        },
+        {
+            "id": "AI-MLOPS-025",
+            "difficulty": "hard",
+            "question": "Describe strategies for monitoring and detecting data drift, concept drift, and model drift in production."
+        },
+        {
+            "id": "AI-MLOPS-026",
+            "difficulty": "hard",
+            "question": "How would you optimize GPU utilization for large-scale AI inference?"
+        },
+        {
+            "id": "AI-MLOPS-027",
+            "difficulty": "hard",
+            "question": "How would you build a highly available AI inference platform with minimal downtime?"
+        },
+        {
+            "id": "AI-MLOPS-028",
+            "difficulty": "hard",
+            "question": "How would you compare A/B testing, canary deployments, and shadow deployments for releasing new AI models?"
+        },
+        {
+            "id": "AI-MLOPS-029",
+            "difficulty": "hard",
+            "question": "How would you secure an AI deployment pipeline from model training to production inference?"
+        },
+        {
+            "id": "AI-MLOPS-030",
+            "difficulty": "hard",
+            "question": "Describe the architecture of a production AI platform capable of training, deploying, monitoring, and serving hundreds of machine learning models simultaneously."
+        },
+
+        {
+            "id": "AI-MLOPS-S031",
+            "difficulty": "scenario",
+            "question": "A newly deployed model achieves excellent offline evaluation scores but performs poorly in production. Walk me through your investigation."
+        },
+        {
+            "id": "AI-MLOPS-S032",
+            "difficulty": "scenario",
+            "question": "Prediction latency suddenly doubles after a new model deployment. Explain how you would identify the bottleneck."
+        },
+        {
+            "id": "AI-MLOPS-S033",
+            "difficulty": "scenario",
+            "question": "Your monitoring dashboard reports a gradual decline in prediction accuracy over several months. Describe how you would determine whether retraining is necessary."
+        },
+        {
+            "id": "AI-MLOPS-S034",
+            "difficulty": "scenario",
+            "question": "A stakeholder wants to replace the production model immediately because a newer model performs better in testing. How would you evaluate whether an immediate rollout is appropriate?"
+        },
+        {
+            "id": "AI-MLOPS-S035",
+            "difficulty": "scenario",
+            "question": "Your AI service suddenly receives ten times more traffic than expected. Explain how you would scale the deployment while maintaining acceptable latency."
+        },
+        {
+            "id": "AI-MLOPS-S036",
+            "difficulty": "scenario",
+            "question": "A production AI API begins returning inconsistent predictions after an infrastructure update. Walk me through your debugging process."
+        },
+        {
+            "id": "AI-MLOPS-S037",
+            "difficulty": "scenario",
+            "question": "A healthcare AI model must be updated to improve accuracy, but regulators require that every deployed version remain reproducible. Explain how you would design the deployment process."
+        },
+        {
+            "id": "AI-MLOPS-S038",
+            "difficulty": "scenario",
+            "question": "An engineer proposes automatically retraining and deploying a new model every night without human review. How would you evaluate this proposal?"
+        },
+        {
+            "id": "AI-MLOPS-S039",
+            "difficulty": "scenario",
+            "question": "Your cloud costs for serving Large Language Models increase dramatically as user adoption grows. Describe the architectural and operational optimizations you would consider."
+        },
+        {
+            "id": "AI-MLOPS-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for deploying an enterprise AI platform that serves hundreds of models across multiple regions. Explain how you would design model serving, monitoring, versioning, rollback, scaling, and disaster recovery."
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "caching": [
+        {
+            "id": "BD-C-001",
+            "difficulty": "easy",
+            "question": "What is caching, and why is it important in backend applications?"
+        },
+        {
+            "id": "BD-C-002",
+            "difficulty": "easy",
+            "question": "What is the difference between client-side and server-side caching?"
+        },
+        {
+            "id": "BD-C-003",
+            "difficulty": "easy",
+            "question": "What is a cache hit and a cache miss?"
+        },
+        {
+            "id": "BD-C-004",
+            "difficulty": "easy",
+            "question": "What types of data should be cached?"
+        },
+        {
+            "id": "BD-C-005",
+            "difficulty": "easy",
+            "question": "What is Redis, and why is it commonly used for caching?"
+        },
+        {
+            "id": "BD-C-006",
+            "difficulty": "easy",
+            "question": "What is Memcached?"
+        },
+        {
+            "id": "BD-C-007",
+            "difficulty": "easy",
+            "question": "How can caching improve API performance?"
+        },
+        {
+            "id": "BD-C-008",
+            "difficulty": "easy",
+            "question": "When should you avoid caching data?"
+        },
+        {
+            "id": "BD-C-009",
+            "difficulty": "easy",
+            "question": "What is Time-To-Live (TTL) in caching?"
+        },
+        {
+            "id": "BD-C-010",
+            "difficulty": "easy",
+            "question": "What happens when cached data becomes outdated?"
+        },
+
+
+        {
+            "id": "BD-C-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between write-through and write-back caching."
+        },
+        {
+            "id": "BD-C-012",
+            "difficulty": "medium",
+            "question": "How would you invalidate stale cache entries?"
+        },
+        {
+            "id": "BD-C-013",
+            "difficulty": "medium",
+            "question": "What is cache eviction, and what are common eviction policies?"
+        },
+        {
+            "id": "BD-C-014",
+            "difficulty": "medium",
+            "question": "How would you cache database query results?"
+        },
+        {
+            "id": "BD-C-015",
+            "difficulty": "medium",
+            "question": "Explain distributed caching."
+        },
+        {
+            "id": "BD-C-016",
+            "difficulty": "medium",
+            "question": "What problems can occur if cached data becomes inconsistent?"
+        },
+        {
+            "id": "BD-C-017",
+            "difficulty": "medium",
+            "question": "How would you cache user sessions?"
+        },
+        {
+            "id": "BD-C-018",
+            "difficulty": "medium",
+            "question": "What is lazy loading in caching?"
+        },
+        {
+            "id": "BD-C-019",
+            "difficulty": "medium",
+            "question": "How would you monitor cache performance?"
+        },
+        {
+            "id": "BD-C-020",
+            "difficulty": "medium",
+            "question": "Explain cache warming."
+        },
+
+
+        {
+            "id": "BD-C-021",
+            "difficulty": "hard",
+            "question": "How would you design a distributed caching system for millions of users?"
+        },
+        {
+            "id": "BD-C-022",
+            "difficulty": "hard",
+            "question": "Explain the Cache Aside pattern."
+        },
+        {
+            "id": "BD-C-023",
+            "difficulty": "hard",
+            "question": "What is a cache stampede, and how can it be prevented?"
+        },
+        {
+            "id": "BD-C-024",
+            "difficulty": "hard",
+            "question": "How would you cache responses in a microservices architecture?"
+        },
+        {
+            "id": "BD-C-025",
+            "difficulty": "hard",
+            "question": "Explain eventual consistency in distributed caching."
+        },
+        {
+            "id": "BD-C-026",
+            "difficulty": "hard",
+            "question": "How would you troubleshoot poor cache performance?"
+        },
+        {
+            "id": "BD-C-027",
+            "difficulty": "hard",
+            "question": "Compare Redis and Memcached for large-scale systems."
+        },
+        {
+            "id": "BD-C-028",
+            "difficulty": "hard",
+            "question": "Design a caching strategy for a social media news feed."
+        },
+        {
+            "id": "BD-C-029",
+            "difficulty": "hard",
+            "question": "How would you cache personalized user data?"
+        },
+        {
+            "id": "BD-C-030",
+            "difficulty": "hard",
+            "question": "What challenges arise when caching frequently changing data?"
+        }
+    ]
+}

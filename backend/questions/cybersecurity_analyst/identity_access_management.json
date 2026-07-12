@@ -1,0 +1,185 @@
+{
+    "identity & access management (iam)": [
+        {
+            "id": "CSA-IAM-001",
+            "difficulty": "easy",
+            "question": "What is Identity and Access Management (IAM)?"
+        },
+        {
+            "id": "CSA-IAM-002",
+            "difficulty": "easy",
+            "question": "What is Multi-Factor Authentication (MFA)?"
+        },
+        {
+            "id": "CSA-IAM-003",
+            "difficulty": "easy",
+            "question": "What is the Principle of Least Privilege?"
+        },
+        {
+            "id": "CSA-IAM-004",
+            "difficulty": "easy",
+            "question": "What is Role-Based Access Control (RBAC)?"
+        },
+        {
+            "id": "CSA-IAM-005",
+            "difficulty": "easy",
+            "question": "What is Single Sign-On (SSO)?"
+        },
+        {
+            "id": "CSA-IAM-006",
+            "difficulty": "easy",
+            "question": "What is an identity provider?"
+        },
+        {
+            "id": "CSA-IAM-007",
+            "difficulty": "easy",
+            "question": "What is account provisioning?"
+        },
+        {
+            "id": "CSA-IAM-008",
+            "difficulty": "easy",
+            "question": "Why are strong authentication methods important?"
+        },
+        {
+            "id": "CSA-IAM-009",
+            "difficulty": "easy",
+            "question": "What is password rotation?"
+        },
+        {
+            "id": "CSA-IAM-010",
+            "difficulty": "easy",
+            "question": "What is access auditing?"
+        },
+
+
+        {
+            "id": "CSA-IAM-011",
+            "difficulty": "medium",
+            "question": "How would you implement RBAC in a large organization?"
+        },
+        {
+            "id": "CSA-IAM-012",
+            "difficulty": "medium",
+            "question": "Explain federation."
+        },
+        {
+            "id": "CSA-IAM-013",
+            "difficulty": "medium",
+            "question": "What is OAuth 2.0?"
+        },
+        {
+            "id": "CSA-IAM-014",
+            "difficulty": "medium",
+            "question": "Explain OpenID Connect."
+        },
+        {
+            "id": "CSA-IAM-015",
+            "difficulty": "medium",
+            "question": "How would you manage privileged accounts?"
+        },
+        {
+            "id": "CSA-IAM-016",
+            "difficulty": "medium",
+            "question": "Explain identity lifecycle management."
+        },
+        {
+            "id": "CSA-IAM-017",
+            "difficulty": "medium",
+            "question": "How would you detect compromised accounts?"
+        },
+        {
+            "id": "CSA-IAM-018",
+            "difficulty": "medium",
+            "question": "What are service accounts?"
+        },
+        {
+            "id": "CSA-IAM-019",
+            "difficulty": "medium",
+            "question": "Explain adaptive authentication."
+        },
+        {
+            "id": "CSA-IAM-020",
+            "difficulty": "medium",
+            "question": "How would you secure administrator accounts?"
+        },
+
+
+        {
+            "id": "CSA-IAM-021",
+            "difficulty": "hard",
+            "question": "Design an IAM solution for a multinational company."
+        },
+        {
+            "id": "CSA-IAM-022",
+            "difficulty": "hard",
+            "question": "Explain Zero Trust identity."
+        },
+        {
+            "id": "CSA-IAM-023",
+            "difficulty": "hard",
+            "question": "How would you secure cloud identities?"
+        },
+        {
+            "id": "CSA-IAM-024",
+            "difficulty": "hard",
+            "question": "Explain identity governance."
+        },
+        {
+            "id": "CSA-IAM-025",
+            "difficulty": "hard",
+            "question": "Design enterprise authentication architecture."
+        },
+
+
+        {
+            "id": "CSA-IAM-S026",
+            "difficulty": "scenario",
+            "question": "A former employee's account is still active two weeks after leaving the company. What risks does this create, and what actions would you take immediately?"
+        },
+        {
+            "id": "CSA-IAM-S027",
+            "difficulty": "scenario",
+            "question": "An administrator account appears to have logged in from two different countries within one hour. Describe how you would investigate whether the account has been compromised."
+        },
+        {
+            "id": "CSA-IAM-S028",
+            "difficulty": "scenario",
+            "question": "Your organization plans to enforce Multi-Factor Authentication for every employee. What challenges do you expect during deployment, and how would you address them?"
+        },
+        {
+            "id": "CSA-IAM-S029",
+            "difficulty": "scenario",
+            "question": "A department requests permanent administrator privileges for all employees because it makes their work easier. How would you evaluate the request and explain your decision?"
+        },
+        {
+            "id": "CSA-IAM-S030",
+            "difficulty": "scenario",
+            "question": "During a routine audit, you discover several privileged accounts that have not been used for months. Explain the steps you would take before disabling or removing them."
+        },
+        {
+            "id": "CSA-IAM-S031",
+            "difficulty": "scenario",
+            "question": "A developer accidentally shares credentials for a production account in a team chat. What immediate actions should be taken, and what preventive measures would you recommend?"
+        },
+        {
+            "id": "CSA-IAM-S032",
+            "difficulty": "scenario",
+            "question": "You notice that several employees are sharing the same administrator account to perform daily tasks. How would you address the security risks and implement a better solution?"
+        },
+        {
+            "id": "CSA-IAM-S033",
+            "difficulty": "scenario",
+            "question": "An employee reports that they suddenly cannot access multiple internal systems after a recent permission update. Describe how you would investigate and resolve the issue."
+        },
+        {
+            "id": "CSA-IAM-S034",
+            "difficulty": "scenario",
+            "question": "Your company acquires another organization with hundreds of employees. How would you approach securely integrating their user identities and access permissions into your existing environment?"
+        },
+        {
+            "id": "CSA-IAM-S035",
+            "difficulty": "scenario",
+            "question": "A security audit reveals that employees have accumulated excessive permissions over several years. How would you reduce these permissions while minimizing disruption to business operations?"
+        }
+    ]
+}

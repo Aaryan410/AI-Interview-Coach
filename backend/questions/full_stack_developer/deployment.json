@@ -1,0 +1,133 @@
+{
+    "deployment": [
+        {
+            "id": "FSD-DT-001",
+            "difficulty": "easy",
+            "question": "How do you deploy a full stack application?"
+        },
+        {
+            "id": "FSD-DT-002",
+            "difficulty": "easy",
+            "question": "What is Docker?"
+        },
+        {
+            "id": "FSD-DT-003",
+            "difficulty": "easy",
+            "question": "What is a production server?"
+        },
+        {
+            "id": "FSD-DT-004",
+            "difficulty": "easy",
+            "question": "What is environment configuration?"
+        },
+        {
+            "id": "FSD-DT-005",
+            "difficulty": "easy",
+            "question": "Why are environment variables important?"
+        },
+        {
+            "id": "FSD-DT-006",
+            "difficulty": "easy",
+            "question": "What is continuous deployment?"
+        },
+        {
+            "id": "FSD-DT-007",
+            "difficulty": "easy",
+            "question": "What is cloud hosting?"
+        },
+        {
+            "id": "FSD-DT-008",
+            "difficulty": "easy",
+            "question": "What is domain hosting?"
+        },
+        {
+            "id": "FSD-DT-009",
+            "difficulty": "easy",
+            "question": "Explain HTTPS."
+        },
+        {
+            "id": "FSD-DT-010",
+            "difficulty": "easy",
+            "question": "What is SSL/TLS?"
+        },
+
+
+        {
+            "id": "FSD-DT-011",
+            "difficulty": "medium",
+            "question": "How would you deploy a React frontend with a backend API?"
+        },
+        {
+            "id": "FSD-DT-012",
+            "difficulty": "medium",
+            "question": "Explain reverse proxies."
+        },
+        {
+            "id": "FSD-DT-013",
+            "difficulty": "medium",
+            "question": "How would you deploy using Docker?"
+        },
+        {
+            "id": "FSD-DT-014",
+            "difficulty": "medium",
+            "question": "Explain CI/CD pipelines."
+        },
+        {
+            "id": "FSD-DT-015",
+            "difficulty": "medium",
+            "question": "How would you configure production databases?"
+        },
+        {
+            "id": "FSD-DT-016",
+            "difficulty": "medium",
+            "question": "Explain monitoring."
+        },
+        {
+            "id": "FSD-DT-017",
+            "difficulty": "medium",
+            "question": "What is load balancing?"
+        },
+        {
+            "id": "FSD-DT-018",
+            "difficulty": "medium",
+            "question": "Explain automatic deployments."
+        },
+        {
+            "id": "FSD-DT-019",
+            "difficulty": "medium",
+            "question": "How would you configure environment variables?"
+        },
+        {
+            "id": "FSD-DT-020",
+            "difficulty": "medium",
+            "question": "Explain deployment rollback."
+        },
+
+
+        {
+            "id": "FSD-DT-021",
+            "difficulty": "hard",
+            "question": "Design deployment for millions of users."
+        },
+        {
+            "id": "FSD-DT-022",
+            "difficulty": "hard",
+            "question": "Explain blue-green deployment."
+        },
+        {
+            "id": "FSD-DT-023",
+            "difficulty": "hard",
+            "question": "Explain canary deployment."
+        },
+        {
+            "id": "FSD-DT-024",
+            "difficulty": "hard",
+            "question": "How would you ensure zero downtime deployments?"
+        },
+        {
+            "id": "FSD-DT-025",
+            "difficulty": "hard",
+            "question": "Explain high availability."
+        }
+    ]
+}

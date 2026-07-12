@@ -1,0 +1,210 @@
+{
+    "statistics probability": [
+        {
+            "id": "ML-STAT-001",
+            "difficulty": "easy",
+            "question": "Why are statistics and probability important in Machine Learning?"
+        },
+        {
+            "id": "ML-STAT-002",
+            "difficulty": "easy",
+            "question": "What is the difference between population and sample?"
+        },
+        {
+            "id": "ML-STAT-003",
+            "difficulty": "easy",
+            "question": "What are mean, median, and mode?"
+        },
+        {
+            "id": "ML-STAT-004",
+            "difficulty": "easy",
+            "question": "What is variance?"
+        },
+        {
+            "id": "ML-STAT-005",
+            "difficulty": "easy",
+            "question": "What is standard deviation?"
+        },
+        {
+            "id": "ML-STAT-006",
+            "difficulty": "easy",
+            "question": "What is probability?"
+        },
+        {
+            "id": "ML-STAT-007",
+            "difficulty": "easy",
+            "question": "What is a probability distribution?"
+        },
+        {
+            "id": "ML-STAT-008",
+            "difficulty": "easy",
+            "question": "What is the difference between discrete and continuous random variables?"
+        },
+        {
+            "id": "ML-STAT-009",
+            "difficulty": "easy",
+            "question": "What is correlation?"
+        },
+        {
+            "id": "ML-STAT-010",
+            "difficulty": "easy",
+            "question": "Why does correlation not necessarily imply causation?"
+        },
+
+
+        {
+            "id": "ML-STAT-011",
+            "difficulty": "medium",
+            "question": "Explain the bias-variance trade-off from a statistical perspective."
+        },
+        {
+            "id": "ML-STAT-012",
+            "difficulty": "medium",
+            "question": "What is the Central Limit Theorem, and why is it important in Machine Learning?"
+        },
+        {
+            "id": "ML-STAT-013",
+            "difficulty": "medium",
+            "question": "Explain confidence intervals and their practical significance."
+        },
+        {
+            "id": "ML-STAT-014",
+            "difficulty": "medium",
+            "question": "What is hypothesis testing, and when would you use it?"
+        },
+        {
+            "id": "ML-STAT-015",
+            "difficulty": "medium",
+            "question": "How would you identify outliers in a dataset using statistical methods?"
+        },
+        {
+            "id": "ML-STAT-016",
+            "difficulty": "medium",
+            "question": "Explain the difference between covariance and correlation."
+        },
+        {
+            "id": "ML-STAT-017",
+            "difficulty": "medium",
+            "question": "Why are Gaussian distributions commonly assumed in Machine Learning?"
+        },
+        {
+            "id": "ML-STAT-018",
+            "difficulty": "medium",
+            "question": "How would you determine whether a dataset follows a normal distribution?"
+        },
+        {
+            "id": "ML-STAT-019",
+            "difficulty": "medium",
+            "question": "What statistical problems can arise from using a very small dataset?"
+        },
+        {
+            "id": "ML-STAT-020",
+            "difficulty": "medium",
+            "question": "How would you determine whether two variables have a statistically significant relationship?"
+        },
+
+
+        {
+            "id": "ML-STAT-021",
+            "difficulty": "hard",
+            "question": "How would you determine whether poor model performance is caused by noisy data or insufficient data?"
+        },
+        {
+            "id": "ML-STAT-022",
+            "difficulty": "hard",
+            "question": "Explain the statistical assumptions behind linear regression and describe how violations affect model performance."
+        },
+        {
+            "id": "ML-STAT-023",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether collecting more data is likely to improve model performance?"
+        },
+        {
+            "id": "ML-STAT-024",
+            "difficulty": "hard",
+            "question": "How would you design an experiment to compare two machine learning models while minimizing statistical bias?"
+        },
+        {
+            "id": "ML-STAT-025",
+            "difficulty": "hard",
+            "question": "Explain the relationship between probability distributions, likelihood, and Bayesian inference."
+        },
+        {
+            "id": "ML-STAT-026",
+            "difficulty": "hard",
+            "question": "How would you determine whether feature distributions have changed significantly between training and production data?"
+        },
+        {
+            "id": "ML-STAT-027",
+            "difficulty": "hard",
+            "question": "Describe statistical techniques for detecting data drift in production machine learning systems."
+        },
+        {
+            "id": "ML-STAT-028",
+            "difficulty": "hard",
+            "question": "How would you design a statistically sound A/B test for evaluating a new machine learning model?"
+        },
+        {
+            "id": "ML-STAT-029",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between statistical significance and practical significance when evaluating model improvements."
+        },
+        {
+            "id": "ML-STAT-030",
+            "difficulty": "hard",
+            "question": "How would you evaluate uncertainty in predictions generated by a machine learning model?"
+        },
+
+
+        {
+            "id": "ML-STAT-S031",
+            "difficulty": "scenario",
+            "question": "A stakeholder claims that a new model is better because its accuracy increased by 1%. Explain how you would determine whether the improvement is statistically meaningful."
+        },
+        {
+            "id": "ML-STAT-S032",
+            "difficulty": "scenario",
+            "question": "A production model suddenly begins making inaccurate predictions after six months. Describe the statistical analyses you would perform before retraining the model."
+        },
+        {
+            "id": "ML-STAT-S033",
+            "difficulty": "scenario",
+            "question": "A teammate proposes removing every detected outlier before training a model. How would you evaluate whether this is an appropriate decision?"
+        },
+        {
+            "id": "ML-STAT-S034",
+            "difficulty": "scenario",
+            "question": "Two machine learning models achieve nearly identical accuracy scores. Walk me through the statistical methods you would use to determine which model should be deployed."
+        },
+        {
+            "id": "ML-STAT-S035",
+            "difficulty": "scenario",
+            "question": "A customer provides a dataset containing only a few hundred samples. Explain how you would assess whether it is sufficient for training a reliable machine learning model."
+        },
+        {
+            "id": "ML-STAT-S036",
+            "difficulty": "scenario",
+            "question": "Your monitoring system reports that the distribution of several production features has changed significantly. Describe how you would investigate the issue."
+        },
+        {
+            "id": "ML-STAT-S037",
+            "difficulty": "scenario",
+            "question": "A product manager requests deployment of a model that performs well on average but poorly for a small subset of users. Explain how you would evaluate this decision."
+        },
+        {
+            "id": "ML-STAT-S038",
+            "difficulty": "scenario",
+            "question": "A new feature appears highly correlated with the target variable. Describe how you would determine whether it represents meaningful information or data leakage."
+        },
+        {
+            "id": "ML-STAT-S039",
+            "difficulty": "scenario",
+            "question": "After retraining, model performance improves on the validation set but declines in production. Walk me through the statistical evidence you would gather to explain the discrepancy."
+        },
+        {
+            "id": "ML-STAT-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for validating a machine learning model before deployment in a healthcare application. Explain the statistical analyses, validation strategy, uncertainty estimation, and monitoring plan you would implement."
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "linux & servers": [
+        {
+            "id": "BD-LS-001",
+            "difficulty": "easy",
+            "question": "Why is Linux commonly used for backend servers?"
+        },
+        {
+            "id": "BD-LS-002",
+            "difficulty": "easy",
+            "question": "What is SSH?"
+        },
+        {
+            "id": "BD-LS-003",
+            "difficulty": "easy",
+            "question": "What is a process in Linux?"
+        },
+        {
+            "id": "BD-LS-004",
+            "difficulty": "easy",
+            "question": "How do you list running processes?"
+        },
+        {
+            "id": "BD-LS-005",
+            "difficulty": "easy",
+            "question": "What is a daemon?"
+        },
+        {
+            "id": "BD-LS-006",
+            "difficulty": "easy",
+            "question": "What are file permissions?"
+        },
+        {
+            "id": "BD-LS-007",
+            "difficulty": "easy",
+            "question": "What is the purpose of the /var directory?"
+        },
+        {
+            "id": "BD-LS-008",
+            "difficulty": "easy",
+            "question": "What is the difference between absolute and relative paths?"
+        },
+        {
+            "id": "BD-LS-009",
+            "difficulty": "easy",
+            "question": "How do you check disk usage?"
+        },
+        {
+            "id": "BD-LS-010",
+            "difficulty": "easy",
+            "question": "Why is the terminal important for backend developers?"
+        },
+
+
+        {
+            "id": "BD-LS-011",
+            "difficulty": "medium",
+            "question": "How would you troubleshoot a server running out of disk space?"
+        },
+        {
+            "id": "BD-LS-012",
+            "difficulty": "medium",
+            "question": "Explain system logs."
+        },
+        {
+            "id": "BD-LS-013",
+            "difficulty": "medium",
+            "question": "What is systemd?"
+        },
+        {
+            "id": "BD-LS-014",
+            "difficulty": "medium",
+            "question": "How would you restart a crashed service?"
+        },
+        {
+            "id": "BD-LS-015",
+            "difficulty": "medium",
+            "question": "What is cron, and how is it used?"
+        },
+        {
+            "id": "BD-LS-016",
+            "difficulty": "medium",
+            "question": "Explain environment variables in Linux."
+        },
+        {
+            "id": "BD-LS-017",
+            "difficulty": "medium",
+            "question": "How would you monitor CPU usage?"
+        },
+        {
+            "id": "BD-LS-018",
+            "difficulty": "medium",
+            "question": "What is process management?"
+        },
+        {
+            "id": "BD-LS-019",
+            "difficulty": "medium",
+            "question": "How do you troubleshoot memory issues?"
+        },
+        {
+            "id": "BD-LS-020",
+            "difficulty": "medium",
+            "question": "How would you secure a Linux server?"
+        },
+
+
+        {
+            "id": "BD-LS-021",
+            "difficulty": "hard",
+            "question": "How would you diagnose a server that randomly crashes?"
+        },
+        {
+            "id": "BD-LS-022",
+            "difficulty": "hard",
+            "question": "Explain kernel panic."
+        },
+        {
+            "id": "BD-LS-023",
+            "difficulty": "hard",
+            "question": "How would you optimize Linux for high-performance servers?"
+        },
+        {
+            "id": "BD-LS-024",
+            "difficulty": "hard",
+            "question": "How would you monitor thousands of Linux servers?"
+        },
+        {
+            "id": "BD-LS-025",
+            "difficulty": "hard",
+            "question": "Explain load averages."
+        },
+        {
+            "id": "BD-LS-026",
+            "difficulty": "hard",
+            "question": "Design a centralized logging solution."
+        },
+        {
+            "id": "BD-LS-027",
+            "difficulty": "hard",
+            "question": "Explain Linux namespaces."
+        },
+        {
+            "id": "BD-LS-028",
+            "difficulty": "hard",
+            "question": "Explain cgroups."
+        },
+        {
+            "id": "BD-LS-029",
+            "difficulty": "hard",
+            "question": "How would you secure SSH access?"
+        },
+        {
+            "id": "BD-LS-030",
+            "difficulty": "hard",
+            "question": "How would you automate Linux server management?"
+        }
+    ]
+}

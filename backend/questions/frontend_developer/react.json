@@ -1,0 +1,133 @@
+{
+    "react": [
+        {
+            "id": "FD-RT-001",
+            "difficulty": "easy",
+            "question": "What is React?"
+        },
+        {
+            "id": "FD-RT-002",
+            "difficulty": "easy",
+            "question": "What are components?"
+        },
+        {
+            "id": "FD-RT-003",
+            "difficulty": "easy",
+            "question": "What is JSX?"
+        },
+        {
+            "id": "FD-RT-004",
+            "difficulty": "easy",
+            "question": "What are props?"
+        },
+        {
+            "id": "FD-RT-005",
+            "difficulty": "easy",
+            "question": "What is state?"
+        },
+        {
+            "id": "FD-RT-006",
+            "difficulty": "easy",
+            "question": "Explain functional components."
+        },
+        {
+            "id": "FD-RT-007",
+            "difficulty": "easy",
+            "question": "What are event handlers?"
+        },
+        {
+            "id": "FD-RT-008",
+            "difficulty": "easy",
+            "question": "Explain conditional rendering."
+        },
+        {
+            "id": "FD-RT-009",
+            "difficulty": "easy",
+            "question": "What are lists and keys?"
+        },
+        {
+            "id": "FD-RT-010",
+            "difficulty": "easy",
+            "question": "What is React Developer Tools?"
+        },
+
+
+        {
+            "id": "FD-RT-011",
+            "difficulty": "medium",
+            "question": "Explain the React lifecycle."
+        },
+        {
+            "id": "FD-RT-012",
+            "difficulty": "medium",
+            "question": "What are hooks?"
+        },
+        {
+            "id": "FD-RT-013",
+            "difficulty": "medium",
+            "question": "Explain useState."
+        },
+        {
+            "id": "FD-RT-014",
+            "difficulty": "medium",
+            "question": "Explain useEffect."
+        },
+        {
+            "id": "FD-RT-015",
+            "difficulty": "medium",
+            "question": "What is lifting state up?"
+        },
+        {
+            "id": "FD-RT-016",
+            "difficulty": "medium",
+            "question": "Explain Context API."
+        },
+        {
+            "id": "FD-RT-017",
+            "difficulty": "medium",
+            "question": "What is prop drilling?"
+        },
+        {
+            "id": "FD-RT-018",
+            "difficulty": "medium",
+            "question": "What are controlled components?"
+        },
+        {
+            "id": "FD-RT-019",
+            "difficulty": "medium",
+            "question": "Explain routing in React."
+        },
+        {
+            "id": "FD-RT-020",
+            "difficulty": "medium",
+            "question": "What is component composition?"
+        },
+
+
+        {
+            "id": "FD-RT-021",
+            "difficulty": "hard",
+            "question": "Explain React reconciliation."
+        },
+        {
+            "id": "FD-RT-022",
+            "difficulty": "hard",
+            "question": "What is the Virtual DOM?"
+        },
+        {
+            "id": "FD-RT-023",
+            "difficulty": "hard",
+            "question": "Explain React Fiber."
+        },
+        {
+            "id": "FD-RT-024",
+            "difficulty": "hard",
+            "question": "How would you optimize React performance?"
+        },
+        {
+            "id": "FD-RT-025",
+            "difficulty": "hard",
+            "question": "Explain Server Components."
+        }
+    ]
+}

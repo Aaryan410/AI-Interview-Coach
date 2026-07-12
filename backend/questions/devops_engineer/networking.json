@@ -1,0 +1,210 @@
+{
+    "networking": [
+        {
+            "id": "DEV-NET-001",
+            "difficulty": "easy",
+            "question": "What is a computer network, and why is it important in DevOps?"
+        },
+        {
+            "id": "DEV-NET-002",
+            "difficulty": "easy",
+            "question": "What is an IP address?"
+        },
+        {
+            "id": "DEV-NET-003",
+            "difficulty": "easy",
+            "question": "What is the difference between TCP and UDP?"
+        },
+        {
+            "id": "DEV-NET-004",
+            "difficulty": "easy",
+            "question": "What is DNS, and why is it important?"
+        },
+        {
+            "id": "DEV-NET-005",
+            "difficulty": "easy",
+            "question": "What is a subnet?"
+        },
+        {
+            "id": "DEV-NET-006",
+            "difficulty": "easy",
+            "question": "What is a firewall?"
+        },
+        {
+            "id": "DEV-NET-007",
+            "difficulty": "easy",
+            "question": "What is a load balancer?"
+        },
+        {
+            "id": "DEV-NET-008",
+            "difficulty": "easy",
+            "question": "What is NAT (Network Address Translation)?"
+        },
+        {
+            "id": "DEV-NET-009",
+            "difficulty": "easy",
+            "question": "What is a port number?"
+        },
+        {
+            "id": "DEV-NET-010",
+            "difficulty": "easy",
+            "question": "Why is HTTPS preferred over HTTP?"
+        },
+
+
+        {
+            "id": "DEV-NET-011",
+            "difficulty": "medium",
+            "question": "Explain how DNS resolution works when accessing a website."
+        },
+        {
+            "id": "DEV-NET-012",
+            "difficulty": "medium",
+            "question": "What is the purpose of a reverse proxy?"
+        },
+        {
+            "id": "DEV-NET-013",
+            "difficulty": "medium",
+            "question": "How would you troubleshoot a server that cannot communicate with another server?"
+        },
+        {
+            "id": "DEV-NET-014",
+            "difficulty": "medium",
+            "question": "Explain the differences between Layer 4 and Layer 7 load balancing."
+        },
+        {
+            "id": "DEV-NET-015",
+            "difficulty": "medium",
+            "question": "What is a Virtual Private Cloud (VPC), and why is it used?"
+        },
+        {
+            "id": "DEV-NET-016",
+            "difficulty": "medium",
+            "question": "How would you secure communication between microservices?"
+        },
+        {
+            "id": "DEV-NET-017",
+            "difficulty": "medium",
+            "question": "How would you investigate high network latency between two services?"
+        },
+        {
+            "id": "DEV-NET-018",
+            "difficulty": "medium",
+            "question": "Explain the purpose of SSL/TLS in network communication."
+        },
+        {
+            "id": "DEV-NET-019",
+            "difficulty": "medium",
+            "question": "How does Kubernetes networking differ from traditional networking?"
+        },
+        {
+            "id": "DEV-NET-020",
+            "difficulty": "medium",
+            "question": "How would you monitor network performance in a cloud environment?"
+        },
+
+
+        {
+            "id": "DEV-NET-021",
+            "difficulty": "hard",
+            "question": "Design a highly available network architecture for a globally distributed web application."
+        },
+        {
+            "id": "DEV-NET-022",
+            "difficulty": "hard",
+            "question": "Explain how software-defined networking (SDN) works and its advantages."
+        },
+        {
+            "id": "DEV-NET-023",
+            "difficulty": "hard",
+            "question": "How would you design secure networking for Kubernetes running across multiple availability zones?"
+        },
+        {
+            "id": "DEV-NET-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between public and private networking in cloud environments."
+        },
+        {
+            "id": "DEV-NET-025",
+            "difficulty": "hard",
+            "question": "How would you troubleshoot intermittent packet loss affecting production services?"
+        },
+        {
+            "id": "DEV-NET-026",
+            "difficulty": "hard",
+            "question": "Describe how service meshes improve networking in microservices architectures."
+        },
+        {
+            "id": "DEV-NET-027",
+            "difficulty": "hard",
+            "question": "How would you design a secure network for a multi-region cloud deployment?"
+        },
+        {
+            "id": "DEV-NET-028",
+            "difficulty": "hard",
+            "question": "Explain how network segmentation improves both security and performance."
+        },
+        {
+            "id": "DEV-NET-029",
+            "difficulty": "hard",
+            "question": "How would you diagnose and resolve DNS failures affecting production applications?"
+        },
+        {
+            "id": "DEV-NET-030",
+            "difficulty": "hard",
+            "question": "How would you optimize networking for applications serving millions of concurrent users?"
+        },
+
+
+        {
+            "id": "DEV-NET-S031",
+            "difficulty": "scenario",
+            "question": "Users suddenly report that your application is unreachable, but all servers appear healthy. Walk me through your networking investigation."
+        },
+        {
+            "id": "DEV-NET-S032",
+            "difficulty": "scenario",
+            "question": "A DNS configuration change causes customers to be routed to the wrong server. How would you identify and resolve the issue?"
+        },
+        {
+            "id": "DEV-NET-S033",
+            "difficulty": "scenario",
+            "question": "A production API experiences intermittent high latency. Explain how you would determine whether the issue is network-related."
+        },
+        {
+            "id": "DEV-NET-S034",
+            "difficulty": "scenario",
+            "question": "A newly deployed firewall rule accidentally blocks communication between two critical services. Describe your troubleshooting process."
+        },
+        {
+            "id": "DEV-NET-S035",
+            "difficulty": "scenario",
+            "question": "One availability zone loses connectivity while the others continue operating normally. How would you maintain service availability?"
+        },
+        {
+            "id": "DEV-NET-S036",
+            "difficulty": "scenario",
+            "question": "After migrating an application to Kubernetes, services can no longer communicate with each other. Walk me through your investigation."
+        },
+        {
+            "id": "DEV-NET-S037",
+            "difficulty": "scenario",
+            "question": "Customers in Europe report significantly slower response times than users in North America. Explain how you would diagnose the issue."
+        },
+        {
+            "id": "DEV-NET-S038",
+            "difficulty": "scenario",
+            "question": "A DDoS attack begins affecting your public-facing application. What immediate actions would you take to reduce the impact?"
+        },
+        {
+            "id": "DEV-NET-S039",
+            "difficulty": "scenario",
+            "question": "Following a cloud migration, internal services cannot reach the company database. Describe your troubleshooting approach."
+        },
+        {
+            "id": "DEV-NET-S040",
+            "difficulty": "scenario",
+            "question": "You're designing the networking architecture for a global SaaS platform expected to serve millions of users. Explain the decisions you would make regarding DNS, load balancing, redundancy, and security."
+        }
+    ]
+}

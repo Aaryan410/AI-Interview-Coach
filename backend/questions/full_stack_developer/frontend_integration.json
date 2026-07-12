@@ -1,0 +1,133 @@
+{
+    "frontend integration": [
+        {
+            "id": "FSD-FI-001",
+            "difficulty": "easy",
+            "question": "What is the role of the frontend in a full stack application?"
+        },
+        {
+            "id": "FSD-FI-002",
+            "difficulty": "easy",
+            "question": "How does the frontend communicate with the backend?"
+        },
+        {
+            "id": "FSD-FI-003",
+            "difficulty": "easy",
+            "question": "What is an API endpoint?"
+        },
+        {
+            "id": "FSD-FI-004",
+            "difficulty": "easy",
+            "question": "Why is JSON commonly used between the frontend and backend?"
+        },
+        {
+            "id": "FSD-FI-005",
+            "difficulty": "easy",
+            "question": "How do forms send data to a backend?"
+        },
+        {
+            "id": "FSD-FI-006",
+            "difficulty": "easy",
+            "question": "What is CORS, and why does it matter in full stack applications?"
+        },
+        {
+            "id": "FSD-FI-007",
+            "difficulty": "easy",
+            "question": "What is client-side validation?"
+        },
+        {
+            "id": "FSD-FI-008",
+            "difficulty": "easy",
+            "question": "What is server-side validation?"
+        },
+        {
+            "id": "FSD-FI-009",
+            "difficulty": "easy",
+            "question": "How do you display API data in a frontend application?"
+        },
+        {
+            "id": "FSD-FI-010",
+            "difficulty": "easy",
+            "question": "What happens when a user clicks the Login button?"
+        },
+
+
+        {
+            "id": "FSD-FI-011",
+            "difficulty": "medium",
+            "question": "Explain the complete request-response lifecycle."
+        },
+        {
+            "id": "FSD-FI-012",
+            "difficulty": "medium",
+            "question": "How would you handle API errors on the frontend?"
+        },
+        {
+            "id": "FSD-FI-013",
+            "difficulty": "medium",
+            "question": "How would you implement authentication in a full stack application?"
+        },
+        {
+            "id": "FSD-FI-014",
+            "difficulty": "medium",
+            "question": "Explain state management in frontend applications."
+        },
+        {
+            "id": "FSD-FI-015",
+            "difficulty": "medium",
+            "question": "How would you structure a frontend consuming multiple APIs?"
+        },
+        {
+            "id": "FSD-FI-016",
+            "difficulty": "medium",
+            "question": "How would you upload files from the frontend to the backend?"
+        },
+        {
+            "id": "FSD-FI-017",
+            "difficulty": "medium",
+            "question": "Explain optimistic UI updates."
+        },
+        {
+            "id": "FSD-FI-018",
+            "difficulty": "medium",
+            "question": "How would you secure API requests?"
+        },
+        {
+            "id": "FSD-FI-019",
+            "difficulty": "medium",
+            "question": "Explain RESTful communication."
+        },
+        {
+            "id": "FSD-FI-020",
+            "difficulty": "medium",
+            "question": "How would you debug frontend-backend communication?"
+        },
+
+
+        {
+            "id": "FSD-FI-021",
+            "difficulty": "hard",
+            "question": "Design the frontend architecture for a scalable SaaS platform."
+        },
+        {
+            "id": "FSD-FI-022",
+            "difficulty": "hard",
+            "question": "How would you optimize frontend-backend communication?"
+        },
+        {
+            "id": "FSD-FI-023",
+            "difficulty": "hard",
+            "question": "Explain GraphQL versus REST."
+        },
+        {
+            "id": "FSD-FI-024",
+            "difficulty": "hard",
+            "question": "How would you reduce unnecessary API calls?"
+        },
+        {
+            "id": "FSD-FI-025",
+            "difficulty": "hard",
+            "question": "Design a frontend that supports offline synchronization."
+        }
+    ]
+}

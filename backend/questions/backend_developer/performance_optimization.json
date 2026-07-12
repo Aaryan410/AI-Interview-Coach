@@ -1,0 +1,158 @@
+{
+    "performance optimization": [
+        {
+            "id": "BD-PO-001",
+            "difficulty": "easy",
+            "question": "Why is performance optimization important?"
+        },
+        {
+            "id": "BD-PO-002",
+            "difficulty": "easy",
+            "question": "How do you identify a slow API?"
+        },
+        {
+            "id": "BD-PO-003",
+            "difficulty": "easy",
+            "question": "What tools can you use to measure performance?"
+        },
+        {
+            "id": "BD-PO-004",
+            "difficulty": "easy",
+            "question": "What is response time?"
+        },
+        {
+            "id": "BD-PO-005",
+            "difficulty": "easy",
+            "question": "What is throughput?"
+        },
+        {
+            "id": "BD-PO-006",
+            "difficulty": "easy",
+            "question": "What is latency?"
+        },
+        {
+            "id": "BD-PO-007",
+            "difficulty": "easy",
+            "question": "What factors affect backend performance?"
+        },
+        {
+            "id": "BD-PO-008",
+            "difficulty": "easy",
+            "question": "How can database queries impact performance?"
+        },
+        {
+            "id": "BD-PO-009",
+            "difficulty": "easy",
+            "question": "Why is efficient code important?"
+        },
+        {
+            "id": "BD-PO-010",
+            "difficulty": "easy",
+            "question": "What is profiling?"
+        },
+
+
+        {
+            "id": "BD-PO-011",
+            "difficulty": "medium",
+            "question": "How would you optimize a slow SQL query?"
+        },
+        {
+            "id": "BD-PO-012",
+            "difficulty": "medium",
+            "question": "How would you reduce API response time?"
+        },
+        {
+            "id": "BD-PO-013",
+            "difficulty": "medium",
+            "question": "Explain connection pooling."
+        },
+        {
+            "id": "BD-PO-014",
+            "difficulty": "medium",
+            "question": "How would you optimize memory usage?"
+        },
+        {
+            "id": "BD-PO-015",
+            "difficulty": "medium",
+            "question": "Explain lazy loading."
+        },
+        {
+            "id": "BD-PO-016",
+            "difficulty": "medium",
+            "question": "Explain eager loading."
+        },
+        {
+            "id": "BD-PO-017",
+            "difficulty": "medium",
+            "question": "What is asynchronous programming?"
+        },
+        {
+            "id": "BD-PO-018",
+            "difficulty": "medium",
+            "question": "Explain batching."
+        },
+        {
+            "id": "BD-PO-019",
+            "difficulty": "medium",
+            "question": "What is compression?"
+        },
+        {
+            "id": "BD-PO-020",
+            "difficulty": "medium",
+            "question": "How would you reduce server load?"
+        },
+
+
+        {
+            "id": "BD-PO-021",
+            "difficulty": "hard",
+            "question": "Design a backend capable of handling one million requests per minute."
+        },
+        {
+            "id": "BD-PO-022",
+            "difficulty": "hard",
+            "question": "How would you eliminate performance bottlenecks?"
+        },
+        {
+            "id": "BD-PO-023",
+            "difficulty": "hard",
+            "question": "Explain horizontal scaling versus vertical scaling."
+        },
+        {
+            "id": "BD-PO-024",
+            "difficulty": "hard",
+            "question": "How would you optimize distributed systems?"
+        },
+        {
+            "id": "BD-PO-025",
+            "difficulty": "hard",
+            "question": "Explain load testing."
+        },
+        {
+            "id": "BD-PO-026",
+            "difficulty": "hard",
+            "question": "Explain stress testing."
+        },
+        {
+            "id": "BD-PO-027",
+            "difficulty": "hard",
+            "question": "How would you benchmark backend performance?"
+        },
+        {
+            "id": "BD-PO-028",
+            "difficulty": "hard",
+            "question": "Explain database connection pooling."
+        },
+        {
+            "id": "BD-PO-029",
+            "difficulty": "hard",
+            "question": "Design a highly optimized API architecture."
+        },
+        {
+            "id": "BD-PO-030",
+            "difficulty": "hard",
+            "question": "Explain performance tuning techniques for high-traffic systems."
+        }
+    ]
+}

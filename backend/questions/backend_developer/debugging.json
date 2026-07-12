@@ -1,0 +1,158 @@
+{
+    "debugging": [
+        {
+            "id": "BD-D-001",
+            "difficulty": "easy",
+            "question": "What is the difference between a compile-time error and a runtime error?"
+        },
+        {
+            "id": "BD-D-002",
+            "difficulty": "easy",
+            "question": "How do you usually debug your backend applications?"
+        },
+        {
+            "id": "BD-D-003",
+            "difficulty": "easy",
+            "question": "Which debugging tools have you used?"
+        },
+        {
+            "id": "BD-D-004",
+            "difficulty": "easy",
+            "question": "What is a stack trace?"
+        },
+        {
+            "id": "BD-D-005",
+            "difficulty": "easy",
+            "question": "Why is logging important?"
+        },
+        {
+            "id": "BD-D-006",
+            "difficulty": "easy",
+            "question": "What information should logs contain?"
+        },
+        {
+            "id": "BD-D-007",
+            "difficulty": "easy",
+            "question": "How do you identify the source of a bug?"
+        },
+        {
+            "id": "BD-D-008",
+            "difficulty": "easy",
+            "question": "What are common causes of backend bugs?"
+        },
+        {
+            "id": "BD-D-009",
+            "difficulty": "easy",
+            "question": "How would you reproduce a reported bug?"
+        },
+        {
+            "id": "BD-D-010",
+            "difficulty": "easy",
+            "question": "How do you verify that a bug has been fixed?"
+        },
+
+
+        {
+            "id": "BD-D-011",
+            "difficulty": "medium",
+            "question": "How would you debug a memory leak?"
+        },
+        {
+            "id": "BD-D-012",
+            "difficulty": "medium",
+            "question": "Explain how breakpoints work."
+        },
+        {
+            "id": "BD-D-013",
+            "difficulty": "medium",
+            "question": "How would you debug an API returning incorrect responses?"
+        },
+        {
+            "id": "BD-D-014",
+            "difficulty": "medium",
+            "question": "What is profiling, and when would you use it?"
+        },
+        {
+            "id": "BD-D-015",
+            "difficulty": "medium",
+            "question": "How would you investigate slow API performance?"
+        },
+        {
+            "id": "BD-D-016",
+            "difficulty": "medium",
+            "question": "Explain race conditions."
+        },
+        {
+            "id": "BD-D-017",
+            "difficulty": "medium",
+            "question": "How would you debug multithreaded code?"
+        },
+        {
+            "id": "BD-D-018",
+            "difficulty": "medium",
+            "question": "What metrics would you monitor in production?"
+        },
+        {
+            "id": "BD-D-019",
+            "difficulty": "medium",
+            "question": "How would you troubleshoot high CPU usage?"
+        },
+        {
+            "id": "BD-D-020",
+            "difficulty": "medium",
+            "question": "Describe your debugging process step by step."
+        },
+
+
+        {
+            "id": "BD-D-021",
+            "difficulty": "hard",
+            "question": "How would you debug a production issue affecting thousands of users?"
+        },
+        {
+            "id": "BD-D-022",
+            "difficulty": "hard",
+            "question": "Explain how you would analyze a core dump."
+        },
+        {
+            "id": "BD-D-023",
+            "difficulty": "hard",
+            "question": "How would you debug a deadlock?"
+        },
+        {
+            "id": "BD-D-024",
+            "difficulty": "hard",
+            "question": "Describe a difficult bug you have solved."
+        },
+        {
+            "id": "BD-D-025",
+            "difficulty": "hard",
+            "question": "How would you debug a distributed backend system?"
+        },
+        {
+            "id": "BD-D-026",
+            "difficulty": "hard",
+            "question": "Explain observability and why it matters."
+        },
+        {
+            "id": "BD-D-027",
+            "difficulty": "hard",
+            "question": "How would you trace requests across multiple microservices?"
+        },
+        {
+            "id": "BD-D-028",
+            "difficulty": "hard",
+            "question": "How would you identify a memory bottleneck in production?"
+        },
+        {
+            "id": "BD-D-029",
+            "difficulty": "hard",
+            "question": "How would you debug intermittent failures?"
+        },
+        {
+            "id": "BD-D-030",
+            "difficulty": "hard",
+            "question": "What tools would you use to diagnose performance bottlenecks?"
+        }
+    ]
+}

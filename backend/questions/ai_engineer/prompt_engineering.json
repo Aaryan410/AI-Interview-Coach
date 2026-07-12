@@ -1,0 +1,210 @@
+{
+    "prompt engineering": [
+        {
+            "id": "AI-PE-001",
+            "difficulty": "easy",
+            "question": "What is prompt engineering, and why is it important when working with Large Language Models?"
+        },
+        {
+            "id": "AI-PE-002",
+            "difficulty": "easy",
+            "question": "What is the difference between a system prompt and a user prompt?"
+        },
+        {
+            "id": "AI-PE-003",
+            "difficulty": "easy",
+            "question": "What is zero-shot prompting?"
+        },
+        {
+            "id": "AI-PE-004",
+            "difficulty": "easy",
+            "question": "What is few-shot prompting?"
+        },
+        {
+            "id": "AI-PE-005",
+            "difficulty": "easy",
+            "question": "Why should prompts provide clear instructions?"
+        },
+        {
+            "id": "AI-PE-006",
+            "difficulty": "easy",
+            "question": "What is Chain-of-Thought prompting?"
+        },
+        {
+            "id": "AI-PE-007",
+            "difficulty": "easy",
+            "question": "Why is prompt consistency important in production AI systems?"
+        },
+        {
+            "id": "AI-PE-008",
+            "difficulty": "easy",
+            "question": "What is prompt injection?"
+        },
+        {
+            "id": "AI-PE-009",
+            "difficulty": "easy",
+            "question": "Why is output formatting important when designing prompts?"
+        },
+        {
+            "id": "AI-PE-010",
+            "difficulty": "easy",
+            "question": "What are some characteristics of an effective prompt?"
+        },
+
+
+        {
+            "id": "AI-PE-011",
+            "difficulty": "medium",
+            "question": "Compare zero-shot, one-shot, and few-shot prompting. When would you choose each?"
+        },
+        {
+            "id": "AI-PE-012",
+            "difficulty": "medium",
+            "question": "How would you design prompts that consistently produce structured JSON output?"
+        },
+        {
+            "id": "AI-PE-013",
+            "difficulty": "medium",
+            "question": "Explain how prompt engineering differs from fine-tuning."
+        },
+        {
+            "id": "AI-PE-014",
+            "difficulty": "medium",
+            "question": "How would you evaluate whether a prompt is reliable enough for production use?"
+        },
+        {
+            "id": "AI-PE-015",
+            "difficulty": "medium",
+            "question": "How would you reduce hallucinations through prompt design?"
+        },
+        {
+            "id": "AI-PE-016",
+            "difficulty": "medium",
+            "question": "How would you protect an LLM application from prompt injection attacks?"
+        },
+        {
+            "id": "AI-PE-017",
+            "difficulty": "medium",
+            "question": "Explain the advantages and limitations of Chain-of-Thought prompting."
+        },
+        {
+            "id": "AI-PE-018",
+            "difficulty": "medium",
+            "question": "How would you design prompts that work consistently across multiple LLM providers?"
+        },
+        {
+            "id": "AI-PE-019",
+            "difficulty": "medium",
+            "question": "How would you test multiple prompt variations to determine which performs best?"
+        },
+        {
+            "id": "AI-PE-020",
+            "difficulty": "medium",
+            "question": "How would you design prompts for an AI application that must produce concise, factual responses?"
+        },
+
+
+        {
+            "id": "AI-PE-021",
+            "difficulty": "hard",
+            "question": "Design a prompt architecture for an enterprise AI assistant that serves multiple departments with different requirements."
+        },
+        {
+            "id": "AI-PE-022",
+            "difficulty": "hard",
+            "question": "How would you determine whether prompt engineering, Retrieval-Augmented Generation (RAG), or fine-tuning is the best solution for improving an LLM application?"
+        },
+        {
+            "id": "AI-PE-023",
+            "difficulty": "hard",
+            "question": "How would you design prompts that remain robust as the underlying LLM is upgraded over time?"
+        },
+        {
+            "id": "AI-PE-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between highly detailed prompts and shorter prompts."
+        },
+        {
+            "id": "AI-PE-025",
+            "difficulty": "hard",
+            "question": "How would you build an automated framework to evaluate prompt quality at scale?"
+        },
+        {
+            "id": "AI-PE-026",
+            "difficulty": "hard",
+            "question": "How would you design prompt templates that support multilingual AI applications?"
+        },
+        {
+            "id": "AI-PE-027",
+            "difficulty": "hard",
+            "question": "How would you design prompts that minimize hallucinations while maintaining helpfulness?"
+        },
+        {
+            "id": "AI-PE-028",
+            "difficulty": "hard",
+            "question": "How would you structure prompts for a multi-step reasoning application involving external tools?"
+        },
+        {
+            "id": "AI-PE-029",
+            "difficulty": "hard",
+            "question": "Explain the security considerations involved in designing prompts for customer-facing AI systems."
+        },
+        {
+            "id": "AI-PE-030",
+            "difficulty": "hard",
+            "question": "How would you build a prompt management system for hundreds of AI features used across an organization?"
+        },
+
+
+        {
+            "id": "AI-PE-S031",
+            "difficulty": "scenario",
+            "question": "Your chatbot produces different answers to the same question even when users provide identical inputs. Walk me through how you would investigate the prompt design."
+        },
+        {
+            "id": "AI-PE-S032",
+            "difficulty": "scenario",
+            "question": "A customer successfully bypasses your chatbot's restrictions using prompt injection. Explain how you would redesign the prompts and surrounding safeguards."
+        },
+        {
+            "id": "AI-PE-S033",
+            "difficulty": "scenario",
+            "question": "A new LLM version causes several carefully engineered prompts to stop producing reliable JSON output. Describe how you would restore compatibility."
+        },
+        {
+            "id": "AI-PE-S034",
+            "difficulty": "scenario",
+            "question": "Your AI assistant must answer legal questions while minimizing hallucinations. Explain how you would design and evaluate the prompts."
+        },
+        {
+            "id": "AI-PE-S035",
+            "difficulty": "scenario",
+            "question": "A product manager wants a single prompt to handle customer support, coding, summarization, and translation. How would you evaluate whether this is an appropriate design?"
+        },
+        {
+            "id": "AI-PE-S036",
+            "difficulty": "scenario",
+            "question": "Users report that your chatbot becomes less reliable as conversations grow longer. Walk me through how you would investigate the prompt and context management."
+        },
+        {
+            "id": "AI-PE-S037",
+            "difficulty": "scenario",
+            "question": "Your team needs to support multiple LLM providers without rewriting every prompt. Explain how you would structure the prompt architecture."
+        },
+        {
+            "id": "AI-PE-S038",
+            "difficulty": "scenario",
+            "question": "A customer reports that your AI assistant occasionally ignores important system instructions. Describe how you would debug the issue."
+        },
+        {
+            "id": "AI-PE-S039",
+            "difficulty": "scenario",
+            "question": "Your company wants to measure whether a new prompt actually improves answer quality. Explain how you would design the evaluation process."
+        },
+        {
+            "id": "AI-PE-S040",
+            "difficulty": "scenario",
+            "question": "You're leading the design of prompts for an enterprise AI platform serving thousands of users. Explain how you would organize prompt templates, versioning, testing, monitoring, and continuous improvement."
+        }
+    ]
+}

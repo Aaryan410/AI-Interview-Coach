@@ -1,0 +1,158 @@
+{
+    "authentication & security": [
+        {
+            "id": "BD-AS-001",
+            "difficulty": "hard",
+            "question": "What is the difference between authentication and authorization?"
+        },
+        {
+            "id": "BD-AS-002",
+            "difficulty": "easy",
+            "question": "What is JWT?"
+        },
+        {
+            "id": "BD-AS-003",
+            "difficulty": "easy",
+            "question": "Why should passwords never be stored in plain text?"
+        },
+        {
+            "id": "BD-AS-004",
+            "difficulty": "easy",
+            "question": "What is password hashing?"
+        },
+        {
+            "id": "BD-AS-005",
+            "difficulty": "easy",
+            "question": "What is the difference between cookies and sessions?"
+        },
+        {
+            "id": "BD-AS-006",
+            "difficulty": "easy",
+            "question": "What is HTTPS, and why should APIs use it?"
+        },
+        {
+            "id": "BD-AS-007",
+            "difficulty": "easy",
+            "question": "What is two-factor authentication?"
+        },
+        {
+            "id": "BD-AS-008",
+            "difficulty": "easy",
+            "question": "What is role-based access control (RBAC)?"
+        },
+        {
+            "id": "BD-AS-009",
+            "difficulty": "easy",
+            "question": "Why should API keys be kept secret?"
+        },
+        {
+            "id": "BD-AS-010",
+            "difficulty": "easy",
+            "question": "What is CORS?"
+        },
+
+
+        {
+            "id": "BD-AS-011",
+            "difficulty": "medium",
+            "question": "How would you implement JWT authentication in a backend application?"
+        },
+        {
+            "id": "BD-AS-012",
+            "difficulty": "medium",
+            "question": "What is OAuth 2.0, and when would you use it?"
+        },
+        {
+            "id": "BD-AS-013",
+            "difficulty": "medium",
+            "question": "How would you prevent SQL Injection attacks?"
+        },
+        {
+            "id": "BD-AS-014",
+            "difficulty": "medium",
+            "question": "What is Cross-Site Scripting (XSS), and how can it be prevented?"
+        },
+        {
+            "id": "BD-AS-015",
+            "difficulty": "medium",
+            "question": "What is Cross-Site Request Forgery (CSRF)?"
+        },
+        {
+            "id": "BD-AS-016",
+            "difficulty": "medium",
+            "question": "How would you securely store user passwords?"
+        },
+        {
+            "id": "BD-AS-017",
+            "difficulty": "medium",
+            "question": "Explain refresh tokens and access tokens."
+        },
+        {
+            "id": "BD-AS-018",
+            "difficulty": "medium",
+            "question": "How would you secure sensitive environment variables?"
+        },
+        {
+            "id": "BD-AS-019",
+            "difficulty": "medium",
+            "question": "How would you implement user permissions in a web application?"
+        },
+        {
+            "id": "BD-AS-020",
+            "difficulty": "medium",
+            "question": "What security measures would you add before deploying an API?"
+        },
+
+
+        {
+            "id": "BD-AS-021",
+            "difficulty": "hard",
+            "question": "Design a secure authentication system for an online banking application."
+        },
+        {
+            "id": "BD-AS-022",
+            "difficulty": "hard",
+            "question": "How would you detect suspicious login activity?"
+        },
+        {
+            "id": "BD-AS-023",
+            "difficulty": "hard",
+            "question": "Explain how Single Sign-On (SSO) works."
+        },
+        {
+            "id": "BD-AS-024",
+            "difficulty": "hard",
+            "question": "How would you design an authentication system for microservices?"
+        },
+        {
+            "id": "BD-AS-025",
+            "difficulty": "hard",
+            "question": "What are the security risks of JWT?"
+        },
+        {
+            "id": "BD-AS-026",
+            "difficulty": "hard",
+            "question": "How would you rotate API keys in production?"
+        },
+        {
+            "id": "BD-AS-027",
+            "difficulty": "hard",
+            "question": "Explain Zero Trust Architecture."
+        },
+        {
+            "id": "BD-AS-028",
+            "difficulty": "hard",
+            "question": "How would you protect an API from DDoS attacks?"
+        },
+        {
+            "id": "BD-AS-029",
+            "difficulty": "hard",
+            "question": "Design a secure password reset workflow."
+        },
+        {
+            "id": "BD-AS-030",
+            "difficulty": "hard",
+            "question": "How would you secure communication between internal services?"
+        }
+    ]
+}

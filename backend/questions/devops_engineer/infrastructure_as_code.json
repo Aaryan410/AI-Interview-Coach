@@ -1,0 +1,210 @@
+{
+    "infrastructure as code": [
+        {
+            "id": "DEV-IAC-001",
+            "difficulty": "easy",
+            "question": "What is Infrastructure as Code (IaC), and why is it important in DevOps?"
+        },
+        {
+            "id": "DEV-IAC-002",
+            "difficulty": "easy",
+            "question": "What problems does Infrastructure as Code solve compared to manually managing infrastructure?"
+        },
+        {
+            "id": "DEV-IAC-003",
+            "difficulty": "easy",
+            "question": "Name some popular Infrastructure as Code tools."
+        },
+        {
+            "id": "DEV-IAC-004",
+            "difficulty": "easy",
+            "question": "What is Terraform, and what is it commonly used for?"
+        },
+        {
+            "id": "DEV-IAC-005",
+            "difficulty": "easy",
+            "question": "What is Ansible, and how does it differ from Terraform?"
+        },
+        {
+            "id": "DEV-IAC-006",
+            "difficulty": "easy",
+            "question": "What is configuration management?"
+        },
+        {
+            "id": "DEV-IAC-007",
+            "difficulty": "easy",
+            "question": "What is infrastructure provisioning?"
+        },
+        {
+            "id": "DEV-IAC-008",
+            "difficulty": "easy",
+            "question": "What is an Infrastructure as Code configuration file?"
+        },
+        {
+            "id": "DEV-IAC-009",
+            "difficulty": "easy",
+            "question": "Why should Infrastructure as Code files be stored in version control?"
+        },
+        {
+            "id": "DEV-IAC-010",
+            "difficulty": "easy",
+            "question": "What are the advantages of automating infrastructure deployment?"
+        },
+
+
+        {
+            "id": "DEV-IAC-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between declarative and imperative Infrastructure as Code."
+        },
+        {
+            "id": "DEV-IAC-012",
+            "difficulty": "medium",
+            "question": "How does Terraform keep track of infrastructure using state files?"
+        },
+        {
+            "id": "DEV-IAC-013",
+            "difficulty": "medium",
+            "question": "How would you safely manage Terraform state in a team environment?"
+        },
+        {
+            "id": "DEV-IAC-014",
+            "difficulty": "medium",
+            "question": "Explain how Ansible connects to remote machines and applies configurations."
+        },
+        {
+            "id": "DEV-IAC-015",
+            "difficulty": "medium",
+            "question": "How would you organize Infrastructure as Code for multiple environments such as development, staging, and production?"
+        },
+        {
+            "id": "DEV-IAC-016",
+            "difficulty": "medium",
+            "question": "Why is idempotency important in Infrastructure as Code?"
+        },
+        {
+            "id": "DEV-IAC-017",
+            "difficulty": "medium",
+            "question": "How would you securely manage secrets when using Infrastructure as Code?"
+        },
+        {
+            "id": "DEV-IAC-018",
+            "difficulty": "medium",
+            "question": "Explain the purpose of Terraform modules."
+        },
+        {
+            "id": "DEV-IAC-019",
+            "difficulty": "medium",
+            "question": "How would you test Infrastructure as Code before deploying it to production?"
+        },
+        {
+            "id": "DEV-IAC-020",
+            "difficulty": "medium",
+            "question": "How can Infrastructure as Code be integrated into a CI/CD pipeline?"
+        },
+
+
+        {
+            "id": "DEV-IAC-021",
+            "difficulty": "hard",
+            "question": "Design an Infrastructure as Code strategy for deploying applications across multiple cloud providers."
+        },
+        {
+            "id": "DEV-IAC-022",
+            "difficulty": "hard",
+            "question": "How would you manage Infrastructure as Code for hundreds of cloud resources while keeping it maintainable?"
+        },
+        {
+            "id": "DEV-IAC-023",
+            "difficulty": "hard",
+            "question": "Explain how Terraform detects infrastructure drift and how you would handle it."
+        },
+        {
+            "id": "DEV-IAC-024",
+            "difficulty": "hard",
+            "question": "How would you design reusable Infrastructure as Code modules for a large engineering organization?"
+        },
+        {
+            "id": "DEV-IAC-025",
+            "difficulty": "hard",
+            "question": "Describe the challenges of managing Infrastructure as Code across multiple teams and cloud environments."
+        },
+        {
+            "id": "DEV-IAC-026",
+            "difficulty": "hard",
+            "question": "How would you implement versioning and change management for Infrastructure as Code?"
+        },
+        {
+            "id": "DEV-IAC-027",
+            "difficulty": "hard",
+            "question": "How would you design Infrastructure as Code to support disaster recovery?"
+        },
+        {
+            "id": "DEV-IAC-028",
+            "difficulty": "hard",
+            "question": "Explain how Infrastructure as Code improves security, compliance, and auditing."
+        },
+        {
+            "id": "DEV-IAC-029",
+            "difficulty": "hard",
+            "question": "How would you migrate manually managed infrastructure to Infrastructure as Code without causing downtime?"
+        },
+        {
+            "id": "DEV-IAC-030",
+            "difficulty": "hard",
+            "question": "How would you design a scalable Infrastructure as Code architecture for an enterprise with thousands of cloud resources?"
+        },
+
+
+        {
+            "id": "DEV-IAC-S031",
+            "difficulty": "scenario",
+            "question": "A teammate accidentally modifies production cloud resources manually, causing them to differ from your Infrastructure as Code configuration. How would you identify and resolve the issue?"
+        },
+        {
+            "id": "DEV-IAC-S032",
+            "difficulty": "scenario",
+            "question": "Your Terraform deployment fails halfway through while provisioning production infrastructure. Walk me through your recovery process."
+        },
+        {
+            "id": "DEV-IAC-S033",
+            "difficulty": "scenario",
+            "question": "A security audit discovers sensitive credentials stored directly in Infrastructure as Code files. What actions would you take immediately?"
+        },
+        {
+            "id": "DEV-IAC-S034",
+            "difficulty": "scenario",
+            "question": "Your team accidentally deletes the Terraform state file. Explain how you would investigate and recover the infrastructure."
+        },
+        {
+            "id": "DEV-IAC-S035",
+            "difficulty": "scenario",
+            "question": "A production deployment introduces infrastructure changes that unexpectedly break multiple services. Describe how you would troubleshoot and safely restore the environment."
+        },
+        {
+            "id": "DEV-IAC-S036",
+            "difficulty": "scenario",
+            "question": "A developer proposes making urgent infrastructure changes directly in the cloud console instead of updating the Infrastructure as Code repository. How would you respond?"
+        },
+        {
+            "id": "DEV-IAC-S037",
+            "difficulty": "scenario",
+            "question": "Different environments begin behaving inconsistently even though they are managed using the same Infrastructure as Code repository. How would you investigate?"
+        },
+        {
+            "id": "DEV-IAC-S038",
+            "difficulty": "scenario",
+            "question": "You're responsible for provisioning infrastructure for a new application that must support millions of users. Explain how you would structure your Infrastructure as Code project."
+        },
+        {
+            "id": "DEV-IAC-S039",
+            "difficulty": "scenario",
+            "question": "A teammate accidentally deletes an Infrastructure as Code module that is shared by multiple production services. Walk me through your recovery strategy."
+        },
+        {
+            "id": "DEV-IAC-S040",
+            "difficulty": "scenario",
+            "question": "Your organization plans to migrate hundreds of manually configured servers to Infrastructure as Code. Describe the strategy you would follow to minimize risk and ensure consistency."
+        }
+    ]
+}

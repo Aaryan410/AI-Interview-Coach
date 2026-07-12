@@ -1,0 +1,133 @@
+{
+    "accessibility": [
+        {
+            "id": "FD-AY-001",
+            "difficulty": "easy",
+            "question": "What is web accessibility?"
+        },
+        {
+            "id": "FD-AY-002",
+            "difficulty": "easy",
+            "question": "Why is accessibility important?"
+        },
+        {
+            "id": "FD-AY-003",
+            "difficulty": "easy",
+            "question": "What are semantic HTML elements?"
+        },
+        {
+            "id": "FD-AY-004",
+            "difficulty": "easy",
+            "question": "Explain keyboard navigation."
+        },
+        {
+            "id": "FD-AY-005",
+            "difficulty": "easy",
+            "question": "What are screen readers?"
+        },
+        {
+            "id": "FD-AY-006",
+            "difficulty": "easy",
+            "question": "What is alt text?"
+        },
+        {
+            "id": "FD-AY-007",
+            "difficulty": "easy",
+            "question": "Explain focus states."
+        },
+        {
+            "id": "FD-AY-008",
+            "difficulty": "easy",
+            "question": "What are labels?"
+        },
+        {
+            "id": "FD-AY-009",
+            "difficulty": "easy",
+            "question": "What is color contrast?"
+        },
+        {
+            "id": "FD-AY-010",
+            "difficulty": "easy",
+            "question": "Explain accessible forms."
+        },
+
+
+        {
+            "id": "FD-AY-011",
+            "difficulty": "medium",
+            "question": "How would you improve accessibility on an existing website?"
+        },
+        {
+            "id": "FD-AY-012",
+            "difficulty": "medium",
+            "question": "Explain ARIA roles."
+        },
+        {
+            "id": "FD-AY-013",
+            "difficulty": "medium",
+            "question": "What are WCAG guidelines?"
+        },
+        {
+            "id": "FD-AY-014",
+            "difficulty": "medium",
+            "question": "Explain tab order."
+        },
+        {
+            "id": "FD-AY-015",
+            "difficulty": "medium",
+            "question": "What are skip navigation links?"
+        },
+        {
+            "id": "FD-AY-016",
+            "difficulty": "medium",
+            "question": "How would you test accessibility?"
+        },
+        {
+            "id": "FD-AY-017",
+            "difficulty": "medium",
+            "question": "Explain focus management."
+        },
+        {
+            "id": "FD-AY-018",
+            "difficulty": "medium",
+            "question": "What is accessible modal design?"
+        },
+        {
+            "id": "FD-AY-019",
+            "difficulty": "medium",
+            "question": "Explain accessible tables."
+        },
+        {
+            "id": "FD-AY-020",
+            "difficulty": "medium",
+            "question": "How would you build accessible navigation?"
+        },
+
+
+        {
+            "id": "FD-AY-021",
+            "difficulty": "hard",
+            "question": "Design a fully accessible web application."
+        },
+        {
+            "id": "FD-AY-022",
+            "difficulty": "hard",
+            "question": "Explain accessibility audits."
+        },
+        {
+            "id": "FD-AY-023",
+            "difficulty": "hard",
+            "question": "How would you ensure accessibility in React?"
+        },
+        {
+            "id": "FD-AY-024",
+            "difficulty": "hard",
+            "question": "Explain common accessibility mistakes."
+        },
+        {
+            "id": "FD-AY-025",
+            "difficulty": "hard",
+            "question": "How would you balance accessibility and design?"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "microservices": [
+        {
+            "id": "BD-MS-001",
+            "difficulty": "easy",
+            "question": "What are microservices?"
+        },
+        {
+            "id": "BD-MS-002",
+            "difficulty": "easy",
+            "question": "What is the difference between a monolithic application and microservices?"
+        },
+        {
+            "id": "BD-MS-003",
+            "difficulty": "easy",
+            "question": "Why are microservices popular?"
+        },
+        {
+            "id": "BD-MS-004",
+            "difficulty": "easy",
+            "question": "What are the advantages of microservices?"
+        },
+        {
+            "id": "BD-MS-005",
+            "difficulty": "easy",
+            "question": "What are the disadvantages of microservices?"
+        },
+        {
+            "id": "BD-MS-006",
+            "difficulty": "easy",
+            "question": "When should you choose a monolithic architecture instead?"
+        },
+        {
+            "id": "BD-MS-007",
+            "difficulty": "easy",
+            "question": "How do services communicate?"
+        },
+        {
+            "id": "BD-MS-008",
+            "difficulty": "easy",
+            "question": "What is service discovery?"
+        },
+        {
+            "id": "BD-MS-009",
+            "difficulty": "easy",
+            "question": "What is an API Gateway?"
+        },
+        {
+            "id": "BD-MS-010",
+            "difficulty": "easy",
+            "question": "What is loose coupling?"
+        },
+
+
+        {
+            "id": "BD-MS-011",
+            "difficulty": "medium",
+            "question": "How would you split a monolithic application into microservices?"
+        },
+        {
+            "id": "BD-MS-012",
+            "difficulty": "medium",
+            "question": "What are distributed transactions?"
+        },
+        {
+            "id": "BD-MS-013",
+            "difficulty": "medium",
+            "question": "Explain eventual consistency."
+        },
+        {
+            "id": "BD-MS-014",
+            "difficulty": "medium",
+            "question": "What is circuit breaking?"
+        },
+        {
+            "id": "BD-MS-015",
+            "difficulty": "medium",
+            "question": "Explain service-to-service communication."
+        },
+        {
+            "id": "BD-MS-016",
+            "difficulty": "medium",
+            "question": "What is asynchronous communication?"
+        },
+        {
+            "id": "BD-MS-017",
+            "difficulty": "medium",
+            "question": "Explain message queues."
+        },
+        {
+            "id": "BD-MS-018",
+            "difficulty": "medium",
+            "question": "What is RabbitMQ?"
+        },
+        {
+            "id": "BD-MS-019",
+            "difficulty": "medium",
+            "question": "What is Kafka?"
+        },
+        {
+            "id": "BD-MS-020",
+            "difficulty": "medium",
+            "question": "Explain fault isolation."
+        },
+
+
+        {
+            "id": "BD-MS-021",
+            "difficulty": "hard",
+            "question": "How would you debug a distributed system?"
+        },
+        {
+            "id": "BD-MS-022",
+            "difficulty": "hard",
+            "question": "Explain Saga Pattern."
+        },
+        {
+            "id": "BD-MS-023",
+            "difficulty": "hard",
+            "question": "Explain CQRS."
+        },
+        {
+            "id": "BD-MS-024",
+            "difficulty": "hard",
+            "question": "How would you monitor hundreds of microservices?"
+        },
+        {
+            "id": "BD-MS-025",
+            "difficulty": "hard",
+            "question": "Design a payment microservice."
+        },
+        {
+            "id": "BD-MS-026",
+            "difficulty": "hard",
+            "question": "Explain distributed tracing."
+        },
+        {
+            "id": "BD-MS-027",
+            "difficulty": "hard",
+            "question": "How would you deploy hundreds of microservices?"
+        },
+        {
+            "id": "BD-MS-028",
+            "difficulty": "hard",
+            "question": "What challenges arise in microservice security?"
+        },
+        {
+            "id": "BD-MS-029",
+            "difficulty": "hard",
+            "question": "How do you ensure data consistency?"
+        },
+        {
+            "id": "BD-MS-030",
+            "difficulty": "hard",
+            "question": "Design a microservice architecture for an e-commerce platform."
+        }
+    ]
+}

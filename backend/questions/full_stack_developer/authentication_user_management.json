@@ -1,0 +1,133 @@
+{
+    "authentication & user management": [
+        {
+            "id": "FSD-AUM-001",
+            "difficulty": "easy",
+            "question": "How does user authentication work in a full stack application?"
+        },
+        {
+            "id": "FSD-AUM-002",
+            "difficulty": "easy",
+            "question": "What is user registration?"
+        },
+        {
+            "id": "FSD-AUM-003",
+            "difficulty": "easy",
+            "question": "What is a login session?"
+        },
+        {
+            "id": "FSD-AUM-004",
+            "difficulty": "easy",
+            "question": "What is JWT?"
+        },
+        {
+            "id": "FSD-AUM-005",
+            "difficulty": "easy",
+            "question": "What is password hashing?"
+        },
+        {
+            "id": "FSD-AUM-006",
+            "difficulty": "easy",
+            "question": "What are user roles?"
+        },
+        {
+            "id": "FSD-AUM-007",
+            "difficulty": "easy",
+            "question": "What is authorization?"
+        },
+        {
+            "id": "FSD-AUM-008",
+            "difficulty": "easy",
+            "question": "What is role-based access control?"
+        },
+        {
+            "id": "FSD-AUM-009",
+            "difficulty": "easy",
+            "question": "Why should passwords never be stored in plain text?"
+        },
+        {
+            "id": "FSD-AUM-010",
+            "difficulty": "easy",
+            "question": "What is logout?"
+        },
+
+
+        {
+            "id": "FSD-AUM-011",
+            "difficulty": "medium",
+            "question": "Explain refresh tokens."
+        },
+        {
+            "id": "FSD-AUM-012",
+            "difficulty": "medium",
+            "question": "How would you implement password reset?"
+        },
+        {
+            "id": "FSD-AUM-013",
+            "difficulty": "medium",
+            "question": "How would you verify email addresses?"
+        },
+        {
+            "id": "FSD-AUM-014",
+            "difficulty": "medium",
+            "question": "Explain OAuth login."
+        },
+        {
+            "id": "FSD-AUM-015",
+            "difficulty": "medium",
+            "question": "How would you manage user sessions?"
+        },
+        {
+            "id": "FSD-AUM-016",
+            "difficulty": "medium",
+            "question": "Explain access tokens versus refresh tokens."
+        },
+        {
+            "id": "FSD-AUM-017",
+            "difficulty": "medium",
+            "question": "How would you implement remember me functionality?"
+        },
+        {
+            "id": "FSD-AUM-018",
+            "difficulty": "medium",
+            "question": "How would you secure authentication cookies?"
+        },
+        {
+            "id": "FSD-AUM-019",
+            "difficulty": "medium",
+            "question": "Explain account verification."
+        },
+        {
+            "id": "FSD-AUM-020",
+            "difficulty": "medium",
+            "question": "How would you prevent unauthorized access?"
+        },
+
+
+        {
+            "id": "FSD-AUM-021",
+            "difficulty": "hard",
+            "question": "Design authentication for a banking application."
+        },
+        {
+            "id": "FSD-AUM-022",
+            "difficulty": "hard",
+            "question": "Explain Single Sign-On."
+        },
+        {
+            "id": "FSD-AUM-023",
+            "difficulty": "hard",
+            "question": "How would you secure authentication in distributed systems?"
+        },
+        {
+            "id": "FSD-AUM-024",
+            "difficulty": "hard",
+            "question": "Explain identity providers."
+        },
+        {
+            "id": "FSD-AUM-025",
+            "difficulty": "hard",
+            "question": "Design a secure authentication workflow.`"
+        }
+    ]
+}
