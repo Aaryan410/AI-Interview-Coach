@@ -1,0 +1,210 @@
+{
+    "data cleaning & preprocessing": [
+        {
+            "id": "DS-CLEAN-001",
+            "difficulty": "easy",
+            "question": "Why is data cleaning an essential step before analysis?"
+        },
+        {
+            "id": "DS-CLEAN-002",
+            "difficulty": "easy",
+            "question": "What are common data quality issues found in datasets?"
+        },
+        {
+            "id": "DS-CLEAN-003",
+            "difficulty": "easy",
+            "question": "What are duplicate records, and why should they be handled carefully?"
+        },
+        {
+            "id": "DS-CLEAN-004",
+            "difficulty": "easy",
+            "question": "What are missing values?"
+        },
+        {
+            "id": "DS-CLEAN-005",
+            "difficulty": "easy",
+            "question": "Why is handling inconsistent data important?"
+        },
+        {
+            "id": "DS-CLEAN-006",
+            "difficulty": "easy",
+            "question": "What is data normalization?"
+        },
+        {
+            "id": "DS-CLEAN-007",
+            "difficulty": "easy",
+            "question": "What is standardization?"
+        },
+        {
+            "id": "DS-CLEAN-008",
+            "difficulty": "easy",
+            "question": "Why are categorical variables often encoded before modeling?"
+        },
+        {
+            "id": "DS-CLEAN-009",
+            "difficulty": "easy",
+            "question": "What are outliers?"
+        },
+        {
+            "id": "DS-CLEAN-010",
+            "difficulty": "easy",
+            "question": "How can poor data quality affect business decisions?"
+        },
+
+
+        {
+            "id": "DS-CLEAN-011",
+            "difficulty": "medium",
+            "question": "How would you determine whether missing values should be removed or imputed?"
+        },
+        {
+            "id": "DS-CLEAN-012",
+            "difficulty": "medium",
+            "question": "Compare different strategies for handling missing data."
+        },
+        {
+            "id": "DS-CLEAN-013",
+            "difficulty": "medium",
+            "question": "How would you detect inconsistent values across multiple datasets?"
+        },
+        {
+            "id": "DS-CLEAN-014",
+            "difficulty": "medium",
+            "question": "How would you identify and remove duplicate records while preserving valid information?"
+        },
+        {
+            "id": "DS-CLEAN-015",
+            "difficulty": "medium",
+            "question": "How would you determine whether an outlier represents an error or a meaningful observation?"
+        },
+        {
+            "id": "DS-CLEAN-016",
+            "difficulty": "medium",
+            "question": "Explain how preprocessing decisions can influence later statistical analyses."
+        },
+        {
+            "id": "DS-CLEAN-017",
+            "difficulty": "medium",
+            "question": "How would you clean customer data collected from multiple countries with different formats and conventions?"
+        },
+        {
+            "id": "DS-CLEAN-018",
+            "difficulty": "medium",
+            "question": "Describe a repeatable workflow for cleaning a newly received dataset."
+        },
+        {
+            "id": "DS-CLEAN-019",
+            "difficulty": "medium",
+            "question": "How would you validate that your cleaned dataset is accurate?"
+        },
+        {
+            "id": "DS-CLEAN-020",
+            "difficulty": "medium",
+            "question": "How would you document your data cleaning process so others can reproduce it?"
+        },
+
+
+        {
+            "id": "DS-CLEAN-021",
+            "difficulty": "hard",
+            "question": "Design a scalable data cleaning pipeline for datasets containing hundreds of millions of records."
+        },
+        {
+            "id": "DS-CLEAN-022",
+            "difficulty": "hard",
+            "question": "How would you balance aggressive data cleaning with the risk of removing valuable information?"
+        },
+        {
+            "id": "DS-CLEAN-023",
+            "difficulty": "hard",
+            "question": "How would you identify hidden data quality issues that standard validation checks might miss?"
+        },
+        {
+            "id": "DS-CLEAN-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between automated data cleaning and manual review."
+        },
+        {
+            "id": "DS-CLEAN-025",
+            "difficulty": "hard",
+            "question": "How would you ensure consistent preprocessing across multiple business datasets?"
+        },
+        {
+            "id": "DS-CLEAN-026",
+            "difficulty": "hard",
+            "question": "Describe strategies for cleaning streaming data in near real time."
+        },
+        {
+            "id": "DS-CLEAN-027",
+            "difficulty": "hard",
+            "question": "How would you detect subtle data corruption introduced during ETL processes?"
+        },
+        {
+            "id": "DS-CLEAN-028",
+            "difficulty": "hard",
+            "question": "How would you design automated validation rules for incoming business data?"
+        },
+        {
+            "id": "DS-CLEAN-029",
+            "difficulty": "hard",
+            "question": "Explain how poor preprocessing can create misleading analytical conclusions."
+        },
+        {
+            "id": "DS-CLEAN-030",
+            "difficulty": "hard",
+            "question": "Design a complete enterprise data quality framework covering ingestion, cleaning, validation, monitoring, and auditing."
+        },
+
+        
+        {
+            "id": "DS-CLEAN-S031",
+            "difficulty": "scenario",
+            "question": "A customer dataset contains thousands of duplicate records with conflicting information. Walk me through how you would resolve the issue."
+        },
+        {
+            "id": "DS-CLEAN-S032",
+            "difficulty": "scenario",
+            "question": "A stakeholder asks you to simply delete every row containing missing values. Explain how you would evaluate whether this is appropriate."
+        },
+        {
+            "id": "DS-CLEAN-S033",
+            "difficulty": "scenario",
+            "question": "A newly acquired company's database contains inconsistent date formats, currencies, and address formats. Describe your cleaning strategy."
+        },
+        {
+            "id": "DS-CLEAN-S034",
+            "difficulty": "scenario",
+            "question": "A dashboard begins reporting unrealistic business metrics after a recent ETL update. Explain how you would investigate possible data quality issues."
+        },
+        {
+            "id": "DS-CLEAN-S035",
+            "difficulty": "scenario",
+            "question": "A fraud detection dataset contains many extreme values. Describe how you would determine whether they should be removed."
+        },
+        {
+            "id": "DS-CLEAN-S036",
+            "difficulty": "scenario",
+            "question": "Several departments maintain separate customer databases with conflicting records. Explain how you would build a unified, high-quality dataset."
+        },
+        {
+            "id": "DS-CLEAN-S037",
+            "difficulty": "scenario",
+            "question": "A machine learning model performs significantly worse after new data is added. Walk me through how you would determine whether preprocessing differences are responsible."
+        },
+        {
+            "id": "DS-CLEAN-S038",
+            "difficulty": "scenario",
+            "question": "Your team must clean billions of transaction records before generating executive reports. Explain how you would design an efficient and reliable cleaning process."
+        },
+        {
+            "id": "DS-CLEAN-S039",
+            "difficulty": "scenario",
+            "question": "An audit discovers inconsistent business metrics across multiple dashboards. Describe how you would investigate the underlying data."
+        },
+        {
+            "id": "DS-CLEAN-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for preparing a global enterprise dataset collected from hundreds of data sources before analysis. Explain your complete strategy for cleaning, validating, documenting, monitoring, and maintaining data quality."
+        }
+    ]
+}

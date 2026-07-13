@@ -1,0 +1,209 @@
+{
+    "distributed machine learning": [
+        {
+            "id": "ML-DIST-001",
+            "difficulty": "easy",
+            "question": "What is distributed machine learning?"
+        },
+        {
+            "id": "ML-DIST-002",
+            "difficulty": "easy",
+            "question": "Why is distributed training used?"
+        },
+        {
+            "id": "ML-DIST-003",
+            "difficulty": "easy",
+            "question": "What is data parallelism?"
+        },
+        {
+            "id": "ML-DIST-004",
+            "difficulty": "easy",
+            "question": "What is model parallelism?"
+        },
+        {
+            "id": "ML-DIST-005",
+            "difficulty": "easy",
+            "question": "What is the difference between data parallelism and model parallelism?"
+        },
+        {
+            "id": "ML-DIST-006",
+            "difficulty": "easy",
+            "question": "Why are GPUs commonly used for machine learning training?"
+        },
+        {
+            "id": "ML-DIST-007",
+            "difficulty": "easy",
+            "question": "What is a TPU, and how does it differ from a GPU?"
+        },
+        {
+            "id": "ML-DIST-008",
+            "difficulty": "easy",
+            "question": "What is distributed inference?"
+        },
+        {
+            "id": "ML-DIST-009",
+            "difficulty": "easy",
+            "question": "Why is communication between machines important during distributed training?"
+        },
+        {
+            "id": "ML-DIST-010",
+            "difficulty": "easy",
+            "question": "What challenges can arise during distributed machine learning?"
+        },
+
+
+        {
+            "id": "ML-DIST-011",
+            "difficulty": "medium",
+            "question": "Explain how data parallelism works during neural network training."
+        },
+        {
+            "id": "ML-DIST-012",
+            "difficulty": "medium",
+            "question": "When would you choose model parallelism instead of data parallelism?"
+        },
+        {
+            "id": "ML-DIST-013",
+            "difficulty": "medium",
+            "question": "What is a parameter server architecture, and when is it useful?"
+        },
+        {
+            "id": "ML-DIST-014",
+            "difficulty": "medium",
+            "question": "Compare synchronous and asynchronous distributed training."
+        },
+        {
+            "id": "ML-DIST-015",
+            "difficulty": "medium",
+            "question": "How does communication overhead affect distributed training performance?"
+        },
+        {
+            "id": "ML-DIST-016",
+            "difficulty": "medium",
+            "question": "How would you determine whether distributed training is worth using for a particular project?"
+        },
+        {
+            "id": "ML-DIST-017",
+            "difficulty": "medium",
+            "question": "Compare PyTorch Distributed, TensorFlow Distributed, and Horovod."
+        },
+        {
+            "id": "ML-DIST-018",
+            "difficulty": "medium",
+            "question": "How would you monitor the performance of a distributed training job?"
+        },
+        {
+            "id": "ML-DIST-019",
+            "difficulty": "medium",
+            "question": "How would you reduce communication bottlenecks during distributed training?"
+        },
+        {
+            "id": "ML-DIST-020",
+            "difficulty": "medium",
+            "question": "Explain the trade-offs between increasing the number of GPUs and improving GPU utilization."
+        },
+
+        {
+            "id": "ML-DIST-021",
+            "difficulty": "hard",
+            "question": "Design a distributed machine learning architecture capable of training billion-parameter models."
+        },
+        {
+            "id": "ML-DIST-022",
+            "difficulty": "hard",
+            "question": "How would you optimize distributed training to maximize GPU utilization while minimizing communication overhead?"
+        },
+        {
+            "id": "ML-DIST-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between distributed training cost, scalability, and convergence speed."
+        },
+        {
+            "id": "ML-DIST-024",
+            "difficulty": "hard",
+            "question": "How would you determine whether slow training is caused by computation, networking, or storage bottlenecks?"
+        },
+        {
+            "id": "ML-DIST-025",
+            "difficulty": "hard",
+            "question": "How would you design a fault-tolerant distributed training system?"
+        },
+        {
+            "id": "ML-DIST-026",
+            "difficulty": "hard",
+            "question": "How would you efficiently train machine learning models across multiple geographic regions?"
+        },
+        {
+            "id": "ML-DIST-027",
+            "difficulty": "hard",
+            "question": "Describe strategies for reducing cloud costs during large-scale distributed machine learning."
+        },
+        {
+            "id": "ML-DIST-028",
+            "difficulty": "hard",
+            "question": "How would you evaluate scaling efficiency when increasing the number of GPUs or compute nodes?"
+        },
+        {
+            "id": "ML-DIST-029",
+            "difficulty": "hard",
+            "question": "How would you build a distributed inference platform capable of serving millions of requests per day?"
+        },
+        {
+            "id": "ML-DIST-030",
+            "difficulty": "hard",
+            "question": "Design the infrastructure required to support continuous distributed training and deployment for multiple machine learning teams."
+        },
+
+        
+        {
+            "id": "ML-DIST-S031",
+            "difficulty": "scenario",
+            "question": "A distributed training job that normally finishes in four hours suddenly takes twelve hours. Walk me through your investigation."
+        },
+        {
+            "id": "ML-DIST-S032",
+            "difficulty": "scenario",
+            "question": "Your training cluster scales from four GPUs to sixteen GPUs, but training speed improves very little. Explain how you would identify the bottleneck."
+        },
+        {
+            "id": "ML-DIST-S033",
+            "difficulty": "scenario",
+            "question": "One GPU repeatedly fails during distributed training. Describe how you would maintain training progress without restarting the entire job."
+        },
+        {
+            "id": "ML-DIST-S034",
+            "difficulty": "scenario",
+            "question": "A stakeholder wants to reduce cloud costs while continuing to train increasingly larger machine learning models. Explain the engineering trade-offs you would evaluate."
+        },
+        {
+            "id": "ML-DIST-S035",
+            "difficulty": "scenario",
+            "question": "Your distributed inference service experiences sudden traffic spikes after a product launch. Describe how you would scale the infrastructure."
+        },
+        {
+            "id": "ML-DIST-S036",
+            "difficulty": "scenario",
+            "question": "Your model no longer fits into the memory of a single GPU. Walk me through the approaches you would consider."
+        },
+        {
+            "id": "ML-DIST-S037",
+            "difficulty": "scenario",
+            "question": "A production inference cluster begins returning inconsistent predictions across different servers. Explain how you would investigate the issue."
+        },
+        {
+            "id": "ML-DIST-S038",
+            "difficulty": "scenario",
+            "question": "Your distributed training system must support multiple teams training models simultaneously. Describe how you would manage scheduling, resource allocation, and fairness."
+        },
+        {
+            "id": "ML-DIST-S039",
+            "difficulty": "scenario",
+            "question": "A global machine learning platform must continue operating even if an entire cloud region becomes unavailable. Explain how you would design for resilience."
+        },
+        {
+            "id": "ML-DIST-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for designing a worldwide distributed machine learning platform capable of training and serving hundreds of models. Explain your architecture for compute, networking, storage, monitoring, fault tolerance, and scaling."
+        }
+    ]
+}

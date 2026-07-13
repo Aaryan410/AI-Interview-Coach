@@ -1,6 +1,7 @@
-import interview
+import database
 import pyfiglet
 import random
+
 
 # Printing UI
 text = pyfiglet.figlet_format("AI Interview Coach", font = "standard", width = 200)
@@ -9,29 +10,31 @@ print('=========================================================================
 print(text.rstrip())
 print('==========================================================================================')
 
-# Asking for roles
+# Asking for roles and topics
 user_role = input("Role: ")
+user_topic = input("Topic: ")
 
-# Role
-role = user_role.replace(" ", "_").lower()
+# Role and topics
+role_folder = user_role.replace(" ", "_").lower()
+topic_file = user_topic.replace(" ", "_").lower()
 
 # Accessing the Data
-questions = interview.load_questions(role)
+questions_data = database.load_questions(role_folder, topic_file)
 
-# Questions
-selected_category = random.choice(list(questions.keys()))
+# Accessing the list inside the data
+questions_list = questions_data[topic_file]
 
-# Category
-selected_question = random.choice(questions[selected_category])
+# Question
+random_question_obj = random.choice(questions_list)
 
 
 # Printing questions
 print()
-print(f"Category: {selected_category.title()}")
+print(random_question_obj)
 print()
-print(f"Difficulty: {selected_question["difficulty"].title()}")
+print(random_question_obj["question"])
 print()
-print(f"Question ID: {selected_question["id"]}")
+print(random_question_obj["difficulty"])
 print()
 print('---------------------------------------')
 print()

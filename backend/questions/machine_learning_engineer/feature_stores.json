@@ -1,0 +1,207 @@
+{
+    "feature stores": [
+        {
+            "id": "ML-FS-001",
+            "difficulty": "easy",
+            "question": "What is a feature store in machine learning?"
+        },
+        {
+            "id": "ML-FS-002",
+            "difficulty": "easy",
+            "question": "Why are feature stores used in production machine learning systems?"
+        },
+        {
+            "id": "ML-FS-003",
+            "difficulty": "easy",
+            "question": "What is the difference between an online feature store and an offline feature store?"
+        },
+        {
+            "id": "ML-FS-004",
+            "difficulty": "easy",
+            "question": "What is feature reuse, and why is it valuable?"
+        },
+        {
+            "id": "ML-FS-005",
+            "difficulty": "easy",
+            "question": "What is feature versioning?"
+        },
+        {
+            "id": "ML-FS-006",
+            "difficulty": "easy",
+            "question": "Why is feature consistency important?"
+        },
+        {
+            "id": "ML-FS-007",
+            "difficulty": "easy",
+            "question": "What is training-serving skew?"
+        },
+        {
+            "id": "ML-FS-008",
+            "difficulty": "easy",
+            "question": "What is feature freshness?"
+        },
+        {
+            "id": "ML-FS-009",
+            "difficulty": "easy",
+            "question": "Name some commonly used feature store platforms."
+        },
+        {
+            "id": "ML-FS-010",
+            "difficulty": "easy",
+            "question": "How does a feature store improve collaboration between machine learning teams?"
+        },
+
+        {
+            "id": "ML-FS-011",
+            "difficulty": "medium",
+            "question": "Explain how online and offline feature stores work together in a production machine learning system."
+        },
+        {
+            "id": "ML-FS-012",
+            "difficulty": "medium",
+            "question": "How would you design reusable features that can be shared across multiple machine learning models?"
+        },
+        {
+            "id": "ML-FS-013",
+            "difficulty": "medium",
+            "question": "How would you detect and prevent training-serving skew?"
+        },
+        {
+            "id": "ML-FS-014",
+            "difficulty": "medium",
+            "question": "Compare Feast and Tecton. When would you choose each?"
+        },
+        {
+            "id": "ML-FS-015",
+            "difficulty": "medium",
+            "question": "How would you ensure feature freshness for real-time prediction systems?"
+        },
+        {
+            "id": "ML-FS-016",
+            "difficulty": "medium",
+            "question": "How would you monitor feature quality after deployment?"
+        },
+        {
+            "id": "ML-FS-017",
+            "difficulty": "medium",
+            "question": "Explain the importance of feature lineage in machine learning systems."
+        },
+        {
+            "id": "ML-FS-018",
+            "difficulty": "medium",
+            "question": "How would you safely update an existing feature without breaking deployed models?"
+        },
+        {
+            "id": "ML-FS-019",
+            "difficulty": "medium",
+            "question": "Describe how a feature store integrates with an MLOps pipeline."
+        },
+        {
+            "id": "ML-FS-020",
+            "difficulty": "medium",
+            "question": "How would you design access controls for sensitive features stored in a feature store?"
+        },
+
+        {
+            "id": "ML-FS-021",
+            "difficulty": "hard",
+            "question": "Design a feature store capable of supporting hundreds of machine learning models across multiple engineering teams."
+        },
+        {
+            "id": "ML-FS-022",
+            "difficulty": "hard",
+            "question": "How would you determine whether a feature should be computed in real time or precomputed offline?"
+        },
+        {
+            "id": "ML-FS-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between feature freshness, infrastructure cost, and prediction latency."
+        },
+        {
+            "id": "ML-FS-024",
+            "difficulty": "hard",
+            "question": "How would you optimize storage and retrieval for billions of feature values?"
+        },
+        {
+            "id": "ML-FS-025",
+            "difficulty": "hard",
+            "question": "How would you design a feature validation framework to ensure data quality before features reach production?"
+        },
+        {
+            "id": "ML-FS-026",
+            "difficulty": "hard",
+            "question": "Describe strategies for versioning and deprecating features without disrupting production models."
+        },
+        {
+            "id": "ML-FS-027",
+            "difficulty": "hard",
+            "question": "How would you detect and recover from feature corruption affecting multiple production models?"
+        },
+        {
+            "id": "ML-FS-028",
+            "difficulty": "hard",
+            "question": "How would you design a multi-region feature store for globally distributed machine learning applications?"
+        },
+        {
+            "id": "ML-FS-029",
+            "difficulty": "hard",
+            "question": "Explain how you would evaluate the return on investment of introducing a feature store into an existing machine learning platform."
+        },
+        {
+            "id": "ML-FS-030",
+            "difficulty": "hard",
+            "question": "Describe the complete lifecycle of a feature from creation to retirement in a production machine learning platform."
+        },
+
+        {
+            "id": "ML-FS-S031",
+            "difficulty": "scenario",
+            "question": "A deployed recommendation model begins producing inconsistent predictions because training and production features differ. Walk me through your investigation."
+        },
+        {
+            "id": "ML-FS-S032",
+            "difficulty": "scenario",
+            "question": "A feature used by dozens of production models contains an incorrect calculation. Explain how you would identify affected systems and safely recover."
+        },
+        {
+            "id": "ML-FS-S033",
+            "difficulty": "scenario",
+            "question": "Your product manager requests real-time feature updates for a fraud detection system, but infrastructure costs are already high. Describe the trade-offs you would evaluate."
+        },
+        {
+            "id": "ML-FS-S034",
+            "difficulty": "scenario",
+            "question": "A new feature appears highly predictive during training but performs poorly in production. Explain how you would investigate feature quality and consistency."
+        },
+        {
+            "id": "ML-FS-S035",
+            "difficulty": "scenario",
+            "question": "Multiple teams independently create nearly identical customer features. Describe how you would improve feature governance and reuse."
+        },
+        {
+            "id": "ML-FS-S036",
+            "difficulty": "scenario",
+            "question": "Your feature store experiences increased latency, causing production prediction times to exceed service-level objectives. Walk me through your debugging process."
+        },
+        {
+            "id": "ML-FS-S037",
+            "difficulty": "scenario",
+            "question": "An engineer proposes removing feature versioning to simplify the platform. How would you evaluate this proposal?"
+        },
+        {
+            "id": "ML-FS-S038",
+            "difficulty": "scenario",
+            "question": "A global machine learning platform requires low-latency feature retrieval across multiple geographic regions. Explain how you would design the feature store."
+        },
+        {
+            "id": "ML-FS-S039",
+            "difficulty": "scenario",
+            "question": "A compliance audit requires complete traceability for every feature used in production predictions. Describe how you would satisfy this requirement."
+        },
+        {
+            "id": "ML-FS-S040",
+            "difficulty": "scenario",
+            "question": "You're designing the feature platform for an organization with hundreds of machine learning engineers and thousands of production models. Explain your architecture for feature computation, storage, versioning, governance, monitoring, security, and scalability."
+        }
+    ]
+}

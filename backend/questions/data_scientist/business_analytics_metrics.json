@@ -1,0 +1,210 @@
+{
+    "business analytics metrics": [
+        {
+            "id": "DS-BUS-001",
+            "difficulty": "easy",
+            "question": "What is a Key Performance Indicator (KPI)?"
+        },
+        {
+            "id": "DS-BUS-002",
+            "difficulty": "easy",
+            "question": "Why are business metrics important?"
+        },
+        {
+            "id": "DS-BUS-003",
+            "difficulty": "easy",
+            "question": "What is customer churn?"
+        },
+        {
+            "id": "DS-BUS-004",
+            "difficulty": "easy",
+            "question": "What is customer retention?"
+        },
+        {
+            "id": "DS-BUS-005",
+            "difficulty": "easy",
+            "question": "What is Customer Lifetime Value (CLV)?"
+        },
+        {
+            "id": "DS-BUS-006",
+            "difficulty": "easy",
+            "question": "What is a conversion funnel?"
+        },
+        {
+            "id": "DS-BUS-007",
+            "difficulty": "easy",
+            "question": "What is cohort analysis?"
+        },
+        {
+            "id": "DS-BUS-008",
+            "difficulty": "easy",
+            "question": "What is Monthly Active Users (MAU)?"
+        },
+        {
+            "id": "DS-BUS-009",
+            "difficulty": "easy",
+            "question": "What is Daily Active Users (DAU)?"
+        },
+        {
+            "id": "DS-BUS-010",
+            "difficulty": "easy",
+            "question": "Why should business decisions be supported by data?"
+        },
+
+
+        {
+            "id": "DS-BUS-011",
+            "difficulty": "medium",
+            "question": "How would you choose KPIs for a newly launched product?"
+        },
+        {
+            "id": "DS-BUS-012",
+            "difficulty": "medium",
+            "question": "How would you investigate an increase in customer churn?"
+        },
+        {
+            "id": "DS-BUS-013",
+            "difficulty": "medium",
+            "question": "How would you analyze the stages of a conversion funnel?"
+        },
+        {
+            "id": "DS-BUS-014",
+            "difficulty": "medium",
+            "question": "How would you determine whether a marketing campaign improved customer retention?"
+        },
+        {
+            "id": "DS-BUS-015",
+            "difficulty": "medium",
+            "question": "How would you evaluate whether increasing revenue also increased profitability?"
+        },
+        {
+            "id": "DS-BUS-016",
+            "difficulty": "medium",
+            "question": "How would you prioritize multiple business metrics that show conflicting trends?"
+        },
+        {
+            "id": "DS-BUS-017",
+            "difficulty": "medium",
+            "question": "How would you determine whether declining user engagement represents a serious business problem?"
+        },
+        {
+            "id": "DS-BUS-018",
+            "difficulty": "medium",
+            "question": "Explain how cohort analysis can reveal insights that aggregate metrics might hide."
+        },
+        {
+            "id": "DS-BUS-019",
+            "difficulty": "medium",
+            "question": "How would you measure the success of a newly launched feature?"
+        },
+        {
+            "id": "DS-BUS-020",
+            "difficulty": "medium",
+            "question": "How would you communicate business insights to senior leadership?"
+        },
+
+
+        {
+            "id": "DS-BUS-021",
+            "difficulty": "hard",
+            "question": "Design a KPI framework for a global e-commerce platform."
+        },
+        {
+            "id": "DS-BUS-022",
+            "difficulty": "hard",
+            "question": "How would you determine whether revenue growth is sustainable or driven by short-term factors?"
+        },
+        {
+            "id": "DS-BUS-023",
+            "difficulty": "hard",
+            "question": "How would you balance short-term revenue growth with long-term customer retention?"
+        },
+        {
+            "id": "DS-BUS-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between optimizing engagement metrics and optimizing revenue metrics."
+        },
+        {
+            "id": "DS-BUS-025",
+            "difficulty": "hard",
+            "question": "How would you identify the business metrics most strongly influencing company growth?"
+        },
+        {
+            "id": "DS-BUS-026",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether a decline in conversion rate is caused by product changes, marketing, seasonality, or external events?"
+        },
+        {
+            "id": "DS-BUS-027",
+            "difficulty": "hard",
+            "question": "Describe strategies for building executive dashboards that support rapid business decision making."
+        },
+        {
+            "id": "DS-BUS-028",
+            "difficulty": "hard",
+            "question": "How would you design a metric hierarchy that aligns departmental goals with company objectives?"
+        },
+        {
+            "id": "DS-BUS-029",
+            "difficulty": "hard",
+            "question": "How would you determine whether improving a KPI actually creates business value?"
+        },
+        {
+            "id": "DS-BUS-030",
+            "difficulty": "hard",
+            "question": "Design a business analytics framework that supports continuous monitoring, forecasting, experimentation, and executive reporting."
+        },
+
+
+        {
+            "id": "DS-BUS-S031",
+            "difficulty": "scenario",
+            "question": "Revenue dropped 18% this month while website traffic remained unchanged. Walk me through your investigation."
+        },
+        {
+            "id": "DS-BUS-S032",
+            "difficulty": "scenario",
+            "question": "Daily Active Users increased significantly, but overall revenue declined. Explain how you would analyze the situation."
+        },
+        {
+            "id": "DS-BUS-S033",
+            "difficulty": "scenario",
+            "question": "A product manager claims that a newly released feature is successful because user engagement increased. Describe how you would determine whether the feature actually delivered business value."
+        },
+        {
+            "id": "DS-BUS-S034",
+            "difficulty": "scenario",
+            "question": "Customer acquisition has increased, but customer retention has decreased. Explain your analytical approach."
+        },
+        {
+            "id": "DS-BUS-S035",
+            "difficulty": "scenario",
+            "question": "An executive asks you to recommend only five KPIs for monitoring the health of an online marketplace. Explain which metrics you would choose and why."
+        },
+        {
+            "id": "DS-BUS-S036",
+            "difficulty": "scenario",
+            "question": "A subscription business experiences an unexpected increase in customer cancellations. Walk me through how you would investigate the underlying causes."
+        },
+        {
+            "id": "DS-BUS-S037",
+            "difficulty": "scenario",
+            "question": "A marketing campaign increases sales but reduces profit margins. Explain how you would evaluate whether the campaign should continue."
+        },
+        {
+            "id": "DS-BUS-S038",
+            "difficulty": "scenario",
+            "question": "Different departments report conflicting values for the same KPI. Describe how you would investigate and resolve the inconsistency."
+        },
+        {
+            "id": "DS-BUS-S039",
+            "difficulty": "scenario",
+            "question": "A company's quarterly growth slows for the first time in several years. Explain how you would identify the most likely contributing factors."
+        },
+        {
+            "id": "DS-BUS-S040",
+            "difficulty": "scenario",
+            "question": "You're the lead Data Scientist for a global e-commerce company. Explain how you would design KPI selection, business reporting, executive dashboards, forecasting, experimentation, and decision-support processes to guide company strategy."
+        }
+    ]   
+}

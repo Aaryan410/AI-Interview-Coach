@@ -1,0 +1,210 @@
+{
+    "machine learning for data science": [
+        {
+            "id": "DS-ML-001",
+            "difficulty": "easy",
+            "question": "Why do Data Scientists use machine learning?"
+        },
+        {
+            "id": "DS-ML-002",
+            "difficulty": "easy",
+            "question": "What is the difference between supervised and unsupervised learning?"
+        },
+        {
+            "id": "DS-ML-003",
+            "difficulty": "easy",
+            "question": "What is the difference between classification and regression?"
+        },
+        {
+            "id": "DS-ML-004",
+            "difficulty": "easy",
+            "question": "What is clustering, and when is it useful?"
+        },
+        {
+            "id": "DS-ML-005",
+            "difficulty": "easy",
+            "question": "What is overfitting?"
+        },
+        {
+            "id": "DS-ML-006",
+            "difficulty": "easy",
+            "question": "What is underfitting?"
+        },
+        {
+            "id": "DS-ML-007",
+            "difficulty": "easy",
+            "question": "Why should data be divided into training and testing sets?"
+        },
+        {
+            "id": "DS-ML-008",
+            "difficulty": "easy",
+            "question": "What is feature importance?"
+        },
+        {
+            "id": "DS-ML-009",
+            "difficulty": "easy",
+            "question": "Why is model interpretability important?"
+        },
+        {
+            "id": "DS-ML-010",
+            "difficulty": "easy",
+            "question": "Why shouldn't accuracy be the only evaluation metric?"
+        },
+
+
+        {
+            "id": "DS-ML-011",
+            "difficulty": "medium",
+            "question": "How would you select an appropriate machine learning algorithm for a business problem?"
+        },
+        {
+            "id": "DS-ML-012",
+            "difficulty": "medium",
+            "question": "How would you determine whether a machine learning model is solving the intended business problem?"
+        },
+        {
+            "id": "DS-ML-013",
+            "difficulty": "medium",
+            "question": "Compare classification, regression, and clustering from a business perspective."
+        },
+        {
+            "id": "DS-ML-014",
+            "difficulty": "medium",
+            "question": "How would you explain a machine learning model's predictions to non-technical stakeholders?"
+        },
+        {
+            "id": "DS-ML-015",
+            "difficulty": "medium",
+            "question": "How would you identify the most influential features affecting model predictions?"
+        },
+        {
+            "id": "DS-ML-016",
+            "difficulty": "medium",
+            "question": "How would you compare two models with similar performance but different complexity?"
+        },
+        {
+            "id": "DS-ML-017",
+            "difficulty": "medium",
+            "question": "How would you evaluate whether collecting more data is likely to improve model performance?"
+        },
+        {
+            "id": "DS-ML-018",
+            "difficulty": "medium",
+            "question": "How would you determine whether machine learning is even necessary for a particular business problem?"
+        },
+        {
+            "id": "DS-ML-019",
+            "difficulty": "medium",
+            "question": "Explain how feature engineering can improve model performance."
+        },
+        {
+            "id": "DS-ML-020",
+            "difficulty": "medium",
+            "question": "How would you communicate model limitations to business stakeholders?"
+        },
+
+
+        {
+            "id": "DS-ML-021",
+            "difficulty": "hard",
+            "question": "Design a complete machine learning workflow for solving a customer churn prediction problem."
+        },
+        {
+            "id": "DS-ML-022",
+            "difficulty": "hard",
+            "question": "How would you balance prediction accuracy, interpretability, fairness, and business value when selecting a model?"
+        },
+        {
+            "id": "DS-ML-023",
+            "difficulty": "hard",
+            "question": "How would you determine whether improvements in model accuracy produce meaningful business value?"
+        },
+        {
+            "id": "DS-ML-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between simple interpretable models and highly complex machine learning models."
+        },
+        {
+            "id": "DS-ML-025",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether a deployed model should be retrained?"
+        },
+        {
+            "id": "DS-ML-026",
+            "difficulty": "hard",
+            "question": "How would you design experiments to compare multiple machine learning models while avoiding evaluation bias?"
+        },
+        {
+            "id": "DS-ML-027",
+            "difficulty": "hard",
+            "question": "Describe strategies for improving model performance when additional training data is unavailable."
+        },
+        {
+            "id": "DS-ML-028",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether feature importance remains stable over time?"
+        },
+        {
+            "id": "DS-ML-029",
+            "difficulty": "hard",
+            "question": "Explain how business objectives influence machine learning model selection."
+        },
+        {
+            "id": "DS-ML-030",
+            "difficulty": "hard",
+            "question": "Design a framework for evaluating machine learning solutions from both technical and business perspectives."
+        },
+
+        
+        {
+            "id": "DS-ML-S031",
+            "difficulty": "scenario",
+            "question": "A stakeholder requests a highly accurate model, but business leaders require explanations for every prediction. Explain how you would choose an appropriate solution."
+        },
+        {
+            "id": "DS-ML-S032",
+            "difficulty": "scenario",
+            "question": "A customer churn prediction model achieves excellent accuracy but fails to reduce actual churn. Walk me through your investigation."
+        },
+        {
+            "id": "DS-ML-S033",
+            "difficulty": "scenario",
+            "question": "A product manager wants to use machine learning for a problem that could easily be solved using simple business rules. How would you evaluate the proposal?"
+        },
+        {
+            "id": "DS-ML-S034",
+            "difficulty": "scenario",
+            "question": "A newly trained model performs significantly better during testing but disappoints after deployment. Explain your investigation process."
+        },
+        {
+            "id": "DS-ML-S035",
+            "difficulty": "scenario",
+            "question": "Two machine learning models achieve similar technical performance, but one is much easier for stakeholders to understand. Describe how you would decide which model to recommend."
+        },
+        {
+            "id": "DS-ML-S036",
+            "difficulty": "scenario",
+            "question": "Your analysis shows that the most accurate model relies heavily on sensitive customer information. Explain how you would evaluate the ethical and business implications."
+        },
+        {
+            "id": "DS-ML-S037",
+            "difficulty": "scenario",
+            "question": "A business executive asks why the machine learning model made an unexpected prediction for an important customer. Describe how you would investigate and explain the result."
+        },
+        {
+            "id": "DS-ML-S038",
+            "difficulty": "scenario",
+            "question": "A marketing team requests customer segmentation for a new campaign. Explain how you would determine whether clustering is an appropriate solution."
+        },
+        {
+            "id": "DS-ML-S039",
+            "difficulty": "scenario",
+            "question": "A deployed recommendation model improves click-through rate but reduces long-term customer retention. Explain how you would evaluate overall business success."
+        },
+        {
+            "id": "DS-ML-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for developing machine learning solutions across multiple business departments. Explain your framework for problem definition, model selection, evaluation, stakeholder communication, deployment recommendations, and continuous improvement."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "id": "DS-PROJ-001",
+            "difficulty": "easy",
+            "question": "Tell me about a data science project you've worked on."
+        },
+        {
+            "id": "DS-PROJ-002",
+            "difficulty": "easy",
+            "question": "What business problem was your project designed to solve?"
+        },
+        {
+            "id": "DS-PROJ-003",
+            "difficulty": "easy",
+            "question": "What dataset did you use, and how did you obtain it?"
+        },
+        {
+            "id": "DS-PROJ-004",
+            "difficulty": "easy",
+            "question": "What tools, programming languages, and libraries did you use, and why?"
+        },
+        {
+            "id": "DS-PROJ-005",
+            "difficulty": "easy",
+            "question": "What was your biggest challenge during the project?"
+        },
+
+
+        {
+            "id": "DS-PROJ-006",
+            "difficulty": "medium",
+            "question": "How did you clean and preprocess the data before analysis?"
+        },
+        {
+            "id": "DS-PROJ-007",
+            "difficulty": "medium",
+            "question": "How did you determine whether your analysis or model successfully solved the business problem?"
+        },
+        {
+            "id": "DS-PROJ-008",
+            "difficulty": "medium",
+            "question": "What insights did your project provide, and how could they influence business decisions?"
+        },
+
+        
+        {
+            "id": "DS-PROJ-009",
+            "difficulty": "hard",
+            "question": "If you rebuilt your project today, what changes would you make to improve the analysis, models, or business impact, and why?"
+        },
+        {
+            "id": "DS-PROJ-010",
+            "difficulty": "hard",
+            "question": "Describe how you balanced technical accuracy, business objectives, interpretability, stakeholder requirements, and project deadlines."
+        },
+
+
+        {
+            "id": "DS-PROJ-S011",
+            "difficulty": "scenario",
+            "question": "Imagine that six months after deployment, business users report that your recommendations are no longer producing good results. Explain how you would investigate, validate the issue, and recommend improvements."
+        },
+        {
+            "id": "DS-PROJ-S012",
+            "difficulty": "scenario",
+            "question": "A company wants to expand your project to support millions of users across multiple regions. Describe how you would redesign the data pipeline, reporting, monitoring, and analytical workflows."
+        }
+    ]
+}

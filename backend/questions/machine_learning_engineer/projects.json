@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "id": "ML-PROJ-001",
+            "difficulty": "easy",
+            "question": "Tell me about a machine learning project you've worked on."
+        },
+        {
+            "id": "ML-PROJ-002",
+            "difficulty": "easy",
+            "question": "What problem was your machine learning project designed to solve?"
+        },
+        {
+            "id": "ML-PROJ-003",
+            "difficulty": "easy",
+            "question": "What dataset did you use, and how did you obtain it?"
+        },
+        {
+            "id": "ML-PROJ-004",
+            "difficulty": "easy",
+            "question": "What machine learning algorithm did you choose, and why?"
+        },
+        {
+            "id": "ML-PROJ-005",
+            "difficulty": "easy",
+            "question": "What was the biggest challenge you encountered during the project?"
+        },
+
+
+        {
+            "id": "ML-PROJ-006",
+            "difficulty": "medium",
+            "question": "How did you preprocess and engineer features for your dataset?"
+        },
+        {
+            "id": "ML-PROJ-007",
+            "difficulty": "medium",
+            "question": "How did you evaluate whether your model was ready for deployment?"
+        },
+        {
+            "id": "ML-PROJ-008",
+            "difficulty": "medium",
+            "question": "How did you prevent overfitting while training your model?"
+        },
+
+
+        {
+            "id": "ML-PROJ-009",
+            "difficulty": "hard",
+            "question": "If you had to rebuild your machine learning project today, what architectural, modeling, or deployment decisions would you change, and why?"
+        },
+        {
+            "id": "ML-PROJ-010",
+            "difficulty": "hard",
+            "question": "Describe how you balanced model accuracy, inference latency, scalability, infrastructure cost, and maintainability throughout your project."
+        },
+
+        
+        {
+            "id": "ML-PROJ-S011",
+            "difficulty": "scenario",
+            "question": "Your deployed machine learning model begins making significantly worse predictions after several months. Walk me through how you would investigate, identify the root cause, and safely restore performance."
+        },
+        {
+            "id": "ML-PROJ-S012",
+            "difficulty": "scenario",
+            "question": "Imagine your machine learning project suddenly receives one hundred times more traffic than expected. Explain how you would redesign the training pipeline, inference service, monitoring, and infrastructure to support the increased demand."
+        }
+    ]
+}

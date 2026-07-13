@@ -1,0 +1,210 @@
+{
+    "experiment design & a/b testing": [
+        {
+            "id": "DS-AB-001",
+            "difficulty": "easy",
+            "question": "What is an A/B test?"
+        },
+        {
+            "id": "DS-AB-002",
+            "difficulty": "easy",
+            "question": "Why are A/B tests important in data-driven decision making?"
+        },
+        {
+            "id": "DS-AB-003",
+            "difficulty": "easy",
+            "question": "What is the difference between a control group and a treatment group?"
+        },
+        {
+            "id": "DS-AB-004",
+            "difficulty": "easy",
+            "question": "What is a hypothesis in an experiment?"
+        },
+        {
+            "id": "DS-AB-005",
+            "difficulty": "easy",
+            "question": "Why is randomization important in A/B testing?"
+        },
+        {
+            "id": "DS-AB-006",
+            "difficulty": "easy",
+            "question": "What is statistical significance?"
+        },
+        {
+            "id": "DS-AB-007",
+            "difficulty": "easy",
+            "question": "What is a p-value?"
+        },
+        {
+            "id": "DS-AB-008",
+            "difficulty": "easy",
+            "question": "Why is sample size important in experiments?"
+        },
+        {
+            "id": "DS-AB-009",
+            "difficulty": "easy",
+            "question": "What is a success metric in an A/B test?"
+        },
+        {
+            "id": "DS-AB-010",
+            "difficulty": "easy",
+            "question": "Why shouldn't business decisions rely only on intuition?"
+        },
+
+
+        {
+            "id": "DS-AB-011",
+            "difficulty": "medium",
+            "question": "How would you design an A/B test for a new product feature?"
+        },
+        {
+            "id": "DS-AB-012",
+            "difficulty": "medium",
+            "question": "How would you select the primary success metric for an experiment?"
+        },
+        {
+            "id": "DS-AB-013",
+            "difficulty": "medium",
+            "question": "Explain Type I and Type II errors in hypothesis testing."
+        },
+        {
+            "id": "DS-AB-014",
+            "difficulty": "medium",
+            "question": "How would you determine an appropriate sample size before starting an experiment?"
+        },
+        {
+            "id": "DS-AB-015",
+            "difficulty": "medium",
+            "question": "How would you reduce bias when designing experiments?"
+        },
+        {
+            "id": "DS-AB-016",
+            "difficulty": "medium",
+            "question": "How would you determine whether an experiment should continue or stop early?"
+        },
+        {
+            "id": "DS-AB-017",
+            "difficulty": "medium",
+            "question": "How would you evaluate conflicting experiment results across different customer segments?"
+        },
+        {
+            "id": "DS-AB-018",
+            "difficulty": "medium",
+            "question": "How would you explain experiment results to non-technical stakeholders?"
+        },
+        {
+            "id": "DS-AB-019",
+            "difficulty": "medium",
+            "question": "How would you validate that randomization worked correctly?"
+        },
+        {
+            "id": "DS-AB-020",
+            "difficulty": "medium",
+            "question": "How would you identify confounding variables that might affect an experiment?"
+        },
+
+
+        {
+            "id": "DS-AB-021",
+            "difficulty": "hard",
+            "question": "Design a complete A/B testing framework for launching a major product feature."
+        },
+        {
+            "id": "DS-AB-022",
+            "difficulty": "hard",
+            "question": "How would you determine whether statistically significant results are also meaningful from a business perspective?"
+        },
+        {
+            "id": "DS-AB-023",
+            "difficulty": "hard",
+            "question": "How would you design experiments when random assignment is not possible?"
+        },
+        {
+            "id": "DS-AB-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between experiment duration, sample size, statistical power, and business urgency."
+        },
+        {
+            "id": "DS-AB-025",
+            "difficulty": "hard",
+            "question": "How would you detect and correct for sample ratio mismatch in an A/B test?"
+        },
+        {
+            "id": "DS-AB-026",
+            "difficulty": "hard",
+            "question": "How would you evaluate multiple experiments running simultaneously without introducing interference?"
+        },
+        {
+            "id": "DS-AB-027",
+            "difficulty": "hard",
+            "question": "How would you prevent p-hacking and other practices that could invalidate experimental results?"
+        },
+        {
+            "id": "DS-AB-028",
+            "difficulty": "hard",
+            "question": "How would you design experiments for products with low traffic where collecting large sample sizes is difficult?"
+        },
+        {
+            "id": "DS-AB-029",
+            "difficulty": "hard",
+            "question": "Explain how sequential testing differs from traditional A/B testing."
+        },
+        {
+            "id": "DS-AB-030",
+            "difficulty": "hard",
+            "question": "Design an experimentation platform capable of supporting hundreds of simultaneous business experiments."
+        },
+
+        
+        {
+            "id": "DS-AB-S031",
+            "difficulty": "scenario",
+            "question": "A new homepage design increases click-through rate but decreases purchases. Walk me through how you would determine whether it should be launched."
+        },
+        {
+            "id": "DS-AB-S032",
+            "difficulty": "scenario",
+            "question": "An A/B test produces statistically insignificant results after two weeks. Explain how you would decide whether to continue or stop the experiment."
+        },
+        {
+            "id": "DS-AB-S033",
+            "difficulty": "scenario",
+            "question": "Marketing wants to end an experiment early because initial results look promising. Describe how you would evaluate this request."
+        },
+        {
+            "id": "DS-AB-S034",
+            "difficulty": "scenario",
+            "question": "An experiment improves results for new users but harms experienced users. Explain how you would recommend moving forward."
+        },
+        {
+            "id": "DS-AB-S035",
+            "difficulty": "scenario",
+            "question": "A product manager asks you to test five new features simultaneously. Walk me through how you would design the experiments."
+        },
+        {
+            "id": "DS-AB-S036",
+            "difficulty": "scenario",
+            "question": "An experiment shows a statistically significant improvement of only 0.2%. Explain how you would determine whether deployment is justified."
+        },
+        {
+            "id": "DS-AB-S037",
+            "difficulty": "scenario",
+            "question": "A stakeholder questions whether the experiment results can be trusted because customer behavior changed during a holiday period. Describe your investigation."
+        },
+        {
+            "id": "DS-AB-S038",
+            "difficulty": "scenario",
+            "question": "An online experiment unexpectedly reduces company revenue despite improving its primary success metric. Explain how you would investigate."
+        },
+        {
+            "id": "DS-AB-S039",
+            "difficulty": "scenario",
+            "question": "Different teams interpret the same experiment results differently. Walk me through how you would reach a final recommendation."
+        },
+        {
+            "id": "DS-AB-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for the experimentation platform used across an entire organization. Explain how you would design experiment governance, statistical validation, monitoring, reporting, and decision-making processes."
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "data visualization": [
+        {
+            "id": "DS-VIZ-001",
+            "difficulty": "easy",
+            "question": "Why is data visualization important in data science?"
+        },
+        {
+            "id": "DS-VIZ-002",
+            "difficulty": "easy",
+            "question": "When would you use a bar chart?"
+        },
+        {
+            "id": "DS-VIZ-003",
+            "difficulty": "easy",
+            "question": "When would you use a line chart?"
+        },
+        {
+            "id": "DS-VIZ-004",
+            "difficulty": "easy",
+            "question": "What is a scatter plot, and when is it useful?"
+        },
+        {
+            "id": "DS-VIZ-005",
+            "difficulty": "easy",
+            "question": "What information does a histogram provide?"
+        },
+        {
+            "id": "DS-VIZ-006",
+            "difficulty": "easy",
+            "question": "What is a box plot, and what insights can it provide?"
+        },
+        {
+            "id": "DS-VIZ-007",
+            "difficulty": "easy",
+            "question": "What is a heatmap?"
+        },
+        {
+            "id": "DS-VIZ-008",
+            "difficulty": "easy",
+            "question": "Why should visualizations be simple and easy to understand?"
+        },
+        {
+            "id": "DS-VIZ-009",
+            "difficulty": "easy",
+            "question": "What are dashboards used for?"
+        },
+        {
+            "id": "DS-VIZ-010",
+            "difficulty": "easy",
+            "question": "Why is choosing the right chart important?"
+        },
+
+        {
+            "id": "DS-VIZ-011",
+            "difficulty": "medium",
+            "question": "How would you choose the most appropriate visualization for a given dataset?"
+        },
+        {
+            "id": "DS-VIZ-012",
+            "difficulty": "medium",
+            "question": "Compare bar charts, histograms, and box plots."
+        },
+        {
+            "id": "DS-VIZ-013",
+            "difficulty": "medium",
+            "question": "How would you visualize relationships between multiple variables?"
+        },
+        {
+            "id": "DS-VIZ-014",
+            "difficulty": "medium",
+            "question": "How would you design a dashboard for company executives?"
+        },
+        {
+            "id": "DS-VIZ-015",
+            "difficulty": "medium",
+            "question": "Explain the importance of color, layout, and labeling in effective visualizations."
+        },
+        {
+            "id": "DS-VIZ-016",
+            "difficulty": "medium",
+            "question": "How would you visualize uncertainty in analytical results?"
+        },
+        {
+            "id": "DS-VIZ-017",
+            "difficulty": "medium",
+            "question": "How would you simplify complex visualizations for non-technical stakeholders?"
+        },
+        {
+            "id": "DS-VIZ-018",
+            "difficulty": "medium",
+            "question": "How would you identify misleading visualizations during a data review?"
+        },
+        {
+            "id": "DS-VIZ-019",
+            "difficulty": "medium",
+            "question": "How would you compare trends across multiple time periods?"
+        },
+        {
+            "id": "DS-VIZ-020",
+            "difficulty": "medium",
+            "question": "Describe how storytelling improves the effectiveness of data visualizations."
+        },
+
+        {
+            "id": "DS-VIZ-021",
+            "difficulty": "hard",
+            "question": "Design an executive dashboard that summarizes company performance using key business metrics."
+        },
+        {
+            "id": "DS-VIZ-022",
+            "difficulty": "hard",
+            "question": "How would you determine whether a visualization is communicating the intended message?"
+        },
+        {
+            "id": "DS-VIZ-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between displaying detailed information and maintaining dashboard simplicity."
+        },
+        {
+            "id": "DS-VIZ-024",
+            "difficulty": "hard",
+            "question": "How would you visualize datasets containing millions of records while maintaining readability?"
+        },
+        {
+            "id": "DS-VIZ-025",
+            "difficulty": "hard",
+            "question": "How would you design visualizations for users with different levels of technical expertise?"
+        },
+        {
+            "id": "DS-VIZ-026",
+            "difficulty": "hard",
+            "question": "Describe strategies for visualizing high-dimensional datasets."
+        },
+        {
+            "id": "DS-VIZ-027",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether stakeholders are interpreting your visualizations correctly?"
+        },
+        {
+            "id": "DS-VIZ-028",
+            "difficulty": "hard",
+            "question": "How would you build reusable dashboard templates for multiple business teams?"
+        },
+        {
+            "id": "DS-VIZ-029",
+            "difficulty": "hard",
+            "question": "Explain common visualization mistakes that can lead to incorrect business decisions."
+        },
+        {
+            "id": "DS-VIZ-030",
+            "difficulty": "hard",
+            "question": "Design a visualization strategy for monitoring business performance across hundreds of global regions."
+        },
+
+        {
+            "id": "DS-VIZ-S031",
+            "difficulty": "scenario",
+            "question": "A stakeholder says your dashboard is confusing and difficult to interpret. Walk me through how you would improve it."
+        },
+        {
+            "id": "DS-VIZ-S032",
+            "difficulty": "scenario",
+            "question": "Your manager wants a single dashboard for executives and analysts, but they have very different information needs. Explain how you would approach the design."
+        },
+        {
+            "id": "DS-VIZ-S033",
+            "difficulty": "scenario",
+            "question": "A product manager believes sales are increasing because of a marketing campaign. Describe the visualizations you would create to evaluate the claim."
+        },
+        {
+            "id": "DS-VIZ-S034",
+            "difficulty": "scenario",
+            "question": "A dashboard reports conflicting trends across multiple charts. Explain how you would investigate the issue."
+        },
+        {
+            "id": "DS-VIZ-S035",
+            "difficulty": "scenario",
+            "question": "Your analysis identifies a statistically significant result, but stakeholders struggle to understand its business impact. How would you present the findings?"
+        },
+        {
+            "id": "DS-VIZ-S036",
+            "difficulty": "scenario",
+            "question": "A business executive requests dozens of charts on a single dashboard. Explain how you would balance completeness with usability."
+        },
+        {
+            "id": "DS-VIZ-S037",
+            "difficulty": "scenario",
+            "question": "An analyst uses a misleading chart that exaggerates changes in revenue. Walk me through how you would identify the issue and recommend improvements."
+        },
+        {
+            "id": "DS-VIZ-S038",
+            "difficulty": "scenario",
+            "question": "A real-time monitoring dashboard becomes slow after business growth significantly increases the volume of incoming data. Describe how you would improve performance."
+        },
+        {
+            "id": "DS-VIZ-S039",
+            "difficulty": "scenario",
+            "question": "A customer wants an interactive dashboard that allows users to explore data without writing SQL queries. Explain your design approach."
+        },
+        {
+            "id": "DS-VIZ-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for designing a company-wide analytics dashboard used by executives, managers, analysts, and engineers. Explain your strategy for visualization selection, user experience, scalability, accessibility, and long-term maintenance."
+        }
+    ]
+}

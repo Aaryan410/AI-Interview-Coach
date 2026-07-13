@@ -1,0 +1,209 @@
+{
+    "model evaluation optimization": [
+        {
+            "id": "ML-EVAL-001",
+            "difficulty": "easy",
+            "question": "Why is model evaluation important in machine learning?"
+        },
+        {
+            "id": "ML-EVAL-002",
+            "difficulty": "easy",
+            "question": "What is the purpose of a validation dataset?"
+        },
+        {
+            "id": "ML-EVAL-003",
+            "difficulty": "easy",
+            "question": "What is a confusion matrix?"
+        },
+        {
+            "id": "ML-EVAL-004",
+            "difficulty": "easy",
+            "question": "What is accuracy, and when can it be misleading?"
+        },
+        {
+            "id": "ML-EVAL-005",
+            "difficulty": "easy",
+            "question": "What are precision and recall?"
+        },
+        {
+            "id": "ML-EVAL-006",
+            "difficulty": "easy",
+            "question": "What is the F1 score?"
+        },
+        {
+            "id": "ML-EVAL-007",
+            "difficulty": "easy",
+            "question": "What is ROC-AUC?"
+        },
+        {
+            "id": "ML-EVAL-008",
+            "difficulty": "easy",
+            "question": "What is cross-validation?"
+        },
+        {
+            "id": "ML-EVAL-009",
+            "difficulty": "easy",
+            "question": "What is hyperparameter tuning?"
+        },
+        {
+            "id": "ML-EVAL-010",
+            "difficulty": "easy",
+            "question": "Why should machine learning models be evaluated on unseen data?"
+        },
+
+
+        {
+            "id": "ML-EVAL-011",
+            "difficulty": "medium",
+            "question": "How would you choose the most appropriate evaluation metric for a machine learning problem?"
+        },
+        {
+            "id": "ML-EVAL-012",
+            "difficulty": "medium",
+            "question": "Compare precision, recall, and F1 score. When would you prioritize each?"
+        },
+        {
+            "id": "ML-EVAL-013",
+            "difficulty": "medium",
+            "question": "How does k-fold cross-validation improve model evaluation?"
+        },
+        {
+            "id": "ML-EVAL-014",
+            "difficulty": "medium",
+            "question": "Compare Grid Search, Random Search, and Bayesian Optimization for hyperparameter tuning."
+        },
+        {
+            "id": "ML-EVAL-015",
+            "difficulty": "medium",
+            "question": "How would you determine whether a model is overfitting or underfitting?"
+        },
+        {
+            "id": "ML-EVAL-016",
+            "difficulty": "medium",
+            "question": "Explain the purpose of regularization and compare L1 and L2 regularization."
+        },
+        {
+            "id": "ML-EVAL-017",
+            "difficulty": "medium",
+            "question": "What is early stopping, and how does it improve model training?"
+        },
+        {
+            "id": "ML-EVAL-018",
+            "difficulty": "medium",
+            "question": "How would you evaluate a model trained on an imbalanced dataset?"
+        },
+        {
+            "id": "ML-EVAL-019",
+            "difficulty": "medium",
+            "question": "How would you compare two machine learning models with similar performance?"
+        },
+        {
+            "id": "ML-EVAL-020",
+            "difficulty": "medium",
+            "question": "Explain how threshold selection affects classification performance."
+        },
+
+        
+        {
+            "id": "ML-EVAL-021",
+            "difficulty": "hard",
+            "question": "Design a complete model evaluation pipeline for a production machine learning system."
+        },
+        {
+            "id": "ML-EVAL-022",
+            "difficulty": "hard",
+            "question": "How would you determine whether an observed improvement in model performance is statistically significant?"
+        },
+        {
+            "id": "ML-EVAL-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between maximizing accuracy, minimizing latency, and reducing infrastructure costs."
+        },
+        {
+            "id": "ML-EVAL-024",
+            "difficulty": "hard",
+            "question": "How would you optimize a machine learning model without increasing its complexity?"
+        },
+        {
+            "id": "ML-EVAL-025",
+            "difficulty": "hard",
+            "question": "Describe strategies for improving model generalization without collecting additional training data."
+        },
+        {
+            "id": "ML-EVAL-026",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether additional features genuinely improve model performance?"
+        },
+        {
+            "id": "ML-EVAL-027",
+            "difficulty": "hard",
+            "question": "How would you determine the optimal probability threshold for a production classification model?"
+        },
+        {
+            "id": "ML-EVAL-028",
+            "difficulty": "hard",
+            "question": "How would you compare multiple machine learning models while accounting for fairness, interpretability, and operational constraints?"
+        },
+        {
+            "id": "ML-EVAL-029",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between offline evaluation metrics and real-world production performance."
+        },
+        {
+            "id": "ML-EVAL-030",
+            "difficulty": "hard",
+            "question": "Design an automated evaluation framework for continuously validating production machine learning models."
+        },
+
+        {
+            "id": "ML-EVAL-S031",
+            "difficulty": "scenario",
+            "question": "A fraud detection model achieves 99% accuracy but still misses many fraudulent transactions. Explain how you would investigate the problem."
+        },
+        {
+            "id": "ML-EVAL-S032",
+            "difficulty": "scenario",
+            "question": "A stakeholder wants to deploy a new model because it has a slightly higher validation accuracy. Walk me through the additional evaluations you would perform first."
+        },
+        {
+            "id": "ML-EVAL-S033",
+            "difficulty": "scenario",
+            "question": "Your model performs well during cross-validation but poorly after deployment. Describe your investigation process."
+        },
+        {
+            "id": "ML-EVAL-S034",
+            "difficulty": "scenario",
+            "question": "A teammate spends several days tuning hyperparameters but observes almost no improvement. Explain how you would evaluate whether hyperparameter tuning is the right focus."
+        },
+        {
+            "id": "ML-EVAL-S035",
+            "difficulty": "scenario",
+            "question": "Two machine learning models achieve nearly identical evaluation scores, but one is significantly more computationally expensive. Describe how you would decide which model to deploy."
+        },
+        {
+            "id": "ML-EVAL-S036",
+            "difficulty": "scenario",
+            "question": "A production model's performance gradually declines over several months despite passing all offline evaluation tests. Walk me through your investigation."
+        },
+        {
+            "id": "ML-EVAL-S037",
+            "difficulty": "scenario",
+            "question": "A customer requires both highly accurate predictions and explanations for every prediction. Explain how you would balance these competing requirements."
+        },
+        {
+            "id": "ML-EVAL-S038",
+            "difficulty": "scenario",
+            "question": "An engineer suggests optimizing only for validation accuracy when selecting the final model. How would you evaluate this proposal?"
+        },
+        {
+            "id": "ML-EVAL-S039",
+            "difficulty": "scenario",
+            "question": "A newly deployed recommendation model increases click-through rate but decreases customer retention. Explain how you would evaluate the overall success of the deployment."
+        },
+        {
+            "id": "ML-EVAL-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for evaluating machine learning models used in autonomous systems where incorrect predictions have serious consequences. Describe your complete evaluation, validation, monitoring, and deployment strategy."
+        }
+    ]
+}

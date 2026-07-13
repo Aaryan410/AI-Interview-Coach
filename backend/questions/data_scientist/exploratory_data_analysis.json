@@ -1,0 +1,210 @@
+{
+    "exploratory data analysis": [
+    {
+        "id": "DS-EDA-001",
+        "difficulty": "easy",
+        "question": "What is Exploratory Data Analysis (EDA), and why is it important?"
+    },
+    {
+        "id": "DS-EDA-002",
+        "difficulty": "easy",
+        "question": "What are the first steps you take when exploring a new dataset?"
+    },
+    {
+        "id": "DS-EDA-003",
+        "difficulty": "easy",
+        "question": "Why is it important to understand the structure of a dataset before analysis?"
+    },
+    {
+        "id": "DS-EDA-004",
+        "difficulty": "easy",
+        "question": "What summary statistics do you typically examine during EDA?"
+    },
+    {
+        "id": "DS-EDA-005",
+        "difficulty": "easy",
+        "question": "Why should missing values be identified during EDA?"
+    },
+    {
+        "id": "DS-EDA-006",
+        "difficulty": "easy",
+        "question": "What are outliers?"
+    },
+    {
+        "id": "DS-EDA-007",
+        "difficulty": "easy",
+        "question": "Why are feature distributions important?"
+    },
+    {
+        "id": "DS-EDA-008",
+        "difficulty": "easy",
+        "question": "What is correlation analysis?"
+    },
+    {
+        "id": "DS-EDA-009",
+        "difficulty": "easy",
+        "question": "Why is data visualization useful during EDA?"
+    },
+    {
+        "id": "DS-EDA-010",
+        "difficulty": "easy",
+        "question": "What business insights can EDA provide before building machine learning models?"
+    },
+
+
+    {
+        "id": "DS-EDA-011",
+        "difficulty": "medium",
+        "question": "How would you systematically perform EDA on a completely unfamiliar dataset?"
+    },
+    {
+        "id": "DS-EDA-012",
+        "difficulty": "medium",
+        "question": "How would you identify relationships between variables during EDA?"
+    },
+    {
+        "id": "DS-EDA-013",
+        "difficulty": "medium",
+        "question": "How would you detect multicollinearity in a dataset?"
+    },
+    {
+        "id": "DS-EDA-014",
+        "difficulty": "medium",
+        "question": "Explain different statistical techniques for detecting outliers."
+    },
+    {
+        "id": "DS-EDA-015",
+        "difficulty": "medium",
+        "question": "How would you evaluate whether missing values occur randomly or systematically?"
+    },
+    {
+        "id": "DS-EDA-016",
+        "difficulty": "medium",
+        "question": "How would you determine whether a feature should be removed before modeling?"
+    },
+    {
+        "id": "DS-EDA-017",
+        "difficulty": "medium",
+        "question": "How would you compare distributions between different customer segments?"
+    },
+    {
+        "id": "DS-EDA-018",
+        "difficulty": "medium",
+        "question": "Explain the difference between univariate, bivariate, and multivariate analysis."
+    },
+    {
+        "id": "DS-EDA-019",
+        "difficulty": "medium",
+        "question": "How would you identify data quality issues during EDA?"
+    },
+    {
+        "id": "DS-EDA-020",
+        "difficulty": "medium",
+        "question": "How would you summarize your EDA findings for business stakeholders?"
+    },
+
+
+    {
+        "id": "DS-EDA-021",
+        "difficulty": "hard",
+        "question": "Design a complete EDA workflow for analyzing a newly collected enterprise dataset."
+    },
+    {
+        "id": "DS-EDA-022",
+        "difficulty": "hard",
+        "question": "How would you distinguish between meaningful outliers and valid rare events?"
+    },
+    {
+        "id": "DS-EDA-023",
+        "difficulty": "hard",
+        "question": "How would you determine whether observed correlations represent meaningful business relationships or merely coincidence?"
+    },
+    {
+        "id": "DS-EDA-024",
+        "difficulty": "hard",
+        "question": "How would you prioritize features for further analysis in a dataset containing thousands of variables?"
+    },
+    {
+        "id": "DS-EDA-025",
+        "difficulty": "hard",
+        "question": "Explain how EDA influences feature engineering and model selection."
+    },
+    {
+        "id": "DS-EDA-026",
+        "difficulty": "hard",
+        "question": "How would you perform EDA efficiently on datasets containing billions of records?"
+    },
+    {
+        "id": "DS-EDA-027",
+        "difficulty": "hard",
+        "question": "Describe strategies for identifying hidden patterns that traditional summary statistics might miss."
+    },
+    {
+        "id": "DS-EDA-028",
+        "difficulty": "hard",
+        "question": "How would you evaluate whether feature distributions have changed significantly over time?"
+    },
+    {
+        "id": "DS-EDA-029",
+        "difficulty": "hard",
+        "question": "Explain the trade-offs between automated EDA tools and manual exploratory analysis."
+    },
+    {
+        "id": "DS-EDA-030",
+        "difficulty": "hard",
+        "question": "How would you design an automated EDA pipeline for continuously arriving datasets?"
+    },
+
+    
+    {
+        "id": "DS-EDA-S031",
+        "difficulty": "scenario",
+        "question": "A stakeholder asks why customer churn suddenly increased. Describe how you would use EDA to investigate the problem."
+    },
+    {
+        "id": "DS-EDA-S032",
+        "difficulty": "scenario",
+        "question": "A newly collected dataset contains thousands of missing values and inconsistent formats. Walk me through your EDA process."
+    },
+    {
+        "id": "DS-EDA-S033",
+        "difficulty": "scenario",
+        "question": "A business executive claims that age is the primary factor affecting customer purchases. Explain how you would validate or challenge this claim using EDA."
+    },
+    {
+        "id": "DS-EDA-S034",
+        "difficulty": "scenario",
+        "question": "You discover an extremely strong correlation between two variables. Explain how you would determine whether one should be removed before modeling."
+    },
+    {
+        "id": "DS-EDA-S035",
+        "difficulty": "scenario",
+        "question": "An e-commerce company wants to understand why weekend sales differ significantly from weekday sales. Describe your exploratory analysis approach."
+    },
+    {
+        "id": "DS-EDA-S036",
+        "difficulty": "scenario",
+        "question": "Your EDA reveals several unexpected patterns that contradict management's assumptions. How would you present your findings?"
+    },
+    {
+        "id": "DS-EDA-S037",
+        "difficulty": "scenario",
+        "question": "A dataset contains several extreme outliers that dramatically influence summary statistics. Walk me through how you would investigate them."
+    },
+    {
+        "id": "DS-EDA-S038",
+        "difficulty": "scenario",
+        "question": "A production dashboard begins reporting unusual trends. Explain how you would use EDA to determine whether the issue is caused by data quality or actual business changes."
+    },
+    {
+        "id": "DS-EDA-S039",
+        "difficulty": "scenario",
+        "question": "A customer asks why a machine learning model performs poorly for one specific region. Describe the exploratory analyses you would perform before retraining."
+    },
+    {
+        "id": "DS-EDA-S040",
+        "difficulty": "scenario",
+        "question": "You're responsible for analyzing a newly acquired company's customer database before integrating it into your organization's analytics platform. Explain your complete EDA strategy, including data quality assessment, statistical analysis, visualization, business insight generation, and recommendations."
+    }
+]
+}

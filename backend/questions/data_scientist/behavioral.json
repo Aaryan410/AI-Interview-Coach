@@ -1,0 +1,60 @@
+{
+    "behavioral": [
+        {
+            "id": "DS-BEH-001",
+            "difficulty": "easy",
+            "question": "Tell me about yourself."
+        },
+        {
+            "id": "DS-BEH-002",
+            "difficulty": "easy",
+            "question": "Why do you want to become a Data Scientist?"
+        },
+        {
+            "id": "DS-BEH-003",
+            "difficulty": "easy",
+            "question": "Describe a time when you had to quickly learn a new analytical technique or tool."
+        },
+
+
+        {
+            "id": "DS-BEH-004",
+            "difficulty": "medium",
+            "question": "Tell me about a time when your data analysis challenged an important business assumption. How did you present your findings?"
+        },
+        {
+            "id": "DS-BEH-005",
+            "difficulty": "medium",
+            "question": "Describe a situation where you had to explain complex analytical results to non-technical stakeholders."
+        },
+        {
+            "id": "DS-BEH-006",
+            "difficulty": "medium",
+            "question": "Tell me about a time when business priorities changed during your analysis. How did you adapt?"
+        },
+
+
+        {
+            "id": "DS-BEH-007",
+            "difficulty": "hard",
+            "question": "Describe a situation where you disagreed with a business decision that was not supported by the data. How did you communicate your perspective, and what happened?"
+        },
+        {
+            "id": "DS-BEH-008",
+            "difficulty": "hard",
+            "question": "Tell me about a time when your analysis significantly influenced an important business decision."
+        },
+
+        
+        {
+            "id": "DS-BEH-S009",
+            "difficulty": "scenario",
+            "question": "A senior executive wants to launch a product despite data suggesting it may fail. Explain how you would communicate your analysis, handle disagreements, and support the final decision."
+        },
+        {
+            "id": "DS-BEH-S010",
+            "difficulty": "scenario",
+            "question": "Imagine you discover an error in an important business report after it has already been shared with company leadership. Walk me through how you would handle the situation with your team and stakeholders."
+        }
+    ]
+}

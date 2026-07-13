@@ -1,0 +1,60 @@
+{
+    "behavioral": [
+        {
+            "id": "ML-BEH-001",
+            "difficulty": "easy",
+            "question": "Tell me about yourself."
+        },
+        {
+            "id": "ML-BEH-002",
+            "difficulty": "easy",
+            "question": "Why do you want to become a Machine Learning Engineer?"
+        },
+        {
+            "id": "ML-BEH-003",
+            "difficulty": "easy",
+            "question": "Describe a time when you had to learn a new machine learning concept or technology quickly."
+        },
+
+        
+        {
+            "id": "ML-BEH-004",
+            "difficulty": "medium",
+            "question": "Tell me about a time when a machine learning experiment failed. What did you learn from it?"
+        },
+        {
+            "id": "ML-BEH-005",
+            "difficulty": "medium",
+            "question": "Describe a situation where you had to explain a complex machine learning concept to someone without a technical background."
+        },
+        {
+            "id": "ML-BEH-006",
+            "difficulty": "medium",
+            "question": "Tell me about a time when you had to prioritize model quality, project deadlines, and business requirements."
+        },
+
+
+        {
+            "id": "ML-BEH-007",
+            "difficulty": "hard",
+            "question": "Describe a technical decision involving a machine learning system that you disagreed with. How did you communicate your perspective, and what was the outcome?"
+        },
+        {
+            "id": "ML-BEH-008",
+            "difficulty": "hard",
+            "question": "Tell me about a time when you significantly improved a machine learning pipeline, model, or engineering workflow."
+        },
+
+
+        {
+            "id": "ML-BEH-S009",
+            "difficulty": "scenario",
+            "question": "A production machine learning model begins making incorrect predictions that affect thousands of users. Explain how you would coordinate the technical response, communicate with stakeholders, and restore confidence in the system."
+        },
+        {
+            "id": "ML-BEH-S010",
+            "difficulty": "scenario",
+            "question": "Imagine you discover that a production machine learning model contains a critical issue that should have been detected before deployment. Walk me through how you would handle the situation with your team, management, and users."
+        }
+    ]
+}

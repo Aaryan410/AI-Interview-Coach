@@ -1,0 +1,210 @@
+{
+    "data preprocessing & feature engineering": [
+        {
+            "id": "ML-FE-001",
+            "difficulty": "easy",
+            "question": "What is data preprocessing, and why is it important before training a machine learning model?"
+        },
+        {
+            "id": "ML-FE-002",
+            "difficulty": "easy",
+            "question": "What is feature engineering?"
+        },
+        {
+            "id": "ML-FE-003",
+            "difficulty": "easy",
+            "question": "What are missing values, and why can they be problematic?"
+        },
+        {
+            "id": "ML-FE-004",
+            "difficulty": "easy",
+            "question": "What is feature scaling, and why is it important?"
+        },
+        {
+            "id": "ML-FE-005",
+            "difficulty": "easy",
+            "question": "What is normalization?"
+        },
+        {
+            "id": "ML-FE-006",
+            "difficulty": "easy",
+            "question": "What is standardization?"
+        },
+        {
+            "id": "ML-FE-007",
+            "difficulty": "easy",
+            "question": "What are categorical features, and how can they be encoded?"
+        },
+        {
+            "id": "ML-FE-008",
+            "difficulty": "easy",
+            "question": "What are numerical features?"
+        },
+        {
+            "id": "ML-FE-009",
+            "difficulty": "easy",
+            "question": "What are outliers?"
+        },
+        {
+            "id": "ML-FE-010",
+            "difficulty": "easy",
+            "question": "Why should training and testing data be preprocessed consistently?"
+        },
+
+
+        {
+            "id": "ML-FE-011",
+            "difficulty": "medium",
+            "question": "How would you handle missing values in different types of datasets?"
+        },
+        {
+            "id": "ML-FE-012",
+            "difficulty": "medium",
+            "question": "Compare one-hot encoding, label encoding, and target encoding."
+        },
+        {
+            "id": "ML-FE-013",
+            "difficulty": "medium",
+            "question": "How would you detect and handle outliers during preprocessing?"
+        },
+        {
+            "id": "ML-FE-014",
+            "difficulty": "medium",
+            "question": "Explain the difference between normalization and standardization, and when you would choose each."
+        },
+        {
+            "id": "ML-FE-015",
+            "difficulty": "medium",
+            "question": "How would you identify irrelevant or redundant features in a dataset?"
+        },
+        {
+            "id": "ML-FE-016",
+            "difficulty": "medium",
+            "question": "What is feature selection, and why is it important?"
+        },
+        {
+            "id": "ML-FE-017",
+            "difficulty": "medium",
+            "question": "Explain feature extraction and how it differs from feature selection."
+        },
+        {
+            "id": "ML-FE-018",
+            "difficulty": "medium",
+            "question": "How would you preprocess data for a real-time machine learning application?"
+        },
+        {
+            "id": "ML-FE-019",
+            "difficulty": "medium",
+            "question": "How would you prevent data leakage during preprocessing?"
+        },
+        {
+            "id": "ML-FE-020",
+            "difficulty": "medium",
+            "question": "Describe a complete preprocessing pipeline for a structured machine learning dataset."
+        },
+
+
+        {
+            "id": "ML-FE-021",
+            "difficulty": "hard",
+            "question": "How would you determine whether poor model performance is caused by weak feature engineering rather than the learning algorithm?"
+        },
+        {
+            "id": "ML-FE-022",
+            "difficulty": "hard",
+            "question": "How would you design a scalable preprocessing pipeline for terabytes of structured data?"
+        },
+        {
+            "id": "ML-FE-023",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between manual feature engineering and automated feature generation."
+        },
+        {
+            "id": "ML-FE-024",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether adding new features actually improves model generalization?"
+        },
+        {
+            "id": "ML-FE-025",
+            "difficulty": "hard",
+            "question": "How would you engineer features for time-series data while avoiding future information leakage?"
+        },
+        {
+            "id": "ML-FE-026",
+            "difficulty": "hard",
+            "question": "Describe techniques for preprocessing datasets with thousands of features and millions of samples."
+        },
+        {
+            "id": "ML-FE-027",
+            "difficulty": "hard",
+            "question": "How would you design preprocessing pipelines that remain reproducible across training and production environments?"
+        },
+        {
+            "id": "ML-FE-028",
+            "difficulty": "hard",
+            "question": "How would you detect and adapt to changes in feature distributions after deployment?"
+        },
+        {
+            "id": "ML-FE-029",
+            "difficulty": "hard",
+            "question": "Explain how preprocessing decisions influence bias, fairness, and model interpretability."
+        },
+        {
+            "id": "ML-FE-030",
+            "difficulty": "hard",
+            "question": "How would you build reusable feature engineering pipelines for multiple machine learning projects?"
+        },
+        
+
+        {
+            "id": "ML-FE-S031",
+            "difficulty": "scenario",
+            "question": "A production model suddenly becomes inaccurate because the format of incoming data has changed. Walk me through how you would investigate and resolve the issue."
+        },
+        {
+            "id": "ML-FE-S032",
+            "difficulty": "scenario",
+            "question": "A teammate wants to remove every row containing missing values from a large customer dataset. How would you evaluate whether this is the right approach?"
+        },
+        {
+            "id": "ML-FE-S033",
+            "difficulty": "scenario",
+            "question": "After deploying a new preprocessing pipeline, model accuracy decreases significantly. Explain how you would identify the root cause."
+        },
+        {
+            "id": "ML-FE-S034",
+            "difficulty": "scenario",
+            "question": "A customer provides data containing hundreds of highly correlated features. Describe how you would decide which features to keep."
+        },
+        {
+            "id": "ML-FE-S035",
+            "difficulty": "scenario",
+            "question": "A stakeholder asks you to train a fraud detection model using data that contains many extreme outliers. Explain how you would approach preprocessing."
+        },
+        {
+            "id": "ML-FE-S036",
+            "difficulty": "scenario",
+            "question": "A new feature appears to improve validation accuracy dramatically. Walk me through how you would determine whether it introduces data leakage."
+        },
+        {
+            "id": "ML-FE-S037",
+            "difficulty": "scenario",
+            "question": "Your machine learning pipeline must process millions of new records every hour. Describe how you would design preprocessing to remain efficient and reliable."
+        },
+        {
+            "id": "ML-FE-S038",
+            "difficulty": "scenario",
+            "question": "A production monitoring system detects that several important feature distributions have shifted over time. Explain your investigation and response."
+        },
+        {
+            "id": "ML-FE-S039",
+            "difficulty": "scenario",
+            "question": "A model performs well during training but poorly after deployment because preprocessing differs between environments. How would you prevent this problem?"
+        },
+        {
+            "id": "ML-FE-S040",
+            "difficulty": "scenario",
+            "question": "You're designing the preprocessing and feature engineering pipeline for a global recommendation system that receives billions of events per day. Explain how you would ensure scalability, reproducibility, monitoring, and maintainability."
+        }
+    ]
+}

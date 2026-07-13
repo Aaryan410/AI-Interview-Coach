@@ -1,0 +1,209 @@
+{
+    "machine learning algorithms": [
+        {
+            "id": "ML-ALG-001",
+            "difficulty": "easy",
+            "question": "What is a machine learning algorithm?"
+        },
+        {
+            "id": "ML-ALG-002",
+            "difficulty": "easy",
+            "question": "What is the difference between supervised and unsupervised learning algorithms?"
+        },
+        {
+            "id": "ML-ALG-003",
+            "difficulty": "easy",
+            "question": "What is Linear Regression, and when would you use it?"
+        },
+        {
+            "id": "ML-ALG-004",
+            "difficulty": "easy",
+            "question": "What is Logistic Regression, and how does it differ from Linear Regression?"
+        },
+        {
+            "id": "ML-ALG-005",
+            "difficulty": "easy",
+            "question": "What is a Decision Tree?"
+        },
+        {
+            "id": "ML-ALG-006",
+            "difficulty": "easy",
+            "question": "What is a Random Forest?"
+        },
+        {
+            "id": "ML-ALG-007",
+            "difficulty": "easy",
+            "question": "What is K-Means clustering?"
+        },
+        {
+            "id": "ML-ALG-008",
+            "difficulty": "easy",
+            "question": "What is the purpose of a Support Vector Machine (SVM)?"
+        },
+        {
+            "id": "ML-ALG-009",
+            "difficulty": "easy",
+            "question": "What is K-Nearest Neighbors (KNN)?"
+        },
+        {
+            "id": "ML-ALG-010",
+            "difficulty": "easy",
+            "question": "What is Naive Bayes, and when is it commonly used?"
+        },
+
+
+        {
+            "id": "ML-ALG-011",
+            "difficulty": "medium",
+            "question": "How would you decide which machine learning algorithm is most appropriate for a new problem?"
+        },
+        {
+            "id": "ML-ALG-012",
+            "difficulty": "medium",
+            "question": "Compare Decision Trees and Random Forests."
+        },
+        {
+            "id": "ML-ALG-013",
+            "difficulty": "medium",
+            "question": "Explain the advantages and disadvantages of Support Vector Machines."
+        },
+        {
+            "id": "ML-ALG-014",
+            "difficulty": "medium",
+            "question": "Why can K-Nearest Neighbors become inefficient for large datasets?"
+        },
+        {
+            "id": "ML-ALG-015",
+            "difficulty": "medium",
+            "question": "Compare bagging and boosting ensemble methods."
+        },
+        {
+            "id": "ML-ALG-016",
+            "difficulty": "medium",
+            "question": "What is Gradient Boosting, and how does it improve predictive performance?"
+        },
+        {
+            "id": "ML-ALG-017",
+            "difficulty": "medium",
+            "question": "Compare XGBoost, LightGBM, and CatBoost."
+        },
+        {
+            "id": "ML-ALG-018",
+            "difficulty": "medium",
+            "question": "How would you determine whether an ensemble model is worth the additional computational cost?"
+        },
+        {
+            "id": "ML-ALG-019",
+            "difficulty": "medium",
+            "question": "What assumptions does Linear Regression make about the data?"
+        },
+        {
+            "id": "ML-ALG-020",
+            "difficulty": "medium",
+            "question": "How would you explain the strengths and weaknesses of different machine learning algorithms to a non-technical stakeholder?"
+        },
+
+        {
+            "id": "ML-ALG-021",
+            "difficulty": "hard",
+            "question": "How would you systematically compare multiple machine learning algorithms to determine which should be deployed?"
+        },
+        {
+            "id": "ML-ALG-022",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between model complexity, interpretability, computational cost, and predictive performance."
+        },
+        {
+            "id": "ML-ALG-023",
+            "difficulty": "hard",
+            "question": "How would you determine whether poor model performance is caused by algorithm selection rather than feature engineering or preprocessing?"
+        },
+        {
+            "id": "ML-ALG-024",
+            "difficulty": "hard",
+            "question": "Describe strategies for selecting algorithms when working with extremely large datasets."
+        },
+        {
+            "id": "ML-ALG-025",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether switching from a simple model to an ensemble model is justified?"
+        },
+        {
+            "id": "ML-ALG-026",
+            "difficulty": "hard",
+            "question": "Explain how algorithm selection changes when latency is more important than accuracy."
+        },
+        {
+            "id": "ML-ALG-027",
+            "difficulty": "hard",
+            "question": "How would you choose algorithms for highly imbalanced classification problems?"
+        },
+        {
+            "id": "ML-ALG-028",
+            "difficulty": "hard",
+            "question": "Describe the trade-offs between tree-based models and neural networks for structured tabular data."
+        },
+        {
+            "id": "ML-ALG-029",
+            "difficulty": "hard",
+            "question": "How would you compare multiple ensemble techniques using statistically reliable evaluation methods?"
+        },
+        {
+            "id": "ML-ALG-030",
+            "difficulty": "hard",
+            "question": "Design a decision-making framework for selecting machine learning algorithms in production systems."
+        },
+
+        
+        {
+            "id": "ML-ALG-S031",
+            "difficulty": "scenario",
+            "question": "A stakeholder asks why you selected Random Forest instead of XGBoost for a production model. Explain how you would justify your decision."
+        },
+        {
+            "id": "ML-ALG-S032",
+            "difficulty": "scenario",
+            "question": "A model performs well during development but fails to meet production latency requirements. Describe how algorithm selection might solve the problem."
+        },
+        {
+            "id": "ML-ALG-S033",
+            "difficulty": "scenario",
+            "question": "Your team wants to deploy a highly accurate ensemble model, but the infrastructure budget is limited. Explain how you would evaluate the trade-offs."
+        },
+        {
+            "id": "ML-ALG-S034",
+            "difficulty": "scenario",
+            "question": "A customer provides a dataset containing millions of samples and hundreds of features. Walk me through your algorithm selection process."
+        },
+        {
+            "id": "ML-ALG-S035",
+            "difficulty": "scenario",
+            "question": "Two algorithms achieve similar accuracy, but one is significantly more interpretable. Describe how you would decide which model to deploy."
+        },
+        {
+            "id": "ML-ALG-S036",
+            "difficulty": "scenario",
+            "question": "A teammate insists on using deep learning for every machine learning problem. How would you evaluate whether a simpler algorithm is more appropriate?"
+        },
+        {
+            "id": "ML-ALG-S037",
+            "difficulty": "scenario",
+            "question": "A deployed fraud detection model begins missing new fraud patterns. Explain how you would determine whether changing algorithms is necessary."
+        },
+        {
+            "id": "ML-ALG-S038",
+            "difficulty": "scenario",
+            "question": "A product manager asks you to maximize model accuracy regardless of computational cost. Walk me through the engineering considerations before agreeing."
+        },
+        {
+            "id": "ML-ALG-S039",
+            "difficulty": "scenario",
+            "question": "An existing machine learning pipeline uses Logistic Regression, but performance has plateaued. Describe how you would evaluate alternative algorithms."
+        },
+        {
+            "id": "ML-ALG-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for selecting algorithms for multiple machine learning applications with different accuracy, latency, interpretability, and cost requirements. Explain your decision-making framework."
+        }
+    ]
+}

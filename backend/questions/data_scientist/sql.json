@@ -1,0 +1,210 @@
+{
+    "sql data analysis": [
+        {
+            "id": "DS-SQL-001",
+            "difficulty": "easy",
+            "question": "What is SQL, and why is it important for Data Scientists?"
+        },
+        {
+            "id": "DS-SQL-002",
+            "difficulty": "easy",
+            "question": "What is the difference between SQL and NoSQL databases?"
+        },
+        {
+            "id": "DS-SQL-003",
+            "difficulty": "easy",
+            "question": "What is the purpose of the SELECT statement?"
+        },
+        {
+            "id": "DS-SQL-004",
+            "difficulty": "easy",
+            "question": "What is the difference between WHERE and HAVING?"
+        },
+        {
+            "id": "DS-SQL-005",
+            "difficulty": "easy",
+            "question": "What is the purpose of GROUP BY?"
+        },
+        {
+            "id": "DS-SQL-006",
+            "difficulty": "easy",
+            "question": "What is the difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN?"
+        },
+        {
+            "id": "DS-SQL-007",
+            "difficulty": "easy",
+            "question": "What are aggregate functions in SQL?"
+        },
+        {
+            "id": "DS-SQL-008",
+            "difficulty": "easy",
+            "question": "What is the purpose of ORDER BY?"
+        },
+        {
+            "id": "DS-SQL-009",
+            "difficulty": "easy",
+            "question": "What is a primary key?"
+        },
+        {
+            "id": "DS-SQL-010",
+            "difficulty": "easy",
+            "question": "What is a foreign key?"
+        },
+
+
+        {
+            "id": "DS-SQL-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between WHERE, HAVING, and QUALIFY."
+        },
+        {
+            "id": "DS-SQL-012",
+            "difficulty": "medium",
+            "question": "What are window functions, and when would you use them?"
+        },
+        {
+            "id": "DS-SQL-013",
+            "difficulty": "medium",
+            "question": "Explain the purpose of ROW_NUMBER(), RANK(), and DENSE_RANK()."
+        },
+        {
+            "id": "DS-SQL-014",
+            "difficulty": "medium",
+            "question": "What are Common Table Expressions (CTEs), and why are they useful?"
+        },
+        {
+            "id": "DS-SQL-015",
+            "difficulty": "medium",
+            "question": "How would you optimize a slow SQL query?"
+        },
+        {
+            "id": "DS-SQL-016",
+            "difficulty": "medium",
+            "question": "What are indexes, and how do they improve query performance?"
+        },
+        {
+            "id": "DS-SQL-017",
+            "difficulty": "medium",
+            "question": "How would you detect duplicate records using SQL?"
+        },
+        {
+            "id": "DS-SQL-018",
+            "difficulty": "medium",
+            "question": "How would you identify missing values in a SQL table?"
+        },
+        {
+            "id": "DS-SQL-019",
+            "difficulty": "medium",
+            "question": "How would you calculate running totals using SQL?"
+        },
+        {
+            "id": "DS-SQL-020",
+            "difficulty": "medium",
+            "question": "How would you find the top three highest-selling products in each category using SQL?"
+        },
+
+
+        {
+            "id": "DS-SQL-021",
+            "difficulty": "hard",
+            "question": "Design a SQL query to calculate customer retention over multiple months."
+        },
+        {
+            "id": "DS-SQL-022",
+            "difficulty": "hard",
+            "question": "How would you investigate a SQL query that performs well on small datasets but poorly on production-scale data?"
+        },
+        {
+            "id": "DS-SQL-023",
+            "difficulty": "hard",
+            "question": "How would you write efficient SQL queries for tables containing billions of rows?"
+        },
+        {
+            "id": "DS-SQL-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between normalized and denormalized database schemas for analytical workloads."
+        },
+        {
+            "id": "DS-SQL-025",
+            "difficulty": "hard",
+            "question": "How would you compare the performance of multiple SQL query strategies?"
+        },
+        {
+            "id": "DS-SQL-026",
+            "difficulty": "hard",
+            "question": "Describe techniques for optimizing analytical SQL workloads in a cloud data warehouse."
+        },
+        {
+            "id": "DS-SQL-027",
+            "difficulty": "hard",
+            "question": "How would you validate that the results of a complex SQL query are correct?"
+        },
+        {
+            "id": "DS-SQL-028",
+            "difficulty": "hard",
+            "question": "How would you design SQL queries that remain maintainable as business requirements evolve?"
+        },
+        {
+            "id": "DS-SQL-029",
+            "difficulty": "hard",
+            "question": "Explain how SQL execution plans help optimize query performance."
+        },
+        {
+            "id": "DS-SQL-030",
+            "difficulty": "hard",
+            "question": "Design a SQL-based analytics pipeline for processing large-scale business metrics."
+        },
+
+        
+        {
+            "id": "DS-SQL-S031",
+            "difficulty": "scenario",
+            "question": "A business dashboard suddenly reports significantly lower sales than expected. Walk me through how you would investigate using SQL."
+        },
+        {
+            "id": "DS-SQL-S032",
+            "difficulty": "scenario",
+            "question": "A SQL query that previously completed in seconds now requires several minutes after the database grows. Explain how you would optimize it."
+        },
+        {
+            "id": "DS-SQL-S033",
+            "difficulty": "scenario",
+            "question": "A stakeholder claims that your SQL report contains incorrect numbers. Describe how you would validate the results."
+        },
+        {
+            "id": "DS-SQL-S034",
+            "difficulty": "scenario",
+            "question": "A customer database contains duplicate users with inconsistent information. Explain how you would identify and resolve the issue."
+        },
+        {
+            "id": "DS-SQL-S035",
+            "difficulty": "scenario",
+            "question": "A product manager requests daily active users, weekly active users, and monthly active users. Explain how you would calculate these metrics."
+        },
+        {
+            "id": "DS-SQL-S036",
+            "difficulty": "scenario",
+            "question": "A data warehouse receives millions of new records every hour. Describe how you would design efficient SQL queries for reporting."
+        },
+        {
+            "id": "DS-SQL-S037",
+            "difficulty": "scenario",
+            "question": "Multiple analysts obtain different results for the same business metric. Walk me through your investigation."
+        },
+        {
+            "id": "DS-SQL-S038",
+            "difficulty": "scenario",
+            "question": "Your manager asks you to identify customers likely to churn using only SQL queries. Explain your approach."
+        },
+        {
+            "id": "DS-SQL-S039",
+            "difficulty": "scenario",
+            "question": "A newly deployed reporting query begins causing high database load. Describe how you would investigate and improve it."
+        },
+        {
+            "id": "DS-SQL-S040",
+            "difficulty": "scenario",
+            "question": "You're responsible for building the SQL analytics layer for a global e-commerce platform. Explain how you would design reporting queries, optimize performance, validate business metrics, and ensure scalability."
+        }
+    ]
+}
