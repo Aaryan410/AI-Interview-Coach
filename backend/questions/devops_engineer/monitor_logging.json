@@ -1,5 +1,5 @@
 {
-    "monitoring logging": [
+    "monitoring_logging": [
         {
             "id": "DEV-MON-001",
             "difficulty": "easy",

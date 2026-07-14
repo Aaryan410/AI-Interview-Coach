@@ -1,5 +1,5 @@
 {
-    "feature stores": [
+    "feature_stores": [
         {
             "id": "ML-FS-001",
             "difficulty": "easy",

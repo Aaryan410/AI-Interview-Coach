@@ -1,5 +1,5 @@
 {
-    "ci/cd": [
+    "ci_cd": [
         {
             "id": "DEV-CICD-001",
             "difficulty": "easy",

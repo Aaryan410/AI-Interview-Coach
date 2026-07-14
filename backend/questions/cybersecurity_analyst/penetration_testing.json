@@ -1,5 +1,5 @@
 {
-    "penetration testing": [
+    "penetration_testing": [
         {
             "id": "CSA-PT-001",
             "difficulty": "easy",

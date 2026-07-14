@@ -1,5 +1,5 @@
 {
-    "incident response": [
+    "incident_response": [
         {
             "id": "CSA-IR-001",
             "difficulty": "easy",

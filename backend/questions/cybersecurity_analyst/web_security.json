@@ -1,5 +1,5 @@
 {
-    "web security": [
+    "web_security": [
         {
             "id": "CSA-WS-001",
             "difficulty": "easy",
