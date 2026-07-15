@@ -1,0 +1,210 @@
+{
+    "cloud_fundamentals": [
+        {
+            "id": "CE-CF-001",
+            "difficulty": "easy",
+            "question": "What is cloud computing?"
+        },
+        {
+            "id": "CE-CF-002",
+            "difficulty": "easy",
+            "question": "What are the main characteristics of cloud computing?"
+        },
+        {
+            "id": "CE-CF-003",
+            "difficulty": "easy",
+            "question": "What are the different cloud deployment models?"
+        },
+        {
+            "id": "CE-CF-004",
+            "difficulty": "easy",
+            "question": "Explain the differences between public, private, and hybrid cloud."
+        },
+        {
+            "id": "CE-CF-005",
+            "difficulty": "easy",
+            "question": "What are the primary cloud service models?"
+        },
+        {
+            "id": "CE-CF-006",
+            "difficulty": "easy",
+            "question": "What is Infrastructure as a Service (IaaS)?"
+        },
+        {
+            "id": "CE-CF-007",
+            "difficulty": "easy",
+            "question": "What is Platform as a Service (PaaS)?"
+        },
+        {
+            "id": "CE-CF-008",
+            "difficulty": "easy",
+            "question": "What is Software as a Service (SaaS)?"
+        },
+        {
+            "id": "CE-CF-009",
+            "difficulty": "easy",
+            "question": "What are the advantages of cloud computing?"
+        },
+        {
+            "id": "CE-CF-010",
+            "difficulty": "easy",
+            "question": "What are some limitations or challenges of cloud computing?"
+        },
+
+
+        {
+            "id": "CE-CF-011",
+            "difficulty": "medium",
+            "question": "Compare IaaS, PaaS, and SaaS with real-world examples."
+        },
+        {
+            "id": "CE-CF-012",
+            "difficulty": "medium",
+            "question": "How would you decide whether to use a public cloud or a private cloud?"
+        },
+        {
+            "id": "CE-CF-013",
+            "difficulty": "medium",
+            "question": "What factors should an organization consider before migrating to the cloud?"
+        },
+        {
+            "id": "CE-CF-014",
+            "difficulty": "medium",
+            "question": "Explain elasticity and scalability in cloud computing."
+        },
+        {
+            "id": "CE-CF-015",
+            "difficulty": "medium",
+            "question": "How does cloud computing improve business agility?"
+        },
+        {
+            "id": "CE-CF-016",
+            "difficulty": "medium",
+            "question": "Explain the shared responsibility model in cloud computing."
+        },
+        {
+            "id": "CE-CF-017",
+            "difficulty": "medium",
+            "question": "What is multi-tenancy, and why is it important in cloud platforms?"
+        },
+        {
+            "id": "CE-CF-018",
+            "difficulty": "medium",
+            "question": "Describe cloud regions and availability zones."
+        },
+        {
+            "id": "CE-CF-019",
+            "difficulty": "medium",
+            "question": "What are the trade-offs between cloud-native applications and traditional applications?"
+        },
+        {
+            "id": "CE-CF-020",
+            "difficulty": "medium",
+            "question": "How does cloud computing support high availability?"
+        },
+
+
+        {
+            "id": "CE-CF-021",
+            "difficulty": "hard",
+            "question": "Design a cloud migration strategy for a medium-sized enterprise moving from an on-premises data center."
+        },
+        {
+            "id": "CE-CF-022",
+            "difficulty": "hard",
+            "question": "Compare hybrid cloud and multi-cloud architectures, including their advantages and challenges."
+        },
+        {
+            "id": "CE-CF-023",
+            "difficulty": "hard",
+            "question": "How would you design a cloud architecture that balances scalability, cost, security, and performance?"
+        },
+        {
+            "id": "CE-CF-024",
+            "difficulty": "hard",
+            "question": "Explain how cloud providers achieve fault tolerance across regions."
+        },
+        {
+            "id": "CE-CF-025",
+            "difficulty": "hard",
+            "question": "How would you evaluate whether an application is suitable for cloud migration?"
+        },
+        {
+            "id": "CE-CF-026",
+            "difficulty": "hard",
+            "question": "Discuss the challenges organizations face during large-scale cloud transformations."
+        },
+        {
+            "id": "CE-CF-027",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between vendor lock-in and cloud-native optimization."
+        },
+        {
+            "id": "CE-CF-028",
+            "difficulty": "hard",
+            "question": "How would you design a globally distributed cloud application for maximum availability?"
+        },
+        {
+            "id": "CE-CF-029",
+            "difficulty": "hard",
+            "question": "How do cloud architecture decisions influence business continuity and disaster recovery?"
+        },
+        {
+            "id": "CE-CF-030",
+            "difficulty": "hard",
+            "question": "Design a cloud adoption roadmap for an enterprise operating across multiple countries."
+        },
+
+        
+        {
+            "id": "CE-CF-S031",
+            "difficulty": "scenario",
+            "question": "A company wants to migrate hundreds of applications from on-premises infrastructure to the cloud. Explain how you would plan, prioritize, and execute the migration."
+        },
+        {
+            "id": "CE-CF-S032",
+            "difficulty": "scenario",
+            "question": "A startup expects rapid user growth over the next year but has a limited budget. Describe how you would design a cloud architecture that balances scalability and cost."
+        },
+        {
+            "id": "CE-CF-S033",
+            "difficulty": "scenario",
+            "question": "A business wants high availability across multiple geographic regions. Explain how you would design the cloud infrastructure."
+        },
+        {
+            "id": "CE-CF-S034",
+            "difficulty": "scenario",
+            "question": "An enterprise is concerned about vendor lock-in after migrating to a cloud provider. Explain how you would reduce that risk."
+        },
+        {
+            "id": "CE-CF-S035",
+            "difficulty": "scenario",
+            "question": "A healthcare company wants to migrate sensitive patient data to the cloud while maintaining strict compliance requirements. Describe your approach."
+        },
+        {
+            "id": "CE-CF-S036",
+            "difficulty": "scenario",
+            "question": "An organization experiences frequent traffic spikes during seasonal sales events. Explain how cloud capabilities can be used to maintain performance."
+        },
+        {
+            "id": "CE-CF-S037",
+            "difficulty": "scenario",
+            "question": "A company operates in multiple countries with different data residency regulations. Describe how you would design the cloud deployment."
+        },
+        {
+            "id": "CE-CF-S038",
+            "difficulty": "scenario",
+            "question": "Your organization must migrate to the cloud with minimal downtime. Walk me through your migration strategy."
+        },
+        {
+            "id": "CE-CF-S039",
+            "difficulty": "scenario",
+            "question": "An executive asks whether the company should choose AWS, Azure, GCP, or a multi-cloud strategy. Explain how you would evaluate the options."
+        },
+        {
+            "id": "CE-CF-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for modernizing a global enterprise's infrastructure. Explain how you would plan cloud adoption, architecture, governance, security, scalability, and long-term operational management."
+        }
+    ]
+}

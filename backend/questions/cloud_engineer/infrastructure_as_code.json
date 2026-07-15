@@ -1,0 +1,210 @@
+{
+    "infrastructure_as_code": [
+        {
+            "id": "CE-IAC-001",
+            "difficulty": "easy",
+            "question": "What is Infrastructure as Code (IaC)?"
+        },
+        {
+            "id": "CE-IAC-002",
+            "difficulty": "easy",
+            "question": "Why is Infrastructure as Code important in cloud computing?"
+        },
+        {
+            "id": "CE-IAC-003",
+            "difficulty": "easy",
+            "question": "What problems does Infrastructure as Code solve?"
+        },
+        {
+            "id": "CE-IAC-004",
+            "difficulty": "easy",
+            "question": "What is Terraform?"
+        },
+        {
+            "id": "CE-IAC-005",
+            "difficulty": "easy",
+            "question": "What is AWS CloudFormation?"
+        },
+        {
+            "id": "CE-IAC-006",
+            "difficulty": "easy",
+            "question": "What is Azure Resource Manager (ARM)?"
+        },
+        {
+            "id": "CE-IAC-007",
+            "difficulty": "easy",
+            "question": "What is Google Cloud Deployment Manager?"
+        },
+        {
+            "id": "CE-IAC-008",
+            "difficulty": "easy",
+            "question": "What are the benefits of declarative infrastructure?"
+        },
+        {
+            "id": "CE-IAC-009",
+            "difficulty": "easy",
+            "question": "What is idempotency in Infrastructure as Code?"
+        },
+        {
+            "id": "CE-IAC-010",
+            "difficulty": "easy",
+            "question": "What is state management in Terraform?"
+        },
+
+
+        {
+            "id": "CE-IAC-011",
+            "difficulty": "medium",
+            "question": "Compare Terraform and CloudFormation."
+        },
+        {
+            "id": "CE-IAC-012",
+            "difficulty": "medium",
+            "question": "How does Infrastructure as Code improve DevOps workflows?"
+        },
+        {
+            "id": "CE-IAC-013",
+            "difficulty": "medium",
+            "question": "Explain the Terraform plan and apply workflow."
+        },
+        {
+            "id": "CE-IAC-014",
+            "difficulty": "medium",
+            "question": "What are Terraform modules and why are they useful?"
+        },
+        {
+            "id": "CE-IAC-015",
+            "difficulty": "medium",
+            "question": "How would you securely manage secrets in an Infrastructure as Code project?"
+        },
+        {
+            "id": "CE-IAC-016",
+            "difficulty": "medium",
+            "question": "Explain remote state management and state locking."
+        },
+        {
+            "id": "CE-IAC-017",
+            "difficulty": "medium",
+            "question": "How would you organize Infrastructure as Code for multiple environments such as development, staging, and production?"
+        },
+        {
+            "id": "CE-IAC-018",
+            "difficulty": "medium",
+            "question": "How does version control improve Infrastructure as Code?"
+        },
+        {
+            "id": "CE-IAC-019",
+            "difficulty": "medium",
+            "question": "Explain drift detection in Infrastructure as Code."
+        },
+        {
+            "id": "CE-IAC-020",
+            "difficulty": "medium",
+            "question": "How would you automate Infrastructure as Code deployments using CI/CD?"
+        },
+
+
+        {
+            "id": "CE-IAC-021",
+            "difficulty": "hard",
+            "question": "Design an enterprise Infrastructure as Code strategy supporting AWS, Azure, and GCP."
+        },
+        {
+            "id": "CE-IAC-022",
+            "difficulty": "hard",
+            "question": "How would you structure Terraform modules for a large organization?"
+        },
+        {
+            "id": "CE-IAC-023",
+            "difficulty": "hard",
+            "question": "Explain strategies for managing Infrastructure as Code at scale."
+        },
+        {
+            "id": "CE-IAC-024",
+            "difficulty": "hard",
+            "question": "How would you prevent configuration drift across hundreds of cloud resources?"
+        },
+        {
+            "id": "CE-IAC-025",
+            "difficulty": "hard",
+            "question": "Design a secure Infrastructure as Code workflow integrating code review, testing, and policy enforcement."
+        },
+        {
+            "id": "CE-IAC-026",
+            "difficulty": "hard",
+            "question": "How would you implement disaster recovery using Infrastructure as Code?"
+        },
+        {
+            "id": "CE-IAC-027",
+            "difficulty": "hard",
+            "question": "Explain policy-as-code and its relationship with Infrastructure as Code."
+        },
+        {
+            "id": "CE-IAC-028",
+            "difficulty": "hard",
+            "question": "How would you migrate manually managed cloud infrastructure to Infrastructure as Code?"
+        },
+        {
+            "id": "CE-IAC-029",
+            "difficulty": "hard",
+            "question": "Describe best practices for securing Terraform state files."
+        },
+        {
+            "id": "CE-IAC-030",
+            "difficulty": "hard",
+            "question": "Design an Infrastructure as Code platform balancing scalability, maintainability, governance, and security."
+        },
+        
+
+        {
+            "id": "CE-IAC-S031",
+            "difficulty": "scenario",
+            "question": "A developer accidentally modifies production infrastructure manually instead of through Terraform. Explain how you would detect and resolve the issue."
+        },
+        {
+            "id": "CE-IAC-S032",
+            "difficulty": "scenario",
+            "question": "A company wants to deploy identical infrastructure across AWS, Azure, and GCP. Describe your Infrastructure as Code approach."
+        },
+        {
+            "id": "CE-IAC-S033",
+            "difficulty": "scenario",
+            "question": "Your Terraform state file becomes corrupted. Explain your recovery strategy."
+        },
+        {
+            "id": "CE-IAC-S034",
+            "difficulty": "scenario",
+            "question": "An enterprise needs strict approval workflows before infrastructure changes reach production. Explain how you would design the deployment pipeline."
+        },
+        {
+            "id": "CE-IAC-S035",
+            "difficulty": "scenario",
+            "question": "A security audit discovers secrets committed inside Terraform code. Walk me through your remediation plan."
+        },
+        {
+            "id": "CE-IAC-S036",
+            "difficulty": "scenario",
+            "question": "Your Infrastructure as Code deployment fails halfway through provisioning cloud resources. Explain how you would investigate and recover."
+        },
+        {
+            "id": "CE-IAC-S037",
+            "difficulty": "scenario",
+            "question": "A company wants every infrastructure change tracked, reviewed, and automatically tested before deployment. Describe your solution."
+        },
+        {
+            "id": "CE-IAC-S038",
+            "difficulty": "scenario",
+            "question": "Multiple teams contribute to a shared Infrastructure as Code repository. Explain how you would organize the project."
+        },
+        {
+            "id": "CE-IAC-S039",
+            "difficulty": "scenario",
+            "question": "An organization wants to migrate thousands of manually created cloud resources into Terraform. Explain your migration strategy."
+        },
+        {
+            "id": "CE-IAC-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for implementing Infrastructure as Code across a global enterprise. Explain how you would design architecture, modules, CI/CD integration, governance, security, state management, disaster recovery, and long-term maintenance."
+        }
+    ]
+}

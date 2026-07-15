@@ -1,0 +1,133 @@
+{
+    "projects": [
+        {
+            "id": "CE-P-001",
+            "difficulty": "easy",
+            "question": "Tell me about a cloud project you've worked on."
+        },
+        {
+            "id": "CE-P-002",
+            "difficulty": "easy",
+            "question": "Which cloud platform did you use in your most significant project and why?"
+        },
+        {
+            "id": "CE-P-003",
+            "difficulty": "easy",
+            "question": "What problem was your cloud project trying to solve?"
+        },
+        {
+            "id": "CE-P-004",
+            "difficulty": "easy",
+            "question": "What was your role in the project?"
+        },
+        {
+            "id": "CE-P-005",
+            "difficulty": "easy",
+            "question": "Which cloud services did you use most frequently?"
+        },
+        {
+            "id": "CE-P-006",
+            "difficulty": "easy",
+            "question": "What was the biggest technical challenge in your project?"
+        },
+        {
+            "id": "CE-P-007",
+            "difficulty": "easy",
+            "question": "How did you deploy your application?"
+        },
+        {
+            "id": "CE-P-008",
+            "difficulty": "easy",
+            "question": "How did you monitor your cloud infrastructure?"
+        },
+        {
+            "id": "CE-P-009",
+            "difficulty": "easy",
+            "question": "How did you secure your cloud environment?"
+        },
+        {
+            "id": "CE-P-010",
+            "difficulty": "easy",
+            "question": "What would you improve if you rebuilt the project today?"
+        },
+
+
+        {
+            "id": "CE-P-011",
+            "difficulty": "medium",
+            "question": "Walk me through the architecture of your cloud project."
+        },
+        {
+            "id": "CE-P-012",
+            "difficulty": "medium",
+            "question": "How did you make your cloud infrastructure scalable?"
+        },
+        {
+            "id": "CE-P-013",
+            "difficulty": "medium",
+            "question": "Describe your disaster recovery strategy."
+        },
+        {
+            "id": "CE-P-014",
+            "difficulty": "medium",
+            "question": "How did you optimize cloud costs in your project?"
+        },
+        {
+            "id": "CE-P-015",
+            "difficulty": "medium",
+            "question": "Describe your Infrastructure as Code workflow."
+        },
+        {
+            "id": "CE-P-016",
+            "difficulty": "medium",
+            "question": "How did you secure secrets and credentials?"
+        },
+        {
+            "id": "CE-P-017",
+            "difficulty": "medium",
+            "question": "Describe the CI/CD pipeline used in your cloud project."
+        },
+        {
+            "id": "CE-P-018",
+            "difficulty": "medium",
+            "question": "How did you troubleshoot production incidents?"
+        },
+        {
+            "id": "CE-P-019",
+            "difficulty": "medium",
+            "question": "How did your team collaborate on cloud infrastructure changes?"
+        },
+        {
+            "id": "CE-P-020",
+            "difficulty": "medium",
+            "question": "How did you validate changes before deploying them to production?"
+        },
+        
+
+        {
+            "id": "CE-P-S021",
+            "difficulty": "scenario",
+            "question": "Imagine your production cloud infrastructure fails during peak business hours. Walk me through your response from detection to recovery."
+        },
+        {
+            "id": "CE-P-S022",
+            "difficulty": "scenario",
+            "question": "Your CEO asks you to reduce cloud costs by 40% without reducing reliability. Explain your approach."
+        },
+        {
+            "id": "CE-P-S023",
+            "difficulty": "scenario",
+            "question": "Your application suddenly scales from ten thousand to ten million users. Explain how your architecture would evolve."
+        },
+        {
+            "id": "CE-P-S024",
+            "difficulty": "scenario",
+            "question": "A security audit discovers several critical vulnerabilities in your cloud infrastructure. Explain your remediation process."
+        },
+        {
+            "id": "CE-P-S025",
+            "difficulty": "scenario",
+            "question": "Design your ideal cloud project from scratch for a global SaaS company and explain every architectural decision."
+        }
+    ]
+}

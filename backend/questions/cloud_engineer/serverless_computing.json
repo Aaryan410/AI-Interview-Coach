@@ -1,0 +1,210 @@
+{
+    "serverless_computing": [
+        {
+            "id": "CE-SC-001",
+            "difficulty": "easy",
+            "question": "What is serverless computing?"
+        },
+        {
+            "id": "CE-SC-002",
+            "difficulty": "easy",
+            "question": "How does serverless computing differ from traditional server-based architectures?"
+        },
+        {
+            "id": "CE-SC-003",
+            "difficulty": "easy",
+            "question": "What are the advantages of serverless computing?"
+        },
+        {
+            "id": "CE-SC-004",
+            "difficulty": "easy",
+            "question": "What are the limitations of serverless computing?"
+        },
+        {
+            "id": "CE-SC-005",
+            "difficulty": "easy",
+            "question": "What is Function as a Service (FaaS)?"
+        },
+        {
+            "id": "CE-SC-006",
+            "difficulty": "easy",
+            "question": "Name some popular serverless platforms."
+        },
+        {
+            "id": "CE-SC-007",
+            "difficulty": "easy",
+            "question": "What is a cold start in serverless computing?"
+        },
+        {
+            "id": "CE-SC-008",
+            "difficulty": "easy",
+            "question": "How are serverless applications billed?"
+        },
+        {
+            "id": "CE-SC-009",
+            "difficulty": "easy",
+            "question": "What types of applications are well suited for serverless computing?"
+        },
+        {
+            "id": "CE-SC-010",
+            "difficulty": "easy",
+            "question": "What are event-driven architectures?"
+        },
+
+
+        {
+            "id": "CE-SC-011",
+            "difficulty": "medium",
+            "question": "Compare serverless computing with virtual machines and containers."
+        },
+        {
+            "id": "CE-SC-012",
+            "difficulty": "medium",
+            "question": "Explain the serverless execution model."
+        },
+        {
+            "id": "CE-SC-013",
+            "difficulty": "medium",
+            "question": "How would you minimize cold start latency?"
+        },
+        {
+            "id": "CE-SC-014",
+            "difficulty": "medium",
+            "question": "Explain common serverless security considerations."
+        },
+        {
+            "id": "CE-SC-015",
+            "difficulty": "medium",
+            "question": "How do serverless applications scale automatically?"
+        },
+        {
+            "id": "CE-SC-016",
+            "difficulty": "medium",
+            "question": "What are the challenges of debugging serverless applications?"
+        },
+        {
+            "id": "CE-SC-017",
+            "difficulty": "medium",
+            "question": "Explain statelessness in serverless computing."
+        },
+        {
+            "id": "CE-SC-018",
+            "difficulty": "medium",
+            "question": "How would you monitor serverless workloads?"
+        },
+        {
+            "id": "CE-SC-019",
+            "difficulty": "medium",
+            "question": "How would you design APIs using serverless services?"
+        },
+        {
+            "id": "CE-SC-020",
+            "difficulty": "medium",
+            "question": "Compare AWS Lambda, Azure Functions, and Google Cloud Functions."
+        },
+
+
+        {
+            "id": "CE-SC-021",
+            "difficulty": "hard",
+            "question": "Design a serverless architecture for a global web application."
+        },
+        {
+            "id": "CE-SC-022",
+            "difficulty": "hard",
+            "question": "How would you optimize serverless costs at enterprise scale?"
+        },
+        {
+            "id": "CE-SC-023",
+            "difficulty": "hard",
+            "question": "How would you design highly available serverless systems?"
+        },
+        {
+            "id": "CE-SC-024",
+            "difficulty": "hard",
+            "question": "Explain strategies for avoiding vendor lock-in when using serverless services."
+        },
+        {
+            "id": "CE-SC-025",
+            "difficulty": "hard",
+            "question": "How would you secure enterprise serverless workloads?"
+        },
+        {
+            "id": "CE-SC-026",
+            "difficulty": "hard",
+            "question": "Design an event-driven architecture processing millions of events per day."
+        },
+        {
+            "id": "CE-SC-027",
+            "difficulty": "hard",
+            "question": "Explain serverless orchestration and workflow management."
+        },
+        {
+            "id": "CE-SC-028",
+            "difficulty": "hard",
+            "question": "How would you troubleshoot performance bottlenecks in serverless applications?"
+        },
+        {
+            "id": "CE-SC-029",
+            "difficulty": "hard",
+            "question": "Explain best practices for deploying serverless applications using Infrastructure as Code."
+        },
+        {
+            "id": "CE-SC-030",
+            "difficulty": "hard",
+            "question": "Design a serverless platform balancing scalability, security, reliability, and cost."
+        },
+
+        
+        {
+            "id": "CE-SC-S031",
+            "difficulty": "scenario",
+            "question": "A startup wants to launch an API with unpredictable traffic while minimizing infrastructure management. Explain your serverless architecture."
+        },
+        {
+            "id": "CE-SC-S032",
+            "difficulty": "scenario",
+            "question": "A production serverless application experiences high cold start latency. Explain how you would investigate and optimize it."
+        },
+        {
+            "id": "CE-SC-S033",
+            "difficulty": "scenario",
+            "question": "An enterprise wants to migrate scheduled background jobs to serverless computing. Explain your migration approach."
+        },
+        {
+            "id": "CE-SC-S034",
+            "difficulty": "scenario",
+            "question": "A serverless application suddenly generates extremely high cloud costs. Explain your investigation process."
+        },
+        {
+            "id": "CE-SC-S035",
+            "difficulty": "scenario",
+            "question": "A company wants to process millions of uploaded images every day using event-driven services. Explain your architecture."
+        },
+        {
+            "id": "CE-SC-S036",
+            "difficulty": "scenario",
+            "question": "A financial application requires low latency while using serverless technologies. Explain your design decisions."
+        },
+        {
+            "id": "CE-SC-S037",
+            "difficulty": "scenario",
+            "question": "Your organization wants to migrate a monolithic application toward serverless microservices. Explain your migration strategy."
+        },
+        {
+            "id": "CE-SC-S038",
+            "difficulty": "scenario",
+            "question": "A compliance audit requires complete observability for serverless workloads. Explain your monitoring strategy."
+        },
+        {
+            "id": "CE-SC-S039",
+            "difficulty": "scenario",
+            "question": "A globally distributed application experiences uneven traffic patterns throughout the day. Explain how serverless computing can improve scalability."
+        },
+        {
+            "id": "CE-SC-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing an enterprise serverless platform. Explain how you would architect scalability, security, observability, event processing, disaster recovery, governance, and cost optimization."
+        }
+]
+}

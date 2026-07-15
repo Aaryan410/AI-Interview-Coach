@@ -1,0 +1,210 @@
+{
+    "cost_optimization": [
+        {
+            "id": "CE-CO-001",
+            "difficulty": "easy",
+            "question": "Why is cost optimization important in cloud computing?"
+        },
+        {
+            "id": "CE-CO-002",
+            "difficulty": "easy",
+            "question": "What is pay-as-you-go pricing?"
+        },
+        {
+            "id": "CE-CO-003",
+            "difficulty": "easy",
+            "question": "What is reserved capacity?"
+        },
+        {
+            "id": "CE-CO-004",
+            "difficulty": "easy",
+            "question": "What are spot or preemptible instances?"
+        },
+        {
+            "id": "CE-CO-005",
+            "difficulty": "easy",
+            "question": "What is right-sizing in cloud computing?"
+        },
+        {
+            "id": "CE-CO-006",
+            "difficulty": "easy",
+            "question": "What causes unnecessary cloud costs?"
+        },
+        {
+            "id": "CE-CO-007",
+            "difficulty": "easy",
+            "question": "Why should unused cloud resources be removed?"
+        },
+        {
+            "id": "CE-CO-008",
+            "difficulty": "easy",
+            "question": "What are storage lifecycle policies?"
+        },
+        {
+            "id": "CE-CO-009",
+            "difficulty": "easy",
+            "question": "What is auto scaling and how can it reduce cloud costs?"
+        },
+        {
+            "id": "CE-CO-010",
+            "difficulty": "easy",
+            "question": "What cloud services help monitor infrastructure costs?"
+        },
+
+
+        {
+            "id": "CE-CO-011",
+            "difficulty": "medium",
+            "question": "Explain the trade-offs between On-Demand, Reserved, and Spot Instances."
+        },
+        {
+            "id": "CE-CO-012",
+            "difficulty": "medium",
+            "question": "How would you identify underutilized cloud resources?"
+        },
+        {
+            "id": "CE-CO-013",
+            "difficulty": "medium",
+            "question": "How would you optimize storage costs for large datasets?"
+        },
+        {
+            "id": "CE-CO-014",
+            "difficulty": "medium",
+            "question": "How does auto scaling improve both performance and cost efficiency?"
+        },
+        {
+            "id": "CE-CO-015",
+            "difficulty": "medium",
+            "question": "How would you reduce networking costs in cloud environments?"
+        },
+        {
+            "id": "CE-CO-016",
+            "difficulty": "medium",
+            "question": "Explain FinOps and its role in cloud cost management."
+        },
+        {
+            "id": "CE-CO-017",
+            "difficulty": "medium",
+            "question": "How would you implement cloud cost governance across multiple teams?"
+        },
+        {
+            "id": "CE-CO-018",
+            "difficulty": "medium",
+            "question": "Explain the importance of resource tagging for cost management."
+        },
+        {
+            "id": "CE-CO-019",
+            "difficulty": "medium",
+            "question": "How would you optimize database costs without affecting performance?"
+        },
+        {
+            "id": "CE-CO-020",
+            "difficulty": "medium",
+            "question": "Describe strategies for forecasting future cloud costs."
+        },
+
+
+        {
+            "id": "CE-CO-021",
+            "difficulty": "hard",
+            "question": "Design a cloud cost optimization strategy for a multinational enterprise."
+        },
+        {
+            "id": "CE-CO-022",
+            "difficulty": "hard",
+            "question": "How would you balance performance, scalability, and cost in cloud architecture?"
+        },
+        {
+            "id": "CE-CO-023",
+            "difficulty": "hard",
+            "question": "Design a FinOps operating model for a cloud-native organization."
+        },
+        {
+            "id": "CE-CO-024",
+            "difficulty": "hard",
+            "question": "How would you optimize Kubernetes infrastructure costs?"
+        },
+        {
+            "id": "CE-CO-025",
+            "difficulty": "hard",
+            "question": "How would you reduce cloud costs across AWS, Azure, and GCP simultaneously?"
+        },
+        {
+            "id": "CE-CO-026",
+            "difficulty": "hard",
+            "question": "Explain strategies for preventing cloud cost overruns before they occur."
+        },
+        {
+            "id": "CE-CO-027",
+            "difficulty": "hard",
+            "question": "How would you optimize costs for a globally distributed application?"
+        },
+        {
+            "id": "CE-CO-028",
+            "difficulty": "hard",
+            "question": "Describe the trade-offs between cost optimization and high availability."
+        },
+        {
+            "id": "CE-CO-029",
+            "difficulty": "hard",
+            "question": "How would you optimize cloud costs while maintaining compliance and security?"
+        },
+        {
+            "id": "CE-CO-030",
+            "difficulty": "hard",
+            "question": "Design an enterprise cloud cost governance framework covering budgeting, forecasting, optimization, monitoring, and accountability."
+        },
+
+        
+        {
+            "id": "CE-CO-S031",
+            "difficulty": "scenario",
+            "question": "Your company's monthly cloud bill suddenly doubles. Walk me through your investigation process."
+        },
+        {
+            "id": "CE-CO-S032",
+            "difficulty": "scenario",
+            "question": "A startup wants to minimize cloud costs while preparing for unpredictable growth. Explain your architecture."
+        },
+        {
+            "id": "CE-CO-S033",
+            "difficulty": "scenario",
+            "question": "A development team leaves hundreds of virtual machines running after office hours. Explain how you would solve this problem."
+        },
+        {
+            "id": "CE-CO-S034",
+            "difficulty": "scenario",
+            "question": "An enterprise stores petabytes of infrequently accessed data. Explain your storage optimization strategy."
+        },
+        {
+            "id": "CE-CO-S035",
+            "difficulty": "scenario",
+            "question": "Your Kubernetes cluster experiences low resource utilization while cloud costs continue increasing. Explain how you would optimize the environment."
+        },
+        {
+            "id": "CE-CO-S036",
+            "difficulty": "scenario",
+            "question": "Multiple business units share one cloud account, making cost allocation difficult. Explain how you would improve visibility."
+        },
+        {
+            "id": "CE-CO-S037",
+            "difficulty": "scenario",
+            "question": "A company wants automated alerts before cloud spending exceeds its monthly budget. Explain your solution."
+        },
+        {
+            "id": "CE-CO-S038",
+            "difficulty": "scenario",
+            "question": "A cloud migration significantly increases networking charges. Explain how you would investigate and optimize them."
+        },
+        {
+            "id": "CE-CO-S039",
+            "difficulty": "scenario",
+            "question": "An executive requests a 30% reduction in cloud spending without affecting application performance. Explain your optimization strategy."
+        },
+        {
+            "id": "CE-CO-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for optimizing cloud costs across a global enterprise. Explain how you would design budgeting, monitoring, FinOps processes, governance, optimization, forecasting, and continuous cost improvement."
+        }
+    ]
+}

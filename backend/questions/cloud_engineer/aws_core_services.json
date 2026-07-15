@@ -1,0 +1,207 @@
+{
+    "aws_core_services": [
+        {
+            "id": "CE-AWS-001",
+            "difficulty": "easy",
+            "question": "What is Amazon Web Services (AWS)?"
+        },
+        {
+            "id": "CE-AWS-002",
+            "difficulty": "easy",
+            "question": "What is Amazon EC2?"
+        },
+        {
+            "id": "CE-AWS-003",
+            "difficulty": "easy",
+            "question": "What is Amazon S3?"
+        },
+        {
+            "id": "CE-AWS-004",
+            "difficulty": "easy",
+            "question": "What is Amazon RDS?"
+        },
+        {
+            "id": "CE-AWS-005",
+            "difficulty": "easy",
+            "question": "What is AWS Lambda?"
+        },
+        {
+            "id": "CE-AWS-006",
+            "difficulty": "easy",
+            "question": "What is Amazon VPC?"
+        },
+        {
+            "id": "CE-AWS-007",
+            "difficulty": "easy",
+            "question": "What is an Availability Zone in AWS?"
+        },
+        {
+            "id": "CE-AWS-008",
+            "difficulty": "easy",
+            "question": "What is an AWS Region?"
+        },
+        {
+            "id": "CE-AWS-009",
+            "difficulty": "easy",
+            "question": "What is Amazon CloudWatch?"
+        },
+        {
+            "id": "CE-AWS-010",
+            "difficulty": "easy",
+            "question": "What is IAM in AWS?"
+        },
+
+        {
+            "id": "CE-AWS-011",
+            "difficulty": "medium",
+            "question": "Compare Amazon EC2 and AWS Lambda."
+        },
+        {
+            "id": "CE-AWS-012",
+            "difficulty": "medium",
+            "question": "How would you choose between Amazon S3, Amazon EBS, and Amazon EFS?"
+        },
+        {
+            "id": "CE-AWS-013",
+            "difficulty": "medium",
+            "question": "Explain how Auto Scaling works in AWS."
+        },
+        {
+            "id": "CE-AWS-014",
+            "difficulty": "medium",
+            "question": "Explain the purpose of Elastic Load Balancing (ELB)."
+        },
+        {
+            "id": "CE-AWS-015",
+            "difficulty": "medium",
+            "question": "Describe the relationship between Regions, Availability Zones, and Edge Locations."
+        },
+        {
+            "id": "CE-AWS-016",
+            "difficulty": "medium",
+            "question": "How does Amazon CloudWatch help maintain application reliability?"
+        },
+        {
+            "id": "CE-AWS-017",
+            "difficulty": "medium",
+            "question": "How would you secure access to AWS resources using IAM?"
+        },
+        {
+            "id": "CE-AWS-018",
+            "difficulty": "medium",
+            "question": "Explain how Amazon RDS differs from running a database on EC2."
+        },
+        {
+            "id": "CE-AWS-019",
+            "difficulty": "medium",
+            "question": "How does Amazon S3 achieve high durability?"
+        },
+        {
+            "id": "CE-AWS-020",
+            "difficulty": "medium",
+            "question": "Describe how Route 53 works within AWS."
+        },
+
+        {
+            "id": "CE-AWS-021",
+            "difficulty": "hard",
+            "question": "Design a highly available web application using core AWS services."
+        },
+        {
+            "id": "CE-AWS-022",
+            "difficulty": "hard",
+            "question": "How would you architect a multi-region AWS deployment for disaster recovery?"
+        },
+        {
+            "id": "CE-AWS-023",
+            "difficulty": "hard",
+            "question": "Compare EC2, ECS, EKS, Lambda, and Fargate for different workloads."
+        },
+        {
+            "id": "CE-AWS-024",
+            "difficulty": "hard",
+            "question": "How would you optimize AWS costs without sacrificing performance or reliability?"
+        },
+        {
+            "id": "CE-AWS-025",
+            "difficulty": "hard",
+            "question": "Design a secure AWS networking architecture using VPCs, subnets, route tables, and security groups."
+        },
+        {
+            "id": "CE-AWS-026",
+            "difficulty": "hard",
+            "question": "Explain how AWS services work together to build a fault-tolerant application."
+        },
+        {
+            "id": "CE-AWS-027",
+            "difficulty": "hard",
+            "question": "Describe best practices for designing scalable AWS architectures following the AWS Well-Architected Framework."
+        },
+        {
+            "id": "CE-AWS-028",
+            "difficulty": "hard",
+            "question": "How would you migrate a legacy monolithic application to AWS?"
+        },
+        {
+            "id": "CE-AWS-029",
+            "difficulty": "hard",
+            "question": "Design a monitoring strategy using CloudWatch, CloudTrail, and AWS Config."
+        },
+        {
+            "id": "CE-AWS-030",
+            "difficulty": "hard",
+            "question": "Explain how AWS services support security, scalability, reliability, operational excellence, and cost optimization simultaneously."
+        },
+
+        {
+            "id": "CE-AWS-S031",
+            "difficulty": "scenario",
+            "question": "A company's website crashes during major product launches due to sudden traffic spikes. Explain how you would redesign the AWS architecture."
+        },
+        {
+            "id": "CE-AWS-S032",
+            "difficulty": "scenario",
+            "question": "Your application stores millions of user-uploaded images. Describe which AWS storage services you would use and why."
+        },
+        {
+            "id": "CE-AWS-S033",
+            "difficulty": "scenario",
+            "question": "An application deployed in a single Availability Zone experiences an outage. Explain how you would redesign the infrastructure for higher availability."
+        },
+        {
+            "id": "CE-AWS-S034",
+            "difficulty": "scenario",
+            "question": "A startup wants to minimize infrastructure management while remaining highly scalable. Describe which AWS services you would recommend."
+        },
+        {
+            "id": "CE-AWS-S035",
+            "difficulty": "scenario",
+            "question": "Your AWS bill suddenly doubles within one month. Walk me through how you would investigate and reduce costs."
+        },
+        {
+            "id": "CE-AWS-S036",
+            "difficulty": "scenario",
+            "question": "A security audit discovers that multiple IAM users have excessive permissions. Explain how you would remediate the issue."
+        },
+        {
+            "id": "CE-AWS-S037",
+            "difficulty": "scenario",
+            "question": "An organization wants zero-downtime deployments for a global application hosted on AWS. Explain how you would design the deployment strategy."
+        },
+        {
+            "id": "CE-AWS-S038",
+            "difficulty": "scenario",
+            "question": "Your production database begins experiencing heavy read traffic while write traffic remains stable. Explain how you would improve performance using AWS services."
+        },
+        {
+            "id": "CE-AWS-S039",
+            "difficulty": "scenario",
+            "question": "A financial institution must comply with strict regulatory requirements while migrating to AWS. Describe how you would design the environment."
+        },
+        {
+            "id": "CE-AWS-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing AWS infrastructure for a multinational enterprise. Explain how you would architect networking, compute, storage, security, monitoring, disaster recovery, scalability, and cost optimization."
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "containers_kubernetes_cloud": [
+        {
+            "id": "CE-CK-001",
+            "difficulty": "easy",
+            "question": "What is a container?"
+        },
+        {
+            "id": "CE-CK-002",
+            "difficulty": "easy",
+            "question": "How do containers differ from virtual machines?"
+        },
+        {
+            "id": "CE-CK-003",
+            "difficulty": "easy",
+            "question": "What is Docker?"
+        },
+        {
+            "id": "CE-CK-004",
+            "difficulty": "easy",
+            "question": "What is Kubernetes?"
+        },
+        {
+            "id": "CE-CK-005",
+            "difficulty": "easy",
+            "question": "Why is Kubernetes used?"
+        },
+        {
+            "id": "CE-CK-006",
+            "difficulty": "easy",
+            "question": "What is a Pod in Kubernetes?"
+        },
+        {
+            "id": "CE-CK-007",
+            "difficulty": "easy",
+            "question": "What is a Deployment?"
+        },
+        {
+            "id": "CE-CK-008",
+            "difficulty": "easy",
+            "question": "What is a Service in Kubernetes?"
+        },
+        {
+            "id": "CE-CK-009",
+            "difficulty": "easy",
+            "question": "What is container orchestration?"
+        },
+        {
+            "id": "CE-CK-010",
+            "difficulty": "easy",
+            "question": "What are the benefits of containers in cloud environments?"
+        },
+
+
+        {
+            "id": "CE-CK-011",
+            "difficulty": "medium",
+            "question": "Compare Docker and Kubernetes."
+        },
+        {
+            "id": "CE-CK-012",
+            "difficulty": "medium",
+            "question": "Explain the Kubernetes architecture."
+        },
+        {
+            "id": "CE-CK-013",
+            "difficulty": "medium",
+            "question": "What are ReplicaSets and why are they important?"
+        },
+        {
+            "id": "CE-CK-014",
+            "difficulty": "medium",
+            "question": "How does Kubernetes perform service discovery?"
+        },
+        {
+            "id": "CE-CK-015",
+            "difficulty": "medium",
+            "question": "Explain rolling updates and rollbacks in Kubernetes."
+        },
+        {
+            "id": "CE-CK-016",
+            "difficulty": "medium",
+            "question": "How would you persist data in Kubernetes?"
+        },
+        {
+            "id": "CE-CK-017",
+            "difficulty": "medium",
+            "question": "Explain Kubernetes ConfigMaps and Secrets."
+        },
+        {
+            "id": "CE-CK-018",
+            "difficulty": "medium",
+            "question": "How would you monitor Kubernetes clusters?"
+        },
+        {
+            "id": "CE-CK-019",
+            "difficulty": "medium",
+            "question": "How would you secure containerized workloads?"
+        },
+        {
+            "id": "CE-CK-020",
+            "difficulty": "medium",
+            "question": "Compare managed Kubernetes services such as EKS, AKS, and GKE."
+        },
+
+
+        {
+            "id": "CE-CK-021",
+            "difficulty": "hard",
+            "question": "Design a Kubernetes architecture for a global enterprise."
+        },
+        {
+            "id": "CE-CK-022",
+            "difficulty": "hard",
+            "question": "How would you design a highly available Kubernetes cluster?"
+        },
+        {
+            "id": "CE-CK-023",
+            "difficulty": "hard",
+            "question": "Explain Kubernetes networking in detail."
+        },
+        {
+            "id": "CE-CK-024",
+            "difficulty": "hard",
+            "question": "How would you optimize Kubernetes resource utilization?"
+        },
+        {
+            "id": "CE-CK-025",
+            "difficulty": "hard",
+            "question": "Design a secure container platform for enterprise workloads."
+        },
+        {
+            "id": "CE-CK-026",
+            "difficulty": "hard",
+            "question": "Explain GitOps and its relationship with Kubernetes."
+        },
+        {
+            "id": "CE-CK-027",
+            "difficulty": "hard",
+            "question": "How would you troubleshoot Kubernetes cluster failures?"
+        },
+        {
+            "id": "CE-CK-028",
+            "difficulty": "hard",
+            "question": "Explain strategies for multi-cluster Kubernetes deployments."
+        },
+        {
+            "id": "CE-CK-029",
+            "difficulty": "hard",
+            "question": "How would you design Kubernetes for disaster recovery?"
+        },
+        {
+            "id": "CE-CK-030",
+            "difficulty": "hard",
+            "question": "Design an enterprise Kubernetes platform balancing scalability, security, observability, cost, and reliability."
+        },
+
+        
+        {
+            "id": "CE-CK-S031",
+            "difficulty": "scenario",
+            "question": "A Kubernetes cluster experiences repeated pod crashes. Explain your troubleshooting process."
+        },
+        {
+            "id": "CE-CK-S032",
+            "difficulty": "scenario",
+            "question": "An application running in Kubernetes cannot communicate with another service. Explain how you would investigate."
+        },
+        {
+            "id": "CE-CK-S033",
+            "difficulty": "scenario",
+            "question": "A company wants to migrate hundreds of Docker containers into Kubernetes. Explain your migration strategy."
+        },
+        {
+            "id": "CE-CK-S034",
+            "difficulty": "scenario",
+            "question": "A production deployment introduces critical bugs. Explain how Kubernetes rollback features help."
+        },
+        {
+            "id": "CE-CK-S035",
+            "difficulty": "scenario",
+            "question": "A multinational company wants Kubernetes clusters deployed across several regions. Explain your architecture."
+        },
+        {
+            "id": "CE-CK-S036",
+            "difficulty": "scenario",
+            "question": "A compliance audit requires strict isolation between workloads running on the same Kubernetes cluster. Explain your design."
+        },
+        {
+            "id": "CE-CK-S037",
+            "difficulty": "scenario",
+            "question": "A Kubernetes cluster experiences resource exhaustion during peak traffic. Explain how you would respond."
+        },
+        {
+            "id": "CE-CK-S038",
+            "difficulty": "scenario",
+            "question": "Your organization wants a GitOps-based deployment pipeline for Kubernetes. Explain your implementation strategy."
+        },
+        {
+            "id": "CE-CK-S039",
+            "difficulty": "scenario",
+            "question": "A critical Kubernetes cluster becomes unavailable after a control plane failure. Explain your disaster recovery approach."
+        },
+        {
+            "id": "CE-CK-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing a Kubernetes platform for a global enterprise. Explain how you would architect container orchestration, networking, security, monitoring, scalability, disaster recovery, GitOps, and long-term operations."
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "google_cloud_platform": [
+        {
+            "id": "CE-GCP-001",
+            "difficulty": "easy",
+            "question": "What is Google Cloud Platform (GCP)?"
+        },
+        {
+            "id": "CE-GCP-002",
+            "difficulty": "easy",
+            "question": "What is Google Compute Engine?"
+        },
+        {
+            "id": "CE-GCP-003",
+            "difficulty": "easy",
+            "question": "What is Google Cloud Storage?"
+        },
+        {
+            "id": "CE-GCP-004",
+            "difficulty": "easy",
+            "question": "What is Google Kubernetes Engine (GKE)?"
+        },
+        {
+            "id": "CE-GCP-005",
+            "difficulty": "easy",
+            "question": "What is Cloud Run?"
+        },
+        {
+            "id": "CE-GCP-006",
+            "difficulty": "easy",
+            "question": "What is Cloud Functions?"
+        },
+        {
+            "id": "CE-GCP-007",
+            "difficulty": "easy",
+            "question": "What is a Virtual Private Cloud (VPC) in GCP?"
+        },
+        {
+            "id": "CE-GCP-008",
+            "difficulty": "easy",
+            "question": "What is Cloud SQL?"
+        },
+        {
+            "id": "CE-GCP-009",
+            "difficulty": "easy",
+            "question": "What is Cloud Monitoring?"
+        },
+        {
+            "id": "CE-GCP-010",
+            "difficulty": "easy",
+            "question": "What is Identity and Access Management (IAM) in GCP?"
+        },
+
+
+        {
+            "id": "CE-GCP-011",
+            "difficulty": "medium",
+            "question": "Compare Compute Engine, Cloud Run, and Cloud Functions."
+        },
+        {
+            "id": "CE-GCP-012",
+            "difficulty": "medium",
+            "question": "How would you choose between Cloud Storage, Persistent Disk, and Filestore?"
+        },
+        {
+            "id": "CE-GCP-013",
+            "difficulty": "medium",
+            "question": "Explain how GKE simplifies Kubernetes management."
+        },
+        {
+            "id": "CE-GCP-014",
+            "difficulty": "medium",
+            "question": "How do GCP Regions and Zones differ?"
+        },
+        {
+            "id": "CE-GCP-015",
+            "difficulty": "medium",
+            "question": "Explain the role of Cloud Load Balancing in GCP."
+        },
+        {
+            "id": "CE-GCP-016",
+            "difficulty": "medium",
+            "question": "How would you secure Google Cloud resources using IAM?"
+        },
+        {
+            "id": "CE-GCP-017",
+            "difficulty": "medium",
+            "question": "Compare Cloud SQL with self-managed databases on Compute Engine."
+        },
+        {
+            "id": "CE-GCP-018",
+            "difficulty": "medium",
+            "question": "How do Cloud Monitoring and Cloud Logging work together?"
+        },
+        {
+            "id": "CE-GCP-019",
+            "difficulty": "medium",
+            "question": "How does Cloud CDN improve application performance?"
+        },
+        {
+            "id": "CE-GCP-020",
+            "difficulty": "medium",
+            "question": "Explain Google's global networking infrastructure and its advantages."
+        },
+
+
+        {
+            "id": "CE-GCP-021",
+            "difficulty": "hard",
+            "question": "Design a highly available application architecture using Google Cloud services."
+        },
+        {
+            "id": "CE-GCP-022",
+            "difficulty": "hard",
+            "question": "How would you architect a multi-region deployment on GCP?"
+        },
+        {
+            "id": "CE-GCP-023",
+            "difficulty": "hard",
+            "question": "Compare Compute Engine, GKE, Cloud Run, and Cloud Functions for different application workloads."
+        },
+        {
+            "id": "CE-GCP-024",
+            "difficulty": "hard",
+            "question": "How would you optimize GCP infrastructure costs while maintaining reliability?"
+        },
+        {
+            "id": "CE-GCP-025",
+            "difficulty": "hard",
+            "question": "Design a secure GCP networking architecture using VPCs, firewall rules, and private connectivity."
+        },
+        {
+            "id": "CE-GCP-026",
+            "difficulty": "hard",
+            "question": "Describe Google's Site Reliability Engineering principles and how they influence cloud architecture."
+        },
+        {
+            "id": "CE-GCP-027",
+            "difficulty": "hard",
+            "question": "How would you migrate a legacy application from on-premises infrastructure to GCP?"
+        },
+        {
+            "id": "CE-GCP-028",
+            "difficulty": "hard",
+            "question": "Design an enterprise monitoring and observability solution using Google Cloud services."
+        },
+        {
+            "id": "CE-GCP-029",
+            "difficulty": "hard",
+            "question": "Explain Google's Well-Architected Framework and its design principles."
+        },
+        {
+            "id": "CE-GCP-030",
+            "difficulty": "hard",
+            "question": "Explain how GCP services collectively support scalability, resilience, security, governance, and operational excellence."
+        },
+
+        
+        {
+            "id": "CE-GCP-S031",
+            "difficulty": "scenario",
+            "question": "A company wants to modernize its infrastructure using Google Cloud while minimizing operational overhead. Describe your proposed architecture."
+        },
+        {
+            "id": "CE-GCP-S032",
+            "difficulty": "scenario",
+            "question": "A global application experiences high latency for users in multiple continents. Explain how you would redesign the GCP deployment."
+        },
+        {
+            "id": "CE-GCP-S033",
+            "difficulty": "scenario",
+            "question": "A startup expects unpredictable traffic growth and wants to minimize infrastructure management. Explain which GCP services you would recommend."
+        },
+        {
+            "id": "CE-GCP-S034",
+            "difficulty": "scenario",
+            "question": "Your organization's monthly Google Cloud costs have increased significantly. Walk me through your investigation and optimization strategy."
+        },
+        {
+            "id": "CE-GCP-S035",
+            "difficulty": "scenario",
+            "question": "A security audit discovers excessive IAM permissions across multiple projects. Explain how you would remediate the issue."
+        },
+        {
+            "id": "CE-GCP-S036",
+            "difficulty": "scenario",
+            "question": "A production Kubernetes cluster experiences unexpected failures. Explain how you would investigate and recover the environment."
+        },
+        {
+            "id": "CE-GCP-S037",
+            "difficulty": "scenario",
+            "question": "A healthcare company needs to deploy regulated workloads on GCP while maintaining strict compliance requirements. Describe your design."
+        },
+        {
+            "id": "CE-GCP-S038",
+            "difficulty": "scenario",
+            "question": "A multinational enterprise wants centralized monitoring and logging across hundreds of Google Cloud projects. Explain your approach."
+        },
+        {
+            "id": "CE-GCP-S039",
+            "difficulty": "scenario",
+            "question": "Your company needs to migrate a mission-critical application to GCP with near-zero downtime. Walk me through your migration strategy."
+        },
+        {
+            "id": "CE-GCP-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing Google Cloud infrastructure for a global organization. Explain how you would architect networking, compute, storage, Kubernetes, monitoring, security, disaster recovery, and cost optimization."
+        }
+    ]
+}

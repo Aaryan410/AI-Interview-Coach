@@ -1,0 +1,210 @@
+{
+    "azure_core_services": [
+        {
+            "id": "CE-AZ-001",
+            "difficulty": "easy",
+            "question": "What is Microsoft Azure?"
+        },
+        {
+            "id": "CE-AZ-002",
+            "difficulty": "easy",
+            "question": "What is Azure Virtual Machines?"
+        },
+        {
+            "id": "CE-AZ-003",
+            "difficulty": "easy",
+            "question": "What is Azure Blob Storage?"
+        },
+        {
+            "id": "CE-AZ-004",
+            "difficulty": "easy",
+            "question": "What is Azure App Service?"
+        },
+        {
+            "id": "CE-AZ-005",
+            "difficulty": "easy",
+            "question": "What is Azure Functions?"
+        },
+        {
+            "id": "CE-AZ-006",
+            "difficulty": "easy",
+            "question": "What is Azure Virtual Network (VNet)?"
+        },
+        {
+            "id": "CE-AZ-007",
+            "difficulty": "easy",
+            "question": "What is Azure SQL Database?"
+        },
+        {
+            "id": "CE-AZ-008",
+            "difficulty": "easy",
+            "question": "What is Azure Active Directory (Microsoft Entra ID)?"
+        },
+        {
+            "id": "CE-AZ-009",
+            "difficulty": "easy",
+            "question": "What is Azure Monitor?"
+        },
+        {
+            "id": "CE-AZ-010",
+            "difficulty": "easy",
+            "question": "What are Azure Resource Groups?"
+        },
+
+
+        {
+            "id": "CE-AZ-011",
+            "difficulty": "medium",
+            "question": "Compare Azure Virtual Machines and Azure App Service."
+        },
+        {
+            "id": "CE-AZ-012",
+            "difficulty": "medium",
+            "question": "How would you choose between Azure Blob Storage and Azure Files?"
+        },
+        {
+            "id": "CE-AZ-013",
+            "difficulty": "medium",
+            "question": "Explain the role of Azure Availability Zones."
+        },
+        {
+            "id": "CE-AZ-014",
+            "difficulty": "medium",
+            "question": "How does Azure Load Balancer improve application availability?"
+        },
+        {
+            "id": "CE-AZ-015",
+            "difficulty": "medium",
+            "question": "Describe how Azure Resource Manager (ARM) manages cloud resources."
+        },
+        {
+            "id": "CE-AZ-016",
+            "difficulty": "medium",
+            "question": "How would you implement secure authentication using Microsoft Entra ID?"
+        },
+        {
+            "id": "CE-AZ-017",
+            "difficulty": "medium",
+            "question": "Explain how Azure Monitor and Log Analytics work together."
+        },
+        {
+            "id": "CE-AZ-018",
+            "difficulty": "medium",
+            "question": "Compare Azure SQL Database with SQL Server running on Azure Virtual Machines."
+        },
+        {
+            "id": "CE-AZ-019",
+            "difficulty": "medium",
+            "question": "How does Azure Backup contribute to business continuity?"
+        },
+        {
+            "id": "CE-AZ-020",
+            "difficulty": "medium",
+            "question": "Describe Azure Availability Sets and when they should be used."
+        },
+
+
+        {
+            "id": "CE-AZ-021",
+            "difficulty": "hard",
+            "question": "Design a highly available web application using Azure core services."
+        },
+        {
+            "id": "CE-AZ-022",
+            "difficulty": "hard",
+            "question": "How would you design a multi-region Azure architecture for disaster recovery?"
+        },
+        {
+            "id": "CE-AZ-023",
+            "difficulty": "hard",
+            "question": "Compare Azure Virtual Machines, Azure Kubernetes Service (AKS), Azure Functions, and Azure Container Apps."
+        },
+        {
+            "id": "CE-AZ-024",
+            "difficulty": "hard",
+            "question": "How would you optimize Azure infrastructure costs while maintaining performance?"
+        },
+        {
+            "id": "CE-AZ-025",
+            "difficulty": "hard",
+            "question": "Design a secure Azure networking architecture using VNets, subnets, Network Security Groups, and Azure Firewall."
+        },
+        {
+            "id": "CE-AZ-026",
+            "difficulty": "hard",
+            "question": "Explain Microsoft's Cloud Adoption Framework and how it influences Azure architecture."
+        },
+        {
+            "id": "CE-AZ-027",
+            "difficulty": "hard",
+            "question": "Describe best practices for designing enterprise-scale Azure environments."
+        },
+        {
+            "id": "CE-AZ-028",
+            "difficulty": "hard",
+            "question": "How would you migrate a legacy enterprise application to Azure?"
+        },
+        {
+            "id": "CE-AZ-029",
+            "difficulty": "hard",
+            "question": "Design a monitoring strategy using Azure Monitor, Application Insights, and Log Analytics."
+        },
+        {
+            "id": "CE-AZ-030",
+            "difficulty": "hard",
+            "question": "Explain how Azure services collectively support scalability, security, reliability, governance, and operational excellence."
+        },
+
+        
+        {
+            "id": "CE-AZ-S031",
+            "difficulty": "scenario",
+            "question": "A company wants to migrate its Microsoft-based infrastructure to Azure with minimal downtime. Explain your migration strategy."
+        },
+        {
+            "id": "CE-AZ-S032",
+            "difficulty": "scenario",
+            "question": "A web application hosted on Azure experiences unpredictable traffic spikes. Describe how you would redesign the architecture."
+        },
+        {
+            "id": "CE-AZ-S033",
+            "difficulty": "scenario",
+            "question": "Your Azure subscription contains multiple development, testing, and production environments. Explain how you would organize resources securely."
+        },
+        {
+            "id": "CE-AZ-S034",
+            "difficulty": "scenario",
+            "question": "A multinational organization requires identity management across thousands of employees. Explain how Microsoft Entra ID would be used."
+        },
+        {
+            "id": "CE-AZ-S035",
+            "difficulty": "scenario",
+            "question": "Your Azure costs increase significantly over three months. Walk me through your investigation and optimization strategy."
+        },
+        {
+            "id": "CE-AZ-S036",
+            "difficulty": "scenario",
+            "question": "A production application becomes unavailable after an Azure regional outage. Explain how your architecture would recover."
+        },
+        {
+            "id": "CE-AZ-S037",
+            "difficulty": "scenario",
+            "question": "An enterprise requires centralized monitoring for hundreds of Azure resources. Describe your monitoring architecture."
+        },
+        {
+            "id": "CE-AZ-S038",
+            "difficulty": "scenario",
+            "question": "A healthcare organization needs to deploy sensitive workloads on Azure while maintaining regulatory compliance. Explain your design."
+        },
+        {
+            "id": "CE-AZ-S039",
+            "difficulty": "scenario",
+            "question": "Your company wants to modernize a monolithic application using Azure-native services. Explain your migration approach."
+        },
+        {
+            "id": "CE-AZ-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing Azure infrastructure for a global enterprise. Explain how you would architect networking, compute, storage, identity, monitoring, disaster recovery, governance, and cost optimization."
+        }
+    ]
+}

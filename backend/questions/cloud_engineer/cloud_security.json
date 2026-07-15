@@ -1,0 +1,210 @@
+{
+    "cloud_security": [
+        {
+            "id": "CE-CS-001",
+            "difficulty": "easy",
+            "question": "Why is security important in cloud computing?"
+        },
+        {
+            "id": "CE-CS-002",
+            "difficulty": "easy",
+            "question": "What is the Shared Responsibility Model?"
+        },
+        {
+            "id": "CE-CS-003",
+            "difficulty": "easy",
+            "question": "What is encryption at rest?"
+        },
+        {
+            "id": "CE-CS-004",
+            "difficulty": "easy",
+            "question": "What is encryption in transit?"
+        },
+        {
+            "id": "CE-CS-005",
+            "difficulty": "easy",
+            "question": "What is a security group?"
+        },
+        {
+            "id": "CE-CS-006",
+            "difficulty": "easy",
+            "question": "What is a network access control list (ACL)?"
+        },
+        {
+            "id": "CE-CS-007",
+            "difficulty": "easy",
+            "question": "What is a firewall?"
+        },
+        {
+            "id": "CE-CS-008",
+            "difficulty": "easy",
+            "question": "What is a Web Application Firewall (WAF)?"
+        },
+        {
+            "id": "CE-CS-009",
+            "difficulty": "easy",
+            "question": "What is a DDoS attack?"
+        },
+        {
+            "id": "CE-CS-010",
+            "difficulty": "easy",
+            "question": "What is a Key Management Service (KMS)?"
+        },
+
+
+        {
+            "id": "CE-CS-011",
+            "difficulty": "medium",
+            "question": "Explain the Shared Responsibility Model using AWS, Azure, or GCP as an example."
+        },
+        {
+            "id": "CE-CS-012",
+            "difficulty": "medium",
+            "question": "Compare security groups and network ACLs."
+        },
+        {
+            "id": "CE-CS-013",
+            "difficulty": "medium",
+            "question": "How would you secure a publicly accessible web application in the cloud?"
+        },
+        {
+            "id": "CE-CS-014",
+            "difficulty": "medium",
+            "question": "How does encryption protect cloud workloads?"
+        },
+        {
+            "id": "CE-CS-015",
+            "difficulty": "medium",
+            "question": "Explain how cloud providers protect customer data."
+        },
+        {
+            "id": "CE-CS-016",
+            "difficulty": "medium",
+            "question": "How would you implement defense in depth in a cloud environment?"
+        },
+        {
+            "id": "CE-CS-017",
+            "difficulty": "medium",
+            "question": "How would you securely manage encryption keys?"
+        },
+        {
+            "id": "CE-CS-018",
+            "difficulty": "medium",
+            "question": "Explain the role of vulnerability scanning in cloud security."
+        },
+        {
+            "id": "CE-CS-019",
+            "difficulty": "medium",
+            "question": "How would you secure cloud storage against unauthorized access?"
+        },
+        {
+            "id": "CE-CS-020",
+            "difficulty": "medium",
+            "question": "Explain Zero Trust security in cloud computing."
+        },
+
+
+        {
+            "id": "CE-CS-021",
+            "difficulty": "hard",
+            "question": "Design a security architecture for a multi-cloud enterprise."
+        },
+        {
+            "id": "CE-CS-022",
+            "difficulty": "hard",
+            "question": "How would you implement Zero Trust across cloud infrastructure?"
+        },
+        {
+            "id": "CE-CS-023",
+            "difficulty": "hard",
+            "question": "Design a cloud security strategy balancing compliance, usability, and operational efficiency."
+        },
+        {
+            "id": "CE-CS-024",
+            "difficulty": "hard",
+            "question": "How would you detect and respond to security incidents in the cloud?"
+        },
+        {
+            "id": "CE-CS-025",
+            "difficulty": "hard",
+            "question": "Explain strategies for protecting sensitive workloads against insider threats."
+        },
+        {
+            "id": "CE-CS-026",
+            "difficulty": "hard",
+            "question": "How would you secure Kubernetes workloads running in a cloud environment?"
+        },
+        {
+            "id": "CE-CS-027",
+            "difficulty": "hard",
+            "question": "Describe cloud-native security best practices."
+        },
+        {
+            "id": "CE-CS-028",
+            "difficulty": "hard",
+            "question": "How would you design cloud security monitoring and incident response?"
+        },
+        {
+            "id": "CE-CS-029",
+            "difficulty": "hard",
+            "question": "How would you prepare a cloud environment for compliance audits?"
+        },
+        {
+            "id": "CE-CS-030",
+            "difficulty": "hard",
+            "question": "Design a complete cloud security framework for a global enterprise."
+        },
+
+        
+        {
+            "id": "CE-CS-S031",
+            "difficulty": "scenario",
+            "question": "A cloud storage bucket containing sensitive customer information is accidentally made public. Walk me through your incident response."
+        },
+        {
+            "id": "CE-CS-S032",
+            "difficulty": "scenario",
+            "question": "A company experiences a ransomware attack affecting cloud workloads. Explain your response strategy."
+        },
+        {
+            "id": "CE-CS-S033",
+            "difficulty": "scenario",
+            "question": "A penetration test discovers multiple overly permissive firewall rules. Explain how you would remediate them."
+        },
+        {
+            "id": "CE-CS-S034",
+            "difficulty": "scenario",
+            "question": "A multinational enterprise must comply with GDPR, HIPAA, and ISO 27001. Explain how you would design the cloud security architecture."
+        },
+        {
+            "id": "CE-CS-S035",
+            "difficulty": "scenario",
+            "question": "An attacker launches a large-scale DDoS attack against your production environment. Explain how cloud-native security services can mitigate the attack."
+        },
+        {
+            "id": "CE-CS-S036",
+            "difficulty": "scenario",
+            "question": "A security audit reveals that several cloud workloads are not encrypted. Explain your remediation plan."
+        },
+        {
+            "id": "CE-CS-S037",
+            "difficulty": "scenario",
+            "question": "Your organization wants to implement Zero Trust across all cloud services. Describe your implementation roadmap."
+        },
+        {
+            "id": "CE-CS-S038",
+            "difficulty": "scenario",
+            "question": "A privileged employee is suspected of abusing cloud permissions. Explain how you would investigate."
+        },
+        {
+            "id": "CE-CS-S039",
+            "difficulty": "scenario",
+            "question": "A new application handling financial transactions is about to be deployed. Explain how you would perform a cloud security review before production."
+        },
+        {
+            "id": "CE-CS-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Security Engineer responsible for securing a global cloud platform. Explain how you would design identity protection, network security, encryption, monitoring, incident response, compliance, governance, and continuous improvement."
+        }
+    ]
+}

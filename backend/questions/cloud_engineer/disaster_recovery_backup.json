@@ -1,0 +1,210 @@
+{
+    "disaster_recovery_backup": [
+        {
+            "id": "CE-DR-001",
+            "difficulty": "easy",
+            "question": "What is disaster recovery (DR)?"
+        },
+        {
+            "id": "CE-DR-002",
+            "difficulty": "easy",
+            "question": "What is a backup?"
+        },
+        {
+            "id": "CE-DR-003",
+            "difficulty": "easy",
+            "question": "What is the difference between backup and disaster recovery?"
+        },
+        {
+            "id": "CE-DR-004",
+            "difficulty": "easy",
+            "question": "What is Recovery Point Objective (RPO)?"
+        },
+        {
+            "id": "CE-DR-005",
+            "difficulty": "easy",
+            "question": "What is Recovery Time Objective (RTO)?"
+        },
+        {
+            "id": "CE-DR-006",
+            "difficulty": "easy",
+            "question": "What is business continuity?"
+        },
+        {
+            "id": "CE-DR-007",
+            "difficulty": "easy",
+            "question": "Why are backups important in cloud environments?"
+        },
+        {
+            "id": "CE-DR-008",
+            "difficulty": "easy",
+            "question": "What is geo-redundancy?"
+        },
+        {
+            "id": "CE-DR-009",
+            "difficulty": "easy",
+            "question": "What is data replication?"
+        },
+        {
+            "id": "CE-DR-010",
+            "difficulty": "easy",
+            "question": "What are the common disaster recovery strategies used in cloud computing?"
+        },
+
+
+        {
+            "id": "CE-DR-011",
+            "difficulty": "medium",
+            "question": "Compare backup strategies such as full, incremental, and differential backups."
+        },
+        {
+            "id": "CE-DR-012",
+            "difficulty": "medium",
+            "question": "How do RPO and RTO influence disaster recovery planning?"
+        },
+        {
+            "id": "CE-DR-013",
+            "difficulty": "medium",
+            "question": "Explain pilot light, warm standby, and active-active disaster recovery architectures."
+        },
+        {
+            "id": "CE-DR-014",
+            "difficulty": "medium",
+            "question": "How would you design automated backup policies for cloud workloads?"
+        },
+        {
+            "id": "CE-DR-015",
+            "difficulty": "medium",
+            "question": "Why should disaster recovery plans be tested regularly?"
+        },
+        {
+            "id": "CE-DR-016",
+            "difficulty": "medium",
+            "question": "How does cross-region replication improve resilience?"
+        },
+        {
+            "id": "CE-DR-017",
+            "difficulty": "medium",
+            "question": "How would you prioritize applications during disaster recovery?"
+        },
+        {
+            "id": "CE-DR-018",
+            "difficulty": "medium",
+            "question": "How would you design disaster recovery for cloud databases?"
+        },
+        {
+            "id": "CE-DR-019",
+            "difficulty": "medium",
+            "question": "Explain backup encryption and why it is important."
+        },
+        {
+            "id": "CE-DR-020",
+            "difficulty": "medium",
+            "question": "Describe best practices for long-term backup retention."
+        },
+
+
+        {
+            "id": "CE-DR-021",
+            "difficulty": "hard",
+            "question": "Design a disaster recovery strategy for a global cloud-native application."
+        },
+        {
+            "id": "CE-DR-022",
+            "difficulty": "hard",
+            "question": "How would you balance disaster recovery costs with business requirements?"
+        },
+        {
+            "id": "CE-DR-023",
+            "difficulty": "hard",
+            "question": "Explain how multi-region cloud deployments improve disaster recovery."
+        },
+        {
+            "id": "CE-DR-024",
+            "difficulty": "hard",
+            "question": "Design an enterprise backup strategy for petabytes of cloud data."
+        },
+        {
+            "id": "CE-DR-025",
+            "difficulty": "hard",
+            "question": "How would you validate that disaster recovery plans will succeed during a real outage?"
+        },
+        {
+            "id": "CE-DR-026",
+            "difficulty": "hard",
+            "question": "Explain disaster recovery considerations for Kubernetes-based applications."
+        },
+        {
+            "id": "CE-DR-027",
+            "difficulty": "hard",
+            "question": "How would you design disaster recovery for a multi-cloud environment?"
+        },
+        {
+            "id": "CE-DR-028",
+            "difficulty": "hard",
+            "question": "How would you recover from a complete cloud region failure?"
+        },
+        {
+            "id": "CE-DR-029",
+            "difficulty": "hard",
+            "question": "Describe strategies for minimizing downtime during disaster recovery."
+        },
+        {
+            "id": "CE-DR-030",
+            "difficulty": "hard",
+            "question": "Design an enterprise disaster recovery framework balancing availability, resilience, security, compliance, and cost."
+        },
+
+        
+        {
+            "id": "CE-DR-S031",
+            "difficulty": "scenario",
+            "question": "A production cloud region becomes completely unavailable. Walk me through your disaster recovery process."
+        },
+        {
+            "id": "CE-DR-S032",
+            "difficulty": "scenario",
+            "question": "A ransomware attack encrypts production databases. Explain your recovery strategy."
+        },
+        {
+            "id": "CE-DR-S033",
+            "difficulty": "scenario",
+            "question": "A company accidentally deletes critical cloud resources. Explain how backups should be used for recovery."
+        },
+        {
+            "id": "CE-DR-S034",
+            "difficulty": "scenario",
+            "question": "Your organization requires an RPO of five minutes and an RTO of fifteen minutes. Explain how you would design the disaster recovery architecture."
+        },
+        {
+            "id": "CE-DR-S035",
+            "difficulty": "scenario",
+            "question": "A multinational enterprise must continue operating despite an outage affecting an entire continent. Explain your recovery design."
+        },
+        {
+            "id": "CE-DR-S036",
+            "difficulty": "scenario",
+            "question": "A compliance audit requires proof that backups can be successfully restored. Explain how you would demonstrate this."
+        },
+        {
+            "id": "CE-DR-S037",
+            "difficulty": "scenario",
+            "question": "A cloud migration introduces concerns about disaster recovery readiness. Describe how you would validate the migration before production."
+        },
+        {
+            "id": "CE-DR-S038",
+            "difficulty": "scenario",
+            "question": "A critical application cannot tolerate more than one minute of downtime. Explain your disaster recovery approach."
+        },
+        {
+            "id": "CE-DR-S039",
+            "difficulty": "scenario",
+            "question": "A company wants to reduce backup costs while maintaining compliance requirements. Explain your optimization strategy."
+        },
+        {
+            "id": "CE-DR-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for disaster recovery across a global enterprise. Explain how you would design backup strategies, replication, failover, recovery testing, monitoring, governance, and continuous improvement."
+        }
+    ]
+}

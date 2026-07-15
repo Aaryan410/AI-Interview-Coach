@@ -1,0 +1,210 @@
+{
+    "monitoring_logging": [
+        {
+            "id": "CE-ML-001",
+            "difficulty": "easy",
+            "question": "Why is monitoring important in cloud computing?"
+        },
+        {
+            "id": "CE-ML-002",
+            "difficulty": "easy",
+            "question": "What is logging?"
+        },
+        {
+            "id": "CE-ML-003",
+            "difficulty": "easy",
+            "question": "What is observability?"
+        },
+        {
+            "id": "CE-ML-004",
+            "difficulty": "easy",
+            "question": "What is a metric?"
+        },
+        {
+            "id": "CE-ML-005",
+            "difficulty": "easy",
+            "question": "What is an alert?"
+        },
+        {
+            "id": "CE-ML-006",
+            "difficulty": "easy",
+            "question": "What is distributed tracing?"
+        },
+        {
+            "id": "CE-ML-007",
+            "difficulty": "easy",
+            "question": "What is log aggregation?"
+        },
+        {
+            "id": "CE-ML-008",
+            "difficulty": "easy",
+            "question": "What are dashboards used for?"
+        },
+        {
+            "id": "CE-ML-009",
+            "difficulty": "easy",
+            "question": "What is the purpose of health checks?"
+        },
+        {
+            "id": "CE-ML-010",
+            "difficulty": "easy",
+            "question": "Name some cloud monitoring services provided by AWS, Azure, and GCP."
+        },
+
+
+        {
+            "id": "CE-ML-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between monitoring, logging, and observability."
+        },
+        {
+            "id": "CE-ML-012",
+            "difficulty": "medium",
+            "question": "How would you design an alerting strategy for production systems?"
+        },
+        {
+            "id": "CE-ML-013",
+            "difficulty": "medium",
+            "question": "How do metrics, logs, and traces work together during troubleshooting?"
+        },
+        {
+            "id": "CE-ML-014",
+            "difficulty": "medium",
+            "question": "How would you reduce alert fatigue?"
+        },
+        {
+            "id": "CE-ML-015",
+            "difficulty": "medium",
+            "question": "Explain the RED and USE monitoring methodologies."
+        },
+        {
+            "id": "CE-ML-016",
+            "difficulty": "medium",
+            "question": "How would you monitor a Kubernetes cluster running production workloads?"
+        },
+        {
+            "id": "CE-ML-017",
+            "difficulty": "medium",
+            "question": "What key metrics would you monitor for a web application?"
+        },
+        {
+            "id": "CE-ML-018",
+            "difficulty": "medium",
+            "question": "How would you centralize logs across hundreds of cloud services?"
+        },
+        {
+            "id": "CE-ML-019",
+            "difficulty": "medium",
+            "question": "Explain Service Level Indicators (SLIs), Service Level Objectives (SLOs), and Service Level Agreements (SLAs)."
+        },
+        {
+            "id": "CE-ML-020",
+            "difficulty": "medium",
+            "question": "How would you investigate an increase in application latency using monitoring tools?"
+        },
+
+
+        {
+            "id": "CE-ML-021",
+            "difficulty": "hard",
+            "question": "Design an observability platform for a global cloud-native application."
+        },
+        {
+            "id": "CE-ML-022",
+            "difficulty": "hard",
+            "question": "How would you build a monitoring architecture for thousands of cloud resources?"
+        },
+        {
+            "id": "CE-ML-023",
+            "difficulty": "hard",
+            "question": "Explain strategies for monitoring multi-cloud environments."
+        },
+        {
+            "id": "CE-ML-024",
+            "difficulty": "hard",
+            "question": "How would you identify performance bottlenecks using logs, metrics, and traces?"
+        },
+        {
+            "id": "CE-ML-025",
+            "difficulty": "hard",
+            "question": "Design an automated incident detection and response pipeline."
+        },
+        {
+            "id": "CE-ML-026",
+            "difficulty": "hard",
+            "question": "How would you monitor serverless workloads at scale?"
+        },
+        {
+            "id": "CE-ML-027",
+            "difficulty": "hard",
+            "question": "How would you ensure monitoring systems remain reliable during large-scale outages?"
+        },
+        {
+            "id": "CE-ML-028",
+            "difficulty": "hard",
+            "question": "Explain how AI and machine learning can improve cloud observability."
+        },
+        {
+            "id": "CE-ML-029",
+            "difficulty": "hard",
+            "question": "How would you design monitoring that satisfies regulatory compliance and auditing requirements?"
+        },
+        {
+            "id": "CE-ML-030",
+            "difficulty": "hard",
+            "question": "Design an enterprise monitoring strategy balancing reliability, scalability, cost, and operational efficiency."
+        },
+
+        
+        {
+            "id": "CE-ML-S031",
+            "difficulty": "scenario",
+            "question": "A production application suddenly experiences high latency. Explain how you would use monitoring data to identify the root cause."
+        },
+        {
+            "id": "CE-ML-S032",
+            "difficulty": "scenario",
+            "question": "Your operations team receives thousands of alerts every day, many of which are false positives. Explain how you would improve the alerting strategy."
+        },
+        {
+            "id": "CE-ML-S033",
+            "difficulty": "scenario",
+            "question": "A cloud service crashes intermittently, but logs appear normal. Explain how you would investigate using observability tools."
+        },
+        {
+            "id": "CE-ML-S034",
+            "difficulty": "scenario",
+            "question": "A multinational enterprise wants centralized monitoring across AWS, Azure, and GCP. Describe your architecture."
+        },
+        {
+            "id": "CE-ML-S035",
+            "difficulty": "scenario",
+            "question": "A critical service exceeds its Service Level Objective. Explain how you would investigate and respond."
+        },
+        {
+            "id": "CE-ML-S036",
+            "difficulty": "scenario",
+            "question": "Your Kubernetes cluster experiences intermittent pod failures. Walk me through your monitoring and troubleshooting process."
+        },
+        {
+            "id": "CE-ML-S037",
+            "difficulty": "scenario",
+            "question": "A compliance audit requires one year of searchable logs with strict access controls. Explain your logging strategy."
+        },
+        {
+            "id": "CE-ML-S038",
+            "difficulty": "scenario",
+            "question": "An application experiences performance degradation after a deployment. Explain how monitoring tools would help isolate the issue."
+        },
+        {
+            "id": "CE-ML-S039",
+            "difficulty": "scenario",
+            "question": "A cloud-native application serves millions of requests per minute. Explain how you would design monitoring that remains scalable and cost-effective."
+        },
+        {
+            "id": "CE-ML-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for monitoring a global cloud platform. Explain how you would design observability, alerting, logging, tracing, dashboards, incident response, and continuous service improvement."
+        }
+    ]
+}

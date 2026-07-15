@@ -1,0 +1,210 @@
+{
+    "networking_cloud": [
+        {
+            "id": "CE-NET-001",
+            "difficulty": "easy",
+            "question": "Why is networking important in cloud computing?"
+        },
+        {
+            "id": "CE-NET-002",
+            "difficulty": "easy",
+            "question": "What is a Virtual Private Cloud (VPC)?"
+        },
+        {
+            "id": "CE-NET-003",
+            "difficulty": "easy",
+            "question": "What is a subnet?"
+        },
+        {
+            "id": "CE-NET-004",
+            "difficulty": "easy",
+            "question": "What is the difference between a public subnet and a private subnet?"
+        },
+        {
+            "id": "CE-NET-005",
+            "difficulty": "easy",
+            "question": "What is an Internet Gateway?"
+        },
+        {
+            "id": "CE-NET-006",
+            "difficulty": "easy",
+            "question": "What is a NAT Gateway?"
+        },
+        {
+            "id": "CE-NET-007",
+            "difficulty": "easy",
+            "question": "What is a route table?"
+        },
+        {
+            "id": "CE-NET-008",
+            "difficulty": "easy",
+            "question": "What is DNS?"
+        },
+        {
+            "id": "CE-NET-009",
+            "difficulty": "easy",
+            "question": "What is a CDN?"
+        },
+        {
+            "id": "CE-NET-010",
+            "difficulty": "easy",
+            "question": "What is a VPN?"
+        },
+
+
+        {
+            "id": "CE-NET-011",
+            "difficulty": "medium",
+            "question": "Explain how a request from a user reaches a cloud-hosted application."
+        },
+        {
+            "id": "CE-NET-012",
+            "difficulty": "medium",
+            "question": "How do VPCs improve cloud security?"
+        },
+        {
+            "id": "CE-NET-013",
+            "difficulty": "medium",
+            "question": "Compare Internet Gateways and NAT Gateways."
+        },
+        {
+            "id": "CE-NET-014",
+            "difficulty": "medium",
+            "question": "How would you design networking for a three-tier cloud application?"
+        },
+        {
+            "id": "CE-NET-015",
+            "difficulty": "medium",
+            "question": "Explain how DNS and load balancers work together."
+        },
+        {
+            "id": "CE-NET-016",
+            "difficulty": "medium",
+            "question": "Describe how CDN services reduce latency."
+        },
+        {
+            "id": "CE-NET-017",
+            "difficulty": "medium",
+            "question": "How would you securely connect an on-premises data center to a cloud environment?"
+        },
+        {
+            "id": "CE-NET-018",
+            "difficulty": "medium",
+            "question": "Explain the purpose of private IP addresses and public IP addresses in cloud networking."
+        },
+        {
+            "id": "CE-NET-019",
+            "difficulty": "medium",
+            "question": "Compare VPNs and dedicated private connectivity solutions such as Direct Connect or ExpressRoute."
+        },
+        {
+            "id": "CE-NET-020",
+            "difficulty": "medium",
+            "question": "Explain how network segmentation improves security."
+        },
+
+
+        {
+            "id": "CE-NET-021",
+            "difficulty": "hard",
+            "question": "Design a secure multi-tier cloud network for a global enterprise."
+        },
+        {
+            "id": "CE-NET-022",
+            "difficulty": "hard",
+            "question": "How would you design cloud networking for high availability across multiple regions?"
+        },
+        {
+            "id": "CE-NET-023",
+            "difficulty": "hard",
+            "question": "Design a hybrid networking architecture connecting multiple cloud providers with on-premises infrastructure."
+        },
+        {
+            "id": "CE-NET-024",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between centralized and distributed networking architectures."
+        },
+        {
+            "id": "CE-NET-025",
+            "difficulty": "hard",
+            "question": "How would you optimize cloud networking for both security and low latency?"
+        },
+        {
+            "id": "CE-NET-026",
+            "difficulty": "hard",
+            "question": "Describe strategies for designing fault-tolerant cloud networking."
+        },
+        {
+            "id": "CE-NET-027",
+            "difficulty": "hard",
+            "question": "How would you troubleshoot intermittent connectivity issues across multiple cloud regions?"
+        },
+        {
+            "id": "CE-NET-028",
+            "difficulty": "hard",
+            "question": "Explain how software-defined networking (SDN) changes cloud networking."
+        },
+        {
+            "id": "CE-NET-029",
+            "difficulty": "hard",
+            "question": "How would you secure east-west traffic within a cloud environment?"
+        },
+        {
+            "id": "CE-NET-030",
+            "difficulty": "hard",
+            "question": "Design a cloud networking strategy balancing security, scalability, performance, and cost."
+        },
+
+        
+        {
+            "id": "CE-NET-S031",
+            "difficulty": "scenario",
+            "question": "Users from Asia experience significantly higher latency than users from Europe. Explain how you would investigate and improve the network architecture."
+        },
+        {
+            "id": "CE-NET-S032",
+            "difficulty": "scenario",
+            "question": "A cloud-hosted application must securely communicate with an on-premises database. Describe your networking solution."
+        },
+        {
+            "id": "CE-NET-S033",
+            "difficulty": "scenario",
+            "question": "An organization wants all production databases to remain inaccessible from the public internet. Explain your network design."
+        },
+        {
+            "id": "CE-NET-S034",
+            "difficulty": "scenario",
+            "question": "A company experiences a distributed denial-of-service (DDoS) attack. Explain how cloud networking services can help mitigate the attack."
+        },
+        {
+            "id": "CE-NET-S035",
+            "difficulty": "scenario",
+            "question": "Your application requires communication between workloads deployed across AWS and Azure. Explain how you would design the network."
+        },
+        {
+            "id": "CE-NET-S036",
+            "difficulty": "scenario",
+            "question": "An organization expands into five new geographic regions. Describe how you would redesign the cloud network to maintain performance and availability."
+        },
+        {
+            "id": "CE-NET-S037",
+            "difficulty": "scenario",
+            "question": "An enterprise requires complete network isolation between development, testing, and production environments. Explain your design."
+        },
+        {
+            "id": "CE-NET-S038",
+            "difficulty": "scenario",
+            "question": "Your cloud application experiences intermittent DNS failures. Walk me through your troubleshooting process."
+        },
+        {
+            "id": "CE-NET-S039",
+            "difficulty": "scenario",
+            "question": "A multinational company requires secure connectivity between dozens of branch offices and multiple cloud providers. Explain your architecture."
+        },
+        {
+            "id": "CE-NET-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing networking for a global enterprise. Explain how you would architect VPCs, subnets, routing, DNS, CDN, connectivity, security, redundancy, and global traffic management."
+        }
+    ]
+}

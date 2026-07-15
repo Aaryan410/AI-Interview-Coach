@@ -1,0 +1,133 @@
+{
+    "behavioral": [
+        {
+            "id": "CE-B-001",
+            "difficulty": "easy",
+            "question": "Tell me about yourself."
+        },
+        {
+            "id": "CE-B-002",
+            "difficulty": "easy",
+            "question": "Why do you want to become a Cloud Engineer?"
+        },
+        {
+            "id": "CE-B-003",
+            "difficulty": "easy",
+            "question": "Why are you interested in our company?"
+        },
+        {
+            "id": "CE-B-004",
+            "difficulty": "easy",
+            "question": "Tell me about a time you learned a new cloud technology quickly."
+        },
+        {
+            "id": "CE-B-005",
+            "difficulty": "easy",
+            "question": "Describe a project you're most proud of."
+        },
+        {
+            "id": "CE-B-006",
+            "difficulty": "easy",
+            "question": "How do you stay up to date with cloud technologies?"
+        },
+        {
+            "id": "CE-B-007",
+            "difficulty": "easy",
+            "question": "Describe your ideal work environment."
+        },
+        {
+            "id": "CE-B-008",
+            "difficulty": "easy",
+            "question": "What are your greatest strengths?"
+        },
+        {
+            "id": "CE-B-009",
+            "difficulty": "easy",
+            "question": "What is one area you're currently improving?"
+        },
+        {
+            "id": "CE-B-010",
+            "difficulty": "easy",
+            "question": "Where do you see yourself in five years?"
+        },
+
+
+        {
+            "id": "CE-B-011",
+            "difficulty": "medium",
+            "question": "Tell me about a time you solved a difficult production problem."
+        },
+        {
+            "id": "CE-B-012",
+            "difficulty": "medium",
+            "question": "Describe a situation where you had to make a difficult technical decision."
+        },
+        {
+            "id": "CE-B-013",
+            "difficulty": "medium",
+            "question": "Tell me about a time you disagreed with a teammate. How did you handle it?"
+        },
+        {
+            "id": "CE-B-014",
+            "difficulty": "medium",
+            "question": "Describe a situation where you had to learn a completely new technology under a tight deadline."
+        },
+        {
+            "id": "CE-B-015",
+            "difficulty": "medium",
+            "question": "Tell me about a cloud migration that didn't go as planned. What did you learn?"
+        },
+        {
+            "id": "CE-B-016",
+            "difficulty": "medium",
+            "question": "Describe a situation where you improved reliability or reduced downtime."
+        },
+        {
+            "id": "CE-B-017",
+            "difficulty": "medium",
+            "question": "Tell me about a time you optimized cloud costs."
+        },
+        {
+            "id": "CE-B-018",
+            "difficulty": "medium",
+            "question": "Describe a time when you worked under significant operational pressure."
+        },
+        {
+            "id": "CE-B-019",
+            "difficulty": "medium",
+            "question": "Tell me about a mistake you made in production and how you handled it."
+        },
+        {
+            "id": "CE-B-020",
+            "difficulty": "medium",
+            "question": "Describe a situation where automation significantly improved your workflow."
+        },
+
+        
+        {
+            "id": "CE-B-S021",
+            "difficulty": "scenario",
+            "question": "Imagine a production outage occurs at 2 AM while you're on call. Explain exactly how you would respond, communicate with stakeholders, and restore service."
+        },
+        {
+            "id": "CE-B-S022",
+            "difficulty": "scenario",
+            "question": "Your manager asks you to migrate a business-critical application to the cloud in half the estimated time. How would you respond?"
+        },
+        {
+            "id": "CE-B-S023",
+            "difficulty": "scenario",
+            "question": "A teammate repeatedly bypasses Infrastructure as Code processes and makes manual production changes. How would you handle the situation?"
+        },
+        {
+            "id": "CE-B-S024",
+            "difficulty": "scenario",
+            "question": "Senior leadership wants to reduce cloud costs immediately, while engineering prioritizes performance. Explain how you would balance both goals."
+        },
+        {
+            "id": "CE-B-S025",
+            "difficulty": "scenario",
+            "question": "You are leading a global cloud modernization initiative involving multiple teams, tight deadlines, and millions of users. Explain how you would coordinate communication, prioritize work, manage risks, and ensure a successful delivery."
+        }
+    ]
+}

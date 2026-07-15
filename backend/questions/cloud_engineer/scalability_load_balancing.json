@@ -1,0 +1,210 @@
+{
+    "scalability_load_balancing": [
+        {
+            "id": "CE-SLB-001",
+            "difficulty": "easy",
+            "question": "What is scalability?"
+        },
+        {
+            "id": "CE-SLB-002",
+            "difficulty": "easy",
+            "question": "What is horizontal scaling?"
+        },
+        {
+            "id": "CE-SLB-003",
+            "difficulty": "easy",
+            "question": "What is vertical scaling?"
+        },
+        {
+            "id": "CE-SLB-004",
+            "difficulty": "easy",
+            "question": "What is load balancing?"
+        },
+        {
+            "id": "CE-SLB-005",
+            "difficulty": "easy",
+            "question": "Why are load balancers important in cloud computing?"
+        },
+        {
+            "id": "CE-SLB-006",
+            "difficulty": "easy",
+            "question": "What is Auto Scaling?"
+        },
+        {
+            "id": "CE-SLB-007",
+            "difficulty": "easy",
+            "question": "What is high availability?"
+        },
+        {
+            "id": "CE-SLB-008",
+            "difficulty": "easy",
+            "question": "What is fault tolerance?"
+        },
+        {
+            "id": "CE-SLB-009",
+            "difficulty": "easy",
+            "question": "What is session stickiness?"
+        },
+        {
+            "id": "CE-SLB-010",
+            "difficulty": "easy",
+            "question": "Name some common load balancing algorithms."
+        },
+
+
+        {
+            "id": "CE-SLB-011",
+            "difficulty": "medium",
+            "question": "Compare horizontal scaling and vertical scaling."
+        },
+        {
+            "id": "CE-SLB-012",
+            "difficulty": "medium",
+            "question": "How does Auto Scaling work with load balancers?"
+        },
+        {
+            "id": "CE-SLB-013",
+            "difficulty": "medium",
+            "question": "Explain round robin, least connections, and weighted load balancing."
+        },
+        {
+            "id": "CE-SLB-014",
+            "difficulty": "medium",
+            "question": "How would you design a highly available web application?"
+        },
+        {
+            "id": "CE-SLB-015",
+            "difficulty": "medium",
+            "question": "Explain health checks in load balancing."
+        },
+        {
+            "id": "CE-SLB-016",
+            "difficulty": "medium",
+            "question": "How would you scale a stateless application?"
+        },
+        {
+            "id": "CE-SLB-017",
+            "difficulty": "medium",
+            "question": "How would you scale a stateful application?"
+        },
+        {
+            "id": "CE-SLB-018",
+            "difficulty": "medium",
+            "question": "How do CDNs complement load balancing?"
+        },
+        {
+            "id": "CE-SLB-019",
+            "difficulty": "medium",
+            "question": "How would you handle sudden traffic spikes?"
+        },
+        {
+            "id": "CE-SLB-020",
+            "difficulty": "medium",
+            "question": "Explain global load balancing."
+        },
+
+
+        {
+            "id": "CE-SLB-021",
+            "difficulty": "hard",
+            "question": "Design a globally distributed application capable of serving hundreds of millions of users."
+        },
+        {
+            "id": "CE-SLB-022",
+            "difficulty": "hard",
+            "question": "How would you design a multi-region highly available architecture?"
+        },
+        {
+            "id": "CE-SLB-023",
+            "difficulty": "hard",
+            "question": "Explain strategies for scaling distributed databases."
+        },
+        {
+            "id": "CE-SLB-024",
+            "difficulty": "hard",
+            "question": "How would you design Auto Scaling policies for unpredictable workloads?"
+        },
+        {
+            "id": "CE-SLB-025",
+            "difficulty": "hard",
+            "question": "Explain how CAP theorem influences scalable cloud architectures."
+        },
+        {
+            "id": "CE-SLB-026",
+            "difficulty": "hard",
+            "question": "Design a resilient traffic management architecture."
+        },
+        {
+            "id": "CE-SLB-027",
+            "difficulty": "hard",
+            "question": "How would you minimize downtime during large-scale traffic surges?"
+        },
+        {
+            "id": "CE-SLB-028",
+            "difficulty": "hard",
+            "question": "Explain active-active versus active-passive architectures."
+        },
+        {
+            "id": "CE-SLB-029",
+            "difficulty": "hard",
+            "question": "How would you optimize scalability while minimizing infrastructure costs?"
+        },
+        {
+            "id": "CE-SLB-030",
+            "difficulty": "hard",
+            "question": "Design a scalable cloud platform balancing performance, availability, resilience, and cost."
+        },
+
+        
+        {
+            "id": "CE-SLB-S031",
+            "difficulty": "scenario",
+            "question": "A company's website crashes every Black Friday due to traffic spikes. Explain how you would redesign the architecture."
+        },
+        {
+            "id": "CE-SLB-S032",
+            "difficulty": "scenario",
+            "question": "Users from Asia experience significantly higher latency than users in North America. Explain how you would improve the architecture."
+        },
+        {
+            "id": "CE-SLB-S033",
+            "difficulty": "scenario",
+            "question": "One server in a production cluster begins responding slowly. Explain how load balancing should respond."
+        },
+        {
+            "id": "CE-SLB-S034",
+            "difficulty": "scenario",
+            "question": "A startup expects user growth from one thousand to ten million users within a year. Explain your scalability strategy."
+        },
+        {
+            "id": "CE-SLB-S035",
+            "difficulty": "scenario",
+            "question": "An enterprise requires zero downtime during infrastructure maintenance. Explain your deployment strategy."
+        },
+        {
+            "id": "CE-SLB-S036",
+            "difficulty": "scenario",
+            "question": "A global application experiences regional outages several times a year. Explain how you would redesign the platform."
+        },
+        {
+            "id": "CE-SLB-S037",
+            "difficulty": "scenario",
+            "question": "Your application contains sticky user sessions that prevent effective horizontal scaling. Explain how you would solve the problem."
+        },
+        {
+            "id": "CE-SLB-S038",
+            "difficulty": "scenario",
+            "question": "Traffic suddenly increases by twenty times after a product launch. Walk me through your response."
+        },
+        {
+            "id": "CE-SLB-S039",
+            "difficulty": "scenario",
+            "question": "A multinational enterprise requires global traffic routing with automatic failover between regions. Explain your architecture."
+        },
+        {
+            "id": "CE-SLB-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing scalable infrastructure for a global enterprise. Explain how you would architect load balancing, auto scaling, traffic management, fault tolerance, high availability, disaster recovery integration, and long-term scalability."
+        }
+    ]
+}

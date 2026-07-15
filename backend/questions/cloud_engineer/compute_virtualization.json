@@ -1,0 +1,210 @@
+{
+    "compute_virtualization": [
+        {
+            "id": "CE-CV-001",
+            "difficulty": "easy",
+            "question": "What is virtualization?"
+        },
+        {
+            "id": "CE-CV-002",
+            "difficulty": "easy",
+            "question": "Why is virtualization important in cloud computing?"
+        },
+        {
+            "id": "CE-CV-003",
+            "difficulty": "easy",
+            "question": "What is a hypervisor?"
+        },
+        {
+            "id": "CE-CV-004",
+            "difficulty": "easy",
+            "question": "What is the difference between Type 1 and Type 2 hypervisors?"
+        },
+        {
+            "id": "CE-CV-005",
+            "difficulty": "easy",
+            "question": "What is a virtual machine?"
+        },
+        {
+            "id": "CE-CV-006",
+            "difficulty": "easy",
+            "question": "What is bare-metal infrastructure?"
+        },
+        {
+            "id": "CE-CV-007",
+            "difficulty": "easy",
+            "question": "What is live migration in virtualization?"
+        },
+        {
+            "id": "CE-CV-008",
+            "difficulty": "easy",
+            "question": "What is hardware virtualization?"
+        },
+        {
+            "id": "CE-CV-009",
+            "difficulty": "easy",
+            "question": "How are virtual machines different from containers?"
+        },
+        {
+            "id": "CE-CV-010",
+            "difficulty": "easy",
+            "question": "What are the advantages of virtual machines?"
+        },
+
+
+        {
+            "id": "CE-CV-011",
+            "difficulty": "medium",
+            "question": "Compare virtualization and containerization."
+        },
+        {
+            "id": "CE-CV-012",
+            "difficulty": "medium",
+            "question": "Explain how hypervisors allocate hardware resources."
+        },
+        {
+            "id": "CE-CV-013",
+            "difficulty": "medium",
+            "question": "When would you choose virtual machines instead of containers?"
+        },
+        {
+            "id": "CE-CV-014",
+            "difficulty": "medium",
+            "question": "Explain overcommitment in virtualization."
+        },
+        {
+            "id": "CE-CV-015",
+            "difficulty": "medium",
+            "question": "How does virtualization improve resource utilization?"
+        },
+        {
+            "id": "CE-CV-016",
+            "difficulty": "medium",
+            "question": "Describe snapshots and their use cases."
+        },
+        {
+            "id": "CE-CV-017",
+            "difficulty": "medium",
+            "question": "Explain VM templates and golden images."
+        },
+        {
+            "id": "CE-CV-018",
+            "difficulty": "medium",
+            "question": "How does auto scaling work with virtual machines?"
+        },
+        {
+            "id": "CE-CV-019",
+            "difficulty": "medium",
+            "question": "What factors affect virtual machine performance?"
+        },
+        {
+            "id": "CE-CV-020",
+            "difficulty": "medium",
+            "question": "Compare cloud virtual machines with dedicated physical servers."
+        },
+
+
+        {
+            "id": "CE-CV-021",
+            "difficulty": "hard",
+            "question": "Design a virtualization strategy for a large enterprise migrating from on-premises infrastructure."
+        },
+        {
+            "id": "CE-CV-022",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between bare-metal servers, virtual machines, and containers."
+        },
+        {
+            "id": "CE-CV-023",
+            "difficulty": "hard",
+            "question": "How would you optimize VM placement across multiple physical hosts?"
+        },
+        {
+            "id": "CE-CV-024",
+            "difficulty": "hard",
+            "question": "Describe strategies for achieving high availability in virtualized environments."
+        },
+        {
+            "id": "CE-CV-025",
+            "difficulty": "hard",
+            "question": "How would you troubleshoot poor virtual machine performance?"
+        },
+        {
+            "id": "CE-CV-026",
+            "difficulty": "hard",
+            "question": "Explain NUMA awareness and why it matters in virtualization."
+        },
+        {
+            "id": "CE-CV-027",
+            "difficulty": "hard",
+            "question": "How would you secure virtual machine workloads in a cloud environment?"
+        },
+        {
+            "id": "CE-CV-028",
+            "difficulty": "hard",
+            "question": "Design a virtualization platform supporting disaster recovery across multiple regions."
+        },
+        {
+            "id": "CE-CV-029",
+            "difficulty": "hard",
+            "question": "Explain how cloud providers achieve efficient virtualization at hyperscale."
+        },
+        {
+            "id": "CE-CV-030",
+            "difficulty": "hard",
+            "question": "Design a compute architecture balancing scalability, performance, cost, and reliability."
+        },
+
+        
+        {
+            "id": "CE-CV-S031",
+            "difficulty": "scenario",
+            "question": "A company wants to migrate 500 physical servers into the cloud. Explain how you would plan the virtualization strategy."
+        },
+        {
+            "id": "CE-CV-S032",
+            "difficulty": "scenario",
+            "question": "A production virtual machine experiences severe CPU contention. Walk me through your investigation."
+        },
+        {
+            "id": "CE-CV-S033",
+            "difficulty": "scenario",
+            "question": "A critical workload requires dedicated hardware due to licensing restrictions. Explain your recommendation."
+        },
+        {
+            "id": "CE-CV-S034",
+            "difficulty": "scenario",
+            "question": "Your organization wants to reduce infrastructure costs while maintaining performance. Explain how virtualization can help."
+        },
+        {
+            "id": "CE-CV-S035",
+            "difficulty": "scenario",
+            "question": "A virtual machine becomes corrupted after a failed update. Describe your recovery strategy."
+        },
+        {
+            "id": "CE-CV-S036",
+            "difficulty": "scenario",
+            "question": "An application experiences performance degradation after moving from bare-metal servers to virtual machines. Explain how you would investigate."
+        },
+        {
+            "id": "CE-CV-S037",
+            "difficulty": "scenario",
+            "question": "A company wants to migrate from virtual machines to containers for microservices. Explain your migration approach."
+        },
+        {
+            "id": "CE-CV-S038",
+            "difficulty": "scenario",
+            "question": "A cloud provider experiences hardware failures affecting multiple virtual machines. Explain how high availability mechanisms should respond."
+        },
+        {
+            "id": "CE-CV-S039",
+            "difficulty": "scenario",
+            "question": "Your organization must support legacy applications alongside cloud-native services. Explain how you would design the compute environment."
+        },
+        {
+            "id": "CE-CV-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing compute infrastructure for a global enterprise. Explain how you would architect virtualization, compute provisioning, scalability, resilience, performance optimization, and lifecycle management."
+        }
+    ]
+}

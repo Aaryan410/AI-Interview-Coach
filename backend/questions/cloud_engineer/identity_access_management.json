@@ -1,0 +1,210 @@
+{
+    "identity_access_management": [
+        {
+            "id": "CE-IAM-001",
+            "difficulty": "easy",
+            "question": "What is Identity and Access Management (IAM)?"
+        },
+        {
+            "id": "CE-IAM-002",
+            "difficulty": "easy",
+            "question": "Why is IAM important in cloud computing?"
+        },
+        {
+            "id": "CE-IAM-003",
+            "difficulty": "easy",
+            "question": "What is the principle of least privilege?"
+        },
+        {
+            "id": "CE-IAM-004",
+            "difficulty": "easy",
+            "question": "What is authentication?"
+        },
+        {
+            "id": "CE-IAM-005",
+            "difficulty": "easy",
+            "question": "What is authorization?"
+        },
+        {
+            "id": "CE-IAM-006",
+            "difficulty": "easy",
+            "question": "What is Multi-Factor Authentication (MFA)?"
+        },
+        {
+            "id": "CE-IAM-007",
+            "difficulty": "easy",
+            "question": "What are IAM users, groups, and roles?"
+        },
+        {
+            "id": "CE-IAM-008",
+            "difficulty": "easy",
+            "question": "What is a service account?"
+        },
+        {
+            "id": "CE-IAM-009",
+            "difficulty": "easy",
+            "question": "What is Single Sign-On (SSO)?"
+        },
+        {
+            "id": "CE-IAM-010",
+            "difficulty": "easy",
+            "question": "What is Role-Based Access Control (RBAC)?"
+        },
+
+
+        {
+            "id": "CE-IAM-011",
+            "difficulty": "medium",
+            "question": "Explain the difference between authentication and authorization."
+        },
+        {
+            "id": "CE-IAM-012",
+            "difficulty": "medium",
+            "question": "How would you design IAM permissions for a development team?"
+        },
+        {
+            "id": "CE-IAM-013",
+            "difficulty": "medium",
+            "question": "Explain the advantages of IAM roles over long-term access keys."
+        },
+        {
+            "id": "CE-IAM-014",
+            "difficulty": "medium",
+            "question": "How does RBAC improve security?"
+        },
+        {
+            "id": "CE-IAM-015",
+            "difficulty": "medium",
+            "question": "Describe how SSO improves enterprise identity management."
+        },
+        {
+            "id": "CE-IAM-016",
+            "difficulty": "medium",
+            "question": "How would you securely grant temporary access to cloud resources?"
+        },
+        {
+            "id": "CE-IAM-017",
+            "difficulty": "medium",
+            "question": "What are the security risks of excessive IAM permissions?"
+        },
+        {
+            "id": "CE-IAM-018",
+            "difficulty": "medium",
+            "question": "How would you audit IAM permissions across an organization?"
+        },
+        {
+            "id": "CE-IAM-019",
+            "difficulty": "medium",
+            "question": "Compare RBAC and Attribute-Based Access Control (ABAC)."
+        },
+        {
+            "id": "CE-IAM-020",
+            "difficulty": "medium",
+            "question": "How do IAM policies enforce access control?"
+        },
+
+
+        {
+            "id": "CE-IAM-021",
+            "difficulty": "hard",
+            "question": "Design an IAM architecture for a multinational enterprise."
+        },
+        {
+            "id": "CE-IAM-022",
+            "difficulty": "hard",
+            "question": "How would you implement Zero Trust principles using IAM?"
+        },
+        {
+            "id": "CE-IAM-023",
+            "difficulty": "hard",
+            "question": "Design a cross-account IAM strategy for multiple cloud environments."
+        },
+        {
+            "id": "CE-IAM-024",
+            "difficulty": "hard",
+            "question": "How would you balance security and developer productivity when designing IAM policies?"
+        },
+        {
+            "id": "CE-IAM-025",
+            "difficulty": "hard",
+            "question": "Describe strategies for detecting privilege escalation attempts."
+        },
+        {
+            "id": "CE-IAM-026",
+            "difficulty": "hard",
+            "question": "Explain how identity federation works across enterprise environments."
+        },
+        {
+            "id": "CE-IAM-027",
+            "difficulty": "hard",
+            "question": "How would you secure machine identities in cloud-native applications?"
+        },
+        {
+            "id": "CE-IAM-028",
+            "difficulty": "hard",
+            "question": "How would you design IAM for a multi-cloud architecture?"
+        },
+        {
+            "id": "CE-IAM-029",
+            "difficulty": "hard",
+            "question": "Explain how centralized identity management improves cloud governance."
+        },
+        {
+            "id": "CE-IAM-030",
+            "difficulty": "hard",
+            "question": "Design a complete enterprise IAM strategy covering users, services, applications, automation, auditing, and compliance."
+        },
+
+        
+        {
+            "id": "CE-IAM-S031",
+            "difficulty": "scenario",
+            "question": "A security audit discovers hundreds of users with administrator privileges. Explain how you would investigate and remediate the issue."
+        },
+        {
+            "id": "CE-IAM-S032",
+            "difficulty": "scenario",
+            "question": "An employee accidentally exposes long-term cloud credentials on a public GitHub repository. Walk me through your incident response."
+        },
+        {
+            "id": "CE-IAM-S033",
+            "difficulty": "scenario",
+            "question": "A contractor requires temporary access to production resources for one week. Explain how you would grant and revoke access securely."
+        },
+        {
+            "id": "CE-IAM-S034",
+            "difficulty": "scenario",
+            "question": "Your organization adopts a multi-cloud strategy across AWS, Azure, and GCP. Describe how you would unify identity management."
+        },
+        {
+            "id": "CE-IAM-S035",
+            "difficulty": "scenario",
+            "question": "A compliance audit requires proof that all cloud permissions follow the principle of least privilege. Explain your approach."
+        },
+        {
+            "id": "CE-IAM-S036",
+            "difficulty": "scenario",
+            "question": "A development team requests unrestricted administrator access because they believe it speeds up development. Explain how you would handle the request."
+        },
+        {
+            "id": "CE-IAM-S037",
+            "difficulty": "scenario",
+            "question": "A production application suddenly loses access to required cloud resources after an IAM policy update. Walk me through your troubleshooting process."
+        },
+        {
+            "id": "CE-IAM-S038",
+            "difficulty": "scenario",
+            "question": "An organization wants to eliminate long-term credentials entirely. Explain how you would redesign the authentication strategy."
+        },
+        {
+            "id": "CE-IAM-S039",
+            "difficulty": "scenario",
+            "question": "A merger combines two companies using different identity providers. Explain how you would integrate their IAM systems."
+        },
+        {
+            "id": "CE-IAM-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for securing identities across a global enterprise. Explain how you would design authentication, authorization, RBAC, federation, auditing, compliance, and Zero Trust access."
+        }
+    ]
+}

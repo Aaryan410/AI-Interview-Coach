@@ -1,0 +1,210 @@
+{
+    "storage_databases": [
+        {
+            "id": "CE-SD-001",
+            "difficulty": "easy",
+            "question": "What are the main storage options available in cloud computing?"
+        },
+        {
+            "id": "CE-SD-002",
+            "difficulty": "easy",
+            "question": "What is object storage?"
+        },
+        {
+            "id": "CE-SD-003",
+            "difficulty": "easy",
+            "question": "What is block storage?"
+        },
+        {
+            "id": "CE-SD-004",
+            "difficulty": "easy",
+            "question": "What is file storage?"
+        },
+        {
+            "id": "CE-SD-005",
+            "difficulty": "easy",
+            "question": "What is the difference between object, block, and file storage?"
+        },
+        {
+            "id": "CE-SD-006",
+            "difficulty": "easy",
+            "question": "What is a managed database service?"
+        },
+        {
+            "id": "CE-SD-007",
+            "difficulty": "easy",
+            "question": "What is the difference between SQL and NoSQL databases?"
+        },
+        {
+            "id": "CE-SD-008",
+            "difficulty": "easy",
+            "question": "What is data replication?"
+        },
+        {
+            "id": "CE-SD-009",
+            "difficulty": "easy",
+            "question": "What is data backup?"
+        },
+        {
+            "id": "CE-SD-010",
+            "difficulty": "easy",
+            "question": "What is data durability in cloud storage?"
+        },
+
+
+        {
+            "id": "CE-SD-011",
+            "difficulty": "medium",
+            "question": "When would you choose object storage instead of block storage?"
+        },
+        {
+            "id": "CE-SD-012",
+            "difficulty": "medium",
+            "question": "Compare managed databases with self-hosted databases."
+        },
+        {
+            "id": "CE-SD-013",
+            "difficulty": "medium",
+            "question": "How does cloud storage achieve high durability?"
+        },
+        {
+            "id": "CE-SD-014",
+            "difficulty": "medium",
+            "question": "How would you design a backup strategy for cloud databases?"
+        },
+        {
+            "id": "CE-SD-015",
+            "difficulty": "medium",
+            "question": "Explain read replicas and their use cases."
+        },
+        {
+            "id": "CE-SD-016",
+            "difficulty": "medium",
+            "question": "How would you choose between relational and NoSQL databases?"
+        },
+        {
+            "id": "CE-SD-017",
+            "difficulty": "medium",
+            "question": "Explain storage lifecycle management."
+        },
+        {
+            "id": "CE-SD-018",
+            "difficulty": "medium",
+            "question": "How would you optimize cloud storage costs?"
+        },
+        {
+            "id": "CE-SD-019",
+            "difficulty": "medium",
+            "question": "Explain database replication versus database sharding."
+        },
+        {
+            "id": "CE-SD-020",
+            "difficulty": "medium",
+            "question": "Describe strategies for encrypting data at rest and in transit."
+        },
+
+
+        {
+            "id": "CE-SD-021",
+            "difficulty": "hard",
+            "question": "Design a storage architecture for a globally distributed application."
+        },
+        {
+            "id": "CE-SD-022",
+            "difficulty": "hard",
+            "question": "How would you migrate petabytes of on-premises data to the cloud?"
+        },
+        {
+            "id": "CE-SD-023",
+            "difficulty": "hard",
+            "question": "Design a highly available database architecture for millions of users."
+        },
+        {
+            "id": "CE-SD-024",
+            "difficulty": "hard",
+            "question": "How would you balance storage performance, durability, and cost?"
+        },
+        {
+            "id": "CE-SD-025",
+            "difficulty": "hard",
+            "question": "Explain consistency models used by distributed cloud databases."
+        },
+        {
+            "id": "CE-SD-026",
+            "difficulty": "hard",
+            "question": "How would you design a disaster recovery solution for cloud databases?"
+        },
+        {
+            "id": "CE-SD-027",
+            "difficulty": "hard",
+            "question": "Explain strategies for scaling databases horizontally and vertically."
+        },
+        {
+            "id": "CE-SD-028",
+            "difficulty": "hard",
+            "question": "How would you secure sensitive enterprise data stored in the cloud?"
+        },
+        {
+            "id": "CE-SD-029",
+            "difficulty": "hard",
+            "question": "Design a storage architecture supporting compliance, auditing, and long-term archival."
+        },
+        {
+            "id": "CE-SD-030",
+            "difficulty": "hard",
+            "question": "Explain the trade-offs between performance, availability, consistency, and cost when designing cloud storage systems."
+        },
+        
+
+        {
+            "id": "CE-SD-S031",
+            "difficulty": "scenario",
+            "question": "A company needs to store billions of images while minimizing storage costs. Explain your storage strategy."
+        },
+        {
+            "id": "CE-SD-S032",
+            "difficulty": "scenario",
+            "question": "A production database begins experiencing heavy read traffic. Explain how you would improve performance."
+        },
+        {
+            "id": "CE-SD-S033",
+            "difficulty": "scenario",
+            "question": "Your organization must archive financial records for ten years while minimizing storage expenses. Explain your design."
+        },
+        {
+            "id": "CE-SD-S034",
+            "difficulty": "scenario",
+            "question": "A ransomware attack encrypts production databases. Walk me through your recovery strategy."
+        },
+        {
+            "id": "CE-SD-S035",
+            "difficulty": "scenario",
+            "question": "A multinational company requires data residency compliance across multiple countries. Explain your storage architecture."
+        },
+        {
+            "id": "CE-SD-S036",
+            "difficulty": "scenario",
+            "question": "Your application's storage costs have doubled over six months. Explain how you would investigate and optimize them."
+        },
+        {
+            "id": "CE-SD-S037",
+            "difficulty": "scenario",
+            "question": "A legacy on-premises database must be migrated to the cloud with minimal downtime. Explain your migration strategy."
+        },
+        {
+            "id": "CE-SD-S038",
+            "difficulty": "scenario",
+            "question": "A cloud database suffers a regional outage. Explain how your architecture would recover."
+        },
+        {
+            "id": "CE-SD-S039",
+            "difficulty": "scenario",
+            "question": "A startup expects rapid growth but has limited infrastructure resources. Explain how you would design the database architecture."
+        },
+        {
+            "id": "CE-SD-S040",
+            "difficulty": "scenario",
+            "question": "You are the lead Cloud Engineer responsible for designing enterprise storage and database infrastructure. Explain how you would architect storage tiers, databases, replication, backups, disaster recovery, security, and lifecycle management."
+        }
+    ]
+}

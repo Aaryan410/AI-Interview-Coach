@@ -12,9 +12,10 @@ print(text.rstrip())
 print(text1.rstrip())
 print('==========================================================================================')
 
-# Asking for roles and topics
+# Asking for roles, topics and no. of questions
 user_role = input("Role: ")
 user_topic = input("Topic: ")
+number_of_questions = int(input("Number of Questions: "))
 
 # Role and topics
 role_folder = user_role.replace(" ", "_").lower()
@@ -27,24 +28,30 @@ questions_data = database.load_questions(role_folder, topic_file)
 questions_list = questions_data[topic_file]
 
 # Question
-random_question_obj = random.choice(questions_list)
+selected_questions = random.sample(questions_list, number_of_questions)
 
+# Storing answers
+answers = []
 
 # Printing questions
 
-print('---------------------------------------')
-print()
-print(random_question_obj)
-print()
-print('---------------------------------------')
-print()
-print(random_question_obj["question"])
-print()
-print(random_question_obj["difficulty"])
-print()
-print('---------------------------------------')
-print()
+for question in selected_questions:
+    print('---------------------------------------')
+    print()
+    print(question["question"])
+    print()
+    print(question["difficulty"].title())
+    print()
+    print('---------------------------------------')
+    print('---------------------------------------')
+    print()
+    answer = input("Answer: ")
+    print()
+    answers.append(answer)
 
-answer = input("Answer: ")
+print("Interview Complete!")
+print(f"Questions Answered: {number_of_questions}")
+
+
 
 
