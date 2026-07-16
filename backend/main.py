@@ -12,39 +12,49 @@ print(text.rstrip())
 print(text1.rstrip())
 print('==========================================================================================')
 
-# Asking for roles, topics and no. of questions
+# Asking for roles, no. of questions and difficulty
 user_role = input("Role: ")
-user_topic = input("Topic: ")
+selected_difficulty = input("Difficulty: ")
 number_of_questions = int(input("Number of Questions: "))
 
 # Role and topics
 role_folder = user_role.replace(" ", "_").lower()
-topic_file = user_topic.replace(" ", "_").lower()
 
 # Accessing the Data
-questions_data = database.load_questions(role_folder, topic_file)
+questions = database.load_questions(role_folder)
 
-# Accessing the list inside the data
-questions_list = questions_data[topic_file]
+# Filtering questions by difficulty 
+filtered_questions = []
 
-# Question
-selected_questions = random.sample(questions_list, number_of_questions)
+for question in questions:
+    if question["difficulty"] == selected_difficulty:
+        filtered_questions.append(question)
+
+# Error handling
+if number_of_questions > len(filtered_questions):
+    print("Not enough questions available")
+    exit()
+
+# How many Questions?
+selected_questions = random.sample(filtered_questions, number_of_questions)
 
 # Storing answers
 answers = []
 
 # Printing questions
 
-for question in selected_questions:
-    print('---------------------------------------')
-    print()
+for index, question in enumerate(selected_questions, start = 1):
+
+    print('=' * 40)
+    print(f"Question {index}/{number_of_questions}")
+    print('=' * 40)
+
     print(question["question"])
     print()
-    print(question["difficulty"].title())
+
+    print("Difficulty:", question["difficulty"].title())
     print()
-    print('---------------------------------------')
-    print('---------------------------------------')
-    print()
+    
     answer = input("Answer: ")
     print()
     answers.append(answer)
